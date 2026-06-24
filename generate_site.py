@@ -253,7 +253,8 @@ def header_html(config):
 <a class="logo" href="index.html"><span class="mark">SP</span>{name}</a>
 <nav class="main">
 <a href="index.html">Home</a>
-<a href="best-guides.html">Best Guides</a>
+<a href="best-guides.html">Comparisons</a>
+<a href="guides.html">Guides</a>
 <a href="about.html">About</a>
 </nav></div></header>"""
 
@@ -443,6 +444,72 @@ def render_best_guides(roundups, config):
                       canonical=canonical, body=body, og_type="website")
 
 
+def guide_body(guide):
+    path = ROOT / "content" / "guides" / f"{guide['id']}.html"
+    return path.read_text(encoding="utf-8") if path.exists() else f"<p>{e(guide.get('summary',''))}</p>"
+
+
+def render_guide(guide, config, roundups, by_id):
+    gid = guide["id"]
+    canonical = f"{config['base_url'].rstrip('/')}/{gid}.html"
+    crumb = (f'<div class="crumb"><a href="index.html">Home</a> › '
+             f'<a href="guides.html">Guides</a> › {e(guide["title"])}</div>')
+    byline = ('<div class="byline"><span class="av">SP</span> By the Smart Picks editorial team · '
+              f'Updated {date.today().strftime("%B %Y")}</div>')
+    disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
+
+    # soft recommendation CTA to the related product
+    rec = ""
+    rp = by_id.get(guide.get("related_product_id"))
+    if rp:
+        rslug = slugify(rp["name"])
+        rec = (f'<div class="cta-box"><strong>Our top pick for this:</strong> '
+               f'{e(rp["name"])}<br><a class="btn" href="{e(rp["affiliate_url"])}" rel="nofollow sponsored" '
+               f'target="_blank">Check {e(rp["name"])} →</a> &nbsp; '
+               f'<a class="btn ghost" href="{rslug}.html">Read our full review</a></div>')
+
+    faqs = [(f["q"], f["a"]) for f in guide.get("faqs", [])]
+    body = (crumb + f'<h1>{e(guide["title"])}</h1>' + byline + disclosure
+            + f'<article>{guide_body(guide)}</article>' + rec + faq_html(faqs))
+
+    article_schema = {
+        "@context": "https://schema.org", "@type": "Article",
+        "headline": guide["title"], "description": guide.get("summary", ""),
+        "author": {"@type": "Organization", "name": config["site_name"]},
+        "publisher": {"@type": "Organization", "name": config["site_name"]},
+        "datePublished": guide.get("date", TODAY), "dateModified": TODAY, "url": canonical,
+    }
+    crumb_schema = {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": config["base_url"]},
+            {"@type": "ListItem", "position": 2, "name": "Guides",
+             "item": f"{config['base_url'].rstrip('/')}/guides.html"},
+            {"@type": "ListItem", "position": 3, "name": guide["title"], "item": canonical}],
+    }
+    title = f'{guide["title"]} | {config["site_name"]}'
+    return gid, page_shell(config, roundups, title=title, description=guide.get("summary", "")[:155],
+                           canonical=canonical, body=body,
+                           schema_objs=[article_schema, faq_schema(faqs), crumb_schema])
+
+
+def render_guides_index(guides, config, roundups):
+    canonical = f"{config['base_url'].rstrip('/')}/guides.html"
+    cards = "".join(
+        f'<div class="card"><h3><a href="{g["id"]}.html">{e(g["title"])}</a></h3>'
+        f'<p>{e(g.get("summary",""))}</p>'
+        f'<a class="btn ghost block" href="{g["id"]}.html">Read guide</a></div>' for g in guides)
+    body = ('<div class="crumb"><a href="index.html">Home</a> › Guides</div>'
+            '<h1>Guides &amp; How-Tos</h1>'
+            '<p style="font-size:19px;color:var(--muted)">Practical, plain-English answers to the questions '
+            'people actually ask &mdash; with our honest product picks where they help.</p>'
+            + (f'<div class="grid">{cards}</div>' if cards else
+               '<p style="color:var(--muted)">New guides are published regularly. Check back soon.</p>'))
+    return page_shell(config, roundups, title=f'Guides &amp; How-Tos | {config["site_name"]}',
+                      description="Practical how-to guides answering common questions, with honest product picks.",
+                      canonical=canonical, body=body, og_type="website")
+
+
 def render_about(config, roundups):
     canonical = f"{config['base_url'].rstrip('/')}/about.html"
     body = f"""<div class="crumb"><a href="index.html">Home</a> › About</div>
@@ -525,6 +592,7 @@ def main():
     config = load_json("config.json")
     products = load_json("products.json")
     roundups = load_json("roundups.json")
+    guides = load_json("guides.json") if (ROOT / "guides.json").exists() else []
     IMAGES = load_json("images.json") if (ROOT / "images.json").exists() else {}
     PUBLIC.mkdir(exist_ok=True)
 
@@ -547,11 +615,20 @@ def main():
         urls.append(f"{config['base_url'].rstrip('/')}/{r['id']}.html")
         print(f"  + {r['id']}.html (roundup)")
 
+    # informational guides (problem-first articles)
+    for g in guides:
+        gid, page = render_guide(g, config, roundups, by_id)
+        (PUBLIC / f"{gid}.html").write_text(page, encoding="utf-8")
+        urls.append(f"{config['base_url'].rstrip('/')}/{gid}.html")
+        print(f"  + {gid}.html (guide)")
+
     # static pages
     (PUBLIC / "best-guides.html").write_text(render_best_guides(roundups, config), encoding="utf-8")
+    (PUBLIC / "guides.html").write_text(render_guides_index(guides, config, roundups), encoding="utf-8")
     (PUBLIC / "about.html").write_text(render_about(config, roundups), encoding="utf-8")
     (PUBLIC / "index.html").write_text(render_index(products, config, roundups, by_id), encoding="utf-8")
     urls += [f"{config['base_url'].rstrip('/')}/best-guides.html",
+             f"{config['base_url'].rstrip('/')}/guides.html",
              f"{config['base_url'].rstrip('/')}/about.html"]
     print(f"  + index.html, best-guides.html, about.html  ({len(products)} products, {len(roundups)} guides)")
 
