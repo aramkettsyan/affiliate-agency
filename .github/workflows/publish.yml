@@ -2,12 +2,11 @@ name: Auto-publish & deploy affiliate site
 
 on:
   push:
-    branches: [main]          # deploy immediately on manual edits
+    branches: [main]          # deploy whenever the scheduled agent (or you) pushes
   workflow_dispatch:          # run on demand from the Actions tab
-  schedule:                   # ~3 publishes/day (sustainable pace Google rewards)
-    - cron: "0 8 * * *"       # 08:00 UTC
-    - cron: "0 14 * * *"      # 14:00 UTC
-    - cron: "0 20 * * *"      # 20:00 UTC
+# NOTE: publishing/scheduling is handled by the local Claude scheduled agent
+# "affiliate-auto-publish" (runs 3x/day, harvests + publishes + pushes).
+# GitHub Actions here only BUILDS & DEPLOYS what gets pushed — no cron publishing.
 
 permissions:
   contents: write             # allow committing newly published products back
