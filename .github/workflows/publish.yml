@@ -31,9 +31,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Publish queued products (only runs work on scheduled/dispatch events;
-      # on plain pushes the queue step is harmless — it just publishes 0 if empty).
+      # Publish queued products ONLY on scheduled/manual runs — never on plain
+      # pushes (so manual edits just rebuild/deploy and can't race the bot's commits).
       - name: Publish from queue
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python publish_from_queue.py
 
       - name: Generate site (rebuild all SEO + sitemap)
