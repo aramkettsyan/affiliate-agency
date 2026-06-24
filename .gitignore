@@ -8,3 +8,8 @@ public/*.html
 public/sitemap.xml
 public/robots.txt
 public/.nojekyll
+
+# secrets — never commit
+.env
+.env.local
+secrets.local
