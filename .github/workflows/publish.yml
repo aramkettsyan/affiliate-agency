@@ -1,16 +1,22 @@
-name: Build and publish affiliate site
+name: Auto-publish & deploy affiliate site
 
 on:
   push:
-    branches: [main]        # deploy on every change you push
-  workflow_dispatch:        # lets you run it manually from the Actions tab
-  schedule:
-    - cron: "0 9 * * *"     # every day at 09:00 UTC — fully automated rebuild
+    branches: [main]          # deploy immediately on manual edits
+  workflow_dispatch:          # run on demand from the Actions tab
+  schedule:                   # ~3 publishes/day (sustainable pace Google rewards)
+    - cron: "0 8 * * *"       # 08:00 UTC
+    - cron: "0 14 * * *"      # 14:00 UTC
+    - cron: "0 20 * * *"      # 20:00 UTC
 
 permissions:
-  contents: read
+  contents: write             # allow committing newly published products back
   pages: write
   id-token: write
+
+concurrency:
+  group: publish-deploy
+  cancel-in-progress: false
 
 jobs:
   build-deploy:
@@ -25,14 +31,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Only needed if you set "use_llm": true in config.json
-      - name: Install optional AI deps
-        run: pip install anthropic || true
+      # Publish queued products (only runs work on scheduled/dispatch events;
+      # on plain pushes the queue step is harmless — it just publishes 0 if empty).
+      - name: Publish from queue
+        run: python publish_from_queue.py
 
-      - name: Generate static site
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Generate site (rebuild all SEO + sitemap)
         run: python generate_site.py
+
+      - name: Commit newly published products back
+        run: |
+          git config user.name "smart-picks-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-publish queued products + rebuild [skip ci]"
+            git push
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:

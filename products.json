@@ -8,7 +8,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=tedsplans",
     "sales_page": "https://tedsplans.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 82.5, "epc": 0.29, "avg_per_sale": 66.47, "commission": "up to 75%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 82.5,
+      "epc": 0.29,
+      "avg_per_sale": 66.47,
+      "commission": "up to 75%",
+      "approval_required": false
+    },
     "pros": [
       "16,000+ ready-made woodworking plans with step-by-step diagrams",
       "Evergreen, beginner-friendly niche with a large audience",
@@ -22,7 +28,12 @@
     ],
     "summary": "A large digital library of woodworking plans aimed at hobbyists who want clear, step-by-step blueprints for furniture, sheds, and DIY projects.",
     "best_for": "DIY and woodworking hobbyists who want ready-to-build plans instead of designing from scratch",
-    "keywords": ["best woodworking plans", "diy woodworking projects", "woodworking plans for beginners", "tedswoodworking review"]
+    "keywords": [
+      "best woodworking plans",
+      "diy woodworking projects",
+      "woodworking plans for beginners",
+      "tedswoodworking review"
+    ]
   },
   {
     "id": "prodentim",
@@ -33,7 +44,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=prodentim",
     "sales_page": "https://prodentim.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 93.6, "epc": 1.39, "avg_per_sale": 157.59, "cvr": "0.92%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 93.6,
+      "epc": 1.39,
+      "avg_per_sale": 157.59,
+      "cvr": "0.92%",
+      "approval_required": false
+    },
     "pros": [
       "One of the top-converting offers in the dental niche",
       "Probiotic chewable format (easy to take)",
@@ -47,7 +64,12 @@
     ],
     "summary": "An oral-health probiotic supplement marketed for supporting teeth and gum health. Popular, high-converting offer in the dental category.",
     "best_for": "people interested in oral-health supplements who prefer a chewable probiotic",
-    "keywords": ["prodentim review", "dental probiotic supplement", "supplement for teeth and gums", "best oral health supplement"]
+    "keywords": [
+      "prodentim review",
+      "dental probiotic supplement",
+      "supplement for teeth and gums",
+      "best oral health supplement"
+    ]
   },
   {
     "id": "joint-genesis",
@@ -58,7 +80,12 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=jointgen",
     "sales_page": "https://jointgen.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 80.7, "epc": 0.11, "avg_per_sale": 153.02, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 80.7,
+      "epc": 0.11,
+      "avg_per_sale": 153.02,
+      "approval_required": false
+    },
     "pros": [
       "Established offer in the large joint-health market (40+ audience)",
       "High average order value per sale",
@@ -72,7 +99,12 @@
     ],
     "summary": "A joint-support supplement marketed toward older adults looking to support mobility and joint comfort.",
     "best_for": "an audience of adults 40+ interested in joint comfort and mobility",
-    "keywords": ["joint genesis review", "joint supplement for mobility", "best supplement for joints", "joint health support"]
+    "keywords": [
+      "joint genesis review",
+      "joint supplement for mobility",
+      "best supplement for joints",
+      "joint health support"
+    ]
   },
   {
     "id": "gluco6",
@@ -83,7 +115,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=gluco6",
     "sales_page": "https://gluco6.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 53.3, "epc": 0.38, "avg_per_sale": 142.08, "cvr": "0.25%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 53.3,
+      "epc": 0.38,
+      "avg_per_sale": 142.08,
+      "cvr": "0.25%",
+      "approval_required": false
+    },
     "pros": [
       "Large, evergreen blood-sugar / metabolic-health niche",
       "High average order value per conversion",
@@ -97,7 +135,12 @@
     ],
     "summary": "A blood-sugar / metabolic-support supplement aimed at adults interested in healthy glucose levels and energy.",
     "best_for": "adults interested in metabolic and healthy blood-sugar support supplements",
-    "keywords": ["gluco6 review", "blood sugar support supplement", "supplement for healthy glucose", "metabolic health supplement"]
+    "keywords": [
+      "gluco6 review",
+      "blood sugar support supplement",
+      "supplement for healthy glucose",
+      "metabolic health supplement"
+    ]
   },
   {
     "id": "audifort",
@@ -108,7 +151,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=audifort",
     "sales_page": "https://audifort.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 58.8, "epc": 0.66, "avg_per_sale": 156.25, "cvr": "0.41%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 58.8,
+      "epc": 0.66,
+      "avg_per_sale": 156.25,
+      "cvr": "0.41%",
+      "approval_required": false
+    },
     "pros": [
       "Liquid-dropper format in the growing hearing-support niche",
       "High average order value = strong commission per sale",
@@ -122,7 +171,12 @@
     ],
     "summary": "A liquid supplement marketed for supporting hearing and cognitive sharpness in older adults.",
     "best_for": "older adults interested in hearing- and brain-support supplements",
-    "keywords": ["audifort review", "hearing support supplement", "supplement for hearing health", "brain and hearing drops"]
+    "keywords": [
+      "audifort review",
+      "hearing support supplement",
+      "supplement for hearing health",
+      "brain and hearing drops"
+    ]
   },
   {
     "id": "moon-reading",
@@ -133,7 +187,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=thoughtop",
     "sales_page": "https://thoughtop.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 61.5, "epc": 0.22, "avg_per_sale": 28.51, "cvr": "0.98%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 61.5,
+      "epc": 0.22,
+      "avg_per_sale": 28.51,
+      "cvr": "0.98%",
+      "approval_required": false
+    },
     "pros": [
       "Low-priced, easy-yes offer (good entry conversions)",
       "Trends well on social platforms (TikTok/IG audiences)",
@@ -147,7 +207,12 @@
     ],
     "summary": "A personalized astrology 'moon reading' that generates an interactive video based on the user's birth details. A low-ticket, mass-appeal offer that converts well from social traffic.",
     "best_for": "an astrology- and self-discovery-curious audience, especially from social media",
-    "keywords": ["moon reading review", "personalized astrology reading", "free moon reading", "birth chart reading online"]
+    "keywords": [
+      "moon reading review",
+      "personalized astrology reading",
+      "free moon reading",
+      "birth chart reading online"
+    ]
   },
   {
     "id": "energy-revolution-system",
@@ -158,7 +223,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=enrev",
     "sales_page": "https://enrev.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 137.0, "epc": 0.75, "avg_per_sale": 48.74, "cvr": "1.55%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 137.0,
+      "epc": 0.75,
+      "avg_per_sale": 48.74,
+      "cvr": "1.55%",
+      "approval_required": false
+    },
     "pros": [
       "Strong conversion rate (1.55%) and EPC for a low-ticket offer",
       "Evergreen DIY / energy-savings niche that's easy to write about",
@@ -172,7 +243,12 @@
     ],
     "summary": "A DIY guide marketed around building a low-cost home power / energy-savings system. Strong converter in the green-living and preparedness space.",
     "best_for": "DIY, off-grid, and energy-savings enthusiasts",
-    "keywords": ["diy home energy system", "reduce electric bill diy", "off grid power guide", "energy revolution system review"]
+    "keywords": [
+      "diy home energy system",
+      "reduce electric bill diy",
+      "off grid power guide",
+      "energy revolution system review"
+    ]
   },
   {
     "id": "water-freedom-system",
@@ -183,7 +259,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=waterfs",
     "sales_page": "https://waterfs.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 33.9, "epc": 1.02, "avg_per_sale": 51.70, "cvr": "1.95%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 33.9,
+      "epc": 1.02,
+      "avg_per_sale": 51.7,
+      "cvr": "1.95%",
+      "approval_required": false
+    },
     "pros": [
       "High conversion rate (1.95%) and over $1 EPC",
       "Evergreen survival / preparedness niche with passionate buyers",
@@ -197,7 +279,12 @@
     ],
     "summary": "A survival guide focused on producing drinkable water off-grid. Popular in the preparedness niche with strong conversions.",
     "best_for": "survival, prepper, and self-reliance audiences",
-    "keywords": ["survival water system", "off grid water guide", "emergency water supply diy", "water freedom system review"]
+    "keywords": [
+      "survival water system",
+      "off grid water guide",
+      "emergency water supply diy",
+      "water freedom system review"
+    ]
   },
   {
     "id": "soulmate-sketch",
@@ -208,7 +295,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=tinapsc",
     "sales_page": "https://tinapsc.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 31.5, "epc": 1.83, "avg_per_sale": 66.99, "cvr": "2.61%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 31.5,
+      "epc": 1.83,
+      "avg_per_sale": 66.99,
+      "cvr": "2.61%",
+      "approval_required": false
+    },
     "pros": [
       "Excellent conversion rate (2.61%) and high EPC ($1.83)",
       "Mass-appeal novelty offer that performs on social traffic",
@@ -222,7 +315,12 @@
     ],
     "summary": "A novelty service that creates a 'sketch' of the customer's soulmate. A high-converting, mass-appeal offer in the relationships/psychic niche.",
     "best_for": "an astrology- and relationship-curious social audience",
-    "keywords": ["soulmate sketch review", "psychic soulmate drawing", "what does my soulmate look like", "soulmate drawing online"]
+    "keywords": [
+      "soulmate sketch review",
+      "psychic soulmate drawing",
+      "what does my soulmate look like",
+      "soulmate drawing online"
+    ]
   },
   {
     "id": "the-genius-switch",
@@ -233,7 +331,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=thegeniusx",
     "sales_page": "https://thegeniusx.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 47.7, "epc": 4.03, "avg_per_sale": 51.01, "cvr": "7.82%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 47.7,
+      "epc": 4.03,
+      "avg_per_sale": 51.01,
+      "cvr": "7.82%",
+      "approval_required": false
+    },
     "pros": [
       "Standout conversion rate (7.82%) and very high EPC ($4.03) at time of check",
       "Self-improvement / manifestation niche with broad appeal",
@@ -247,7 +351,12 @@
     ],
     "summary": "An audio-based self-improvement / manifestation program from the team behind The Genius Wave. Was converting exceptionally well at the time of research.",
     "best_for": "a self-improvement and manifestation-curious audience",
-    "keywords": ["the genius switch review", "manifestation audio program", "brain focus audio", "law of attraction audio"]
+    "keywords": [
+      "the genius switch review",
+      "manifestation audio program",
+      "brain focus audio",
+      "law of attraction audio"
+    ]
   },
   {
     "id": "prostavive",
@@ -258,7 +367,13 @@
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=provive",
     "sales_page": "https://provive.pay.clickbank.net",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 93.6, "epc": 0.65, "avg_per_sale": 134.84, "cvr": "0.45%", "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 93.6,
+      "epc": 0.65,
+      "avg_per_sale": 134.84,
+      "cvr": "0.45%",
+      "approval_required": false
+    },
     "pros": [
       "Strong, established offer in the large men's-health market",
       "High average order value per sale",
@@ -272,7 +387,12 @@
     ],
     "summary": "A prostate-support supplement aimed at men interested in prostate and urinary health. A high-AOV, top-converting men's-health offer.",
     "best_for": "men 40+ interested in prostate- and men's-health support supplements",
-    "keywords": ["prostavive review", "prostate health supplement", "supplement for prostate support", "mens health supplement"]
+    "keywords": [
+      "prostavive review",
+      "prostate health supplement",
+      "supplement for prostate support",
+      "mens health supplement"
+    ]
   },
   {
     "id": "my-shed-plans",
@@ -282,10 +402,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=shedplans",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 23.5, "avg_per_sale": 34.36, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 23.5,
+      "avg_per_sale": 34.36,
+      "approval_required": false
+    },
     "summary": "A digital library of 12,000+ shed and woodworking plans with detailed blueprints, cut lists, and step-by-step instructions for DIY builders.",
     "best_for": "DIYers who want ready-made shed and woodworking blueprints",
-    "keywords": ["shed plans", "diy shed building plans", "my shed plans review", "ryan shed plans"]
+    "keywords": [
+      "shed plans",
+      "diy shed building plans",
+      "my shed plans review",
+      "ryan shed plans"
+    ]
   },
   {
     "id": "ultimate-small-shop",
@@ -295,10 +424,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=usmallshop",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 7.8, "avg_per_sale": 30.85, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 7.8,
+      "avg_per_sale": 30.85,
+      "approval_required": false
+    },
     "summary": "A guide to setting up a complete, efficient woodworking workshop on a tight budget, covering tools, layout, and storage for small spaces.",
     "best_for": "hobbyist woodworkers building a workshop on a budget",
-    "keywords": ["small woodworking shop setup", "budget workshop", "ultimate small shop review", "garage workshop layout"]
+    "keywords": [
+      "small woodworking shop setup",
+      "budget workshop",
+      "ultimate small shop review",
+      "garage workshop layout"
+    ]
   },
   {
     "id": "diy-smart-saw",
@@ -308,10 +446,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=cncwood",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 2.2, "avg_per_sale": 49.48, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 2.2,
+      "avg_per_sale": 49.48,
+      "approval_required": false
+    },
     "summary": "A step-by-step guide to building your own homemade CNC-style cutting machine from accessible parts, for the DIY and maker crowd.",
     "best_for": "makers who want CNC capability without the price tag",
-    "keywords": ["diy cnc machine", "build your own cnc", "diy smart saw review", "homemade cnc router"]
+    "keywords": [
+      "diy cnc machine",
+      "build your own cnc",
+      "diy smart saw review",
+      "homemade cnc router"
+    ]
   },
   {
     "id": "myboatplans",
@@ -321,10 +468,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=myboatplans",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 5.0, "avg_per_sale": 25.23, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 5.0,
+      "avg_per_sale": 25.23,
+      "approval_required": false
+    },
     "summary": "A digital library of 518 boat plans plus build guides and videos, covering everything from small dinghies and canoes to larger builds.",
     "best_for": "DIY boat builders and woodworking hobbyists",
-    "keywords": ["boat plans", "diy boat building plans", "myboatplans review", "wooden boat plans"]
+    "keywords": [
+      "boat plans",
+      "diy boat building plans",
+      "myboatplans review",
+      "wooden boat plans"
+    ]
   },
   {
     "id": "brain-training-for-dogs",
@@ -334,10 +490,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=brainydogs",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 16.6, "avg_per_sale": 39.45, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 16.6,
+      "avg_per_sale": 39.45,
+      "approval_required": false
+    },
     "summary": "A force-free online dog training course by certified trainer Adrienne Farricelli, built around 21 games to boost a dog's intelligence and behavior.",
     "best_for": "dog owners wanting a positive-reinforcement training method",
-    "keywords": ["brain training for dogs review", "dog training course online", "force free dog training", "dog obedience games"]
+    "keywords": [
+      "brain training for dogs review",
+      "dog training course online",
+      "force free dog training",
+      "dog obedience games"
+    ]
   },
   {
     "id": "secrets-to-dog-training",
@@ -347,10 +512,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=sitstay",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.4, "avg_per_sale": 49.15, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "avg_per_sale": 49.15,
+      "approval_required": false
+    },
     "summary": "A comprehensive digital dog-training program from Kingdom of Pets covering obedience and common behavior problems like barking, digging, and chewing.",
     "best_for": "owners wanting an all-in-one dog behavior reference",
-    "keywords": ["secrets to dog training review", "dog behavior problems", "stop dog barking", "kingdom of pets"]
+    "keywords": [
+      "secrets to dog training review",
+      "dog behavior problems",
+      "stop dog barking",
+      "kingdom of pets"
+    ]
   },
   {
     "id": "housetrain-any-dog",
@@ -360,10 +534,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=dogtrain12",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 1.1, "avg_per_sale": 9.72, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 1.1,
+      "avg_per_sale": 9.72,
+      "approval_required": false
+    },
     "summary": "A focused digital guide to house-training dogs and puppies quickly, with practical routines and schedules.",
     "best_for": "new puppy owners tackling potty training",
-    "keywords": ["how to potty train a puppy", "house train a dog", "puppy potty training schedule", "stop dog accidents"]
+    "keywords": [
+      "how to potty train a puppy",
+      "house train a dog",
+      "puppy potty training schedule",
+      "stop dog accidents"
+    ]
   },
   {
     "id": "my-dog-plan-quiz",
@@ -373,10 +556,18 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=dogplanqz",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.0, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
     "summary": "A quiz-based product that generates a personalized 21-day dog training plan based on your dog's age, breed, and behavior, with an optional tracker app.",
     "best_for": "owners who want a tailored, structured dog training plan",
-    "keywords": ["personalized dog training plan", "21 day dog training", "my dog plan quiz review", "custom puppy training plan"]
+    "keywords": [
+      "personalized dog training plan",
+      "21 day dog training",
+      "my dog plan quiz review",
+      "custom puppy training plan"
+    ]
   },
   {
     "id": "english-bull-terrier-guide",
@@ -386,10 +577,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=reabis",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 6.0, "avg_per_sale": 1.02, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 6.0,
+      "avg_per_sale": 1.02,
+      "approval_required": false
+    },
     "summary": "A breed-specific digital guide to owning, raising, and caring for English Bull Terriers, written from real owner experience.",
     "best_for": "current or prospective English Bull Terrier owners",
-    "keywords": ["english bull terrier care", "bull terrier training", "raising a bull terrier puppy", "english bull terrier guide"]
+    "keywords": [
+      "english bull terrier care",
+      "bull terrier training",
+      "raising a bull terrier puppy",
+      "english bull terrier guide"
+    ]
   },
   {
     "id": "cat-spray-stop",
@@ -399,10 +599,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=stopspray",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 1.0, "avg_per_sale": 25.01, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "avg_per_sale": 25.01,
+      "approval_required": false
+    },
     "summary": "A focused digital guide explaining why cats spray and how to stop and prevent it, covering behavioral and environmental fixes.",
     "best_for": "cat owners dealing with spraying or marking",
-    "keywords": ["how to stop cat spraying", "cat marking territory", "cat spray stop review", "stop cat peeing in house"]
+    "keywords": [
+      "how to stop cat spraying",
+      "cat marking territory",
+      "cat spray stop review",
+      "stop cat peeing in house"
+    ]
   },
   {
     "id": "cat-language-bible",
@@ -412,10 +621,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=catlang",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.5, "avg_per_sale": 24.20, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "avg_per_sale": 24.2,
+      "approval_required": false
+    },
     "summary": "A digital guide that helps owners interpret their cat's vocalizations, body language, and behavior to communicate and bond better.",
     "best_for": "curious cat owners who want to understand their pet",
-    "keywords": ["understand cat body language", "what cat sounds mean", "cat language bible review", "how to talk to your cat"]
+    "keywords": [
+      "understand cat body language",
+      "what cat sounds mean",
+      "cat language bible review",
+      "how to talk to your cat"
+    ]
   },
   {
     "id": "chameleon-care-guide",
@@ -425,10 +643,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=chameguide",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.5, "avg_per_sale": 12.23, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "avg_per_sale": 12.23,
+      "approval_required": false
+    },
     "summary": "A complete digital guide to chameleon care: enclosure setup, lighting, humidity, feeding, hydration, and common health issues.",
     "best_for": "new and prospective chameleon owners",
-    "keywords": ["chameleon care guide", "how to care for a chameleon", "chameleon enclosure setup", "pet chameleon for beginners"]
+    "keywords": [
+      "chameleon care guide",
+      "how to care for a chameleon",
+      "chameleon enclosure setup",
+      "pet chameleon for beginners"
+    ]
   },
   {
     "id": "self-sufficient-backyard",
@@ -438,10 +665,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=sbackyard",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 17.6, "avg_per_sale": 35.62, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 17.6,
+      "avg_per_sale": 35.62,
+      "approval_required": false
+    },
     "summary": "A guide from the creators of The Lost Ways to turn an ordinary backyard into a more self-reliant setup for food, water, and energy.",
     "best_for": "homesteaders, preppers, and self-sufficiency enthusiasts",
-    "keywords": ["self sufficient backyard review", "backyard homesteading", "off grid backyard", "grow your own food guide"]
+    "keywords": [
+      "self sufficient backyard review",
+      "backyard homesteading",
+      "off grid backyard",
+      "grow your own food guide"
+    ]
   },
   {
     "id": "tiny-house-made-easy",
@@ -451,10 +687,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=tinyhousey",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 3.0, "avg_per_sale": 27.75, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 3.0,
+      "avg_per_sale": 27.75,
+      "approval_required": false
+    },
     "summary": "A digital guide that walks through planning and building a tiny house, covering design, materials, and step-by-step construction.",
     "best_for": "DIY-minded people interested in tiny-house and minimal living",
-    "keywords": ["how to build a tiny house", "tiny house plans", "tiny house made easy review", "diy tiny home"]
+    "keywords": [
+      "how to build a tiny house",
+      "tiny house plans",
+      "tiny house made easy review",
+      "diy tiny home"
+    ]
   },
   {
     "id": "shipping-container-home",
@@ -464,10 +709,18 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=imcoders",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.0, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
     "summary": "A digital guide to designing and building a home from shipping containers, covering planning, insulation, layout, and construction.",
     "best_for": "DIY builders interested in alternative and off-grid housing",
-    "keywords": ["shipping container home plans", "build a container home", "container house guide", "diy shipping container home"]
+    "keywords": [
+      "shipping container home plans",
+      "build a container home",
+      "container house guide",
+      "diy shipping container home"
+    ]
   },
   {
     "id": "sewing-pattern-secrets",
@@ -477,10 +730,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=sewingplan",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 2.1, "avg_per_sale": 74.31, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "avg_per_sale": 74.31,
+      "approval_required": false
+    },
     "summary": "A digital library of sewing patterns and guidance covering a wide range of garments and projects for hobbyist sewists.",
     "best_for": "beginner to intermediate sewists who want pattern variety",
-    "keywords": ["sewing patterns library", "beginner sewing patterns", "sewing pattern secrets review", "downloadable sewing patterns"]
+    "keywords": [
+      "sewing patterns library",
+      "beginner sewing patterns",
+      "sewing pattern secrets review",
+      "downloadable sewing patterns"
+    ]
   },
   {
     "id": "aquaponics-4-you",
@@ -490,10 +752,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=aquaponics",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.5, "avg_per_sale": 32.25, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "avg_per_sale": 32.25,
+      "approval_required": false
+    },
     "summary": "A step-by-step guide to building a home aquaponics system where fish waste fertilizes plants and the plants filter the water.",
     "best_for": "home gardeners and sustainability enthusiasts",
-    "keywords": ["how to build aquaponics system", "home aquaponics", "aquaponics 4 you review", "diy aquaponics garden"]
+    "keywords": [
+      "how to build aquaponics system",
+      "home aquaponics",
+      "aquaponics 4 you review",
+      "diy aquaponics garden"
+    ]
   },
   {
     "id": "model-railroading-guide",
@@ -503,10 +774,19 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ektone",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.4, "avg_per_sale": 30.75, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "avg_per_sale": 30.75,
+      "approval_required": false
+    },
     "summary": "A beginner-focused digital guide plus membership covering how to start and build a model railroad: track planning, scenery, and wiring basics.",
     "best_for": "newcomers to the model railroading hobby",
-    "keywords": ["model railroading for beginners", "how to start a model railroad", "model train layout guide", "model railroading guide"]
+    "keywords": [
+      "model railroading for beginners",
+      "how to start a model railroad",
+      "model train layout guide",
+      "model railroading guide"
+    ]
   },
   {
     "id": "declutter-fast",
@@ -516,9 +796,41 @@
     "price": "low-ticket (official page)",
     "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=inorder",
     "rating": "N/A",
-    "clickbank_stats": { "gravity": 0.4, "avg_per_sale": 10.86, "approval_required": false },
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "avg_per_sale": 10.86,
+      "approval_required": false
+    },
     "summary": "A long-established digital guide (since 2006) with practical methods to clear clutter quickly and keep your home in order.",
     "best_for": "anyone overwhelmed by clutter who wants a simple system",
-    "keywords": ["how to declutter your home fast", "decluttering tips", "declutter fast review", "home organization guide"]
+    "keywords": [
+      "how to declutter your home fast",
+      "decluttering tips",
+      "declutter fast review",
+      "home organization guide"
+    ]
+  },
+  {
+    "id": "smartwaterbox",
+    "name": "SmartWaterBox",
+    "category": "Self-Help",
+    "niche": "survival / off-grid water",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=WATERSB",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 63.1,
+      "epc": 1.23,
+      "cvr": "2.53%",
+      "approval_required": false
+    },
+    "summary": "A survival guide centered on a DIY device for producing drinkable water off-grid. A strong converter in the preparedness niche.",
+    "best_for": "preppers, survivalists, and off-grid enthusiasts",
+    "keywords": [
+      "smartwaterbox review",
+      "survival water device",
+      "off grid water diy",
+      "emergency water supply"
+    ]
   }
 ]
