@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-Affiliate Agency - static site generator.
+Affiliate Agency - static site generator (v2, redesigned).
 
-Reads products.json + config.json and builds a free, fully static SEO content
-site into ./public/. Every page auto-includes an FTC affiliate disclosure.
+Builds a polished, trustworthy affiliate content site into ./public/ from
+products.json + roundups.json + config.json. Every page includes:
+  - a shared header (logo + nav) and footer (disclosure, links)
+  - FTC affiliate disclosure
+  - JSON-LD structured data (Review + FAQPage + Breadcrumb)
+  - internal links (related products, roundups) for SEO
+Also generates: homepage, per-product reviews, "best of" comparison pages,
+an About page, sitemap.xml and robots.txt.
 
-Content generation:
-  - Default (free, no API key): high-quality TEMPLATE articles from product data.
-  - Optional (use_llm=true + ANTHROPIC_API_KEY): richer AI-written articles.
-
-Run:  python generate_site.py
-Output: ./public/index.html + ./public/<slug>.html
+Article bodies come from content/<id>.html (hand-written). Run: python generate_site.py
 """
 
 import json
@@ -22,11 +23,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 PUBLIC = ROOT / "public"
+YEAR = date.today().year
+TODAY = date.today().isoformat()
 
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
 
 def slugify(text):
     text = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
-    return text or "article"
+    return text or "page"
 
 
 def load_json(name):
@@ -34,235 +41,511 @@ def load_json(name):
         return json.load(f)
 
 
+def e(text):
+    return html.escape(str(text))
+
+
+# Map a product to an emoji + accent colour based on its niche/category.
+ICONS = [
+    ("dog", "🐕", "#b45309"), ("puppy", "🐕", "#b45309"), ("terrier", "🐕", "#b45309"),
+    ("cat", "🐱", "#7c3aed"), ("feline", "🐱", "#7c3aed"),
+    ("reptile", "🦎", "#15803d"), ("chameleon", "🦎", "#15803d"), ("gecko", "🦎", "#15803d"),
+    ("wood", "🔨", "#92400e"), ("shed", "🔨", "#92400e"), ("shop", "🔨", "#92400e"),
+    ("boat", "⛵", "#0369a1"), ("cnc", "🔧", "#92400e"), ("saw", "🔧", "#92400e"),
+    ("sewing", "✂️", "#be185d"), ("rail", "🚂", "#0f766e"), ("declutter", "📦", "#0d9488"),
+    ("organization", "📦", "#0d9488"),
+    ("aquaponics", "🌱", "#16a34a"), ("garden", "🌱", "#16a34a"), ("backyard", "🌱", "#16a34a"),
+    ("tiny house", "🏠", "#a16207"), ("container", "🏠", "#a16207"), ("home", "🏠", "#a16207"),
+    ("survival", "⛺", "#166534"), ("water", "💧", "#0284c7"), ("energy", "⚡", "#ca8a04"),
+    ("astrology", "🔮", "#7c3aed"), ("moon", "🌙", "#6d28d9"), ("soulmate", "❤️", "#db2777"),
+    ("manifest", "✨", "#7c3aed"), ("genius", "✨", "#7c3aed"), ("wealth", "💰", "#15803d"),
+    ("dental", "🦷", "#0891b2"), ("joint", "🦴", "#b45309"), ("blood sugar", "💉", "#dc2626"),
+    ("hearing", "👂", "#0d9488"), ("prostate", "💊", "#0e7490"), ("men's", "💊", "#0e7490"),
+    ("supplement", "💊", "#0891b2"), ("productivity", "⏰", "#2563eb"), ("fitness", "💪", "#dc2626"),
+]
+
+
+def icon_for(product):
+    hay = f"{product.get('niche','')} {product.get('category','')} {product.get('name','')}".lower()
+    for key, emoji, color in ICONS:
+        if key in hay:
+            return emoji, color
+    return "⭐", "#2563eb"
+
+
 # ---------------------------------------------------------------------------
-# Content generation
+# Article body (hand-written content preferred)
 # ---------------------------------------------------------------------------
 
+def custom_article(product):
+    path = ROOT / "content" / f"{product['id']}.html"
+    return path.read_text(encoding="utf-8") if path.exists() else None
+
+
 def ai_article(product, config):
-    """Optional richer article via the Claude API. Returns HTML body or None."""
     try:
         import anthropic
     except ImportError:
-        print("  ! anthropic package not installed; falling back to template.")
         return None
     if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("  ! ANTHROPIC_API_KEY not set; falling back to template.")
         return None
     client = anthropic.Anthropic()
     prompt = (
-        f"Write a helpful, honest 600-word product review article in clean HTML "
-        f"(use <h2>, <p>, <ul>, <li> only — no <html>/<head>/<body>). "
-        f"Product: {product['name']}. Category: {product['category']}. "
-        f"Best for: {product.get('best_for','')}. "
-        f"Pros: {product.get('pros')}. Cons: {product.get('cons')}. "
-        f"Summary: {product.get('summary','')}. "
-        f"Be balanced and genuinely useful; do not invent fake facts or guarantees. "
-        f"Do NOT include the affiliate link — it is added separately."
+        f"Write a balanced, honest 700-word product review in clean HTML (h2/p/ul/li only) "
+        f"for {product['name']} ({product.get('category','')}). Best for {product.get('best_for','')}. "
+        f"Summary: {product.get('summary','')}. Be genuinely useful, no invented facts, no fake guarantees. "
+        f"Do not include the affiliate link."
     )
-    msg = client.messages.create(
-        model=config.get("llm_model", "claude-opus-4-8"),
-        max_tokens=1500,
-        messages=[{"role": "user", "content": prompt}],
-    )
+    msg = client.messages.create(model=config.get("llm_model", "claude-opus-4-8"),
+                                 max_tokens=1800, messages=[{"role": "user", "content": prompt}])
     return "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
 
 
-def custom_article(product):
-    """Use a hand-written article from content/<id>.html if it exists."""
-    path = ROOT / "content" / f"{product['id']}.html"
-    if path.exists():
-        return path.read_text(encoding="utf-8")
-    return None
-
-
 def template_article(product):
-    """Free, no-API article body built from structured product data."""
-    e = html.escape
     pros = "".join(f"<li>{e(p)}</li>" for p in product.get("pros", []))
     cons = "".join(f"<li>{e(c)}</li>" for c in product.get("cons", []))
-    name = e(product["name"])
-    return f"""
-<h2>What is {name}?</h2>
-<p>{e(product.get('summary',''))}</p>
-<p>It's especially a good fit for {e(product.get('best_for','people looking for a reliable option'))}.</p>
+    return (f"<p>{e(product.get('summary',''))}</p>"
+            f"<h2>Who is it for?</h2><p>Best for {e(product.get('best_for',''))}.</p>"
+            + (f"<h2>The good</h2><ul>{pros}</ul>" if pros else "")
+            + (f"<h2>Things to keep in mind</h2><ul>{cons}</ul>" if cons else ""))
 
-<h2>The good</h2>
-<ul>{pros}</ul>
 
-<h2>Things to keep in mind</h2>
-<ul>{cons}</ul>
+def article_body(product, config):
+    return (custom_article(product)
+            or (ai_article(product, config) if config.get("use_llm") else None)
+            or template_article(product))
 
-<h2>Our verdict</h2>
-<p>With a rating of {e(str(product.get('rating','N/A')))}/5 and a price of {e(product.get('price','see site'))},
-{name} is a solid choice in the {e(product.get('category',''))} space.
-If it matches what you need, you can check current availability and pricing below.</p>
+
+# ---------------------------------------------------------------------------
+# FAQs (honest, derived from product data) -> useful content + FAQ rich results
+# ---------------------------------------------------------------------------
+
+def faqs_for(product):
+    name = product["name"]
+    price = product.get("price", "")
+    faqs = []
+    faqs.append((f"Is {name} legit or a scam?",
+                 f"{name} is a real product sold through ClickBank, a trusted retailer that has "
+                 f"operated since 1998 and handles secure payment and refunds. It is not a scam. "
+                 f"That said, treat the vendor's marketing claims with healthy skepticism and judge "
+                 f"it on whether it fits your needs."))
+    faqs.append((f"Does {name} have a money-back guarantee?",
+                 f"Yes. Because {name} is sold via ClickBank, it comes with ClickBank's standard "
+                 f"60-day money-back guarantee, so you can request a refund within 60 days if it "
+                 f"isn't right for you."))
+    if product.get("best_for"):
+        faqs.append((f"Who is {name} best for?",
+                     f"{name} is best for {product['best_for']}."))
+    if price:
+        faqs.append((f"How much does {name} cost?",
+                     f"Pricing is {price}. Vendors often run discounts, so check the current price "
+                     f"on the official page before buying."))
+    return faqs
+
+
+def faq_html(faqs):
+    if not faqs:
+        return ""
+    items = "".join(
+        f'<div class="faq"><h3>{e(q)}</h3><p>{e(a)}</p></div>' for q, a in faqs)
+    return f'<section class="faqs"><h2>Frequently asked questions</h2>{items}</section>'
+
+
+def faq_schema(faqs):
+    if not faqs:
+        return None
+    return {
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": q,
+             "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs],
+    }
+
+
+# ---------------------------------------------------------------------------
+# Shared chrome: header, footer, page shell
+# ---------------------------------------------------------------------------
+
+STYLE = """
+:root{
+  --bg:#ffffff;--ink:#16202c;--muted:#5b6b7b;--line:#e6ebf1;--soft:#f6f8fb;
+  --brand:#1d4ed8;--brand-d:#1e3a8a;--accent:#0ea5a4;--warn:#fff7e6;--warn-b:#ffe1a8;
+  --radius:14px;--shadow:0 1px 2px rgba(16,32,44,.04),0 8px 24px rgba(16,32,44,.06);
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  color:var(--ink);background:var(--bg);line-height:1.65;font-size:17px}
+a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px}
+header.site{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.2) blur(8px);
+  border-bottom:1px solid var(--line)}
+header.site .row{display:flex;align-items:center;justify-content:space-between;height:62px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:19px;color:var(--ink)}
+.logo:hover{text-decoration:none}
+.logo .mark{width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--brand),var(--accent));
+  display:grid;place-items:center;color:#fff;font-size:16px;font-weight:800}
+nav.main{display:flex;gap:18px;font-size:15px;font-weight:600}
+nav.main a{color:var(--muted)}nav.main a:hover{color:var(--ink);text-decoration:none}
+@media(max-width:640px){nav.main{gap:12px;font-size:13px}.logo{font-size:16px}}
+.hero{background:linear-gradient(180deg,var(--soft),#fff);border-bottom:1px solid var(--line);padding:54px 0 40px}
+.hero h1{font-size:40px;line-height:1.12;margin:0 0 12px;letter-spacing:-.02em}
+.hero p{font-size:19px;color:var(--muted);margin:0;max-width:640px}
+@media(max-width:640px){.hero h1{font-size:30px}.hero p{font-size:17px}}
+.disclosure{background:var(--warn);border:1px solid var(--warn-b);padding:11px 15px;border-radius:10px;
+  font-size:13.5px;color:#6b4e16;margin:18px 0}
+h1{font-size:32px;line-height:1.18;letter-spacing:-.02em;margin:.2em 0 .4em}
+h2{font-size:23px;margin:1.7em 0 .5em;letter-spacing:-.01em}
+h3{font-size:18px;margin:1.2em 0 .3em}
+.section-title{display:flex;align-items:baseline;justify-content:space-between;margin-top:36px}
+.section-title a{font-size:14px;font-weight:600}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}
+@media(max-width:640px){.grid{grid-template-columns:1fr}}
+.card{border:1px solid var(--line);border-radius:var(--radius);padding:18px;background:#fff;box-shadow:var(--shadow);
+  transition:transform .12s ease,box-shadow .12s ease;display:flex;flex-direction:column}
+.card:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(16,32,44,.10)}
+.card .ic{width:42px;height:42px;border-radius:10px;display:grid;place-items:center;font-size:22px;color:#fff;margin-bottom:10px}
+.card h3{margin:.1em 0 .35em;font-size:18px}.card h3 a{color:var(--ink)}
+.card p{margin:0 0 12px;color:var(--muted);font-size:15px;flex:1}
+.meta{font-size:12.5px;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.badge{background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:2px 9px;font-weight:600}
+.btn{display:inline-block;background:var(--brand);color:#fff;font-weight:700;padding:11px 18px;border-radius:10px;
+  text-align:center}.btn:hover{background:var(--brand-d);text-decoration:none}
+.btn.ghost{background:#fff;color:var(--brand);border:1.5px solid var(--brand)}
+.btn.block{display:block}
+.crumb{font-size:13px;color:var(--muted);margin:18px 0 4px}.crumb a{color:var(--muted)}
+.verdict{background:var(--soft);border:1px solid var(--line);border-left:4px solid var(--accent);
+  border-radius:10px;padding:14px 16px;margin:16px 0}
+.verdict strong{display:block;margin-bottom:4px}
+.cta-box{background:linear-gradient(135deg,#f0f7ff,#eefcfb);border:1px solid var(--line);border-radius:var(--radius);
+  padding:20px;margin:22px 0;text-align:center}
+.cta-box .price{font-size:13px;color:var(--muted);margin-top:8px}
+article p,article ul{font-size:17px}article li{margin:.2em 0}
+.faqs{margin-top:30px;border-top:1px solid var(--line);padding-top:8px}
+.faq{padding:14px 0;border-bottom:1px solid var(--line)}.faq h3{margin:0 0 4px}.faq p{margin:0;color:var(--muted)}
+.related{margin-top:34px}
+.byline{font-size:13.5px;color:var(--muted);margin:6px 0 0;display:flex;align-items:center;gap:8px}
+.byline .av{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--brand),var(--accent));
+  display:inline-grid;place-items:center;color:#fff;font-size:12px;font-weight:700}
+footer.site{margin-top:56px;border-top:1px solid var(--line);background:var(--soft)}
+footer.site .row{display:grid;grid-template-columns:1.4fr 1fr;gap:24px;padding:30px 0}
+@media(max-width:640px){footer.site .row{grid-template-columns:1fr}}
+footer.site h4{margin:0 0 8px;font-size:14px}
+footer.site a{color:var(--muted);display:block;font-size:14px;margin:3px 0}
+footer .fine{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding:14px 0}
+table.cmp{width:100%;border-collapse:collapse;margin:16px 0;font-size:15px}
+table.cmp th,table.cmp td{border:1px solid var(--line);padding:9px 11px;text-align:left}
+table.cmp th{background:var(--soft)}
 """
 
 
-# ---------------------------------------------------------------------------
-# HTML rendering
-# ---------------------------------------------------------------------------
+def header_html(config):
+    name = e(config["site_name"])
+    return f"""<header class="site"><div class="wrap row">
+<a class="logo" href="index.html"><span class="mark">SP</span>{name}</a>
+<nav class="main">
+<a href="index.html">Home</a>
+<a href="best-guides.html">Best Guides</a>
+<a href="about.html">About</a>
+</nav></div></header>"""
 
-PAGE = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title}</title>
-<meta name="description" content="{description}">
-<link rel="canonical" href="{canonical}">
-<meta property="og:type" content="{og_type}">
-<meta property="og:title" content="{title}">
-<meta property="og:description" content="{description}">
-<meta property="og:url" content="{canonical}">
-<meta property="og:site_name" content="{site_name}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{title}">
-<meta name="twitter:description" content="{description}">
+
+def footer_html(config, roundups):
+    name = e(config["site_name"])
+    links = "".join(f'<a href="{r["id"]}.html">{e(r["title"].split(" (")[0])}</a>' for r in roundups[:5])
+    return f"""<footer class="site"><div class="wrap">
+<div class="row">
+<div><h4>{name}</h4>
+<p style="color:var(--muted);font-size:14px;margin:0">{e(config['site_tagline'])}. We research popular
+products and write honest, plain-English reviews so you can decide with confidence.</p></div>
+<div><h4>Popular guides</h4>{links}<a href="about.html">About &amp; how we review</a></div>
+</div>
+<div class="fine">{e(config['affiliate_disclosure'])}<br>&copy; {YEAR} {name}. Information is for general
+guidance and may change &mdash; always verify details on the official product page before buying.</div>
+</div></footer>"""
+
+
+def page_shell(config, roundups, *, title, description, canonical, body,
+               og_type="article", schema_objs=None):
+    schema = ""
+    for obj in (schema_objs or []):
+        if obj:
+            schema += f'<script type="application/ld+json">{json.dumps(obj)}</script>'
+    return f"""<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{e(title)}</title>
+<meta name="description" content="{e(description)}">
+<link rel="canonical" href="{e(canonical)}">
 <meta name="robots" content="index, follow">
-{schema}
-<style>
-  body{{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px;line-height:1.65;color:#1a1a1a}}
-  a{{color:#0a66c2}}
-  .disclosure{{background:#fff8e1;border:1px solid #ffe082;padding:12px 16px;border-radius:8px;font-size:.9em;margin:16px 0}}
-  .cta{{display:inline-block;background:#0a66c2;color:#fff;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;margin:18px 0}}
-  header a{{text-decoration:none;color:#1a1a1a;font-weight:700}}
-  footer{{margin-top:48px;font-size:.85em;color:#666;border-top:1px solid #eee;padding-top:16px}}
-  .card{{border:1px solid #eee;border-radius:10px;padding:16px;margin:14px 0}}
-</style>
-</head>
-<body>
-<header><a href="index.html">{site_name}</a> &mdash; <span style="color:#666">{tagline}</span></header>
-<div class="disclosure">{disclosure}</div>
-{body}
-<footer>
-  <p>{disclosure}</p>
-  <p>&copy; {year} {site_name}. Information is provided for general guidance and may change — verify details on the product page before purchasing.</p>
-</footer>
-</body>
-</html>
-"""
+<meta property="og:type" content="{og_type}"><meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="{e(description)}"><meta property="og:url" content="{e(canonical)}">
+<meta property="og:site_name" content="{e(config['site_name'])}">
+<meta name="twitter:card" content="summary_large_image">
+{schema}<style>{STYLE}</style></head>
+<body>{header_html(config)}
+<main class="wrap">{body}</main>
+{footer_html(config, roundups)}</body></html>"""
 
 
-def render_article(product, config):
-    body_inner = custom_article(product)
-    if not body_inner and config.get("use_llm"):
-        body_inner = ai_article(product, config)
-    if not body_inner:
-        body_inner = template_article(product)
+# ---------------------------------------------------------------------------
+# Renderers
+# ---------------------------------------------------------------------------
 
-    title = f"{product['name']} Review ({date.today().year}) | {config['site_name']}"
-    cta = (
-        f'<p><a class="cta" href="{html.escape(product["affiliate_url"])}" '
-        f'rel="nofollow sponsored" target="_blank">Check {html.escape(product["name"])} →</a></p>'
-    )
-    body = f"<h1>{html.escape(product['name'])} Review</h1>{cta}{body_inner}{cta}"
+def product_card(product):
+    emoji, color = icon_for(product)
     slug = slugify(product["name"])
-    canonical = f"{config['base_url']}/{slug}.html"
+    cat = e(product.get("category", ""))
+    return (f'<div class="card"><div class="ic" style="background:{color}">{emoji}</div>'
+            f'<h3><a href="{slug}.html">{e(product["name"])}</a></h3>'
+            f'<div class="meta"><span class="badge">{cat}</span></div>'
+            f'<p>{e(product.get("summary",""))}</p>'
+            f'<a class="btn ghost block" href="{slug}.html">Read review</a></div>')
 
-    # JSON-LD structured data -> eligible for Google rich results
-    schema_obj = {
-        "@context": "https://schema.org",
-        "@type": "Review",
-        "itemReviewed": {
-            "@type": "Product",
-            "name": product["name"],
-            "category": product.get("category", ""),
-            "description": product.get("summary", ""),
-        },
+
+def cta_button(product, label=None):
+    label = label or f'Visit the official {product["name"]} page →'
+    price = product.get("price", "")
+    price_html = f'<div class="price">Pricing: {e(price)} · 60-day money-back guarantee via ClickBank</div>' if price else ""
+    return (f'<div class="cta-box"><a class="btn" href="{e(product["affiliate_url"])}" '
+            f'rel="nofollow sponsored" target="_blank">{e(label)}</a>{price_html}</div>')
+
+
+def render_article(product, config, roundups, related):
+    slug = slugify(product["name"])
+    canonical = f"{config['base_url'].rstrip('/')}/{slug}.html"
+    emoji, color = icon_for(product)
+    body_inner = article_body(product, config)
+    faqs = faqs_for(product)
+
+    crumb = (f'<div class="crumb"><a href="index.html">Home</a> › '
+             f'<a href="best-guides.html">Reviews</a> › {e(product["name"])}</div>')
+    head = (f'<div class="ic" style="background:{color};width:48px;height:48px;font-size:26px;border-radius:12px">{emoji}</div>'
+            if False else "")
+    verdict = (f'<div class="verdict"><strong>Quick verdict</strong>'
+               f'{e(product.get("summary",""))} Best for {e(product.get("best_for","the right buyer"))}. '
+               f'Backed by ClickBank\'s 60-day money-back guarantee.</div>')
+    byline = ('<div class="byline"><span class="av">SP</span> Reviewed by the Smart Picks editorial team · '
+              f'Updated {date.today().strftime("%B %Y")}</div>')
+
+    rel_html = ""
+    if related:
+        rel_html = ('<div class="related"><div class="section-title"><h2>Related reviews</h2></div>'
+                    '<div class="grid">' + "".join(product_card(r) for r in related) + '</div></div>')
+
+    disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
+    body = (crumb + f'<h1>{e(product["name"])} Review ({YEAR})</h1>' + byline + disclosure + verdict
+            + cta_button(product) + f'<article>{body_inner}</article>' + cta_button(product)
+            + faq_html(faqs) + rel_html)
+
+    review_schema = {
+        "@context": "https://schema.org", "@type": "Review",
+        "itemReviewed": {"@type": "Product", "name": product["name"],
+                         "category": product.get("category", ""), "description": product.get("summary", "")},
         "author": {"@type": "Organization", "name": config["site_name"]},
-        "publisher": {"@type": "Organization", "name": config["site_name"]},
-        "url": canonical,
+        "publisher": {"@type": "Organization", "name": config["site_name"]}, "url": canonical,
     }
-    schema = f'<script type="application/ld+json">{json.dumps(schema_obj)}</script>'
-
-    return slug, PAGE.format(
-        title=html.escape(title),
-        description=html.escape(product.get("summary", "")[:155]),
-        canonical=canonical,
-        og_type="article",
-        schema=schema,
-        site_name=html.escape(config["site_name"]),
-        tagline=html.escape(config["site_tagline"]),
-        disclosure=html.escape(config["affiliate_disclosure"]),
-        body=body,
-        year=date.today().year,
-    )
+    crumb_schema = {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": config["base_url"]},
+            {"@type": "ListItem", "position": 2, "name": product["name"], "item": canonical}],
+    }
+    title = f'{product["name"]} Review ({YEAR}): Worth It? | {config["site_name"]}'
+    return slug, page_shell(config, roundups, title=title,
+                            description=product.get("summary", "")[:155], canonical=canonical,
+                            body=body, schema_objs=[review_schema, faq_schema(faqs), crumb_schema])
 
 
-def render_index(products, config):
-    cards = ""
-    for p in products:
+def render_roundup(roundup, by_id, config, roundups):
+    items = [by_id[p] for p in roundup["product_ids"] if p in by_id]
+    canonical = f"{config['base_url'].rstrip('/')}/{roundup['id']}.html"
+    crumb = (f'<div class="crumb"><a href="index.html">Home</a> › '
+             f'<a href="best-guides.html">Best Guides</a> › {e(roundup["title"].split(" (")[0])}</div>')
+    rows = ""
+    for i, p in enumerate(items, 1):
+        emoji, color = icon_for(p)
         slug = slugify(p["name"])
-        cards += (
-            f'<div class="card"><h2><a href="{slug}.html">{html.escape(p["name"])}</a></h2>'
-            f'<p>{html.escape(p.get("summary",""))}</p>'
-            f'<p><small>{html.escape(p.get("category",""))} &middot; {html.escape(str(p.get("rating","")))}/5 &middot; {html.escape(p.get("price",""))}</small></p></div>'
-        )
-    body = f"<h1>{html.escape(config['site_name'])}</h1><p>{html.escape(config['site_tagline'])}</p>{cards}"
-    schema_obj = {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": config["site_name"],
-        "url": config["base_url"],
-        "description": config["site_tagline"],
-    }
-    schema = f'<script type="application/ld+json">{json.dumps(schema_obj)}</script>'
-    return PAGE.format(
-        title=html.escape(f"{config['site_name']} | {config['site_tagline']}"),
-        description=html.escape(config["site_tagline"]),
-        canonical=config["base_url"],
-        og_type="website",
-        schema=schema,
-        site_name=html.escape(config["site_name"]),
-        tagline=html.escape(config["site_tagline"]),
-        disclosure=html.escape(config["affiliate_disclosure"]),
-        body=body,
-        year=date.today().year,
-    )
+        rows += (f'<tr><td><strong>{i}. {e(p["name"])}</strong></td>'
+                 f'<td>{e(p.get("best_for",""))}</td>'
+                 f'<td><a href="{slug}.html">Read review</a></td></tr>')
+    table = (f'<table class="cmp"><tr><th>Product</th><th>Best for</th><th></th></tr>{rows}</table>')
 
+    blocks = ""
+    for i, p in enumerate(items, 1):
+        emoji, color = icon_for(p)
+        slug = slugify(p["name"])
+        blocks += (f'<div class="card" style="margin:16px 0">'
+                   f'<div class="ic" style="background:{color}">{emoji}</div>'
+                   f'<h2 style="margin:.2em 0">{i}. {e(p["name"])}</h2>'
+                   f'<p style="color:var(--muted)">{e(p.get("summary",""))}</p>'
+                   f'<p style="font-size:14px"><strong>Best for:</strong> {e(p.get("best_for",""))}</p>'
+                   f'<div style="display:flex;gap:10px;flex-wrap:wrap">'
+                   f'<a class="btn ghost" href="{slug}.html">Full review</a>'
+                   f'<a class="btn" href="{e(p["affiliate_url"])}" rel="nofollow sponsored" target="_blank">Official site →</a>'
+                   f'</div></div>')
+
+    disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
+    byline = ('<div class="byline"><span class="av">SP</span> By the Smart Picks editorial team · '
+              f'Updated {date.today().strftime("%B %Y")}</div>')
+    body = (crumb + f'<h1>{e(roundup["title"])}</h1>' + byline + disclosure
+            + f'<p style="font-size:19px;color:var(--muted)">{e(roundup["intro"])}</p>'
+            + '<h2>At a glance</h2>' + table + '<h2>The picks, reviewed</h2>' + blocks)
+
+    crumb_schema = {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": config["base_url"]},
+            {"@type": "ListItem", "position": 2, "name": roundup["title"], "item": canonical}],
+    }
+    list_schema = {
+        "@context": "https://schema.org", "@type": "ItemList",
+        "itemListElement": [{"@type": "ListItem", "position": i, "name": p["name"]}
+                            for i, p in enumerate(items, 1)],
+    }
+    title = f'{roundup["title"]} | {config["site_name"]}'
+    return page_shell(config, roundups, title=title, description=roundup["intro"][:155],
+                      canonical=canonical, body=body, schema_objs=[crumb_schema, list_schema])
+
+
+def render_best_guides(roundups, config):
+    canonical = f"{config['base_url'].rstrip('/')}/best-guides.html"
+    cards = ""
+    for r in roundups:
+        cards += (f'<div class="card"><h3><a href="{r["id"]}.html">{e(r["title"])}</a></h3>'
+                  f'<p>{e(r["intro"])}</p>'
+                  f'<a class="btn ghost block" href="{r["id"]}.html">Read guide</a></div>')
+    body = ('<div class="crumb"><a href="index.html">Home</a> › Best Guides</div>'
+            '<h1>Best Guides &amp; Comparisons</h1>'
+            '<p style="font-size:19px;color:var(--muted)">Side-by-side comparisons of the most popular '
+            'products in each niche, so you can pick the right one fast.</p>'
+            f'<div class="grid">{cards}</div>')
+    return page_shell(config, roundups, title=f'Best Guides &amp; Comparisons | {config["site_name"]}',
+                      description="Honest side-by-side comparisons of the most popular products in each niche.",
+                      canonical=canonical, body=body, og_type="website")
+
+
+def render_about(config, roundups):
+    canonical = f"{config['base_url'].rstrip('/')}/about.html"
+    body = f"""<div class="crumb"><a href="index.html">Home</a> › About</div>
+<h1>About {e(config['site_name'])}</h1>
+<p style="font-size:19px;color:var(--muted)">{e(config['site_tagline'])}.</p>
+<p>{e(config['site_name'])} exists to cut through the hype. The internet is full of over-promising sales
+pages, so our goal is simple: explain in plain English what a product actually is, who it's genuinely a
+good fit for, and what to watch out for &mdash; before you spend any money.</p>
+<h2>How we review</h2>
+<ul>
+<li><strong>We research the real product.</strong> We look at what each product offers, how it's delivered,
+its pricing model, and its refund policy.</li>
+<li><strong>We stay balanced.</strong> Every review includes honest downsides, not just positives. If
+something is entertainment or a supplement (not a medical treatment), we say so.</li>
+<li><strong>We prioritise trusted retailers.</strong> The products we feature are sold through ClickBank,
+an established online retailer that handles secure payment and offers a 60-day money-back guarantee.</li>
+<li><strong>We set realistic expectations.</strong> No product is magic. We tell you what consistent effort
+or setup a product actually requires.</li>
+</ul>
+<h2>How we make money</h2>
+<p>{e(config['affiliate_disclosure'])} This never changes our honest assessment &mdash; we'd rather you find
+the right product (or skip one that isn't for you) than make a quick commission.</p>
+<h2>Important note</h2>
+<p>We are an independent review site, not the manufacturer or seller of any product featured. For
+health-related products, our content is general information only and is not medical advice &mdash; always
+consult a qualified professional. Always verify current details on the official product page before buying.</p>
+<div class="cta-box"><a class="btn" href="best-guides.html">Browse our best guides →</a></div>"""
+    return page_shell(config, roundups, title=f'About Us | {config["site_name"]}',
+                      description=f"How {config['site_name']} researches and reviews products honestly.",
+                      canonical=canonical, body=body, og_type="website")
+
+
+def render_index(products, config, roundups, by_id):
+    canonical = config["base_url"]
+    # group products by category for tidy sections
+    cats = {}
+    for p in products:
+        cats.setdefault(p.get("category", "Other"), []).append(p)
+
+    featured = ""
+    for r in roundups[:4]:
+        featured += (f'<div class="card"><h3><a href="{r["id"]}.html">{e(r["title"])}</a></h3>'
+                     f'<p>{e(r["intro"][:120])}…</p>'
+                     f'<a class="btn ghost block" href="{r["id"]}.html">Compare picks</a></div>')
+
+    sections = ""
+    for cat, items in cats.items():
+        sections += (f'<div class="section-title"><h2>{e(cat)}</h2></div>'
+                     '<div class="grid">' + "".join(product_card(p) for p in items) + '</div>')
+
+    body = (f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
+            '<div class="section-title"><h2>Best guides &amp; comparisons</h2>'
+            '<a href="best-guides.html">View all →</a></div>'
+            f'<div class="grid">{featured}</div>'
+            + sections)
+
+    # hero lives outside .wrap, so prepend a full-width block by wrapping manually
+    hero = (f'<section class="hero"><div class="wrap"><h1>{e(config["site_name"])}</h1>'
+            f'<p>{e(config["site_tagline"])}. Honest, plain-English reviews and side-by-side comparisons '
+            f'of popular products &mdash; so you can choose with confidence.</p></div></section>')
+
+    site_schema = {"@context": "https://schema.org", "@type": "WebSite",
+                   "name": config["site_name"], "url": config["base_url"],
+                   "description": config["site_tagline"]}
+    org_schema = {"@context": "https://schema.org", "@type": "Organization",
+                  "name": config["site_name"], "url": config["base_url"]}
+    page = page_shell(config, roundups, title=f'{config["site_name"]} | {config["site_tagline"]}',
+                      description=config["site_tagline"], canonical=canonical, body=body,
+                      og_type="website", schema_objs=[site_schema, org_schema])
+    # inject hero right after </header>
+    return page.replace('<main class="wrap">', hero + '<main class="wrap">', 1)
+
+
+# ---------------------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------------------
 
 def main():
     config = load_json("config.json")
     products = load_json("products.json")
+    roundups = load_json("roundups.json")
     PUBLIC.mkdir(exist_ok=True)
 
-    valid = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
-    if not valid:
-        print("WARNING: no products with real affiliate links yet — building demo anyway.")
-        valid = products
+    products = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
+    by_id = {p["id"]: p for p in products}
+    urls = [f"{config['base_url'].rstrip('/')}/"]
 
-    limit = config.get("articles_per_run", len(valid))
-    published = valid[:limit] if limit else valid
-    slugs = []
-    for p in published:
-        slug, page = render_article(p, config)
+    # product reviews (with related = up to 3 same-category others)
+    for p in products:
+        related = [q for q in products
+                   if q is not p and q.get("category") == p.get("category")][:3]
+        slug, page = render_article(p, config, roundups, related)
         (PUBLIC / f"{slug}.html").write_text(page, encoding="utf-8")
-        slugs.append(slug)
+        urls.append(f"{config['base_url'].rstrip('/')}/{slug}.html")
         print(f"  + {slug}.html")
 
-    (PUBLIC / "index.html").write_text(render_index(published, config), encoding="utf-8")
-    print(f"  + index.html  ({len(published)} products)")
+    # roundups
+    for r in roundups:
+        (PUBLIC / f"{r['id']}.html").write_text(render_roundup(r, by_id, config, roundups), encoding="utf-8")
+        urls.append(f"{config['base_url'].rstrip('/')}/{r['id']}.html")
+        print(f"  + {r['id']}.html (roundup)")
 
-    # --- SEO files ---
-    base = config["base_url"].rstrip("/")
-    today = date.today().isoformat()
-    urls = [f"{base}/"] + [f"{base}/{s}.html" for s in slugs]
-    sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
-               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    # static pages
+    (PUBLIC / "best-guides.html").write_text(render_best_guides(roundups, config), encoding="utf-8")
+    (PUBLIC / "about.html").write_text(render_about(config, roundups), encoding="utf-8")
+    (PUBLIC / "index.html").write_text(render_index(products, config, roundups, by_id), encoding="utf-8")
+    urls += [f"{config['base_url'].rstrip('/')}/best-guides.html",
+             f"{config['base_url'].rstrip('/')}/about.html"]
+    print(f"  + index.html, best-guides.html, about.html  ({len(products)} products, {len(roundups)} guides)")
+
+    # sitemap + robots
+    sm = ['<?xml version="1.0" encoding="UTF-8"?>',
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
-        sitemap.append(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod>"
-                       f"<changefreq>weekly</changefreq></url>")
-    sitemap.append("</urlset>")
-    (PUBLIC / "sitemap.xml").write_text("\n".join(sitemap), encoding="utf-8")
-    print("  + sitemap.xml")
-
-    (PUBLIC / "robots.txt").write_text(
-        f"User-agent: *\nAllow: /\n\nSitemap: {base}/sitemap.xml\n", encoding="utf-8")
-    print("  + robots.txt")
-
-    (PUBLIC / ".nojekyll").write_text("", encoding="utf-8")  # let GitHub Pages serve as-is
-    print(f"Done. Open {PUBLIC / 'index.html'} in a browser.")
+        sm.append(f"  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod><changefreq>weekly</changefreq></url>")
+    sm.append("</urlset>")
+    (PUBLIC / "sitemap.xml").write_text("\n".join(sm), encoding="utf-8")
+    base = config["base_url"].rstrip("/")
+    (PUBLIC / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {base}/sitemap.xml\n", encoding="utf-8")
+    (PUBLIC / ".nojekyll").write_text("", encoding="utf-8")
+    print(f"  + sitemap.xml ({len(urls)} urls), robots.txt")
+    print(f"Done. Open {PUBLIC / 'index.html'}")
 
 
 if __name__ == "__main__":

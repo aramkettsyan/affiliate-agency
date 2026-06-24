@@ -1,0 +1,37 @@
+[
+  {
+    "id": "best-dog-training-courses",
+    "title": "Best Dog Training Courses & Guides (2026)",
+    "intro": "Struggling with barking, chewing, pulling, or potty accidents? We compared the most popular online dog-training programs to help you pick the right one for your dog and your goals. Here's how the top no-nonsense options stack up.",
+    "product_ids": ["brain-training-for-dogs", "secrets-to-dog-training", "my-dog-plan-quiz", "housetrain-any-dog", "english-bull-terrier-guide"],
+    "keywords": ["best dog training course", "best online dog training", "dog training program comparison", "best way to train a dog at home"]
+  },
+  {
+    "id": "best-woodworking-plans",
+    "title": "Best Woodworking & DIY Plans (2026)",
+    "intro": "Whether you want to build a shed, set up a workshop, or take on a bigger project, the right plans make all the difference. We compared the most popular digital woodworking and DIY plan libraries so you can pick the best fit for your skill level.",
+    "product_ids": ["tedswoodworking", "my-shed-plans", "ultimate-small-shop", "diy-smart-saw", "myboatplans"],
+    "keywords": ["best woodworking plans", "best diy shed plans", "woodworking plans comparison", "best woodworking plans for beginners"]
+  },
+  {
+    "id": "best-cat-care-guides",
+    "title": "Best Cat Behavior & Care Guides (2026)",
+    "intro": "From stopping spraying to finally understanding what your cat is telling you, these are the most popular digital cat-care guides. We compared them to help you solve the issue you're actually dealing with.",
+    "product_ids": ["cat-spray-stop", "cat-language-bible"],
+    "keywords": ["best cat behavior guide", "how to stop cat spraying", "understand cat behavior", "cat care guide"]
+  },
+  {
+    "id": "best-survival-self-sufficiency",
+    "title": "Best Survival & Self-Sufficiency Guides (2026)",
+    "intro": "Preparedness, off-grid living, and self-sufficiency are booming. We compared the most popular guides for water, energy, food, and shelter so you can choose the right starting point for your goals.",
+    "product_ids": ["self-sufficient-backyard", "water-freedom-system", "energy-revolution-system", "tiny-house-made-easy", "shipping-container-home"],
+    "keywords": ["best survival guides", "self sufficiency guide", "off grid living guide", "best preparedness resources"]
+  },
+  {
+    "id": "best-astrology-readings",
+    "title": "Best Personalized Astrology & Manifestation Readings (2026)",
+    "intro": "Personalized astrology and manifestation products are everywhere on social media. We compared the most popular ones so you know what each actually delivers before you spend a cent.",
+    "product_ids": ["moon-reading", "soulmate-sketch", "the-genius-switch"],
+    "keywords": ["best astrology reading online", "personalized astrology reading", "best manifestation program", "free moon reading"]
+  }
+]
