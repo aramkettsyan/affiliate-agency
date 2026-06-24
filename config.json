@@ -3,7 +3,7 @@
   "site_tagline": "Honest, research-backed product recommendations",
   "base_url": "https://aramkettsyan.github.io/affiliate-agency",
   "affiliate_disclosure": "Disclosure: This page contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. We only recommend products we believe provide genuine value.",
-  "articles_per_run": 11,
+  "articles_per_run": 30,
   "use_llm": false,
   "llm_model": "claude-opus-4-8"
 }
