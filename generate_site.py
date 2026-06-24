@@ -25,6 +25,11 @@ ROOT = Path(__file__).parent
 PUBLIC = ROOT / "public"
 YEAR = date.today().year
 TODAY = date.today().isoformat()
+IMAGES = {}  # product id -> local image path (populated in main from images.json)
+
+
+def image_for(product):
+    return IMAGES.get(product["id"])
 
 
 # ---------------------------------------------------------------------------
@@ -204,6 +209,10 @@ h3{font-size:18px;margin:1.2em 0 .3em}
   transition:transform .12s ease,box-shadow .12s ease;display:flex;flex-direction:column}
 .card:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(16,32,44,.10)}
 .card .ic{width:42px;height:42px;border-radius:10px;display:grid;place-items:center;font-size:22px;color:#fff;margin-bottom:10px}
+.card .thumb{width:100%;height:160px;object-fit:contain;background:#f6f8fb;border:1px solid var(--line);
+  border-radius:10px;margin-bottom:12px;padding:6px}
+.hero-img{width:100%;max-height:340px;object-fit:contain;background:var(--soft);border:1px solid var(--line);
+  border-radius:var(--radius);padding:10px;margin:8px 0 4px}
 .card h3{margin:.1em 0 .35em;font-size:18px}.card h3 a{color:var(--ink)}
 .card p{margin:0 0 12px;color:var(--muted);font-size:15px;flex:1}
 .meta{font-size:12.5px;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
@@ -295,7 +304,10 @@ def product_card(product):
     emoji, color = icon_for(product)
     slug = slugify(product["name"])
     cat = e(product.get("category", ""))
-    return (f'<div class="card"><div class="ic" style="background:{color}">{emoji}</div>'
+    img = image_for(product)
+    visual = (f'<img class="thumb" src="{e(img)}" alt="{e(product["name"])} product image" loading="lazy">'
+              if img else "")
+    return (f'<div class="card">{visual}'
             f'<h3><a href="{slug}.html">{e(product["name"])}</a></h3>'
             f'<div class="meta"><span class="badge">{cat}</span></div>'
             f'<p>{e(product.get("summary",""))}</p>'
@@ -327,13 +339,17 @@ def render_article(product, config, roundups, related):
     byline = ('<div class="byline"><span class="av">SP</span> Reviewed by the Smart Picks editorial team · '
               f'Updated {date.today().strftime("%B %Y")}</div>')
 
+    img = image_for(product)
+    hero_img = (f'<img class="hero-img" src="{e(img)}" alt="{e(product["name"])} product image">'
+                if img else "")
+
     rel_html = ""
     if related:
         rel_html = ('<div class="related"><div class="section-title"><h2>Related reviews</h2></div>'
                     '<div class="grid">' + "".join(product_card(r) for r in related) + '</div></div>')
 
     disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
-    body = (crumb + f'<h1>{e(product["name"])} Review ({YEAR})</h1>' + byline + disclosure + verdict
+    body = (crumb + f'<h1>{e(product["name"])} Review ({YEAR})</h1>' + byline + hero_img + disclosure + verdict
             + cta_button(product) + f'<article>{body_inner}</article>' + cta_button(product)
             + faq_html(faqs) + rel_html)
 
@@ -374,8 +390,11 @@ def render_roundup(roundup, by_id, config, roundups):
     for i, p in enumerate(items, 1):
         emoji, color = icon_for(p)
         slug = slugify(p["name"])
+        img = image_for(p)
+        visual = (f'<img class="thumb" src="{e(img)}" alt="{e(p["name"])} product image" loading="lazy">'
+                  if img else f'<div class="ic" style="background:{color}">{emoji}</div>')
         blocks += (f'<div class="card" style="margin:16px 0">'
-                   f'<div class="ic" style="background:{color}">{emoji}</div>'
+                   f'{visual}'
                    f'<h2 style="margin:.2em 0">{i}. {e(p["name"])}</h2>'
                    f'<p style="color:var(--muted)">{e(p.get("summary",""))}</p>'
                    f'<p style="font-size:14px"><strong>Best for:</strong> {e(p.get("best_for",""))}</p>'
@@ -502,9 +521,11 @@ def render_index(products, config, roundups, by_id):
 # ---------------------------------------------------------------------------
 
 def main():
+    global IMAGES
     config = load_json("config.json")
     products = load_json("products.json")
     roundups = load_json("roundups.json")
+    IMAGES = load_json("images.json") if (ROOT / "images.json").exists() else {}
     PUBLIC.mkdir(exist_ok=True)
 
     products = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
