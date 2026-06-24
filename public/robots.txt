@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aramkettsyan.github.io/affiliate-agency/sitemap.xml

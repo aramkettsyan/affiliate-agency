@@ -1,0 +1,40 @@
+name: Build and publish affiliate site
+
+on:
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+  schedule:
+    - cron: "0 9 * * *"     # every day at 09:00 UTC — fully automated rebuild
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Only needed if you set "use_llm": true in config.json
+      - name: Install optional AI deps
+        run: pip install anthropic || true
+
+      - name: Generate static site
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_site.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
