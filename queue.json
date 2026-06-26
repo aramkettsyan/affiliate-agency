@@ -1,26 +1,5 @@
 [
   {
-    "id": "the-brain-song",
-    "name": "The Brain Song",
-    "vendor": "BRAINSONGX",
-    "category": "Self-Help",
-    "niche": "memory & brain audio",
-    "price": "low-ticket (official page)",
-    "summary": "An audio program marketed for memory and mental sharpness, with a large existing customer base. A digital self-improvement product.",
-    "best_for": "people interested in memory and focus audio routines",
-    "clickbank_stats": {
-      "gravity": 146.8,
-      "epc": 0.41,
-      "approval_required": false
-    },
-    "keywords": [
-      "the brain song review",
-      "memory audio program",
-      "brain sharpness audio",
-      "improve memory naturally"
-    ]
-  },
-  {
     "id": "the-memory-wave",
     "name": "The Memory Wave",
     "vendor": "MEMORYW",
