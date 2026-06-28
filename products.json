@@ -941,5 +941,69 @@
       "focus audio program",
       "brain wave audio"
     ]
+  },
+  {
+    "id": "neuro-serge",
+    "name": "Neuro Serge",
+    "category": "Health & Fitness",
+    "niche": "brain support supplement",
+    "price": "see official site (bundle pricing)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=GETNEURO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 41.8,
+      "epc": 0.22,
+      "approval_required": false
+    },
+    "summary": "A brain-support dietary supplement marketed for focus and cognition, with a high average order value.",
+    "best_for": "adults interested in brain- and focus-support supplements",
+    "keywords": [
+      "neuro serge review",
+      "brain support supplement",
+      "focus and memory supplement",
+      "nootropic supplement"
+    ]
+  },
+  {
+    "id": "prosta-peak",
+    "name": "Prosta Peak",
+    "category": "Health & Fitness",
+    "niche": "prostate support supplement",
+    "price": "see official site (bundle pricing)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=PROSTAPEAK",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 33.9,
+      "approval_required": false
+    },
+    "summary": "A prostate-support dietary supplement aimed at men's wellness, with a high average order value.",
+    "best_for": "men 40+ interested in prostate- and men's-health supplements",
+    "keywords": [
+      "prosta peak review",
+      "prostate support supplement",
+      "mens health supplement",
+      "supplement for prostate"
+    ]
+  },
+  {
+    "id": "neuro-energizer",
+    "name": "Neuro Energizer",
+    "category": "Health & Fitness",
+    "niche": "brain & energy support",
+    "price": "see official site (bundle pricing)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=NEUROENERG",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 46.4,
+      "approval_required": false
+    },
+    "summary": "A brain-enhancement product marketed for focus and energy, tested on cold traffic with mid-range order values.",
+    "best_for": "adults interested in brain- and energy-support products",
+    "keywords": [
+      "neuro energizer review",
+      "brain energy supplement",
+      "focus and energy support",
+      "mental clarity supplement"
+    ]
   }
 ]
