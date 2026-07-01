@@ -1,25 +1,5 @@
 [
   {
-    "id": "vegan-challenge",
-    "name": "1 Month Vegan Challenge 2.0",
-    "vendor": "1monthveg",
-    "category": "Cooking, Food & Wine",
-    "niche": "plant-based diet / vegan cooking",
-    "price": "$19 (digital program)",
-    "summary": "A structured 30-day program providing daily vegan meal plans, easy plant-based recipes, and coaching emails to help beginners successfully transition to a vegan lifestyle.",
-    "best_for": "Omnivores curious about plant-based eating, people wanting to reduce meat intake for health or ethical reasons, beginners to vegan cooking.",
-    "keywords": [
-      "how to go vegan for a month",
-      "vegan meal plan for beginners",
-      "plant based diet challenge 30 days",
-      "easy vegan recipes for beginners"
-    ],
-    "clickbank_stats": {
-      "gravity": 11,
-      "approval_required": false
-    }
-  },
-  {
     "id": "keto-breads-desserts",
     "name": "Keto Breads & Keto Desserts",
     "vendor": "gfdesserts",
