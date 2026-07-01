@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull --rebase origin main)",
+      "Bash(git pull --rebase origin main:*)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git add -A)",
+      "Bash(git add *)",
+      "Bash(git commit -m*)",
+      "Bash(git commit*)",
+      "Bash(git push origin main)",
+      "Bash(python generate_site.py)",
+      "Bash(python3 generate_site.py)",
+      "Bash(python -c*)",
+      "Bash(python3 -c*)",
+      "Bash(ls*)",
+      "Bash(cat *)",
+      "Read",
+      "Glob",
+      "Grep"
+    ]
+  }
+}

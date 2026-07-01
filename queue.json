@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "numerologist",
+    "name": "Numerologist.com",
+    "vendor": "numerology",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "numerology / personalized life path readings",
+    "price": "$27 (personalized video report)",
+    "summary": "Delivers personalized video numerology readings that reveal life path insights, personality traits, and future potential through the ancient science of numbers.",
+    "best_for": "Astrology fans, spiritual seekers, and anyone curious about what their birth date and name reveal about their life path and purpose.",
+    "keywords": [
+      "numerology reading online",
+      "life path number meaning",
+      "personalized numerology report",
+      "what does my birth date mean numerology"
+    ],
+    "clickbank_stats": {
+      "gravity": 203,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "vegan-challenge",
+    "name": "1 Month Vegan Challenge 2.0",
+    "vendor": "1monthveg",
+    "category": "Cooking, Food & Wine",
+    "niche": "plant-based diet / vegan cooking",
+    "price": "$19 (digital program)",
+    "summary": "A structured 30-day program providing daily vegan meal plans, easy plant-based recipes, and coaching emails to help beginners successfully transition to a vegan lifestyle.",
+    "best_for": "Omnivores curious about plant-based eating, people wanting to reduce meat intake for health or ethical reasons, beginners to vegan cooking.",
+    "keywords": [
+      "how to go vegan for a month",
+      "vegan meal plan for beginners",
+      "plant based diet challenge 30 days",
+      "easy vegan recipes for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 11,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "keto-breads-desserts",
+    "name": "Keto Breads & Keto Desserts",
+    "vendor": "gfdesserts",
+    "category": "Cooking, Food & Wine",
+    "niche": "keto baking / low-carb recipes",
+    "price": "$37 (digital recipe books)",
+    "summary": "Recipe books by Healing Gourmet featuring grain-free, low-carb breads and guilt-free desserts using keto-friendly ingredients — so you never have to miss your favorites.",
+    "best_for": "People following a ketogenic or low-carb diet who miss bread, cookies, and desserts, plus anyone with gluten sensitivities seeking great-tasting alternatives.",
+    "keywords": [
+      "keto bread recipe book",
+      "low carb dessert recipes easy",
+      "grain free baking cookbook",
+      "keto baking for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 27,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "home-doctor",
+    "name": "The Home Doctor",
+    "vendor": "homedoc",
+    "category": "Self-Help",
+    "niche": "home preparedness / practical first-aid reference",
+    "price": "$37 (physical book + digital bonuses)",
+    "summary": "A 304-page practical preparedness guide written by medical professionals covering wound care, natural remedies, and managing common health situations at home — especially when professional help isn't immediately available.",
+    "best_for": "Self-reliance enthusiasts, rural families, preppers, and anyone who wants a comprehensive home first-aid and preparedness reference on their shelf.",
+    "keywords": [
+      "home doctor book review",
+      "home preparedness medical guide",
+      "self reliant first aid handbook",
+      "practical guide home health emergencies"
+    ],
+    "clickbank_stats": {
+      "gravity": 18,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "rapid-soup-diet",
+    "name": "Rapid Soup Diet",
+    "vendor": "ketosoup82",
+    "category": "Cooking, Food & Wine",
+    "niche": "soup recipes / healthy meal planning",
+    "price": "$37 (digital recipe program)",
+    "summary": "A recipe collection centered on hearty, filling soups designed to make healthy eating simple, satisfying, and repeatable for busy households.",
+    "best_for": "Busy people who want easy weeknight meal prep, soup lovers seeking nutritious comfort food recipes, and anyone who prefers simple whole-food cooking.",
+    "keywords": [
+      "healthy soup recipes for weight loss",
+      "fat burning soup recipe plan",
+      "easy soup diet meal prep",
+      "rapid soup diet program review"
+    ],
+    "clickbank_stats": {
+      "gravity": 10,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "bioenergy-code",
+    "name": "The Bioenergy Code",
+    "vendor": "bienergyco",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "guided meditation / chakra manifestation audio",
+    "price": "$37 (audio program)",
+    "summary": "A guided audio meditation program by Angela Carter that blends ancient chakra wisdom with modern neuroscience techniques to help listeners release blocks and cultivate abundance.",
+    "best_for": "Meditation practitioners, law of attraction enthusiasts, and people exploring spiritual self-development who prefer audio-based guided programs.",
+    "keywords": [
+      "bioenergy code review",
+      "chakra meditation for abundance",
+      "law of attraction audio program",
+      "manifestation meditation guided audio"
+    ],
+    "clickbank_stats": {
+      "gravity": 161,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "his-secret-obsession",
+    "name": "His Secret Obsession",
+    "vendor": "hissecret",
+    "category": "Self-Help",
+    "niche": "relationships / understanding the male psyche",
+    "price": "$47 (digital book + bonuses)",
+    "summary": "A relationship guide by James Bauer revealing the psychological hero instinct — a core male drive — and how women can use it to build deeper, lasting emotional connections.",
+    "best_for": "Women in long-term relationships wanting more commitment and connection, and single women seeking meaningful romantic partnerships.",
+    "keywords": [
+      "his secret obsession review",
+      "hero instinct james bauer book",
+      "how to make a man commit to you",
+      "relationship advice for women book"
+    ],
+    "clickbank_stats": {
+      "gravity": 163,
+      "approval_required": false
+    }
+  }
+]
