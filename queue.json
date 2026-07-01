@@ -1,25 +1,5 @@
 [
   {
-    "id": "numerologist",
-    "name": "Numerologist.com",
-    "vendor": "numerology",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "numerology / personalized life path readings",
-    "price": "$27 (personalized video report)",
-    "summary": "Delivers personalized video numerology readings that reveal life path insights, personality traits, and future potential through the ancient science of numbers.",
-    "best_for": "Astrology fans, spiritual seekers, and anyone curious about what their birth date and name reveal about their life path and purpose.",
-    "keywords": [
-      "numerology reading online",
-      "life path number meaning",
-      "personalized numerology report",
-      "what does my birth date mean numerology"
-    ],
-    "clickbank_stats": {
-      "gravity": 203,
-      "approval_required": false
-    }
-  },
-  {
     "id": "vegan-challenge",
     "name": "1 Month Vegan Challenge 2.0",
     "vendor": "1monthveg",
