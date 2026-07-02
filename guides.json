@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "dog-pooping-house-at-night",
+    "title": "Why Does My Potty-Trained Dog Poop or Pee in the House at Night?",
+    "summary": "A previously reliable dog having nighttime accidents is rarely random — here's how to rule out a medical cause and fix the feeding, water, and walk timing that usually explains it.",
+    "keywords": ["dog pooping in house at night", "potty trained dog having accidents at night", "dog peeing in house at night suddenly", "house trained dog regression"],
+    "related_product_id": "housetrain-any-dog",
+    "date": "2026-07-02",
+    "faqs": [
+      {"q": "Should I take my dog to the vet if they suddenly start having accidents at night?", "a": "Yes, especially if the accidents started suddenly in a previously reliable dog. UTIs, bladder stones, parasites, and hormonal changes can all cause nighttime accidents that look identical to a training lapse, so it's worth ruling out a medical cause before assuming it's behavioral."},
+      {"q": "How long before bed should I pick up my dog's water bowl?", "a": "For most healthy adult dogs, about 1-2 hours before bedtime is enough to reduce overnight accidents without causing dehydration. Puppies, seniors, and dogs on certain medications may need water access longer, so check with your vet before restricting it."},
+      {"q": "Why does my dog poop a few hours after the last walk instead of during it?", "a": "This is usually the gastrocolic reflex — eating triggers the urge to defecate roughly 30-60 minutes later. If dinner is served late or your dog eats again before bed, that reflex can hit well after the last outside trip, in the middle of the night."}
+    ]
+  },
+  {
     "id": "what-size-shed-for-riding-lawn-mower",
     "title": "What Size Shed Do You Need for a Riding Lawn Mower? A Practical Sizing Guide",
     "summary": "How to calculate the right shed size for your specific mower, including the door width, ramp, and extra gear most sizing guides forget to mention.",
