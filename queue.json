@@ -1,25 +1,5 @@
 [
   {
-    "id": "keto-breads-desserts",
-    "name": "Keto Breads & Keto Desserts",
-    "vendor": "gfdesserts",
-    "category": "Cooking, Food & Wine",
-    "niche": "keto baking / low-carb recipes",
-    "price": "$37 (digital recipe books)",
-    "summary": "Recipe books by Healing Gourmet featuring grain-free, low-carb breads and guilt-free desserts using keto-friendly ingredients — so you never have to miss your favorites.",
-    "best_for": "People following a ketogenic or low-carb diet who miss bread, cookies, and desserts, plus anyone with gluten sensitivities seeking great-tasting alternatives.",
-    "keywords": [
-      "keto bread recipe book",
-      "low carb dessert recipes easy",
-      "grain free baking cookbook",
-      "keto baking for beginners"
-    ],
-    "clickbank_stats": {
-      "gravity": 27,
-      "approval_required": false
-    }
-  },
-  {
     "id": "home-doctor",
     "name": "The Home Doctor",
     "vendor": "homedoc",
