@@ -1,25 +1,5 @@
 [
   {
-    "id": "home-doctor",
-    "name": "The Home Doctor",
-    "vendor": "homedoc",
-    "category": "Self-Help",
-    "niche": "home preparedness / practical first-aid reference",
-    "price": "$37 (physical book + digital bonuses)",
-    "summary": "A 304-page practical preparedness guide written by medical professionals covering wound care, natural remedies, and managing common health situations at home — especially when professional help isn't immediately available.",
-    "best_for": "Self-reliance enthusiasts, rural families, preppers, and anyone who wants a comprehensive home first-aid and preparedness reference on their shelf.",
-    "keywords": [
-      "home doctor book review",
-      "home preparedness medical guide",
-      "self reliant first aid handbook",
-      "practical guide home health emergencies"
-    ],
-    "clickbank_stats": {
-      "gravity": 18,
-      "approval_required": false
-    }
-  },
-  {
     "id": "rapid-soup-diet",
     "name": "Rapid Soup Diet",
     "vendor": "ketosoup82",
