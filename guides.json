@@ -76,5 +76,18 @@
       {"q": "Should I buy storage bins before I start decluttering?", "a": "No. Reduce the volume of stuff first, then organize what's left. Buying bins before decluttering just creates neatly organized clutter and often means buying the wrong size or amount of storage."},
       {"q": "How long does it actually take to declutter an overwhelmed home?", "a": "Most people see a genuinely different home within four to six weeks using short, repeatable 15-20 minute sessions. A single weekend rarely fixes years of accumulated clutter, and expecting that sets you up to quit early."}
     ]
+  },
+  {
+    "id": "aquaponics-cloudy-water-fix",
+    "title": "Why Is My Aquaponics Water Cloudy? Causes and How to Fix It",
+    "summary": "Cloudy aquaponics water almost always has one of four causes — a new-system bacterial bloom, overfeeding, suspended solids, or algae — and each one has a distinct fix.",
+    "keywords": ["why is my aquaponics water cloudy", "aquaponics cloudy water fix", "aquaponics water milky", "how to clear cloudy aquaponics water"],
+    "related_product_id": "aquaponics-4-you",
+    "date": "2026-07-04",
+    "faqs": [
+      {"q": "Is cloudy water in a new aquaponics system dangerous for the fish?", "a": "Usually not. A white or gray haze in a system under 6-8 weeks old is typically a bacterial bloom tied to the normal cycling process, and it clears on its own as the nitrifying bacteria colony establishes. It's worth testing ammonia and nitrite to confirm rather than assume, especially if fish show signs of stress."},
+      {"q": "Should I do a water change to fix cloudy aquaponics water?", "a": "Only after you've identified the cause. A large water change during the initial cycling phase can actually remove the bacteria you need and restart the process. Once the system is established, a modest 10-20% change can help speed up clearing alongside fixing the underlying feeding, filtration, or light issue."},
+      {"q": "How long does it take for cloudy aquaponics water to clear up?", "a": "A cycling-related bloom in a new system typically clears within 1-3 weeks. Cloudiness from overfeeding or suspended solids often improves within days once the feeding amount is corrected or filtration is upgraded. Algae blooms clear within about a week of blocking light to the water."}
+    ]
   }
 ]
