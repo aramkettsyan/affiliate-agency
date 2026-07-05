@@ -89,5 +89,18 @@
       {"q": "Should I do a water change to fix cloudy aquaponics water?", "a": "Only after you've identified the cause. A large water change during the initial cycling phase can actually remove the bacteria you need and restart the process. Once the system is established, a modest 10-20% change can help speed up clearing alongside fixing the underlying feeding, filtration, or light issue."},
       {"q": "How long does it take for cloudy aquaponics water to clear up?", "a": "A cycling-related bloom in a new system typically clears within 1-3 weeks. Cloudiness from overfeeding or suspended solids often improves within days once the feeding amount is corrected or filtration is upgraded. Algae blooms clear within about a week of blocking light to the water."}
     ]
+  },
+  {
+    "id": "dog-stomach-gurgling",
+    "title": "Why Is My Dog's Stomach Gurgling So Much? Causes and When to Worry",
+    "summary": "A gurgling dog stomach is usually just normal digestion, but frequent gas and noise paired with other symptoms can signal a gut-health issue worth addressing.",
+    "keywords": ["why is my dog's stomach gurgling", "dog stomach gurgling a lot", "dog stomach making noises and gassy", "dog stomach gurgling and not eating"],
+    "related_product_id": "happy-dog-gut-blueprint",
+    "date": "2026-07-05",
+    "faqs": [
+      {"q": "Is it normal for a dog's stomach to gurgle a lot?", "a": "Occasional gurgling is normal and comes from digestion (borborygmi) and hunger contractions. It becomes a concern when it's frequent, very loud, or paired with vomiting, diarrhea, loss of appetite, or a swollen or painful belly."},
+      {"q": "When should I take my dog to the vet for stomach gurgling?", "a": "See a vet promptly if gurgling is paired with vomiting, diarrhea, lethargy, refusing food, or a hard or swollen abdomen. In large, deep-chested breeds, a swollen belly with unproductive retching can signal bloat, which is a medical emergency."},
+      {"q": "Does eating too fast cause a gurgly, gassy stomach in dogs?", "a": "Yes. Dogs that gulp food or water swallow extra air along with it, which moves through the gut and often comes out as noise, gas, or burping. A slow-feeder bowl can reduce this significantly."}
+    ]
   }
 ]
