@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "billionaire-brain-wave",
+    "name": "Billionaire Brain Wave",
+    "vendor": "ATTRACTBR",
+    "category": "Spirituality",
+    "niche": "manifestation audio",
+    "price": "low-ticket (official page)",
+    "summary": "A brainwave audio program claiming to use theta-wave sound patterns to support an abundance mindset.",
+    "best_for": "Listeners interested in audio-based manifestation and brainwave entrainment routines.",
+    "keywords": [
+      "billionaire brain wave review",
+      "billionaire brain wave audio program",
+      "theta brainwave manifestation",
+      "billionaire brain wave does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 44.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-seer-of-truths",
+    "name": "The Seer of Truths",
+    "vendor": "SEEROFCASH",
+    "category": "Spirituality",
+    "niche": "psychic chat",
+    "price": "low-ticket (official page)",
+    "summary": "A live personalized psychic chat service offering one-on-one readings from a resident psychic.",
+    "best_for": "People who prefer an interactive, personalized psychic chat over a pre-recorded reading.",
+    "keywords": [
+      "the seer of truths review",
+      "live psychic chat online",
+      "personalized psychic reading chat",
+      "seer of truths does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 26.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "soul-manifestation",
+    "name": "Soul Manifestation",
+    "vendor": "00SMANIF",
+    "category": "Spirituality",
+    "niche": "manifestation",
+    "price": "low-ticket (official page)",
+    "summary": "A guided manifestation program combining audio and written exercises meant to help align intentions with the law of attraction.",
+    "best_for": "Beginners to manifestation practice who want a structured, guided routine.",
+    "keywords": [
+      "soul manifestation review",
+      "soul manifestation program",
+      "law of attraction guided course",
+      "soul manifestation does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 23.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "spellsology-tarot-ritual",
+    "name": "Spellsology Tarot & Ritual Combo",
+    "vendor": "TAROTSPELL",
+    "category": "Spirituality",
+    "niche": "tarot and ritual",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized tarot reading paired with a custom ritual or spellcasting session tailored to the buyer's situation.",
+    "best_for": "Tarot and ritual-magic enthusiasts who want a personalized, combined reading-and-ritual experience.",
+    "keywords": [
+      "spellsology review",
+      "personalized tarot reading and ritual",
+      "custom spellcasting service",
+      "tarot ritual combo review"
+    ],
+    "clickbank_stats": {
+      "gravity": 15.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "call-of-destiny",
+    "name": "Call of Destiny",
+    "vendor": "CODESTINY",
+    "category": "Spirituality",
+    "niche": "astrology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized birth-chart astrology reading video that walks through life-path insights based on your exact birth data.",
+    "best_for": "Astrology readers who want a personalized birth-chart breakdown rather than a generic sun-sign horoscope.",
+    "keywords": [
+      "call of destiny review",
+      "call of destiny astrology reading",
+      "personalized birth chart reading",
+      "call of destiny does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 18.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "genius-brain-signal",
+    "name": "Genius Brain Signal",
+    "vendor": "BRAINSIG",
+    "category": "Spirituality",
+    "niche": "brainwave audio",
+    "price": "low-ticket (official page)",
+    "summary": "A brainwave activation audio program pitched as a mental 'signal' to sharpen focus and support manifestation goals.",
+    "best_for": "Listeners already interested in brainwave-audio manifestation products who want a newer option to compare.",
+    "keywords": [
+      "genius brain signal review",
+      "genius brain signal audio",
+      "brainwave activation manifestation",
+      "genius brain signal does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 22.6,
+      "approval_required": false
+    }
+  }
+]
