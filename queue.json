@@ -1,25 +1,5 @@
 [
   {
-    "id": "spellsology-tarot-ritual",
-    "name": "Spellsology Tarot & Ritual Combo",
-    "vendor": "TAROTSPELL",
-    "category": "Spirituality",
-    "niche": "tarot and ritual",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized tarot reading paired with a custom ritual or spellcasting session tailored to the buyer's situation.",
-    "best_for": "Tarot and ritual-magic enthusiasts who want a personalized, combined reading-and-ritual experience.",
-    "keywords": [
-      "spellsology review",
-      "personalized tarot reading and ritual",
-      "custom spellcasting service",
-      "tarot ritual combo review"
-    ],
-    "clickbank_stats": {
-      "gravity": 15.3,
-      "approval_required": false
-    }
-  },
-  {
     "id": "call-of-destiny",
     "name": "Call of Destiny",
     "vendor": "CODESTINY",
