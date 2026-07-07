@@ -115,5 +115,18 @@
       {"q": "When should I take my dog to the vet for stomach gurgling?", "a": "See a vet promptly if gurgling is paired with vomiting, diarrhea, lethargy, refusing food, or a hard or swollen abdomen. In large, deep-chested breeds, a swollen belly with unproductive retching can signal bloat, which is a medical emergency."},
       {"q": "Does eating too fast cause a gurgly, gassy stomach in dogs?", "a": "Yes. Dogs that gulp food or water swallow extra air along with it, which moves through the gut and often comes out as noise, gas, or burping. A slow-feeder bowl can reduce this significantly."}
     ]
+  },
+  {
+    "id": "fix-loose-wood-glue-joint",
+    "title": "Why Won't My Wood Glue Joint Hold? How to Fix and Prevent Loose Joints",
+    "summary": "A failed glue joint almost never means bad glue — it's clamping pressure, surface prep, open time, or the wrong joint for the job. Here's how to fix a loose joint and stop it from happening again.",
+    "keywords": ["why won't my wood glue joint hold", "how to fix a loose wood joint", "wood glue not holding", "how to fix loose furniture joint"],
+    "related_product_id": "tedswoodworking",
+    "date": "2026-07-07",
+    "faqs": [
+      {"q": "Why does my glued joint keep coming apart in the same spot?", "a": "If the same joint fails repeatedly even after re-gluing, the underlying joinery is usually too weak for the stress it's under. Adding mechanical reinforcement like a dowel, biscuit, or bracket alongside the glue is more reliable than re-gluing the same butt joint again."},
+      {"q": "How long should I clamp a wood glue joint before removing the clamps?", "a": "Most PVA wood glues reach handling strength in 30-60 minutes, but the joint isn't at full strength until it cures fully, which takes about 24 hours. Avoid putting any real load or stress on the joint before then, even if it feels solid sooner."},
+      {"q": "Can I just add more glue to a loose joint without taking it apart?", "a": "For joints that are hard to disassemble, working fresh glue into the joint with an injector or thin-tipped applicator and clamping firmly can work, especially if the original failure was due to insufficient glue coverage. If the joint has failed more than once, though, reinforcing it mechanically works better than relying on glue alone."}
+    ]
   }
 ]
