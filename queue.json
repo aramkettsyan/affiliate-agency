@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "newchapterkit-divorce-toolkit",
+    "name": "NewChapterKit Divorce Survival Toolkit",
+    "vendor": "dvrcepath",
+    "category": "Self-Help",
+    "niche": "divorce life transitions",
+    "price": "low-ticket (official page)",
+    "summary": "A digital toolkit of state-by-state divorce law summaries, communication scripts, and a 90-day action plan for people navigating a separation.",
+    "best_for": "People going through or preparing for a divorce who want an organized, practical action plan rather than legal advice.",
+    "keywords": [
+      "newchapterkit review",
+      "divorce survival toolkit",
+      "90 day divorce action plan",
+      "divorce planning guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "inner-wealth-frequency",
+    "name": "The Inner Wealth Frequency",
+    "vendor": "iwfreq",
+    "category": "Spirituality",
+    "niche": "personal development frequency audio",
+    "price": "low-ticket (official page)",
+    "summary": "A calming digital program built around a daily audio ritual meant to help listeners reset focus and build a consistent gratitude and intention practice.",
+    "best_for": "People looking for a simple daily mindfulness or manifestation ritual rather than a long course.",
+    "keywords": [
+      "inner wealth frequency review",
+      "inner wealth frequency audio",
+      "daily manifestation ritual",
+      "inner wealth frequency does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "zolara-oracle",
+    "name": "Zolara Oracle",
+    "vendor": "zolara",
+    "category": "Spirituality",
+    "niche": "astrology oracle readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized oracle reading service blending five divination systems into a single lengthy written reading delivered instantly online.",
+    "best_for": "Astrology and oracle-reading fans who want an in-depth personalized report instead of a generic daily horoscope.",
+    "keywords": [
+      "zolara oracle review",
+      "zolara oracle reading",
+      "personalized oracle reading online",
+      "zolara oracle does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "minor-pentatonic-guitar-course",
+    "name": "Best Minor Pentatonic Guitar Course",
+    "vendor": "alguitar",
+    "category": "Arts & Entertainment",
+    "niche": "guitar lessons music education",
+    "price": "low-ticket (official page)",
+    "summary": "A structured video course teaching intermediate guitarists how to connect pentatonic scale positions across the fretboard to solo confidently in any key.",
+    "best_for": "Intermediate guitarists stuck playing the same scale box who want a clear method for fretboard freedom.",
+    "keywords": [
+      "minor pentatonic guitar course review",
+      "solo in any key guitar",
+      "pentatonic scale positions guitar",
+      "guitar fretboard course"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "reality-morphing",
+    "name": "Reality Morphing",
+    "vendor": "realmorph",
+    "category": "Spirituality",
+    "niche": "manifestation",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation program pitched around a science-inspired mechanism for shifting mindset and habits toward the reality a reader wants to create.",
+    "best_for": "Manifestation and law-of-attraction readers looking for a fresh angle beyond typical affirmation-based programs.",
+    "keywords": [
+      "reality morphing review",
+      "reality morphing manifestation program",
+      "science backed manifestation",
+      "reality morphing does it work"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "drive-by-the-gas-pumps",
+    "name": "Drive by the GA$ Pumps",
+    "vendor": "ljoffgrid",
+    "category": "Green Products",
+    "niche": "DIY electric car off-grid living",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide from long-time off-grid homesteaders on converting or building an inexpensive electric vehicle to cut fuel costs.",
+    "best_for": "DIY and off-grid living enthusiasts who want to reduce fuel spending and are comfortable with hands-on projects.",
+    "keywords": [
+      "drive by the gas pumps review",
+      "diy electric car guide",
+      "build your own electric car",
+      "off grid living electric vehicle"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
