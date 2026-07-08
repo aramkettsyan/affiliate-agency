@@ -274,12 +274,31 @@ guidance and may change &mdash; always verify details on the official product pa
 </div></footer>"""
 
 
+def analytics_head(config):
+    """Google Analytics 4 tag + automatic affiliate-click event tracking.
+    Active only when config['ga_measurement_id'] (e.g. 'G-XXXXXXXXXX') is set."""
+    gid = (config.get("ga_measurement_id") or "").strip()
+    if not gid:
+        return ""
+    tmpl = '''<script async src="https://www.googletagmanager.com/gtag/js?id=GID"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','GID');
+document.addEventListener('click',function(ev){
+  var a=ev.target.closest&&ev.target.closest('a[rel*="sponsored"]');
+  if(a){gtag('event','affiliate_click',{link_url:a.href,link_text:(a.textContent||'').trim().substring(0,80),page_path:location.pathname});}
+},true);
+</script>'''
+    return tmpl.replace("GID", gid)
+
+
 def page_shell(config, roundups, *, title, description, canonical, body,
                og_type="article", schema_objs=None):
     schema = ""
     for obj in (schema_objs or []):
         if obj:
             schema += f'<script type="application/ld+json">{json.dumps(obj)}</script>'
+    analytics = analytics_head(config)
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -291,6 +310,7 @@ def page_shell(config, roundups, *, title, description, canonical, body,
 <meta property="og:description" content="{e(description)}"><meta property="og:url" content="{e(canonical)}">
 <meta property="og:site_name" content="{e(config['site_name'])}">
 <meta name="twitter:card" content="summary_large_image">
+{analytics}
 {schema}<style>{STYLE}</style></head>
 <body>{header_html(config)}
 <main class="wrap">{body}</main>
