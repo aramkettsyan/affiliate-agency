@@ -128,5 +128,18 @@
       {"q": "How long should I clamp a wood glue joint before removing the clamps?", "a": "Most PVA wood glues reach handling strength in 30-60 minutes, but the joint isn't at full strength until it cures fully, which takes about 24 hours. Avoid putting any real load or stress on the joint before then, even if it feels solid sooner."},
       {"q": "Can I just add more glue to a loose joint without taking it apart?", "a": "For joints that are hard to disassemble, working fresh glue into the joint with an injector or thin-tipped applicator and clamping firmly can work, especially if the original failure was due to insufficient glue coverage. If the joint has failed more than once, though, reinforcing it mechanically works better than relying on glue alone."}
     ]
+  },
+  {
+    "id": "is-canned-food-safe-after-expiration-date",
+    "title": "Is Canned Food Still Safe to Eat Years After the Expiration Date?",
+    "summary": "The date on a can is a quality estimate, not a safety cutoff — here's how to actually judge whether an old can is safe, and how to store a canned-food stockpile so it lasts.",
+    "keywords": ["is expired canned food safe to eat", "how long does canned food last past expiration date", "canned food shelf life prepper stockpile", "how to tell if canned food has gone bad"],
+    "related_product_id": "the-lost-superfoods",
+    "date": "2026-07-08",
+    "faqs": [
+      {"q": "Is it safe to eat canned food years after the expiration date?", "a": "In most cases, yes. Commercially canned food is shelf-stable for years past its printed date as long as the can itself is undamaged — no bulging, deep dents, or heavy rust. The date reflects peak quality, not a safety cutoff, and the USDA considers properly sealed canned food safe indefinitely."},
+      {"q": "What's the biggest warning sign that a can has gone bad?", "a": "A bulging or swollen top, bottom, or side is the most serious red flag, since it can indicate gas-producing bacterial activity inside the can. Any can that's swollen, spurts liquid when opened, or smells bad immediately should be discarded without tasting it."},
+      {"q": "Does canned food last as long once you open it?", "a": "No. Once opened, canned food should be treated like any other perishable food. Transfer leftovers to a covered container and refrigerate — low-acid foods like meat and vegetables last about 3-4 days, while high-acid foods like tomatoes and fruit last about 5-7 days."}
+    ]
   }
 ]
