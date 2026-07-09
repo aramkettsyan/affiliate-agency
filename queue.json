@@ -1,21 +1,121 @@
 [
   {
-    "id": "drive-by-the-gas-pumps",
-    "name": "Drive by the GA$ Pumps",
-    "vendor": "ljoffgrid",
-    "category": "Green Products",
-    "niche": "DIY electric car off-grid living",
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology / personalized 2026 reading",
     "price": "low-ticket (official page)",
-    "summary": "A DIY guide from long-time off-grid homesteaders on converting or building an inexpensive electric vehicle to cut fuel costs.",
-    "best_for": "DIY and off-grid living enthusiasts who want to reduce fuel spending and are comfortable with hands-on projects.",
+    "summary": "A personalized astrology reading tied to the 2026 Year of the Horse, aimed at people curious about what the new year holds for their sign.",
+    "best_for": "Astrology fans who enjoy personalized yearly forecasts and horoscope-style content.",
     "keywords": [
-      "drive by the gas pumps review",
-      "diy electric car guide",
-      "build your own electric car",
-      "off grid living electric vehicle"
+      "year of the horse 2026 astrology reading review",
+      "astrology language reading",
+      "2026 horoscope reading",
+      "personalized astrology reading review"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 56.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "septifix-septic-tank-treatment",
+    "name": "SEPTIFIX Septic Tank Treatment",
+    "vendor": "SEPTIFIX",
+    "category": "Green Products",
+    "niche": "septic tank treatment / home maintenance",
+    "price": "low-ticket (official page)",
+    "summary": "A tablet-based septic tank treatment designed to break down waste buildup and help prevent costly septic system backups.",
+    "best_for": "Homeowners with a septic system who want a simple, low-effort maintenance routine.",
+    "keywords": [
+      "septifix review",
+      "septic tank treatment tablets",
+      "how to maintain a septic tank",
+      "septic tank backup prevention"
+    ],
+    "clickbank_stats": {
+      "gravity": 24.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "josephs-well-survival-guide",
+    "name": "Joseph's Well",
+    "vendor": "USWATER1",
+    "category": "Self-Help",
+    "niche": "survival / off-grid water preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide focused on securing a reliable water source at home in case of drought, grid failure, or other water supply disruptions.",
+    "best_for": "Preppers and homesteaders who want a backup plan for household water access.",
+    "keywords": [
+      "joseph's well review",
+      "emergency water supply guide",
+      "drought preparedness at home",
+      "off grid water solution"
+    ],
+    "clickbank_stats": {
+      "gravity": 24.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ez-battery-reconditioning",
+    "name": "EZ Battery Reconditioning",
+    "vendor": "EZBATTERY",
+    "category": "Green Products",
+    "niche": "battery reconditioning / home savings",
+    "price": "low-ticket (official page)",
+    "summary": "A step-by-step course that teaches how to recondition old, worn-out batteries (car, phone, laptop) back to near-full working capacity instead of throwing them out.",
+    "best_for": "Budget-conscious DIYers who want to extend battery life and cut down on replacement costs.",
+    "keywords": [
+      "ez battery reconditioning review",
+      "how to recondition a car battery",
+      "restore old batteries at home",
+      "battery reconditioning course"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "grid-phantom-ai-defense",
+    "name": "The Grid Phantom: AI Defence System",
+    "vendor": "GRIDPHAN",
+    "category": "Self-Help",
+    "niche": "survival / home security preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide covering low-tech ways to protect a household's privacy, security, and essential systems from AI-driven surveillance and automation risks.",
+    "best_for": "Preparedness-minded readers concerned about privacy, surveillance, and tech-driven security risks.",
+    "keywords": [
+      "the grid phantom review",
+      "ai surveillance protection guide",
+      "home security preparedness guide",
+      "protect privacy from ai"
+    ],
+    "clickbank_stats": {
+      "gravity": 14.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-masuda-prayer",
+    "name": "The Masuda Prayer",
+    "vendor": "AFFRH84",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "spirituality / prayer & abundance ritual",
+    "price": "low-ticket (official page)",
+    "summary": "A spiritual audio program built around a traditional-style prayer ritual intended to help listeners focus their mindset toward abundance and positive change.",
+    "best_for": "Readers interested in faith-based or ritual-based manifestation and daily spiritual practice.",
+    "keywords": [
+      "the masuda prayer review",
+      "prayer for abundance",
+      "spiritual manifestation audio",
+      "daily prayer ritual for wealth"
+    ],
+    "clickbank_stats": {
+      "gravity": 20.7,
       "approval_required": false
     }
   }
