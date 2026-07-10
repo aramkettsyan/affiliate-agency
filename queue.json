@@ -1,25 +1,5 @@
 [
   {
-    "id": "josephs-well-survival-guide",
-    "name": "Joseph's Well",
-    "vendor": "USWATER1",
-    "category": "Self-Help",
-    "niche": "survival / off-grid water preparedness",
-    "price": "low-ticket (official page)",
-    "summary": "A preparedness guide focused on securing a reliable water source at home in case of drought, grid failure, or other water supply disruptions.",
-    "best_for": "Preppers and homesteaders who want a backup plan for household water access.",
-    "keywords": [
-      "joseph's well review",
-      "emergency water supply guide",
-      "drought preparedness at home",
-      "off grid water solution"
-    ],
-    "clickbank_stats": {
-      "gravity": 24.8,
-      "approval_required": false
-    }
-  },
-  {
     "id": "ez-battery-reconditioning",
     "name": "EZ Battery Reconditioning",
     "vendor": "EZBATTERY",
