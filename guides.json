@@ -154,5 +154,18 @@
       {"q": "What's the biggest warning sign that a can has gone bad?", "a": "A bulging or swollen top, bottom, or side is the most serious red flag, since it can indicate gas-producing bacterial activity inside the can. Any can that's swollen, spurts liquid when opened, or smells bad immediately should be discarded without tasting it."},
       {"q": "Does canned food last as long once you open it?", "a": "No. Once opened, canned food should be treated like any other perishable food. Transfer leftovers to a covered container and refrigerate — low-acid foods like meat and vegetables last about 3-4 days, while high-acid foods like tomatoes and fruit last about 5-7 days."}
     ]
+  },
+  {
+    "id": "chameleon-turning-black-causes",
+    "title": "Why Is My Chameleon Turning Black? Causes and How to Fix It",
+    "summary": "A darkening chameleon is almost always cold, stressed, or feeling exposed — here's how to tell the difference, fix the setup, and know when it's actually a vet-worthy sign.",
+    "keywords": ["why is my chameleon turning black", "chameleon turning dark stressed", "chameleon color change stress", "why is my chameleon dark all the time"],
+    "related_product_id": "chameleon-care-guide",
+    "date": "2026-07-10",
+    "faqs": [
+      {"q": "Is it normal for a chameleon to turn black sometimes?", "a": "Yes. Brief darkening after handling, during a temperature drop, or when startled is a normal stress response and usually resolves within an hour once the chameleon is warm and left alone in a familiar spot."},
+      {"q": "How long can a chameleon stay dark before it's a problem?", "a": "Occasional darkening that clears within an hour or two is normal. Darkening that persists for multiple days in a row, especially alongside not eating, lethargy, or sunken eyes, points to illness or chronic stress and is worth a reptile vet visit rather than waiting it out."},
+      {"q": "Does turning black mean my chameleon is cold?", "a": "It's one of the most common causes, since dark colors absorb more heat, but it's not the only one. Check the actual basking-spot temperature with a probe thermometer first, then rule out stress from handling, exposure, or a cramped enclosure if the temperature checks out fine."}
+    ]
   }
 ]
