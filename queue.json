@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "pencil-drawing-made-easy",
+    "name": "Pencil Drawing Made Easy",
+    "vendor": "WHATTOPA",
+    "category": "Arts & Entertainment",
+    "niche": "learn realistic pencil drawing",
+    "price": "low-ticket (official page)",
+    "summary": "A video course of over 40 hours teaching realistic pencil drawing fundamentals from a working internet art instructor.",
+    "best_for": "hobbyist artists who want a structured path to realistic pencil portraits and sketches",
+    "keywords": [
+      "learn pencil drawing",
+      "realistic drawing course",
+      "pencil drawing made easy review",
+      "how to draw realistically"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "killer-guitar-control-secrets",
+    "name": "Killer Guitar Control Secrets",
+    "vendor": "GUITARIST3",
+    "category": "Arts & Entertainment",
+    "niche": "lead guitar soloing technique",
+    "price": "low-ticket (official page)",
+    "summary": "A guitar course focused on the mechanics of guitar control so intermediate players can play soulful, expressive lead lines.",
+    "best_for": "guitarists who already know scales but want their lead playing to sound more musical",
+    "keywords": [
+      "lead guitar control course",
+      "killer guitar control secrets review",
+      "improve guitar solos",
+      "guitar lead technique"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "macrame-for-beginners",
+    "name": "Macrame for Beginners",
+    "vendor": "ECOMIRAQGM",
+    "category": "Home & Garden",
+    "niche": "macrame knotting and home decor crafts",
+    "price": "low-ticket (official page)",
+    "summary": "A beginner-friendly digital guide with 100+ macrame projects, patterns, and knot tutorials for handmade home decor.",
+    "best_for": "craft hobbyists who want step-by-step macrame patterns without buying a physical kit",
+    "keywords": [
+      "macrame for beginners",
+      "learn macrame knots",
+      "macrame patterns pdf",
+      "diy macrame home decor"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "complete-plant-based-recipe-cookbook",
+    "name": "The Complete Plant Based Recipe Cookbook",
+    "vendor": "PLANTBC",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan and plant-based recipes",
+    "price": "low-ticket (official page)",
+    "summary": "A 2026-updated digital cookbook with 200+ plant-based recipes and a 30-day vegan meal plan for people transitioning to plant-based eating.",
+    "best_for": "home cooks who want an organized, budget-friendly vegan meal plan rather than scattered recipes online",
+    "keywords": [
+      "plant based recipe cookbook",
+      "vegan meal plan pdf",
+      "easy vegan recipes",
+      "plant based cookbook review"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "smoothie-recipes-ebook",
+    "name": "200 Delicious Smoothie Recipes Ebook",
+    "vendor": "324258",
+    "category": "Cooking, Food & Wine",
+    "niche": "smoothie and juicing recipes",
+    "price": "low-ticket (official page)",
+    "summary": "A digital recipe collection of 200+ smoothie and juice recipes organized by fruit and vegetable type.",
+    "best_for": "people building a daily smoothie habit who want variety beyond the same three recipes",
+    "keywords": [
+      "smoothie recipes ebook",
+      "juicing recipes pdf",
+      "healthy smoothie ideas",
+      "200 smoothie recipes"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized astrology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized video astrology reading tied to the 2026 Year of the Horse, generated from a user's birth details.",
+    "best_for": "astrology enthusiasts curious what the new year holds based on their personal chart",
+    "keywords": [
+      "year of the horse astrology reading",
+      "personalized astrology reading 2026",
+      "chinese zodiac horse year",
+      "free astrology reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 55.8,
+      "approval_required": false
+    }
+  }
+]
