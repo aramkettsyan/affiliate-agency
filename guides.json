@@ -156,6 +156,19 @@
     ]
   },
   {
+    "id": "will-emp-destroy-my-car",
+    "title": "Will an EMP Actually Destroy My Car? What Really Happens",
+    "summary": "Movies make it look like every car dies instantly in an EMP, but real testing tells a very different story — here's what actually happens to vehicles, and where your real vulnerability lies.",
+    "keywords": ["will an emp destroy my car", "does emp affect cars", "emp proof car", "how to protect car from emp"],
+    "related_product_id": "davids-shield-emp-guide",
+    "date": "2026-07-11",
+    "faqs": [
+      {"q": "Will an EMP really stop every car on the road?", "a": "No. Real-world testing, including a 2004 U.S. EMP Commission study on about 50 vehicles, found that only a small number malfunctioned while running, and nearly all restarted normally afterward. A car's metal body provides meaningful, though not perfect, shielding."},
+      {"q": "Are older cars more EMP-resistant than new ones?", "a": "Generally yes. Older vehicles with mechanical fuel systems and minimal onboard electronics have far fewer components an EMP could damage compared to modern cars packed with computer modules, sensors, and drive-by-wire systems."},
+      {"q": "What's more vulnerable to an EMP than my car?", "a": "Small household electronics — phones, laptops, routers, backup radios — are generally more vulnerable, since they lack a car body's shielding and are often connected to household wiring that can act as an antenna for induced current."}
+    ]
+  },
+  {
     "id": "chameleon-turning-black-causes",
     "title": "Why Is My Chameleon Turning Black? Causes and How to Fix It",
     "summary": "A darkening chameleon is almost always cold, stressed, or feeling exposed — here's how to tell the difference, fix the setup, and know when it's actually a vet-worthy sign.",
