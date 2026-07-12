@@ -1,21 +1,161 @@
 [
   {
-    "id": "year-of-the-horse-astrology-reading",
-    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
-    "vendor": "ASTROLAN",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized astrology reading",
+    "id": "air-fountain-water-system",
+    "name": "Air Fountain",
+    "vendor": "DROUGHTUSA",
+    "category": "Self-Help",
+    "niche": "atmospheric water generation / drought preparedness",
     "price": "low-ticket (official page)",
-    "summary": "A personalized video astrology reading tied to the 2026 Year of the Horse, generated from a user's birth details.",
-    "best_for": "astrology enthusiasts curious what the new year holds based on their personal chart",
+    "summary": "A DIY guide showing how to build a simple device that pulls drinking water from the air, aimed at drought-prone areas and off-grid preppers.",
+    "best_for": "preppers and homeowners in drought-prone areas who want a backup water source",
     "keywords": [
-      "year of the horse astrology reading",
-      "personalized astrology reading 2026",
-      "chinese zodiac horse year",
-      "free astrology reading"
+      "air fountain water from air",
+      "atmospheric water generator diy",
+      "drought survival water guide",
+      "emergency water source guide"
     ],
     "clickbank_stats": {
-      "gravity": 55.8,
+      "gravity": 5.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "delete-script-mindset",
+    "name": "Delete Script",
+    "vendor": "PLAYSCRIPT",
+    "category": "Self-Help",
+    "niche": "mindset / negative thought reprogramming",
+    "price": "low-ticket (official page)",
+    "summary": "An audio-based mindset program that walks listeners through a short daily routine designed to interrupt recurring negative thought patterns.",
+    "best_for": "people looking for a simple daily audio routine to work on negative self-talk",
+    "keywords": [
+      "delete script negative thoughts",
+      "mindset reprogramming audio",
+      "stop negative thinking program",
+      "subconscious mindset audio"
+    ],
+    "clickbank_stats": {
+      "gravity": 19.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "forbidden-china-wealth",
+    "name": "Forbidden China Wealth",
+    "vendor": "FORBCHINA",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "wealth manifestation",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation-style video program built around an ancient wealth-attraction concept, paired with audio tools meant to shift money mindset.",
+    "best_for": "manifestation and law-of-attraction audiences interested in wealth mindset content",
+    "keywords": [
+      "forbidden china wealth review",
+      "wealth manifestation program",
+      "law of attraction money",
+      "abundance mindset audio"
+    ],
+    "clickbank_stats": {
+      "gravity": 50.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-money-script",
+    "name": "The Money Script",
+    "vendor": "MONEYSCRIP",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "wealth manifestation",
+    "price": "low-ticket (official page)",
+    "summary": "A short audio-and-video 'script' program pitched as a mindset shift for attracting money, in the same binaural-audio style as other manifestation offers.",
+    "best_for": "listeners of manifestation and abundance audio programs",
+    "keywords": [
+      "the money script review",
+      "money manifestation script",
+      "wealth mindset audio program",
+      "abundance script"
+    ],
+    "clickbank_stats": {
+      "gravity": 19.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "shifting-vibrations-manifestation",
+    "name": "Shifting Vibrations",
+    "vendor": "ASTRAL43",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "wealth manifestation",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation program centered on the idea of raising your personal 'vibration' to attract wealth and opportunity, delivered as video training.",
+    "best_for": "manifestation and law-of-attraction audiences",
+    "keywords": [
+      "shifting vibrations review",
+      "raise your vibration manifestation",
+      "wealth manifestation training",
+      "law of attraction video course"
+    ],
+    "clickbank_stats": {
+      "gravity": 21.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "mysteryschool-code",
+    "name": "MysterySchool Code",
+    "vendor": "MYSTERY42",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "manifestation / ancient wisdom",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation program framed around teachings attributed to ancient Egyptian mystery schools, presented as a path to unlocking abundance.",
+    "best_for": "readers drawn to ancient-wisdom framed manifestation content",
+    "keywords": [
+      "mysteryschool code review",
+      "ancient egyptian manifestation",
+      "law of attraction ancient wisdom",
+      "mystery school teachings"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "seraphina-tarot-reading",
+    "name": "Seraphina Tarot",
+    "vendor": "SERAPHTARO",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized tarot reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized online tarot reading service that generates a custom card spread and interpretation from a few details you provide.",
+    "best_for": "people curious about tarot who want a quick personalized reading",
+    "keywords": [
+      "seraphina tarot reading review",
+      "personalized tarot reading online",
+      "free tarot card reading",
+      "online tarot reading service"
+    ],
+    "clickbank_stats": {
+      "gravity": 12.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "prosperity-birth-code-reading",
+    "name": "Prosperity Birth Code Reading",
+    "vendor": "GETHEAVEN",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "wealth manifestation / birth chart reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized 'birth code' reading pitched as revealing a prosperity blueprint based on your birth details, aimed at the wealth-manifestation audience.",
+    "best_for": "astrology and numerology fans curious about a personalized wealth reading",
+    "keywords": [
+      "prosperity birth code reading review",
+      "personalized wealth reading",
+      "birth code manifestation",
+      "wealth astrology reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 11.6,
       "approval_required": false
     }
   }

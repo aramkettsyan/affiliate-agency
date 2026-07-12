@@ -1805,5 +1805,26 @@
       "healthy smoothie ideas",
       "200 smoothie recipes"
     ]
+  },
+  {
+    "id": "dark-reset-survival-guide",
+    "name": "Dark Reset",
+    "category": "Self-Help",
+    "niche": "survival preparedness guide",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DARKRESET",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 15.0,
+      "approval_required": false
+    },
+    "summary": "A survival preparedness guide built around a grid-down/blackout scenario, walking through practical steps for staying safe and self-sufficient during an extended power outage.",
+    "best_for": "preppers and homeowners who want a practical blackout and grid-down readiness plan",
+    "keywords": [
+      "dark reset survival guide",
+      "blackout preparedness guide",
+      "grid down survival plan",
+      "emergency preparedness ebook"
+    ]
   }
 ]
