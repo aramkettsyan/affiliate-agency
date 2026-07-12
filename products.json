@@ -1763,5 +1763,47 @@
       "pencil drawing made easy review",
       "how to draw realistically"
     ]
+  },
+  {
+    "id": "complete-plant-based-recipe-cookbook",
+    "name": "The Complete Plant Based Recipe Cookbook",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan and plant-based recipes",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=PLANTBC",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.7,
+      "approval_required": false
+    },
+    "summary": "A 2026-updated digital cookbook with 200+ plant-based recipes and a 30-day vegan meal plan for people transitioning to plant-based eating.",
+    "best_for": "home cooks who want an organized, budget-friendly vegan meal plan rather than scattered recipes online",
+    "keywords": [
+      "plant based recipe cookbook",
+      "vegan meal plan pdf",
+      "easy vegan recipes",
+      "plant based cookbook review"
+    ]
+  },
+  {
+    "id": "smoothie-recipes-ebook",
+    "name": "200 Delicious Smoothie Recipes Ebook",
+    "category": "Cooking, Food & Wine",
+    "niche": "smoothie and juicing recipes",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=324258",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.6,
+      "approval_required": false
+    },
+    "summary": "A digital recipe collection of 200+ smoothie and juice recipes organized by fruit and vegetable type.",
+    "best_for": "people building a daily smoothie habit who want variety beyond the same three recipes",
+    "keywords": [
+      "smoothie recipes ebook",
+      "juicing recipes pdf",
+      "healthy smoothie ideas",
+      "200 smoothie recipes"
+    ]
   }
 ]
