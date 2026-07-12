@@ -1826,5 +1826,26 @@
       "grid down survival plan",
       "emergency preparedness ebook"
     ]
+  },
+  {
+    "id": "air-fountain-water-system",
+    "name": "Air Fountain",
+    "category": "Self-Help",
+    "niche": "atmospheric water generation / drought preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DROUGHTUSA",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 5.4,
+      "approval_required": false
+    },
+    "summary": "A DIY guide showing how to build a simple device that pulls drinking water from the air, aimed at drought-prone areas and off-grid preppers.",
+    "best_for": "preppers and homeowners in drought-prone areas who want a backup water source",
+    "keywords": [
+      "air fountain water from air",
+      "atmospheric water generator diy",
+      "drought survival water guide",
+      "emergency water source guide"
+    ]
   }
 ]
