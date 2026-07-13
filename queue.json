@@ -1,25 +1,5 @@
 [
   {
-    "id": "delete-script-mindset",
-    "name": "Delete Script",
-    "vendor": "PLAYSCRIPT",
-    "category": "Self-Help",
-    "niche": "mindset / negative thought reprogramming",
-    "price": "low-ticket (official page)",
-    "summary": "An audio-based mindset program that walks listeners through a short daily routine designed to interrupt recurring negative thought patterns.",
-    "best_for": "people looking for a simple daily audio routine to work on negative self-talk",
-    "keywords": [
-      "delete script negative thoughts",
-      "mindset reprogramming audio",
-      "stop negative thinking program",
-      "subconscious mindset audio"
-    ],
-    "clickbank_stats": {
-      "gravity": 19.2,
-      "approval_required": false
-    }
-  },
-  {
     "id": "forbidden-china-wealth",
     "name": "Forbidden China Wealth",
     "vendor": "FORBCHINA",
