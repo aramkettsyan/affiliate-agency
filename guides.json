@@ -206,5 +206,18 @@
       {"q": "Does using only egg whites fix the eggy taste?", "a": "It helps significantly, since almost all of the egg flavor lives in the yolk rather than the white. Replacing 2-3 whole eggs with egg whites while keeping one or two whole eggs for richness is a common fix that keeps the bread's structure while cutting the eggy taste."},
       {"q": "Will adding vinegar or sweetener make keto bread taste like vinegar or dessert?", "a": "No, not in the small amounts used. About 1 teaspoon of vinegar per 6 eggs and a few drops of liquid stevia are enough to balance and mute the egg flavor without adding a noticeable taste of their own — the same way a splash of acid rounds out a rich sauce."}
     ]
+  },
+  {
+    "id": "crested-gecko-not-eating",
+    "title": "Why Is My Crested Gecko Not Eating? Causes and What to Do",
+    "summary": "A crested gecko that stops eating is usually about temperature, diet, or stress, not illness — here's how to work through the real causes and know when it's time for a vet.",
+    "keywords": ["why is my crested gecko not eating", "crested gecko won't eat", "crested gecko not eating for a week", "crested gecko refusing food"],
+    "related_product_id": "crested-gecko-morph-guide",
+    "date": "2026-07-14",
+    "faqs": [
+      {"q": "How long can a crested gecko go without eating before it's a problem?", "a": "A healthy adult can typically go 10-14 days without food during a normal appetite dip, especially during shedding or brumation, without cause for alarm. Juveniles have far less fat reserve and should be checked sooner, generally within a few days of refusing food, since they can decline faster."},
+      {"q": "Does shedding affect a crested gecko's appetite?", "a": "Yes. Many crested geckos eat less in the day or two before and during a shed. This is a normal, temporary dip and appetite typically returns on its own once the shed is complete."},
+      {"q": "Can the wrong enclosure temperature really stop a crested gecko from eating?", "a": "Yes, and it's one of the most common causes. Crested geckos do best between 72-78°F; temperatures that run too warm or too cold for extended periods can suppress appetite even when the diet and setup are otherwise fine. A digital probe thermometer at gecko height is the most reliable way to check."}
+    ]
   }
 ]
