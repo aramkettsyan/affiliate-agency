@@ -1952,5 +1952,47 @@
       "law of attraction ancient wisdom",
       "mystery school teachings"
     ]
+  },
+  {
+    "id": "seraphina-tarot-reading",
+    "name": "Seraphina Tarot",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized tarot reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SERAPHTARO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 12.3,
+      "approval_required": false
+    },
+    "summary": "A personalized online tarot reading service that generates a custom card spread and interpretation from a few details you provide.",
+    "best_for": "people curious about tarot who want a quick personalized reading",
+    "keywords": [
+      "seraphina tarot reading review",
+      "personalized tarot reading online",
+      "free tarot card reading",
+      "online tarot reading service"
+    ]
+  },
+  {
+    "id": "prosperity-birth-code-reading",
+    "name": "Prosperity Birth Code Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "wealth manifestation / birth chart reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=GETHEAVEN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 11.6,
+      "approval_required": false
+    },
+    "summary": "A personalized 'birth code' reading pitched as revealing a prosperity blueprint based on your birth details, aimed at the wealth-manifestation audience.",
+    "best_for": "astrology and numerology fans curious about a personalized wealth reading",
+    "keywords": [
+      "prosperity birth code reading review",
+      "personalized wealth reading",
+      "birth code manifestation",
+      "wealth astrology reading"
+    ]
   }
 ]
