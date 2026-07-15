@@ -219,5 +219,18 @@
       {"q": "Does shedding affect a crested gecko's appetite?", "a": "Yes. Many crested geckos eat less in the day or two before and during a shed. This is a normal, temporary dip and appetite typically returns on its own once the shed is complete."},
       {"q": "Can the wrong enclosure temperature really stop a crested gecko from eating?", "a": "Yes, and it's one of the most common causes. Crested geckos do best between 72-78°F; temperatures that run too warm or too cold for extended periods can suppress appetite even when the diet and setup are otherwise fine. A digital probe thermometer at gecko height is the most reliable way to check."}
     ]
+  },
+  {
+    "id": "septic-tank-smells-outside",
+    "title": "Why Does My Septic Tank Smell Bad Outside? Causes and How to Fix It",
+    "summary": "Outdoor septic odor almost always traces back to a blocked vent, a cracked lid, an overdue tank, or a struggling drain field — here's how to diagnose the real cause and stop it.",
+    "keywords": ["why does my septic tank smell outside", "septic tank smell in yard", "how to get rid of septic smell outside", "septic tank odor causes"],
+    "related_product_id": "septifix-septic-tank-treatment",
+    "date": "2026-07-15",
+    "faqs": [
+      {"q": "How often should a septic tank be pumped to avoid odor problems?", "a": "Most residential tanks need pumping every 3-5 years depending on household size and tank capacity. A tank that's overdue for pumping is one of the most common causes of sudden outdoor sewer odor, so checking your last service date is a good first step."},
+      {"q": "Can a septic tank smell bad even if it doesn't need pumping yet?", "a": "Yes. A cracked or poorly sealed tank lid or riser, a blocked vent pipe, or a soggy drain field can all cause noticeable outdoor odor even when the tank itself isn't full. Location and weather, like still humid air or a low-lying yard, can also make a minor amount of normal gas more noticeable."},
+      {"q": "Do septic tank treatment products actually help with odor?", "a": "Tablet-based treatments work by supporting the bacterial balance that breaks down waste inside the tank, which is the root cause of a lot of gradual odor buildup. They're a maintenance step, not a fix for a cracked lid or an overdue pump-out, but keeping that bacterial ecosystem healthy helps prevent the buildup that leads to odor and backups in the first place."}
+    ]
   }
 ]
