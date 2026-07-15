@@ -2057,5 +2057,68 @@
       "soulmate portrait reading",
       "eva bloom psychic review"
     ]
+  },
+  {
+    "id": "save-the-marriage-system",
+    "name": "Save The Marriage System",
+    "category": "Self-Help",
+    "niche": "marriage counseling / relationship-saving guide",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=savmarriag",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 8.9,
+      "approval_required": false
+    },
+    "summary": "A bestselling marriage-saving course aimed at couples trying to work through serious relationship trouble before considering separation.",
+    "best_for": "married couples looking for a structured, self-paced program to rebuild their relationship",
+    "keywords": [
+      "save the marriage system review",
+      "how to save a marriage",
+      "marriage counseling course online",
+      "stop divorce relationship program"
+    ]
+  },
+  {
+    "id": "the-ex-factor-2",
+    "name": "The Ex Factor 2.0",
+    "category": "Self-Help",
+    "niche": "get-your-ex-back relationship guide",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=brbrowning",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 14.5,
+      "approval_required": false
+    },
+    "summary": "A step-by-step guide for reconnecting with an ex-partner, covering common relationship-repair mistakes and a structured reconciliation process.",
+    "best_for": "readers going through a breakup who want a clear plan for reconciliation",
+    "keywords": [
+      "ex factor 2.0 review",
+      "how to get your ex back",
+      "relationship reconciliation guide",
+      "get ex back program"
+    ]
+  },
+  {
+    "id": "text-chemistry",
+    "name": "Text Chemistry",
+    "category": "Self-Help",
+    "niche": "text-message based dating/relationship guide for women",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=textchem",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 6.2,
+      "approval_required": false
+    },
+    "summary": "A texting-focused dating guide teaching women specific message techniques meant to build attraction and connection with a partner.",
+    "best_for": "women looking for practical texting scripts and communication tips while dating",
+    "keywords": [
+      "text chemistry review",
+      "amy north texting guide",
+      "texts to build attraction",
+      "dating texting tips for women"
+    ]
   }
 ]

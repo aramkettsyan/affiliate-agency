@@ -1,101 +1,81 @@
 [
   {
-    "id": "year-of-the-horse-astrology-reading",
-    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
-    "vendor": "ASTROLAN",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized astrology / new year reading",
+    "id": "the-devotion-system",
+    "name": "The Devotion System",
+    "vendor": "amynorth",
+    "category": "Self-Help",
+    "niche": "dating/relationship guide for women",
     "price": "low-ticket (official page)",
-    "summary": "A personalized 2026 astrology reading tied to the Year of the Horse, aimed at readers curious about what the new year holds for their sign.",
-    "best_for": "an astrology-curious audience interested in yearly forecasts and new-year themed content",
+    "summary": "A relationship-psychology guide for women focused on building lasting emotional commitment and attraction with a partner.",
+    "best_for": "women wanting a deeper, commitment-focused approach to dating advice",
     "keywords": [
-      "year of the horse 2026 reading",
-      "astrology language reading review",
-      "2026 astrology forecast",
-      "personalized new year astrology reading"
+      "the devotion system review",
+      "amy north devotion system",
+      "how to make him commit",
+      "relationship psychology guide women"
     ],
     "clickbank_stats": {
-      "gravity": 60.7,
+      "gravity": 7.6,
       "approval_required": false
     }
   },
   {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "SOULVOICE",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized soulmate sketch / psychic art",
+    "id": "relationship-rewrite",
+    "name": "Relationship Rewrite Method",
+    "vendor": "rewritehim",
+    "category": "Self-Help",
+    "niche": "get-your-ex-back guide for women",
     "price": "low-ticket (official page)",
-    "summary": "A personalized psychic sketch service that generates a portrait of a user's described soulmate based on intuitive/astrological input.",
-    "best_for": "readers interested in soulmate and relationship-themed psychic entertainment",
+    "summary": "A relationship-repair guide aimed at women trying to win back an ex-partner using psychology-based communication techniques.",
+    "best_for": "women navigating a breakup who want a structured reconciliation approach",
     "keywords": [
-      "tara lunar soulmate sketch review",
-      "psychic soulmate sketch",
-      "personalized soulmate portrait",
-      "soulmate drawing reading"
+      "relationship rewrite method review",
+      "how to get your ex back for women",
+      "ex back guide women",
+      "relationship reconciliation program"
     ],
     "clickbank_stats": {
-      "gravity": 43.1,
+      "gravity": 9.1,
       "approval_required": false
     }
   },
   {
-    "id": "soulmate-story-sketch",
-    "name": "Soulmate Story",
-    "vendor": "SOULMSTORY",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized soulmate sketch / psychic art",
+    "id": "language-of-desire",
+    "name": "Language of Desire",
+    "vendor": "lodesire",
+    "category": "Self-Help",
+    "niche": "dating/relationship guide for women",
     "price": "low-ticket (official page)",
-    "summary": "A personalized soulmate sketch offer with an astrology-driven narrative angle, delivering a custom portrait based on the user's answers.",
-    "best_for": "readers who enjoy narrative-style soulmate and astrology readings",
+    "summary": "A long-running relationship and communication guide for women focused on deepening emotional and romantic connection with a partner.",
+    "best_for": "women looking to strengthen communication and intimacy in an existing relationship",
     "keywords": [
-      "soulmate story sketch review",
-      "personalized soulmate sketch",
-      "astrology soulmate portrait",
-      "soulmate reading online"
+      "language of desire review",
+      "felicity keith relationship guide",
+      "how to deepen connection with partner",
+      "relationship communication guide women"
     ],
     "clickbank_stats": {
-      "gravity": 26.5,
+      "gravity": 6.6,
       "approval_required": false
     }
   },
   {
-    "id": "original-astro-lover-sketch",
-    "name": "Original Astro Lover Sketch",
-    "vendor": "ASTROSKETC",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized soulmate sketch / astrology art",
+    "id": "make-him-worship-you",
+    "name": "Make Him Worship You",
+    "vendor": "makehimw",
+    "category": "Self-Help",
+    "niche": "dating/relationship guide for women",
     "price": "low-ticket (official page)",
-    "summary": "An astrology-based soulmate sketch funnel that pairs a personalized portrait with an astrological compatibility narrative.",
-    "best_for": "astrology and psychic-niche readers looking for a soulmate-focused reading",
+    "summary": "A relationship guide for women built around psychology-based techniques meant to deepen a partner's emotional attachment and appreciation.",
+    "best_for": "women wanting relationship-building techniques rooted in relationship psychology",
     "keywords": [
-      "astro lover sketch review",
-      "astrology soulmate sketch",
-      "personalized love sketch reading",
-      "soulmate portrait astrology"
+      "make him worship you review",
+      "chris haddad relationship guide",
+      "how to deepen his attraction",
+      "relationship psychology guide women"
     ],
     "clickbank_stats": {
-      "gravity": 21.4,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "balinese-soulmate-sketch",
-    "name": "Balinese Soulmate Sketch",
-    "vendor": "TRUELOVEOR",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized soulmate sketch / psychic art",
-    "price": "low-ticket (official page)",
-    "summary": "A soulmate sketch offer built around a Balinese channeling story, delivering a personalized portrait and reading of the user's soulmate.",
-    "best_for": "readers drawn to culturally-themed psychic and soulmate content",
-    "keywords": [
-      "balinese soulmate sketch review",
-      "soulmate sketch reading",
-      "personalized soulmate art",
-      "psychic soulmate portrait"
-    ],
-    "clickbank_stats": {
-      "gravity": 18.4,
+      "gravity": 6.0,
       "approval_required": false
     }
   }
