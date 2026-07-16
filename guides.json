@@ -232,5 +232,18 @@
       {"q": "Can a septic tank smell bad even if it doesn't need pumping yet?", "a": "Yes. A cracked or poorly sealed tank lid or riser, a blocked vent pipe, or a soggy drain field can all cause noticeable outdoor odor even when the tank itself isn't full. Location and weather, like still humid air or a low-lying yard, can also make a minor amount of normal gas more noticeable."},
       {"q": "Do septic tank treatment products actually help with odor?", "a": "Tablet-based treatments work by supporting the bacterial balance that breaks down waste inside the tank, which is the root cause of a lot of gradual odor buildup. They're a maintenance step, not a fix for a cracked lid or an overdue pump-out, but keeping that bacterial ecosystem healthy helps prevent the buildup that leads to odor and backups in the first place."}
     ]
+  },
+  {
+    "id": "one-car-garage-woodworking-shop-layout",
+    "title": "How to Set Up a Small Woodworking Shop in a One-Car Garage",
+    "summary": "A one-car garage can run a real woodworking shop if the layout follows workflow, tools go on wheels, and storage moves onto the walls — here's a practical, step-by-step setup approach.",
+    "keywords": ["how to set up a small woodworking shop in a garage", "one car garage woodworking shop layout", "small garage workshop setup", "garage woodworking shop ideas"],
+    "related_product_id": "ultimate-small-shop",
+    "date": "2026-07-16",
+    "faqs": [
+      {"q": "How much floor space do I actually need for a one-car garage woodworking shop?", "a": "Most one-car garages run 12x22 to 14x24 feet, and after accounting for the door swing and any utilities, that's enough for a table saw, workbench, and modest lumber storage as long as major tools are mobile and storage is wall-mounted rather than floor-based."},
+      {"q": "Do I need a dedicated dust collection system in a small garage shop?", "a": "Not to start. A portable shop vacuum with a dust-collection port, moved between tools as you switch tasks, combined with an ambient air filter or box-fan-and-furnace-filter setup, meaningfully improves air quality without the cost or ducting of a full dust collection system."},
+      {"q": "What electrical upgrades does a garage need before adding woodworking tools?", "a": "At minimum, check whether your outlets can handle a dedicated 20-amp circuit for larger tools, keep lighting on a separate circuit from tool outlets, and confirm 240-volt service if your equipment calls for it. If the existing panel and wiring are genuinely insufficient, that's worth a licensed electrician rather than relying on extension cords."}
+    ]
   }
 ]
