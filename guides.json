@@ -245,5 +245,18 @@
       {"q": "Do I need a dedicated dust collection system in a small garage shop?", "a": "Not to start. A portable shop vacuum with a dust-collection port, moved between tools as you switch tasks, combined with an ambient air filter or box-fan-and-furnace-filter setup, meaningfully improves air quality without the cost or ducting of a full dust collection system."},
       {"q": "What electrical upgrades does a garage need before adding woodworking tools?", "a": "At minimum, check whether your outlets can handle a dedicated 20-amp circuit for larger tools, keep lighting on a separate circuit from tool outlets, and confirm 240-volt service if your equipment calls for it. If the existing panel and wiring are genuinely insufficient, that's worth a licensed electrician rather than relying on extension cords."}
     ]
+  },
+  {
+    "id": "tiny-house-diy-cost-breakdown",
+    "title": "How Much Does It Cost to Build a Tiny House Yourself? A Realistic Line-Item Budget",
+    "summary": "DIY tiny house costs range from $15,000 to $60,000 because most estimates skip categories like systems, permits, and contingency — here's a full line-item breakdown so you can budget your own build accurately.",
+    "keywords": ["how much does it cost to build a tiny house yourself", "diy tiny house budget breakdown", "cost to build a tiny house on wheels yourself", "cheapest way to build a tiny house"],
+    "related_product_id": "tiny-house-made-easy",
+    "date": "2026-07-17",
+    "faqs": [
+      {"q": "What is the cheapest way to build a tiny house yourself?", "a": "Using a used but structurally sound trailer, reclaimed or secondhand materials for the interior finish, metal or vinyl siding instead of wood, and doing as much of the framing and finish work yourself as your skills and local permitting allow are the biggest cost levers. Materials for the shell and systems (electrical, plumbing, HVAC) are much harder to cut without compromising safety or durability."},
+      {"q": "Can I really build a tiny house for $15,000?", "a": "It's possible but requires an unusually favorable combination of a free or very cheap trailer, heavy use of reclaimed materials, minimal systems (no full plumbing or mini-split), and mostly your own labor with no paid subcontractors. Most builders who track every expense land closer to $25,000-$45,000 for a comfortable, fully-livable result."},
+      {"q": "Do I need a permit to build a tiny house myself?", "a": "It depends heavily on your state, county, and whether the house is built on a trailer (often treated as an RV) or a permanent foundation. Requirements range from none at all to full building permits and inspections, so check your specific local rules before starting the build rather than after."}
+    ]
   }
 ]
