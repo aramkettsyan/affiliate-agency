@@ -258,5 +258,18 @@
       {"q": "Can I really build a tiny house for $15,000?", "a": "It's possible but requires an unusually favorable combination of a free or very cheap trailer, heavy use of reclaimed materials, minimal systems (no full plumbing or mini-split), and mostly your own labor with no paid subcontractors. Most builders who track every expense land closer to $25,000-$45,000 for a comfortable, fully-livable result."},
       {"q": "Do I need a permit to build a tiny house myself?", "a": "It depends heavily on your state, county, and whether the house is built on a trailer (often treated as an RV) or a permanent foundation. Requirements range from none at all to full building permits and inspections, so check your specific local rules before starting the build rather than after."}
     ]
+  },
+  {
+    "id": "how-to-transition-dog-to-homemade-food",
+    "title": "How to Transition a Dog to Homemade Food Without Upset Stomach",
+    "summary": "A gradual 7–10 day mix schedule, portion tips, and troubleshooting for soft stool, picky eating, and gas when switching from kibble to homemade meals.",
+    "keywords": ["how to transition dog to homemade food", "switching dog from kibble to homemade", "homemade dog food transition schedule", "dog upset stomach after homemade food"],
+    "related_product_id": "homemade-dog-food-without-secrets",
+    "date": "2026-07-21",
+    "faqs": [
+      {"q": "How long should it take to switch a dog from kibble to homemade food?", "a": "Most healthy adult dogs do well on a 7–10 day gradual mix. Sensitive dogs, puppies, and seniors often need the slower end of that range, and you should hold a mix stage longer if stools soften before increasing the homemade share."},
+      {"q": "Can I switch my dog to homemade food overnight?", "a": "It is not recommended. An abrupt swap is a common trigger for diarrhea, gas, and appetite dips because the gut microbiome has not had time to adapt to the new moisture, fat, and fiber profile."},
+      {"q": "When should I call the vet during a homemade food transition?", "a": "Pause and call your veterinarian if your dog has repeated vomiting, watery diarrhea, blood in stool, lethargy, or stops drinking. Soft stool for a day or two without other symptoms is common; those red-flag signs are not."}
+    ]
   }
 ]
