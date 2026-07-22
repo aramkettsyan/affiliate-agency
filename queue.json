@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "build-a-chicken-coop",
+    "name": "How To Build A Chicken Coop",
+    "vendor": "CHICKCOOP",
+    "category": "Home & Garden",
+    "niche": "DIY chicken coop plans",
+    "price": "low-ticket (official page)",
+    "summary": "A long-running digital guide with chicken coop building plans, materials lists, and layouts for backyard homesteaders and families raising hens.",
+    "best_for": "backyard homesteaders and families who want to build their own coop instead of buying a kit",
+    "keywords": [
+      "how to build a chicken coop",
+      "chicken coop plans pdf",
+      "diy backyard chicken coop",
+      "building a chicken coop review"
+    ],
+    "clickbank_stats": {
+      "gravity": 8.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "cat-spraying-no-more",
+    "name": "Cat Spraying No More",
+    "vendor": "CATSPRAY",
+    "category": "Home & Garden",
+    "niche": "cat spraying & marking behavior",
+    "price": "low-ticket (official page)",
+    "summary": "A focused digital guide explaining why cats spray outside the litter box and how to stop and prevent marking with behavioral and environmental fixes.",
+    "best_for": "cat owners dealing with spraying, marking, or urinating outside the litter box",
+    "keywords": [
+      "cat spraying no more review",
+      "how to stop cat spraying",
+      "cat marking territory indoors",
+      "stop cat peeing outside litter box"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ideas-4-landscaping",
+    "name": "Ideas 4 Landscaping",
+    "vendor": "IDEAS4LAND",
+    "category": "Home & Garden",
+    "niche": "landscape design & gardening plans",
+    "price": "low-ticket (official page)",
+    "summary": "A digital landscaping resource with design ideas, layouts, and planning guidance for homeowners who want to improve curb appeal and outdoor spaces.",
+    "best_for": "homeowners planning a yard makeover who want structured landscaping ideas rather than random Pinterest pins",
+    "keywords": [
+      "ideas 4 landscaping review",
+      "backyard landscaping design ideas",
+      "home landscaping plans",
+      "diy landscape design guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 5.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "parrot-secrets",
+    "name": "Parrot Secrets",
+    "vendor": "PARROTSEC",
+    "category": "Home & Garden",
+    "niche": "parrot training & care",
+    "price": "low-ticket (official page)",
+    "summary": "A comprehensive parrot training ebook covering biting, trick training, speech, diet, and care — aimed at owners of companion parrots and cockatiels.",
+    "best_for": "parrot owners who need practical training help for biting, screaming, or bonding",
+    "keywords": [
+      "parrot secrets review",
+      "how to train a parrot",
+      "stop parrot biting",
+      "parrot training ebook"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "build-a-container-home",
+    "name": "Build A Container Home",
+    "vendor": "BUILDACONT",
+    "category": "Home & Garden",
+    "niche": "shipping container home building",
+    "price": "low-ticket (official page)",
+    "summary": "A digital guide to designing and building a home from shipping containers, covering planning, insulation, layout, and step-by-step construction.",
+    "best_for": "DIY builders interested in affordable alternative housing and container-home projects",
+    "keywords": [
+      "build a container home review",
+      "shipping container house plans",
+      "diy container home guide",
+      "container home construction ebook"
+    ],
+    "clickbank_stats": {
+      "gravity": 6.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "diy-home-energy",
+    "name": "DIY Home Energy",
+    "vendor": "DIYHOMEENE",
+    "category": "Green Products",
+    "niche": "DIY solar & home energy savings",
+    "price": "low-ticket (official page)",
+    "summary": "A video-and-guide course on building a compact home solar setup and cutting electricity costs, aimed at DIY-minded homeowners.",
+    "best_for": "homeowners and off-grid enthusiasts who want hands-on solar and energy-independence projects",
+    "keywords": [
+      "diy home energy review",
+      "build home solar system diy",
+      "reduce electric bill solar",
+      "home energy independence guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 12.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "diy-dish-system",
+    "name": "DIY Dish System",
+    "vendor": "DISHSYS",
+    "category": "Green Products",
+    "niche": "DIY satellite dish energy system",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY green-energy guide built around repurposing satellite dish components into a home power setup — popular in the prepper and energy-savings niche.",
+    "best_for": "DIY and preparedness audiences interested in unconventional home energy projects",
+    "keywords": [
+      "diy dish system review",
+      "satellite dish power diy",
+      "home energy diy guide",
+      "off grid power project"
+    ],
+    "clickbank_stats": {
+      "gravity": 18.0,
+      "approval_required": false
+    }
+  }
+]

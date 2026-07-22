@@ -2288,5 +2288,68 @@
       "how to make dog food at home",
       "healthy homemade dog food guide"
     ]
+  },
+  {
+    "id": "woodworkers-treasure-chest",
+    "name": "Woodworkers Treasure Chest",
+    "category": "Home & Garden",
+    "niche": "woodworking plans & project library",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LRFAST",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.1,
+      "approval_required": false
+    },
+    "summary": "A digital woodworking resource with done-for-you project plans and tools aimed at hobbyists who want fresh ideas beyond a single plan pack.",
+    "best_for": "weekend woodworkers and DIY hobbyists looking for an organized project library",
+    "keywords": [
+      "woodworkers treasure chest review",
+      "woodworking project library",
+      "diy woodworking plans",
+      "woodworking hobby resource"
+    ]
+  },
+  {
+    "id": "furniture-craft-plans",
+    "name": "Furniture Craft Plans",
+    "category": "Home & Garden",
+    "niche": "furniture woodworking plans",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FCRAFTPLAN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "approval_required": false
+    },
+    "summary": "A large digital library of 9,000+ furniture and craft woodworking plans with detailed blueprints for tables, beds, desks, and home projects.",
+    "best_for": "DIY woodworkers who want furniture-specific plans with cut lists and step-by-step instructions",
+    "keywords": [
+      "furniture craft plans review",
+      "wood furniture plans pdf",
+      "diy furniture woodworking",
+      "downloadable furniture blueprints"
+    ]
+  },
+  {
+    "id": "knitting-for-profit",
+    "name": "Knitting For Profit",
+    "category": "Home & Garden",
+    "niche": "knitting & crochet side income",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BOWMANRES",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    },
+    "summary": "A step-by-step guide showing how to turn knitting or crochet skills into a small home-based craft business, from pricing to finding buyers.",
+    "best_for": "hobby knitters and crocheters who want to sell handmade items or patterns online",
+    "keywords": [
+      "knitting for profit review",
+      "sell handmade knitting online",
+      "crochet business from home",
+      "make money knitting hobby"
+    ]
   }
 ]
