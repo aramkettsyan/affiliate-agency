@@ -1,25 +1,5 @@
 [
   {
-    "id": "build-a-chicken-coop",
-    "name": "How To Build A Chicken Coop",
-    "vendor": "CHICKCOOP",
-    "category": "Home & Garden",
-    "niche": "DIY chicken coop plans",
-    "price": "low-ticket (official page)",
-    "summary": "A long-running digital guide with chicken coop building plans, materials lists, and layouts for backyard homesteaders and families raising hens.",
-    "best_for": "backyard homesteaders and families who want to build their own coop instead of buying a kit",
-    "keywords": [
-      "how to build a chicken coop",
-      "chicken coop plans pdf",
-      "diy backyard chicken coop",
-      "building a chicken coop review"
-    ],
-    "clickbank_stats": {
-      "gravity": 8.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "cat-spraying-no-more",
     "name": "Cat Spraying No More",
     "vendor": "CATSPRAY",
