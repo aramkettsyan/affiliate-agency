@@ -271,5 +271,18 @@
       {"q": "Can I switch my dog to homemade food overnight?", "a": "It is not recommended. An abrupt swap is a common trigger for diarrhea, gas, and appetite dips because the gut microbiome has not had time to adapt to the new moisture, fat, and fiber profile."},
       {"q": "When should I call the vet during a homemade food transition?", "a": "Pause and call your veterinarian if your dog has repeated vomiting, watery diarrhea, blood in stool, lethargy, or stops drinking. Soft stool for a day or two without other symptoms is common; those red-flag signs are not."}
     ]
+  },
+  {
+    "id": "how-to-recondition-car-battery-wont-hold-charge",
+    "title": "How to Recondition a Car Battery That Won't Hold a Charge",
+    "summary": "A battery that dies quickly often has mild sulfation, not a dead cell — here's how to test voltage, use a desulfation charger, safely try an Epsom salt refresh, and know when replacement is smarter.",
+    "keywords": ["how to recondition a car battery that won't hold charge", "car battery won't hold charge fix", "battery sulfation reconditioning", "desulfate car battery at home"],
+    "related_product_id": "ez-battery-reconditioning",
+    "date": "2026-07-22",
+    "faqs": [
+      {"q": "Can you recondition a car battery that won't hold a charge?", "a": "Often yes, if resting voltage stays between about 10 and 12.5 volts, the case is undamaged, and the battery is a serviceable flooded lead-acid type. Below 10 volts usually means a dead cell, and physical damage or sealed AGM/gel batteries limit what DIY reconditioning can do."},
+      {"q": "How long does it take to recondition a sulfated car battery?", "a": "A smart charger's desulfation mode typically needs 24 to 48 hours. An Epsom salt electrolyte refresh plus a slow 2-amp charge usually takes 24 to 36 hours. Rushing with high-amperage fast charging tends to overheat plates and makes recovery less likely."},
+      {"q": "Is Epsom salt better than a desulfation charger for fixing a weak battery?", "a": "For most people, a desulfation or recondition mode on a smart charger is safer and easier because it does not require opening cells or handling acid. Epsom salt refresh is a second-step option for accessible flooded batteries when pulse charging alone did not restore enough capacity."}
+    ]
   }
 ]
