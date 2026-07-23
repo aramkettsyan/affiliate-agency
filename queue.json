@@ -1,25 +1,5 @@
 [
   {
-    "id": "build-a-container-home",
-    "name": "Build A Container Home",
-    "vendor": "BUILDACONT",
-    "category": "Home & Garden",
-    "niche": "shipping container home building",
-    "price": "low-ticket (official page)",
-    "summary": "A digital guide to designing and building a home from shipping containers, covering planning, insulation, layout, and step-by-step construction.",
-    "best_for": "DIY builders interested in affordable alternative housing and container-home projects",
-    "keywords": [
-      "build a container home review",
-      "shipping container house plans",
-      "diy container home guide",
-      "container home construction ebook"
-    ],
-    "clickbank_stats": {
-      "gravity": 6.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "diy-home-energy",
     "name": "DIY Home Energy",
     "vendor": "DIYHOMEENE",
