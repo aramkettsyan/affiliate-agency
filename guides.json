@@ -284,5 +284,18 @@
       {"q": "How long does it take to recondition a sulfated car battery?", "a": "A smart charger's desulfation mode typically needs 24 to 48 hours. An Epsom salt electrolyte refresh plus a slow 2-amp charge usually takes 24 to 36 hours. Rushing with high-amperage fast charging tends to overheat plates and makes recovery less likely."},
       {"q": "Is Epsom salt better than a desulfation charger for fixing a weak battery?", "a": "For most people, a desulfation or recondition mode on a smart charger is safer and easier because it does not require opening cells or handling acid. Epsom salt refresh is a second-step option for accessible flooded batteries when pulse charging alone did not restore enough capacity."}
     ]
+  },
+  {
+    "id": "why-does-my-parrot-bite-me-suddenly",
+    "title": "Why Does My Parrot Bite Me Suddenly? Causes and How to Stop It",
+    "summary": "Sudden parrot biting almost always has an identifiable cause — redirected aggression, hormones, fear, or pain — and a missed warning sign you can learn to catch.",
+    "keywords": ["why does my parrot bite me suddenly", "parrot biting out of nowhere", "how to stop parrot from biting", "parrot bite warning signs"],
+    "related_product_id": "parrot-secrets",
+    "date": "2026-07-23",
+    "faqs": [
+      {"q": "Why does my parrot bite me for no reason?", "a": "It's rarely truly for no reason. Common causes include redirected aggression from something else upsetting the bird, hormonal or seasonal behavior, fear or being startled, pain or illness, or a subtle warning sign that was missed. Tracking the time, activity, and body language right before a bite usually reveals a clear pattern."},
+      {"q": "What body language do parrots show right before they bite?", "a": "Common pre-bite signals include the eyes rapidly widening and narrowing (pinning), feathers puffing up or slicking down tight, the body crouching low or leaning away, tail fanning, and a raised foot. These signals are usually there a few seconds before a bite, even when the bite feels sudden to the owner."},
+      {"q": "Should I punish my parrot for biting?", "a": "No. Hitting, flicking, or yelling at a parrot for biting damages trust and often makes biting worse, since it can teach the bird to fear or preemptively attack hands. Staying calm, setting the bird down, and taking a short break is a more effective response."}
+    ]
   }
 ]
