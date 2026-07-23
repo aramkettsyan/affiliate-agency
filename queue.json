@@ -1,41 +1,41 @@
 [
   {
-    "id": "diy-home-energy",
-    "name": "DIY Home Energy",
-    "vendor": "DIYHOMEENE",
-    "category": "Green Products",
-    "niche": "DIY solar & home energy savings",
+    "id": "original-astro-lover-sketch",
+    "name": "Original Astro Lover Sketch",
+    "vendor": "ASTROSKETC",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology-based soulmate sketch",
     "price": "low-ticket (official page)",
-    "summary": "A video-and-guide course on building a compact home solar setup and cutting electricity costs, aimed at DIY-minded homeowners.",
-    "best_for": "homeowners and off-grid enthusiasts who want hands-on solar and energy-independence projects",
+    "summary": "An astrology-based soulmate sketch funnel that combines birth-chart details with a personalized drawing of a future partner.",
+    "best_for": "astrology fans wanting a personalized soulmate sketch tied to their birth chart",
     "keywords": [
-      "diy home energy review",
-      "build home solar system diy",
-      "reduce electric bill solar",
-      "home energy independence guide"
+      "astro lover sketch review",
+      "astrology soulmate sketch",
+      "birth chart soulmate drawing",
+      "psychic astrology sketch reading"
     ],
     "clickbank_stats": {
-      "gravity": 12.0,
+      "gravity": 19.2,
       "approval_required": false
     }
   },
   {
-    "id": "diy-dish-system",
-    "name": "DIY Dish System",
-    "vendor": "DISHSYS",
-    "category": "Green Products",
-    "niche": "DIY satellite dish energy system",
+    "id": "drawmytwinflame",
+    "name": "DrawMyTwinFlame",
+    "vendor": "00DRAWMYTF",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "twin flame sketch / spiritual connection reading",
     "price": "low-ticket (official page)",
-    "summary": "A DIY green-energy guide built around repurposing satellite dish components into a home power setup — popular in the prepper and energy-savings niche.",
-    "best_for": "DIY and preparedness audiences interested in unconventional home energy projects",
+    "summary": "A personalized twin-flame sketch and reading service for people exploring the twin-flame spiritual connection concept.",
+    "best_for": "spiritually curious readers interested in the twin flame concept and personalized art readings",
     "keywords": [
-      "diy dish system review",
-      "satellite dish power diy",
-      "home energy diy guide",
-      "off grid power project"
+      "drawmytwinflame review",
+      "twin flame sketch reading",
+      "who is my twin flame drawing",
+      "twin flame connection reading"
     ],
     "clickbank_stats": {
-      "gravity": 18.0,
+      "gravity": 15.8,
       "approval_required": false
     }
   }

@@ -2456,5 +2456,68 @@
       "diy container home guide",
       "container home construction ebook"
     ]
+  },
+  {
+    "id": "diy-home-energy",
+    "name": "DIY Home Energy",
+    "category": "Green Products",
+    "niche": "DIY solar & home energy savings",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DIYHOMEENE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 12.0,
+      "approval_required": false
+    },
+    "summary": "A video-and-guide course on building a compact home solar setup and cutting electricity costs, aimed at DIY-minded homeowners.",
+    "best_for": "homeowners and off-grid enthusiasts who want hands-on solar and energy-independence projects",
+    "keywords": [
+      "diy home energy review",
+      "build home solar system diy",
+      "reduce electric bill solar",
+      "home energy independence guide"
+    ]
+  },
+  {
+    "id": "diy-dish-system",
+    "name": "DIY Dish System",
+    "category": "Green Products",
+    "niche": "DIY satellite dish energy system",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DISHSYS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 18.0,
+      "approval_required": false
+    },
+    "summary": "A DIY green-energy guide built around repurposing satellite dish components into a home power setup — popular in the prepper and energy-savings niche.",
+    "best_for": "DIY and preparedness audiences interested in unconventional home energy projects",
+    "keywords": [
+      "diy dish system review",
+      "satellite dish power diy",
+      "home energy diy guide",
+      "off grid power project"
+    ]
+  },
+  {
+    "id": "the-reader-of-fate",
+    "name": "The Reader of Fate",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "live tarot reading / psychic chat",
+    "price": "low-ticket (official page), recurring",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FATEREADER",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 11.0,
+      "approval_required": false
+    },
+    "summary": "A live, personalized tarot reading chat service connecting users with a psychic reader for entertainment guidance.",
+    "best_for": "people curious about live tarot readings and ongoing psychic chat guidance",
+    "keywords": [
+      "the reader of fate review",
+      "live tarot reading online",
+      "psychic chat reading",
+      "personalized tarot session"
+    ]
   }
 ]
