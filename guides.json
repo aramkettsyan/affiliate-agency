@@ -297,5 +297,18 @@
       {"q": "What body language do parrots show right before they bite?", "a": "Common pre-bite signals include the eyes rapidly widening and narrowing (pinning), feathers puffing up or slicking down tight, the body crouching low or leaning away, tail fanning, and a raised foot. These signals are usually there a few seconds before a bite, even when the bite feels sudden to the owner."},
       {"q": "Should I punish my parrot for biting?", "a": "No. Hitting, flicking, or yelling at a parrot for biting damages trust and often makes biting worse, since it can teach the bird to fear or preemptively attack hands. Staying calm, setting the bird down, and taking a short break is a more effective response."}
     ]
+  },
+  {
+    "id": "how-many-nesting-boxes-for-chickens",
+    "title": "How Many Nesting Boxes Do You Need for Your Backyard Flock? A Sizing Guide",
+    "summary": "The real ratio is one nesting box per 3-4 hens, but box size, placement, and overall coop space matter just as much as the count.",
+    "keywords": ["how many nesting boxes do i need for 6 chickens", "how many nesting boxes per chicken", "chicken coop nesting box size", "how much space do chickens need in a coop"],
+    "related_product_id": "build-a-chicken-coop",
+    "date": "2026-07-24",
+    "faqs": [
+      {"q": "Is 2 nesting boxes enough for 6 chickens?", "a": "Yes, in most cases. The general rule is one box per 3-4 hens, so 2 boxes comfortably covers a flock of 6-8 birds. Hens often prefer one favorite box regardless of how many are available, so 2 well-placed boxes frequently work better than 3-4 boxes."},
+      {"q": "What size should a chicken nesting box be?", "a": "About 12 x 12 x 12 inches works for standard breed hens. Size up to roughly 14 x 14 x 14 inches for larger breeds like Orpingtons or Jersey Giants, and down to about 10 x 10 x 10 inches for bantams."},
+      {"q": "Why do all my hens lay in the same nesting box?", "a": "This is normal flock behavior, not a design flaw. Hens gravitate toward whichever box feels darkest and most private, and laying habits tend to spread within a flock as hens follow each other's preference. As long as eggs are landing in a box rather than on the floor, one popular box among several isn't a problem to fix."}
+    ]
   }
 ]
