@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "id": "reading-interpreting-nature-bundle",
+    "name": "Reading and Interpreting Nature Complete Bundle",
+    "vendor": "RICHGWORKS",
+    "category": "Home & Garden",
+    "niche": "Outdoors / Nature Skills",
+    "price": "low-ticket (official page)",
+    "summary": "A digital bundle of two ebooks and four guides teaching hikers, outdoor enthusiasts, and naturalists how to read and interpret the natural world around them.",
+    "best_for": "Hikers, campers, and nature educators who want practical outdoor observation skills",
+    "keywords": [
+      "reading nature guide",
+      "interpreting nature skills",
+      "outdoor naturalist ebook",
+      "nature reading bundle"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "modern-relationships-for-women",
+    "name": "Modern Relationships for Women by Full-Wisdom",
+    "vendor": "FULLWISDOM",
+    "category": "Self-Help",
+    "niche": "Relationships / Personal Growth",
+    "price": "low-ticket (official page)",
+    "summary": "A personal growth course covering relationships, self-awareness, and emotional maturity, aimed at helping women build healthier connections.",
+    "best_for": "Women looking for practical guidance on relationships and emotional well-being",
+    "keywords": [
+      "modern relationships course for women",
+      "relationship self-awareness course",
+      "emotional maturity training",
+      "personal growth for women"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "itzjustme-mindset-empowerment-ebooks",
+    "name": "ITZJUSTME Mindset & Empowerment E-Books",
+    "vendor": "ITZJUSTME",
+    "category": "Self-Help",
+    "niche": "Motivational / Mindset",
+    "price": "low-ticket (official page)",
+    "summary": "A collection of empowering digital e-books focused on mindset, confidence, affirmations, and self-worth for women, girls, and parents.",
+    "best_for": "Readers seeking short, uplifting mindset and confidence-building material",
+    "keywords": [
+      "mindset empowerment ebooks",
+      "confidence affirmations ebook",
+      "self-worth book for women",
+      "empowerment ebook for girls"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "soul-ascent-frequencies",
+    "name": "Soul Ascent Frequencies",
+    "vendor": "HTTPSSAFE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Meditation / Binaural Audio",
+    "price": "low-ticket (official page)",
+    "summary": "A set of six guided meditations built around the five levels of the soul in Kabbalah, combining guided voice, breathing practice, and binaural frequencies for relaxation and focus.",
+    "best_for": "Listeners interested in guided meditation and binaural audio for relaxation",
+    "keywords": [
+      "guided kabbalah meditation",
+      "binaural meditation audio",
+      "soul ascent frequencies",
+      "meditation for relaxation and focus"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "speak-with-confidence-public-speaking",
+    "name": "Speak with Confidence: Tame the Fear of Public Speaking",
+    "vendor": "RISEUP8",
+    "category": "Self-Help",
+    "niche": "Public Speaking",
+    "price": "low-ticket (official page)",
+    "summary": "An online course using a mindfulness-based method to help professionals calm public-speaking nerves and present with more confidence.",
+    "best_for": "Professionals who get anxious presenting or speaking in front of groups",
+    "keywords": [
+      "overcome fear of public speaking",
+      "public speaking confidence course",
+      "public speaking anxiety course",
+      "mindfulness public speaking"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ai-printable-profits",
+    "name": "AI Printable Profits",
+    "vendor": "HERGAME",
+    "category": "E-Business & E-Marketing",
+    "niche": "Digital Products / AI Tools",
+    "price": "low-ticket (official page)",
+    "summary": "A step-by-step training on creating and selling AI-generated printable products using ChatGPT and Canva, including prompts and templates.",
+    "best_for": "Aspiring digital product sellers who want to use AI tools to build a printables business",
+    "keywords": [
+      "sell AI printables",
+      "AI generated printables business",
+      "ChatGPT Canva printables",
+      "printable products side hustle"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "trevor-ambrose-academy",
+    "name": "Trevor Ambrose Academy - Public Speaking, Confidence & Sales Skills",
+    "vendor": "TREVORAMBR",
+    "category": "Business / Investing",
+    "niche": "Public Speaking / Sales Training",
+    "price": "low-ticket (official page)",
+    "summary": "Practical video courses covering public speaking, sales, and communication skills for people looking to close more deals and speak with confidence.",
+    "best_for": "Salespeople and professionals wanting to sharpen communication and closing skills",
+    "keywords": [
+      "public speaking and sales course",
+      "sales communication training",
+      "confidence in sales course",
+      "Trevor Ambrose Academy"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "divorce-separation-recovery-toolkit",
+    "name": "Divorce & Separation Recovery Toolkit",
+    "vendor": "BIZWHIZPH",
+    "category": "Self-Help",
+    "niche": "Divorce Recovery",
+    "price": "low-ticket (official page)",
+    "summary": "A recovery toolkit with emotional healing exercises, planning tools, guided worksheets, and legal and financial checklists to help people navigate divorce or separation.",
+    "best_for": "Anyone going through a divorce or separation who wants a structured way to rebuild",
+    "keywords": [
+      "divorce recovery toolkit",
+      "separation recovery guide",
+      "divorce healing worksheets",
+      "rebuild life after divorce"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "foodstorageiq-survival-app",
+    "name": "FoodStorageIQ - Smart Food Storage App",
+    "vendor": "FOODSIQ",
+    "category": "Self-Help",
+    "niche": "Survival / Preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "An app that tracks a household's food storage and calculates the exact day the pantry will run out, aimed at preppers and survival-minded households.",
+    "best_for": "Preppers and families who want a clear, data-driven view of their food storage reserves",
+    "keywords": [
+      "food storage tracking app",
+      "prepper pantry tracker",
+      "survival food storage app",
+      "how long will my food last"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "recovering-from-the-avoidant",
+    "name": "Recovering from the Damage Caused by the Avoidant",
+    "vendor": "LIAOALINE",
+    "category": "Self-Help",
+    "niche": "Relationships / Attachment Styles",
+    "price": "low-ticket (official page)",
+    "summary": "A relationship recovery program aimed at people healing from a relationship with an avoidant partner, addressing the anxious-avoidant dynamic.",
+    "best_for": "People processing and recovering from a relationship with an emotionally avoidant partner",
+    "keywords": [
+      "recovering from an avoidant partner",
+      "anxious avoidant relationship recovery",
+      "healing after avoidant relationship",
+      "attachment style recovery"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "healthy-minded-calm-reset",
+    "name": "Healthy Minded Calm Reset System",
+    "vendor": "HMINDED",
+    "category": "Health & Fitness",
+    "niche": "Stress Management",
+    "price": "low-ticket (official page)",
+    "summary": "A digital wellness system with guided exercises, worksheets, and calming strategies designed to help adults reduce daily stress and quiet overthinking.",
+    "best_for": "Adults dealing with everyday stress and overthinking who want a structured reset routine",
+    "keywords": [
+      "stress reset system",
+      "calm overthinking guide",
+      "daily stress management program",
+      "mental clarity worksheets"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
