@@ -310,5 +310,18 @@
       {"q": "What size should a chicken nesting box be?", "a": "About 12 x 12 x 12 inches works for standard breed hens. Size up to roughly 14 x 14 x 14 inches for larger breeds like Orpingtons or Jersey Giants, and down to about 10 x 10 x 10 inches for bantams."},
       {"q": "Why do all my hens lay in the same nesting box?", "a": "This is normal flock behavior, not a design flaw. Hens gravitate toward whichever box feels darkest and most private, and laying habits tend to spread within a flock as hens follow each other's preference. As long as eggs are landing in a box rather than on the floor, one popular box among several isn't a problem to fix."}
     ]
+  },
+  {
+    "id": "sloped-backyard-landscaping-on-a-budget",
+    "title": "How to Landscape a Sloped Backyard on a Budget: A DIY Terracing Guide",
+    "summary": "A sloped yard needs drainage, terracing, and erosion control handled in the right order — here's a practical, low-cost DIY plan using reclaimed materials instead of a retaining-wall contractor.",
+    "keywords": ["how to landscape a sloped backyard on a budget", "diy sloped backyard ideas", "how to terrace a sloped yard cheap", "sloped backyard landscaping ideas"],
+    "related_product_id": "ideas-4-landscaping",
+    "date": "2026-07-25",
+    "faqs": [
+      {"q": "What is the cheapest way to fix a sloped backyard?", "a": "Ground cover plants, mulch, and native wildflower seed mixes are the cheapest options, often costing well under $200 for a modest slope, because they need no structural materials at all. If the slope is steep enough to require terracing, dry-stacked stone or reclaimed landscape timbers are the least expensive structural fix, typically running $200 to $800 per level for a DIY build."},
+      {"q": "Do I need a permit to build a retaining wall on a sloped yard?", "a": "In most areas, walls under about 3 to 4 feet don't require a permit and are reasonable DIY projects. Once a wall exceeds that height, most jurisdictions require a permit and often an engineered design, since a taller wall has to resist significant soil pressure. Always check with your local building department before starting."},
+      {"q": "Should I plant or fix drainage first on a sloped yard?", "a": "Fix drainage first. Planting before addressing how water moves across the slope is the most common reason budget slope projects fail, since runoff will wash out new soil, mulch, and seedlings before they can establish. Watch how water actually flows during a real rainstorm, then grade or add a swale before doing any terracing or planting."}
+    ]
   }
 ]
