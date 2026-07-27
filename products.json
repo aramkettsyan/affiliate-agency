@@ -2708,5 +2708,68 @@
       "confidence in sales course",
       "Trevor Ambrose Academy"
     ]
+  },
+  {
+    "id": "divorce-separation-recovery-toolkit",
+    "name": "Divorce & Separation Recovery Toolkit",
+    "category": "Self-Help",
+    "niche": "Divorce Recovery",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BIZWHIZPH",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A recovery toolkit with emotional healing exercises, planning tools, guided worksheets, and legal and financial checklists to help people navigate divorce or separation.",
+    "best_for": "Anyone going through a divorce or separation who wants a structured way to rebuild",
+    "keywords": [
+      "divorce recovery toolkit",
+      "separation recovery guide",
+      "divorce healing worksheets",
+      "rebuild life after divorce"
+    ]
+  },
+  {
+    "id": "foodstorageiq-survival-app",
+    "name": "FoodStorageIQ - Smart Food Storage App",
+    "category": "Self-Help",
+    "niche": "Survival / Preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FOODSIQ",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "An app that tracks a household's food storage and calculates the exact day the pantry will run out, aimed at preppers and survival-minded households.",
+    "best_for": "Preppers and families who want a clear, data-driven view of their food storage reserves",
+    "keywords": [
+      "food storage tracking app",
+      "prepper pantry tracker",
+      "survival food storage app",
+      "how long will my food last"
+    ]
+  },
+  {
+    "id": "recovering-from-the-avoidant",
+    "name": "Recovering from the Damage Caused by the Avoidant",
+    "category": "Self-Help",
+    "niche": "Relationships / Attachment Styles",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LIAOALINE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A relationship recovery program aimed at people healing from a relationship with an avoidant partner, addressing the anxious-avoidant dynamic.",
+    "best_for": "People processing and recovering from a relationship with an emotionally avoidant partner",
+    "keywords": [
+      "recovering from an avoidant partner",
+      "anxious avoidant relationship recovery",
+      "healing after avoidant relationship",
+      "attachment style recovery"
+    ]
   }
 ]
