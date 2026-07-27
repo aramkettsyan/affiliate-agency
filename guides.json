@@ -336,5 +336,18 @@
       {"q": "What's the difference between angel numbers and numerology?", "a": "Angel numbers are a narrow, popular slice of numerology focused on repeating sequences you happen to notice, like 111 or 444, and their meanings are generic — the same number means the same thing to everyone. Numerology more broadly calculates numbers specific to your birth date and name, like a life path number, giving a more personalized reading than a repeating-number list."},
       {"q": "What should I actually do when I keep seeing the same number?", "a": "Note what you were thinking about or deciding right before you noticed it — that context usually matters more than the number itself. Treat it as a nudge to reflect, not a verdict to act on, and if a specific number keeps recurring over weeks, a short written log can show whether it's tied to a real pattern in your life."}
     ]
+  },
+  {
+    "id": "how-long-does-it-take-to-knit-a-sweater",
+    "title": "How Long Does It Actually Take to Knit a Sweater? (And Is It Worth Selling One?)",
+    "summary": "Hand-knit sweaters typically take 20-80 hours depending on yarn weight, size, and stitch pattern — here's how to estimate your own, plus an honest hours-to-price breakdown for anyone wondering if selling hand-knit sweaters can pay.",
+    "keywords": ["how long does it take to knit a sweater", "how many hours to knit a sweater", "is it worth it to sell handmade knitted sweaters", "how to price a hand knit sweater"],
+    "related_product_id": "knitting-for-profit",
+    "date": "2026-07-27",
+    "faqs": [
+      {"q": "How long does it take to knit a sweater on average?", "a": "Most adult sweaters take 20-80 hours of knitting time, with a common range of 30-40 hours for a plain, worsted-weight pullover in a standard adult size. Bulky yarn and simple stitches land at the low end; fine yarn, larger sizes, and complex stitch patterns like cables or colorwork push it toward the high end."},
+      {"q": "Is it worth it to sell hand-knit sweaters?", "a": "Financially, sweaters are usually the least profitable item to sell per hour, since even a modest $15/hour labor rate on a 35-hour sweater adds up to $500+ before materials. It's not a reason to give up on selling knitwear, but it usually means focusing on smaller, faster items or repricing sweaters well above a simple materials-times-three formula."},
+      {"q": "What's the fastest way to estimate how long a specific sweater pattern will take me?", "a": "Knit a swatch in the pattern's exact yarn and stitch, time yourself for 15-20 minutes, and calculate your personal stitches-per-minute rate. Apply that to the pattern's approximate total stitch count (often inferable from the yardage), then add 10-15% for blocking, seaming, and finishing."}
+    ]
   }
 ]
