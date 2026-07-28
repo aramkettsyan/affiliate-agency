@@ -349,5 +349,18 @@
       {"q": "Is it worth it to sell hand-knit sweaters?", "a": "Financially, sweaters are usually the least profitable item to sell per hour, since even a modest $15/hour labor rate on a 35-hour sweater adds up to $500+ before materials. It's not a reason to give up on selling knitwear, but it usually means focusing on smaller, faster items or repricing sweaters well above a simple materials-times-three formula."},
       {"q": "What's the fastest way to estimate how long a specific sweater pattern will take me?", "a": "Knit a swatch in the pattern's exact yarn and stitch, time yourself for 15-20 minutes, and calculate your personal stitches-per-minute rate. Apply that to the pattern's approximate total stitch count (often inferable from the yardage), then add 10-15% for blocking, seaming, and finishing."}
     ]
+  },
+  {
+    "id": "how-much-land-self-sufficient",
+    "title": "How Much Land Do You Actually Need to Be Self-Sufficient? A Realistic Breakdown",
+    "summary": "The 'you need 5-10 acres' advice skips the part that matters: how much land depends entirely on what you're trying to produce, and most beginners can start on far less than they think.",
+    "keywords": ["how much land do you need to be self sufficient", "how many acres for a homestead", "self sufficient on small acreage", "how much land to grow your own food"],
+    "related_product_id": "self-sufficient-backyard",
+    "date": "2026-07-28",
+    "faqs": [
+      {"q": "Can you be self-sufficient on less than an acre?", "a": "Yes, for a meaningful share of food production. A well-planned vegetable garden, a couple of dwarf fruit trees, and a small laying flock can fit on well under a quarter acre and noticeably cut a grocery bill, even though it won't cover meat, dairy, or grain at scale."},
+      {"q": "How many acres do you need per person to be fully self-sufficient?", "a": "The commonly cited rule of thumb is about one acre per person for comprehensive self-sufficiency, including vegetables, fruit, eggs, some meat, and a small woodlot for fuel. Climate and soil quality can push that number up or down significantly."},
+      {"q": "Why do homesteading guides recommend 5-10 acres?", "a": "That range is built around adding pasture-raised meat animals, a larger orchard, hay production, and firewood, not vegetable growing. If your goals stop at a garden, some fruit, and a few hens, most of that extra acreage isn't necessary."}
+    ]
   }
 ]
