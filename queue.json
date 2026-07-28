@@ -1,25 +1,5 @@
 [
   {
-    "id": "woodprofits",
-    "name": "WoodProfits",
-    "vendor": "WOODPROFIT",
-    "category": "Business / Investing",
-    "niche": "starting a home woodworking business",
-    "price": "low-ticket (official page)",
-    "summary": "A step-by-step guide for hobbyist woodworkers who want to turn their craft into a home-based side business.",
-    "best_for": "woodworking hobbyists who want to sell what they build",
-    "keywords": [
-      "how to start a woodworking business",
-      "sell woodworking projects for profit",
-      "woodprofits review",
-      "home woodshop side hustle"
-    ],
-    "clickbank_stats": {
-      "gravity": 8.7,
-      "approval_required": false
-    }
-  },
-  {
     "id": "matsato-osuren-knife",
     "name": "Matsato Osuren Knife",
     "vendor": "MATSATOPRO",
