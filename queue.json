@@ -1,21 +1,61 @@
 [
   {
-    "id": "veganize-baking",
-    "name": "Veganize Baking",
-    "vendor": "VEGANBAKE",
-    "category": "Cooking, Food & Wine",
-    "niche": "vegan baking recipes",
+    "id": "woodprofits",
+    "name": "WoodProfits",
+    "vendor": "WOODPROFIT",
+    "category": "Business / Investing",
+    "niche": "starting a home woodworking business",
     "price": "low-ticket (official page)",
-    "summary": "A recipe collection showing home bakers how to convert favorite baked goods into fully vegan versions without sacrificing taste or texture.",
-    "best_for": "vegan and plant-based bakers who miss traditional baked treats",
+    "summary": "A step-by-step guide for hobbyist woodworkers who want to turn their craft into a home-based side business.",
+    "best_for": "woodworking hobbyists who want to sell what they build",
     "keywords": [
-      "vegan baking recipes",
-      "how to veganize baked goods",
-      "vegan dessert cookbook",
-      "veganize baking review"
+      "how to start a woodworking business",
+      "sell woodworking projects for profit",
+      "woodprofits review",
+      "home woodshop side hustle"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 8.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "matsato-osuren-knife",
+    "name": "Matsato Osuren Knife",
+    "vendor": "MATSATOPRO",
+    "category": "E-Commerce",
+    "niche": "kitchen knives / cooking gear",
+    "price": "low-ticket (official page)",
+    "summary": "A hand-forged, ice-hardened Japanese-style kitchen knife with a distinctive finger-hole grip aimed at home cooks.",
+    "best_for": "home cooks who want a sharper, more ergonomic everyday kitchen knife",
+    "keywords": [
+      "matsato osuren knife review",
+      "japanese kitchen knife for home cooks",
+      "best ergonomic kitchen knife",
+      "hand forged chef knife review"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "TRUELOVEOR",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "psychic soulmate sketch reading",
+    "price": "low-ticket (official page)",
+    "summary": "A psychic sketch-artist service that creates a personalized illustration of a person's soulmate based on their birth details.",
+    "best_for": "readers curious about psychic/soulmate-sketch style readings as entertainment",
+    "keywords": [
+      "soulmate sketch reading review",
+      "psychic soulmate drawing",
+      "balinese soulmate sketch review",
+      "personalized soulmate sketch"
+    ],
+    "clickbank_stats": {
+      "gravity": 17.3,
       "approval_required": false
     }
   }

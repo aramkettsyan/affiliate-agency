@@ -2876,5 +2876,26 @@
       "grilling recipes and cocktails",
       "summer bbq recipe pack review"
     ]
+  },
+  {
+    "id": "plant-based-for-kids",
+    "name": "Plant-Based For Kids",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan recipes for children",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=PLANTKIDS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A recipe collection and meal-plan guide that helps plant-based families cook vegan meals their kids will actually eat.",
+    "best_for": "vegan or vegetarian parents looking for kid-friendly plant-based meal ideas",
+    "keywords": [
+      "vegan recipes for kids",
+      "plant based meals for children",
+      "vegan meal plan for families",
+      "plant-based for kids review"
+    ]
   }
 ]
