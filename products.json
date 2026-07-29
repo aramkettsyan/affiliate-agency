@@ -2939,5 +2939,68 @@
       "best ergonomic kitchen knife",
       "hand forged chef knife review"
     ]
+  },
+  {
+    "id": "royal-numerology",
+    "name": "Royal Numerology",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized numerology reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=AUTHNUMER",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 8.0,
+      "approval_required": false
+    },
+    "summary": "A personalized numerology reading service that generates an individualized report from the reader's name and birth details.",
+    "best_for": "readers curious about numerology as entertainment",
+    "keywords": [
+      "royal numerology review",
+      "personalized numerology reading",
+      "numerology report online",
+      "royal numerology reading"
+    ]
+  },
+  {
+    "id": "master-li-tarot-reading",
+    "name": "Master Li Tarot Card Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized tarot card reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CCMASTERLI",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 9.7,
+      "approval_required": false
+    },
+    "summary": "A personalized tarot reading service covering love and wealth themes for readers curious about tarot.",
+    "best_for": "readers interested in tarot-style readings as entertainment",
+    "keywords": [
+      "master li tarot reading review",
+      "personalized tarot reading online",
+      "love and wealth tarot reading",
+      "tarot card reading service"
+    ]
+  },
+  {
+    "id": "cosmic-life-path-reading",
+    "name": "Cosmic Life Path Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized astrology life path reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CLIFEPATH",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 7.5,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology funnel that generates an individualized life-path reading tailored to each zodiac sign.",
+    "best_for": "readers curious about personalized astrology readings",
+    "keywords": [
+      "cosmic life path reading review",
+      "personalized zodiac reading",
+      "life path astrology reading",
+      "astrology reading online"
+    ]
   }
 ]
