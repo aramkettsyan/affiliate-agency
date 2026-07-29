@@ -6,6 +6,7 @@ Skips any product whose image can't be fetched (per requirements).
 Run: python fetch_images.py
 """
 
+import html as html_lib
 import json
 import re
 import ssl
@@ -28,7 +29,7 @@ OG_RE2 = re.compile(
     r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']'
     r'(?:og:image|twitter:image)["\']', re.I)
 
-IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+\.(?:png|jpe?g|webp))["\']', re.I)
+IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+\.(?:png|jpe?g|webp)(?:\?[^"\']*)?)["\']', re.I)
 POS = re.compile(r'(product|bottle|jar|tube|dropper|pack|mockup|cover|book|hero|supplement|jug|box|'
                  r'\d-?bottle|\d-?month|spline|render)', re.I)
 NEG = re.compile(r'(logo|icon|badge|seal|guarant|visa|master|paypal|amex|discover|secure|card|'
@@ -40,7 +41,7 @@ def candidate_images(html, base):
     """Return product-image URLs in priority order (keyword matches first)."""
     seen, pos, other = set(), [], []
     for src in IMG_RE.findall(html):
-        url = urljoin(base, src.strip())
+        url = urljoin(base, html_lib.unescape(src.strip()))
         if url in seen or NEG.search(url):
             continue
         seen.add(url)
@@ -87,7 +88,7 @@ def main():
             candidates = []
             m = OG_RE.search(html) or OG_RE2.search(html)
             if m:
-                candidates.append(urljoin(final, m.group(1).strip()))
+                candidates.append(urljoin(final, html_lib.unescape(m.group(1).strip())))
             candidates += [c for c in candidate_images(html, final) if c not in candidates]
 
             saved = False
