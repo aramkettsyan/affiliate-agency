@@ -362,5 +362,18 @@
       {"q": "How many acres do you need per person to be fully self-sufficient?", "a": "The commonly cited rule of thumb is about one acre per person for comprehensive self-sufficiency, including vegetables, fruit, eggs, some meat, and a small woodlot for fuel. Climate and soil quality can push that number up or down significantly."},
       {"q": "Why do homesteading guides recommend 5-10 acres?", "a": "That range is built around adding pasture-raised meat animals, a larger orchard, hay production, and firewood, not vegetable growing. If your goals stop at a garden, some fruit, and a few hens, most of that extra acreage isn't necessary."}
     ]
+  },
+  {
+    "id": "why-full-moon-makes-you-emotional",
+    "title": "Why Do I Feel More Emotional During a Full Moon?",
+    "summary": "Science doesn't support a direct link between the moon and mood, but light disruption, sleep loss, and pattern-seeking explain why full moons genuinely feel different — and how to handle them better.",
+    "keywords": ["why do i feel more emotional during a full moon", "does the full moon affect mood", "full moon emotional effects", "why am i so emotional on a full moon"],
+    "related_product_id": "moon-reading",
+    "date": "2026-07-29",
+    "faqs": [
+      {"q": "Does the full moon actually affect human mood or behavior?", "a": "Large studies on hospital admissions, crisis calls, and sleep haven't found a reliable link between the lunar cycle and mood or behavior. The feeling is real for many people, but it's better explained by light disruption, mild sleep loss, and confirmation bias than by any direct lunar effect."},
+      {"q": "Can a full moon really disrupt your sleep?", "a": "Yes, indirectly. A full moon is bright enough to cast shadows, and if a bedroom isn't fully dark, that extra light can delay falling asleep or interrupt deeper sleep stages. Even a modest sleep quality dip is enough to make most people noticeably more irritable or anxious the next day."},
+      {"q": "Why does it feel like I'm the only one affected by the full moon?", "a": "Once you associate the full moon with feeling off, you tend to notice and remember the nights that fit the pattern while overlooking the many other nights you felt the same way for unrelated reasons. This selective attention, known as confirmation bias, makes an occasional coincidence feel like a consistent rule."}
+    ]
   }
 ]
