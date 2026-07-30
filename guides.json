@@ -375,5 +375,18 @@
       {"q": "Can a full moon really disrupt your sleep?", "a": "Yes, indirectly. A full moon is bright enough to cast shadows, and if a bedroom isn't fully dark, that extra light can delay falling asleep or interrupt deeper sleep stages. Even a modest sleep quality dip is enough to make most people noticeably more irritable or anxious the next day."},
       {"q": "Why does it feel like I'm the only one affected by the full moon?", "a": "Once you associate the full moon with feeling off, you tend to notice and remember the nights that fit the pattern while overlooking the many other nights you felt the same way for unrelated reasons. This selective attention, known as confirmation bias, makes an occasional coincidence feel like a consistent rule."}
     ]
+  },
+  {
+    "id": "sewing-pattern-doesnt-fit-measurements-match",
+    "title": "Why Doesn't My Sewing Pattern Fit Even Though My Measurements Match?",
+    "summary": "If your measurements match the size chart but the garment still doesn't fit, the real cause is usually ease, the wrong chart, or a body that spans multiple sizes — here's how to diagnose and fix it before you cut.",
+    "keywords": ["sewing pattern doesn't fit even though measurements match", "why is my sewing pattern too big", "how to grade between sewing pattern sizes", "sewing pattern size chart confusing"],
+    "related_product_id": "sewing-pattern-secrets",
+    "date": "2026-07-30",
+    "faqs": [
+      {"q": "Should I use my body measurements or the finished garment measurements to pick a pattern size?", "a": "Use the body measurements chart to select your size. The finished garment measurements chart shows what the sewn piece will measure once complete, which already includes built-in ease, so comparing your body to that chart instead will usually lead you to size up too far."},
+      {"q": "What should I do if my bust, waist, and hip measurements fall into different pattern sizes?", "a": "Grade between the sizes rather than picking just one. On a nested multi-size pattern, trace or select the cutting line at your bust size and gradually blend it to your waist and hip sizes using the printed size lines as a guide, smoothing the transition between them."},
+      {"q": "Why do two patterns in the same size fit so differently?", "a": "Each pattern is drafted with its own amount of ease based on the intended silhouette — a fitted style has much less built-in room than a relaxed or oversized style at the exact same labeled size. Subtracting your body measurement from the finished garment measurement at the same point tells you exactly how much ease that specific pattern includes."}
+    ]
   }
 ]
