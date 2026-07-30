@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "children-learning-reading",
+    "name": "Children Learning Reading",
+    "vendor": "1CHILDREAD",
+    "category": "Parenting & Families",
+    "niche": "Early childhood reading program",
+    "price": "low-ticket (official page)",
+    "summary": "A structured, phonics-based reading program designed to help parents teach young children to read at home.",
+    "best_for": "Parents of preschool and early-elementary kids who want a structured at-home reading program.",
+    "keywords": [
+      "children learning reading review",
+      "teach child to read at home",
+      "phonics reading program for kids",
+      "early reading program parents"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "diy-bike-repair-course",
+    "name": "DIY Bike Repair Course",
+    "vendor": "BIKEREPAIR",
+    "category": "Sports",
+    "niche": "Bicycle maintenance and repair",
+    "price": "low-ticket (official page)",
+    "summary": "A video course covering bicycle repair and maintenance basics, from fixing flats to tuning gears and brakes at home.",
+    "best_for": "Cyclists who want to learn to maintain and repair their own bike instead of paying shop fees.",
+    "keywords": [
+      "diy bike repair course review",
+      "how to fix a bike at home",
+      "bicycle maintenance course",
+      "bike repair video course"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.2,
+      "approval_required": false
+    }
+  }
+]
