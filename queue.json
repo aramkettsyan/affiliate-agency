@@ -1,21 +1,121 @@
 [
   {
-    "id": "diy-bike-repair-course",
-    "name": "DIY Bike Repair Course",
-    "vendor": "BIKEREPAIR",
-    "category": "Sports",
-    "niche": "Bicycle maintenance and repair",
+    "id": "backyard-eggs-diy-guide",
+    "name": "Backyard Eggs (DIY Chicken Coop & Egg Guide)",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "Backyard chicken keeping and egg production",
     "price": "low-ticket (official page)",
-    "summary": "A video course covering bicycle repair and maintenance basics, from fixing flats to tuning gears and brakes at home.",
-    "best_for": "Cyclists who want to learn to maintain and repair their own bike instead of paying shop fees.",
+    "summary": "A DIY guide showing how to set up a backyard chicken coop and start producing your own eggs at home to cut grocery costs.",
+    "best_for": "Homeowners with yard space who want to raise a small flock of egg-laying chickens.",
     "keywords": [
-      "diy bike repair course review",
-      "how to fix a bike at home",
-      "bicycle maintenance course",
-      "bike repair video course"
+      "backyard chicken coop guide",
+      "how to raise chickens for eggs",
+      "diy egg production at home",
+      "backyard eggs review"
     ],
     "clickbank_stats": {
-      "gravity": 4.2,
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 Astrology Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality",
+    "niche": "Personalized astrology readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading built around the 2026 Year of the Horse theme, covering what the year ahead may hold based on your birth details.",
+    "best_for": "Astrology enthusiasts who enjoy personalized yearly horoscope readings.",
+    "keywords": [
+      "year of the horse 2026 astrology",
+      "personalized astrology reading review",
+      "2026 horoscope reading",
+      "chinese zodiac horse reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 63.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality",
+    "niche": "Astrology-based soulmate sketch readings",
+    "price": "low-ticket (official page)",
+    "summary": "An astrology-based service that generates a personalized sketch and description of a person's soulmate from their birth details.",
+    "best_for": "People curious about astrology-based soulmate sketches for fun and self-reflection.",
+    "keywords": [
+      "tara lunar soulmate sketch review",
+      "soulmate sketch astrology",
+      "personalized soulmate drawing",
+      "psychic soulmate sketch"
+    ],
+    "clickbank_stats": {
+      "gravity": 44.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "original-astro-lover-sketch",
+    "name": "Original Astro Lover Sketch",
+    "vendor": "ASTROSKETC",
+    "category": "Spirituality",
+    "niche": "Astrology-based soulmate sketch readings",
+    "price": "low-ticket (official page)",
+    "summary": "An astrology-based soulmate sketch service that combines birth chart details with a personalized illustrated description of a potential partner.",
+    "best_for": "Astrology fans interested in a lighthearted, personalized soulmate sketch.",
+    "keywords": [
+      "astro lover sketch review",
+      "astrology soulmate sketch",
+      "personalized partner sketch",
+      "birth chart soulmate drawing"
+    ],
+    "clickbank_stats": {
+      "gravity": 21.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "soulmate-story-sketch",
+    "name": "Soulmate Story",
+    "vendor": "SOULMSTORY",
+    "category": "Spirituality",
+    "niche": "Astrology-based soulmate sketch readings",
+    "price": "low-ticket (official page)",
+    "summary": "A soulmate sketch offer that uses astrology inputs to produce a personalized illustrated profile of a person's potential soulmate.",
+    "best_for": "People who enjoy astrology-themed soulmate sketch readings as entertainment.",
+    "keywords": [
+      "soulmate story sketch review",
+      "astrology soulmate profile",
+      "personalized soulmate illustration",
+      "soulmate sketch offer"
+    ],
+    "clickbank_stats": {
+      "gravity": 21.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "leskohelp-grant-finder",
+    "name": "LeskoHelp Grant Finding Community",
+    "vendor": "MATTLESKO",
+    "category": "Personal Finance",
+    "niche": "Government grant and benefit finding resources",
+    "price": "low-ticket (official page)",
+    "summary": "A membership community that helps members search for and apply to government grants, benefits, and free-money programs they may qualify for.",
+    "best_for": "People looking for help navigating available grants, benefits, and assistance programs.",
+    "keywords": [
+      "leskohelp grant finder review",
+      "how to find government grants",
+      "grant finding community",
+      "free money programs guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 7.1,
       "approval_required": false
     }
   }
