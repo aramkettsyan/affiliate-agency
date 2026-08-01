@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "love-obsession-spells-scarlet-rivera",
+    "name": "Love & Obsession Spells Cast By High Priestess Scarlet Rivera",
+    "vendor": "CCLOVESPEL",
+    "category": "Spirituality",
+    "niche": "love spells / attraction magic",
+    "price": "low-ticket (official page)",
+    "summary": "A love and attraction spell-casting service performed by a self-described high priestess, aimed at rekindling romance or drawing in a new partner.",
+    "best_for": "readers interested in love spells and attraction rituals as a spiritual practice",
+    "keywords": [
+      "love spell casting review",
+      "attraction magic spells",
+      "get your ex back spell",
+      "priestess love spell service"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "bible-verses-prayers-decrees",
+    "name": "The Great Book Of Bible Verses, Prayers & Decrees",
+    "vendor": "CHRISINTER",
+    "category": "Spirituality",
+    "niche": "Christian devotional / bible study bundle",
+    "price": "low-ticket (official page)",
+    "summary": "A Christian devotional bundle combining bible verses, prayers, decrees, and gospel audiobooks into one collection for daily study.",
+    "best_for": "Christians looking for an affordable daily devotional and prayer resource",
+    "keywords": [
+      "bible verses and prayers bundle review",
+      "christian devotional ebook",
+      "daily prayer guide download",
+      "gospel audiobook bundle"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-alexandria-code",
+    "name": "The Alexandria Code",
+    "vendor": "GREATTOOL",
+    "category": "Spirituality",
+    "niche": "manifestation / ancient wisdom themed self-help",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation program framed around ancient Alexandria-inspired teachings, aimed at helping readers reframe limiting beliefs around wealth and success.",
+    "best_for": "self-help readers drawn to ancient-wisdom themed manifestation programs",
+    "keywords": [
+      "the alexandria code review",
+      "ancient manifestation program",
+      "law of attraction ebook",
+      "manifestation course for wealth"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.5,
+      "approval_required": false
+    }
+  }
+]
