@@ -401,5 +401,18 @@
       {"q": "Should I text him more if he starts pulling away?", "a": "Usually not. Increasing contact or pressing for an explanation in the moment tends to reinforce the exact pressure that triggered the withdrawal, which often extends it. Giving measured space while staying warm when you do interact tends to work better than closing the gap aggressively."},
       {"q": "How do I know if it's normal pulling away or a genuinely bad sign?", "a": "Temporary, situational withdrawal in an otherwise healthy relationship is different from a repeating pattern paired with disrespect, dishonesty, or disappearing entirely with no real re-engagement afterward. If it's the latter, that's a clear signal worth taking seriously on its own, not something to wait out."}
     ]
+  },
+  {
+    "id": "model-train-derailing-on-curves-fix",
+    "title": "Why Does My Model Train Keep Derailing on Curves? Causes and Fixes",
+    "summary": "Model train derailments on curves almost always trace back to one of four causes — too-tight radius, underweight cars, track alignment problems, or mismatched coupler height — here's how to diagnose and fix each one.",
+    "keywords": ["why does my model train derail on curves", "model train keeps derailing", "how to stop model train derailments", "HO scale minimum curve radius"],
+    "related_product_id": "model-railroading-guide",
+    "date": "2026-08-01",
+    "faqs": [
+      {"q": "What is the minimum curve radius for HO scale model trains?", "a": "The technical minimum is 18 inches, but that's a bare survival number for short equipment. Most hobbyists find 22-24 inches noticeably more reliable, and layouts running longer steam locomotives or passenger cars do much better with 27-30 inch curves or larger."},
+      {"q": "Why does my train only derail when pulling other cars, not by itself?", "a": "This points to a weight, coupler height, or consist-matching problem rather than a track issue. Run a single well-weighted car through the curve alone first — if it stays on the rails alone but derails coupled to others, check coupler height and the weight of your lightest cars next."},
+      {"q": "Does adding weight to model train cars actually help with derailments?", "a": "Yes, weight is what keeps a car's wheels pressed onto the rail through a curve. The NMRA recommends roughly one ounce plus half an ounce per inch of car length, added low and centered in the car. Empty flatcars, gondolas, and hoppers are the most common underweight offenders."}
+    ]
   }
 ]
