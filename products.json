@@ -3254,5 +3254,68 @@
       "law of attraction ebook",
       "manifestation course for wealth"
     ]
+  },
+  {
+    "id": "pineal-guard",
+    "name": "Pineal Guard",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "pineal gland / third-eye supplement",
+    "price": "see official site (bundle pricing)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=PGRDVIP",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 9.6,
+      "approval_required": false
+    },
+    "summary": "A dietary supplement marketed toward the manifestation and chakra community for supporting pineal gland (\"third eye\") wellness.",
+    "best_for": "readers interested in chakra and third-eye wellness routines who prefer a supplement format",
+    "keywords": [
+      "pineal guard review",
+      "third eye supplement",
+      "pineal gland support supplement",
+      "chakra wellness supplement"
+    ]
+  },
+  {
+    "id": "keto-recipes-500",
+    "name": "500 Delicious Keto Recipes Cookbook",
+    "category": "Cooking, Food & Wine",
+    "niche": "keto recipe collection",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=324257",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    },
+    "summary": "A digital cookbook of 500 keto recipes spanning snacks, mains, drinks, and desserts for people following a low-carb ketogenic diet.",
+    "best_for": "home cooks on a ketogenic or low-carb diet who want recipe variety",
+    "keywords": [
+      "500 keto recipes cookbook",
+      "keto recipe collection ebook",
+      "low carb recipes for beginners",
+      "ketogenic diet cookbook review"
+    ]
+  },
+  {
+    "id": "macrame-for-beginners",
+    "name": "Macramé for Beginners",
+    "category": "Home & Garden",
+    "niche": "macrame crafting",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ECOMIRAQGM",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    },
+    "summary": "A step-by-step macrame guide with 100+ beginner-friendly patterns and knot tutorials for making handmade home decor.",
+    "best_for": "craft hobbyists who want to learn macrame from scratch",
+    "keywords": [
+      "macrame for beginners guide",
+      "how to macrame step by step",
+      "macrame patterns for beginners",
+      "learn macrame knots"
+    ]
   }
 ]
