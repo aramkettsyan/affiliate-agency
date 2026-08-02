@@ -1,21 +1,81 @@
 [
   {
-    "id": "singorama-singing-guide",
-    "name": "Singorama - Essential Guide To Singing",
-    "vendor": "SINGORAMA",
-    "category": "Arts & Entertainment",
-    "niche": "singing / vocal training course",
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping / egg income DIY guide",
     "price": "low-ticket (official page)",
-    "summary": "A long-running vocal training course taught by a professional vocal coach, covering the fundamentals of singing technique.",
-    "best_for": "aspiring singers who want structured, at-home vocal training",
+    "summary": "A DIY guide showing backyard chicken keepers how to turn a home flock into a small side income from selling eggs.",
+    "best_for": "homesteaders and backyard chicken owners who want to offset feed costs or earn extra cash from their flock",
     "keywords": [
-      "singorama review",
-      "learn to sing at home",
-      "vocal training course online",
-      "singing lessons for beginners"
+      "backyard chicken egg business",
+      "sell eggs from home",
+      "backyard chickens for profit",
+      "chicken coop side income"
     ],
     "clickbank_stats": {
-      "gravity": 1.4,
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "flirt-formula-learn-to-flirt",
+    "name": "The Flirt Formula - Learn To Flirt with Women",
+    "vendor": "WINGGIRLS",
+    "category": "Self-Help",
+    "niche": "dating / flirting skills course for men",
+    "price": "low-ticket (official page)",
+    "summary": "A step-by-step flirting course created by a professional dating coach to help men build conversational confidence with women.",
+    "best_for": "men who feel awkward starting conversations and want a structured, practical approach to flirting",
+    "keywords": [
+      "how to flirt with women",
+      "flirting tips for men",
+      "dating confidence course",
+      "the flirt formula review"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality & New Age",
+    "niche": "personalized astrology reading for the new year",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading themed around the 2026 Year of the Horse, generated from a visitor's birth details.",
+    "best_for": "astrology fans curious about what the new year holds based on their birth chart",
+    "keywords": [
+      "year of the horse 2026 astrology",
+      "personalized astrology reading",
+      "2026 zodiac forecast",
+      "astrology language reading review"
+    ],
+    "clickbank_stats": {
+      "gravity": 62.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "killer-guitar-control-secrets",
+    "name": "Killer Guitar Control Secrets",
+    "vendor": "GUITARIST3",
+    "category": "Crafts & Hobbies",
+    "niche": "guitar lead-playing / soloing technique course",
+    "price": "low-ticket (official page)",
+    "summary": "A guitar technique course focused on teaching the fundamentals of expressive, soulful lead guitar playing.",
+    "best_for": "intermediate guitarists who can already play but want to improve their lead and solo technique",
+    "keywords": [
+      "guitar lead technique course",
+      "learn to solo on guitar",
+      "guitar control secrets review",
+      "improve guitar playing"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
       "approval_required": false
     }
   }
