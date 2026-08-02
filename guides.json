@@ -414,5 +414,18 @@
       {"q": "Why does my train only derail when pulling other cars, not by itself?", "a": "This points to a weight, coupler height, or consist-matching problem rather than a track issue. Run a single well-weighted car through the curve alone first — if it stays on the rails alone but derails coupled to others, check coupler height and the weight of your lightest cars next."},
       {"q": "Does adding weight to model train cars actually help with derailments?", "a": "Yes, weight is what keeps a car's wheels pressed onto the rail through a curve. The NMRA recommends roughly one ounce plus half an ounce per inch of car length, added low and centered in the car. Empty flatcars, gondolas, and hoppers are the most common underweight offenders."}
     ]
+  },
+  {
+    "id": "keep-shipping-container-home-cool-summer",
+    "title": "How to Keep a Shipping Container Home Cool in Summer",
+    "summary": "Bare steel containers can hit 110-120°F indoors in summer sun, but the right insulation, roof color, and ventilation can bring a container home in line with a conventional house — here's what actually works and in what order.",
+    "keywords": ["do shipping container homes get too hot in summer", "how to keep a shipping container home cool", "how hot do shipping containers get in summer", "shipping container home insulation for heat"],
+    "related_product_id": "shipping-container-home",
+    "date": "2026-08-02",
+    "faqs": [
+      {"q": "Do shipping container homes need special insulation?", "a": "Yes. Closed-cell spray foam is the most common choice because it bonds directly to corrugated steel, seals every gap, and doubles as a vapor barrier, which prevents both heat transfer and the condensation-driven rust and mold that fiberglass batts alone can allow against bare steel."},
+      {"q": "What color should I paint a shipping container roof to keep it cool?", "a": "A white or light reflective color, ideally an elastomeric roof coating made for metal roofs. Light colors reflect radiant heat instead of absorbing it, and the roof is the single biggest source of heat gain on a container home, so this is one of the highest-impact, lowest-cost fixes available."},
+      {"q": "Can you use central AC or a mini-split in a shipping container home?", "a": "Yes, and a mini-split is the most common choice since it needs no ductwork. The key is sizing it after insulation and ventilation are in place — a properly insulated container needs a much smaller, more efficient unit than a bare one, and sizing for the bare-container heat load leads to an oversized, inefficient system."}
+    ]
   }
 ]
