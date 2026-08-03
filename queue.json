@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs-big-bucks",
-    "name": "Backyard Eggs = Big Bucks",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chicken keeping / egg income DIY guide",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide showing backyard chicken keepers how to turn a home flock into a small side income from selling eggs.",
-    "best_for": "homesteaders and backyard chicken owners who want to offset feed costs or earn extra cash from their flock",
-    "keywords": [
-      "backyard chicken egg business",
-      "sell eggs from home",
-      "backyard chickens for profit",
-      "chicken coop side income"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.7,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "flirt-formula-learn-to-flirt",
-    "name": "The Flirt Formula - Learn To Flirt with Women",
-    "vendor": "WINGGIRLS",
-    "category": "Self-Help",
-    "niche": "dating / flirting skills course for men",
-    "price": "low-ticket (official page)",
-    "summary": "A step-by-step flirting course created by a professional dating coach to help men build conversational confidence with women.",
-    "best_for": "men who feel awkward starting conversations and want a structured, practical approach to flirting",
-    "keywords": [
-      "how to flirt with women",
-      "flirting tips for men",
-      "dating confidence course",
-      "the flirt formula review"
-    ],
-    "clickbank_stats": {
-      "gravity": 4.8,
-      "approval_required": false
-    }
-  },
-  {
     "id": "year-of-the-horse-astrology-reading",
     "name": "Year of the Horse 2026 - Your Astrology Language Reading",
     "vendor": "ASTROLAN",
