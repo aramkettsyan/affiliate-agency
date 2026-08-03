@@ -1,41 +1,21 @@
 [
   {
-    "id": "year-of-the-horse-astrology-reading",
-    "name": "Year of the Horse 2026 - Your Astrology Language Reading",
-    "vendor": "ASTROLAN",
-    "category": "Spirituality & New Age",
-    "niche": "personalized astrology reading for the new year",
+    "id": "mobility-reset-method",
+    "name": "Mobility Reset Method",
+    "vendor": "MOBILITYRM",
+    "category": "Exercise & Fitness",
+    "niche": "at-home joint mobility program for adults over 50",
     "price": "low-ticket (official page)",
-    "summary": "A personalized astrology reading themed around the 2026 Year of the Horse, generated from a visitor's birth details.",
-    "best_for": "astrology fans curious about what the new year holds based on their birth chart",
+    "summary": "A rehabilitation-style, three-phase home mobility program aimed at easing stiff, achy joints in adults over 50 through short daily movement routines.",
+    "best_for": "older adults dealing with everyday joint stiffness who want a gentle, at-home movement routine",
     "keywords": [
-      "year of the horse 2026 astrology",
-      "personalized astrology reading",
-      "2026 zodiac forecast",
-      "astrology language reading review"
+      "mobility reset method review",
+      "joint mobility exercises at home",
+      "improve joint stiffness over 50",
+      "at home mobility routine"
     ],
     "clickbank_stats": {
-      "gravity": 62.9,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "killer-guitar-control-secrets",
-    "name": "Killer Guitar Control Secrets",
-    "vendor": "GUITARIST3",
-    "category": "Crafts & Hobbies",
-    "niche": "guitar lead-playing / soloing technique course",
-    "price": "low-ticket (official page)",
-    "summary": "A guitar technique course focused on teaching the fundamentals of expressive, soulful lead guitar playing.",
-    "best_for": "intermediate guitarists who can already play but want to improve their lead and solo technique",
-    "keywords": [
-      "guitar lead technique course",
-      "learn to solo on guitar",
-      "guitar control secrets review",
-      "improve guitar playing"
-    ],
-    "clickbank_stats": {
-      "gravity": 1.0,
+      "gravity": 2.3,
       "approval_required": false
     }
   }
