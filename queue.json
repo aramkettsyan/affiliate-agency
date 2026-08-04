@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "survival-md",
+    "name": "Survival MD",
+    "vendor": "SURVMD1",
+    "category": "Survival & Preparedness",
+    "niche": "home medical preparedness for emergencies",
+    "price": "low-ticket (official page)",
+    "summary": "A survival-focused medical reference guide covering how to handle injuries and health emergencies at home when professional care isn't available.",
+    "best_for": "preppers and families who want a practical home reference for medical emergencies",
+    "keywords": [
+      "survival md review",
+      "emergency medical guide for preppers",
+      "home first aid survival guide",
+      "medical preparedness book"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "guerrilla-home-defense",
+    "name": "Guerrilla Home Defense",
+    "vendor": "GHDEFENSE",
+    "category": "Survival & Preparedness",
+    "niche": "home security and self-defense tactics",
+    "price": "low-ticket (official page)",
+    "summary": "A home-defense guide teaching practical security tactics to help protect a household during unpredictable or unsafe situations.",
+    "best_for": "homeowners and preppers wanting a practical, low-cost approach to home security",
+    "keywords": [
+      "guerrilla home defense review",
+      "home security preparedness guide",
+      "home defense tactics book",
+      "family safety survival guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "foldable-forager",
+    "name": "The Foldable Forager",
+    "vendor": "FORAGER1",
+    "category": "Survival & Preparedness",
+    "niche": "wild food foraging reference guide",
+    "price": "low-ticket (official page)",
+    "summary": "A pocket-sized, full-color foraging reference guide for identifying edible wild plants, aimed at self-reliance and outdoor-minded readers.",
+    "best_for": "homesteaders, hikers, and preppers who want a portable foraging identification guide",
+    "keywords": [
+      "the foldable forager review",
+      "wild food foraging guide",
+      "edible plant identification book",
+      "foraging pocket guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "water-liberty-guide",
+    "name": "Water Liberty Guide",
+    "vendor": "WATERCPA",
+    "category": "Survival & Preparedness",
+    "niche": "off-grid water self-sufficiency",
+    "price": "low-ticket (official page)",
+    "summary": "A guide to setting up an off-grid water supply at home, aimed at reducing dependence on municipal water during shortages or emergencies.",
+    "best_for": "preppers and off-grid enthusiasts wanting a backup home water source",
+    "keywords": [
+      "water liberty guide review",
+      "off grid water supply guide",
+      "emergency water self-sufficiency",
+      "home water independence"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.0,
+      "approval_required": false
+    }
+  }
+]
