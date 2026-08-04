@@ -1,25 +1,5 @@
 [
   {
-    "id": "guerrilla-home-defense",
-    "name": "Guerrilla Home Defense",
-    "vendor": "GHDEFENSE",
-    "category": "Survival & Preparedness",
-    "niche": "home security and self-defense tactics",
-    "price": "low-ticket (official page)",
-    "summary": "A home-defense guide teaching practical security tactics to help protect a household during unpredictable or unsafe situations.",
-    "best_for": "homeowners and preppers wanting a practical, low-cost approach to home security",
-    "keywords": [
-      "guerrilla home defense review",
-      "home security preparedness guide",
-      "home defense tactics book",
-      "family safety survival guide"
-    ],
-    "clickbank_stats": {
-      "gravity": 4.7,
-      "approval_required": false
-    }
-  },
-  {
     "id": "foldable-forager",
     "name": "The Foldable Forager",
     "vendor": "FORAGER1",
