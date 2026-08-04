@@ -1,25 +1,5 @@
 [
   {
-    "id": "survival-md",
-    "name": "Survival MD",
-    "vendor": "SURVMD1",
-    "category": "Survival & Preparedness",
-    "niche": "home medical preparedness for emergencies",
-    "price": "low-ticket (official page)",
-    "summary": "A survival-focused medical reference guide covering how to handle injuries and health emergencies at home when professional care isn't available.",
-    "best_for": "preppers and families who want a practical home reference for medical emergencies",
-    "keywords": [
-      "survival md review",
-      "emergency medical guide for preppers",
-      "home first aid survival guide",
-      "medical preparedness book"
-    ],
-    "clickbank_stats": {
-      "gravity": 2.7,
-      "approval_required": false
-    }
-  },
-  {
     "id": "guerrilla-home-defense",
     "name": "Guerrilla Home Defense",
     "vendor": "GHDEFENSE",
