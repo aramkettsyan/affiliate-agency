@@ -440,5 +440,18 @@
       {"q": "What color should I paint a shipping container roof to keep it cool?", "a": "A white or light reflective color, ideally an elastomeric roof coating made for metal roofs. Light colors reflect radiant heat instead of absorbing it, and the roof is the single biggest source of heat gain on a container home, so this is one of the highest-impact, lowest-cost fixes available."},
       {"q": "Can you use central AC or a mini-split in a shipping container home?", "a": "Yes, and a mini-split is the most common choice since it needs no ductwork. The key is sizing it after insulation and ventilation are in place — a properly insulated container needs a much smaller, more efficient unit than a bare one, and sizing for the bare-container heat load leads to an oversized, inefficient system."}
     ]
+  },
+  {
+    "id": "why-does-new-plywood-boat-leak",
+    "title": "Why Does My New Plywood Boat Leak? Causes and How to Fix It",
+    "summary": "New-build leaks in wooden and plywood boats almost always trace back to under-coated seams, unbedded hardware, or plywood delamination — here's how to find the source and fix it for good.",
+    "keywords": ["why does my plywood boat leak", "new boat leaking at seams", "how to stop a wooden boat from leaking", "plywood boat leaking after building"],
+    "related_product_id": "myboatplans",
+    "date": "2026-08-04",
+    "faqs": [
+      {"q": "Is it normal for a new wooden boat to leak a little at first?", "a": "A very slight weep at a seam during the first launch is common enough that many builders do a dry-land hose test before ever putting the boat in the water. Steady dripping or a bilge that fills noticeably within 30 minutes at rest is not normal and should be traced and fixed before regular use."},
+      {"q": "How do you find where a boat is leaking?", "a": "The most reliable method is a dry-land hose test — flood the interior with a few inches of water or spray the hull while it's supported upside down, then watch for and immediately mark the first drips, since water spreads quickly and is easy to lose track of once it starts moving."},
+      {"q": "Does epoxy stop a boat from leaking permanently?", "a": "Properly applied epoxy over a well-prepared seam is a permanent, waterproof seal, but it has to be sanded clean, fully wetted out, and given a full cure (about 24 hours at room temperature) before it's trusted on the water. A rushed or under-saturated application is the most common reason a 'sealed' seam leaks again."}
+    ]
   }
 ]
