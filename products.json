@@ -3485,5 +3485,26 @@
       "edible plant identification book",
       "foraging pocket guide"
     ]
+  },
+  {
+    "id": "water-liberty-guide",
+    "name": "Water Liberty Guide",
+    "category": "Survival & Preparedness",
+    "niche": "off-grid water self-sufficiency",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=WATERCPA",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.0,
+      "approval_required": false
+    },
+    "summary": "A guide to setting up an off-grid water supply at home, aimed at reducing dependence on municipal water during shortages or emergencies.",
+    "best_for": "preppers and off-grid enthusiasts wanting a backup home water source",
+    "keywords": [
+      "water liberty guide review",
+      "off grid water supply guide",
+      "emergency water self-sufficiency",
+      "home water independence"
+    ]
   }
 ]
