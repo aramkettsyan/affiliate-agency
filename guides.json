@@ -453,5 +453,18 @@
       {"q": "How do you find where a boat is leaking?", "a": "The most reliable method is a dry-land hose test — flood the interior with a few inches of water or spray the hull while it's supported upside down, then watch for and immediately mark the first drips, since water spreads quickly and is easy to lose track of once it starts moving."},
       {"q": "Does epoxy stop a boat from leaking permanently?", "a": "Properly applied epoxy over a well-prepared seam is a permanent, waterproof seal, but it has to be sanded clean, fully wetted out, and given a full cure (about 24 hours at room temperature) before it's trusted on the water. A rushed or under-saturated application is the most common reason a 'sealed' seam leaks again."}
     ]
+  },
+  {
+    "id": "upcycle-furniture-without-sanding",
+    "title": "How to Upcycle Old Furniture Without Sanding (5 Methods That Actually Work)",
+    "summary": "Sanding exists to help paint grip a slick surface — here are five no-sand alternatives (deglosser, bonding primer, chalk paint, gel stain) plus how to know when a little sanding is still worth it.",
+    "keywords": ["how to upcycle furniture without sanding", "restore old furniture without sanding", "paint furniture without sanding", "upcycle furniture beginner guide"],
+    "related_product_id": "trash-to-treasure-upcycling",
+    "date": "2026-08-05",
+    "faqs": [
+      {"q": "Can you really paint furniture without sanding it first?", "a": "Yes, in most cases. Sanding is meant to rough up a glossy surface so paint can grip it, but a deglosser (liquid sandpaper) combined with a bonding primer accomplishes the same thing chemically, letting you skip sanding on intact, non-peeling finishes."},
+      {"q": "Do I need a primer if I use chalk-style or mineral paint?", "a": "Often not, since many chalk-style and mineral paints are formulated to bond to existing finishes without a primer step. It varies by product, so check the specific paint's label, and use a bonding primer anyway on very glossy lacquer for extra insurance."},
+      {"q": "When should I sand furniture even if I'm trying to avoid it?", "a": "Sand at least the problem areas if the existing finish is peeling or flaking, if the piece has deep gouges or water damage that need filling and leveling, or if the lacquer is extremely glossy — a light scuff-sand there plus a bonding primer everywhere else is usually enough."}
+    ]
   }
 ]
