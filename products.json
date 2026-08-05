@@ -3506,5 +3506,68 @@
       "emergency water self-sufficiency",
       "home water independence"
     ]
+  },
+  {
+    "id": "frequency-shift-protocol",
+    "name": "The Frequency Shift Protocol",
+    "category": "Self-Help",
+    "niche": "guided relaxation & nervous-system regulation audio program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=F4837",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    },
+    "summary": "A 7-minute daily guided audio session with a companion guide, designed to support relaxation and a calmer nervous system as part of a daily wind-down routine.",
+    "best_for": "people wanting a short daily audio practice for stress relief and relaxation",
+    "keywords": [
+      "frequency shift protocol review",
+      "daily relaxation audio session",
+      "nervous system regulation audio",
+      "guided relaxation practice"
+    ]
+  },
+  {
+    "id": "vidrankr",
+    "name": "VidRankr",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI-powered content creator toolkit (YouTube SEO, thumbnails, social scheduling)",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=JJP007",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A browser-based toolkit for content creators bundling YouTube keyword/title research, an AI thumbnail generator, cross-platform social insights, and a post scheduler.",
+    "best_for": "YouTubers and social media creators who want to speed up keyword research, thumbnails, and scheduling",
+    "keywords": [
+      "vidrankr review",
+      "youtube keyword research tool",
+      "ai thumbnail generator",
+      "social media scheduler for creators"
+    ]
+  },
+  {
+    "id": "permitpal",
+    "name": "PermitPal",
+    "category": "Home & Garden",
+    "niche": "AI home-improvement permit & project-cost lookup tool",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=RGKMKT1",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "An AI tool that gives homeowners and contractors a municipality-specific permit checklist plus a material cost estimate and inspector tips in under a minute.",
+    "best_for": "homeowners and contractors who want to check permit requirements and project costs before starting a build",
+    "keywords": [
+      "permitpal review",
+      "home renovation permit checklist",
+      "diy project cost estimator",
+      "do i need a permit for home improvement"
+    ]
   }
 ]
