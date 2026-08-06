@@ -466,5 +466,18 @@
       {"q": "Do I need a primer if I use chalk-style or mineral paint?", "a": "Often not, since many chalk-style and mineral paints are formulated to bond to existing finishes without a primer step. It varies by product, so check the specific paint's label, and use a bonding primer anyway on very glossy lacquer for extra insurance."},
       {"q": "When should I sand furniture even if I'm trying to avoid it?", "a": "Sand at least the problem areas if the existing finish is peeling or flaking, if the piece has deep gouges or water damage that need filling and leveling, or if the lacquer is extremely glossy — a light scuff-sand there plus a bonding primer everywhere else is usually enough."}
     ]
+  },
+  {
+    "id": "fix-wobbly-table-leg-after-tightening-bolts",
+    "title": "Why Does My Table Leg Still Wobble After Tightening the Bolts?",
+    "summary": "A wobble that survives tightened bolts almost always traces to one of four causes — an uneven floor, mismatched leg lengths, a stripped screw hole, or a failed glue joint — and each one has its own fix.",
+    "keywords": ["why does my table leg wobble after tightening", "how to fix a wobbly table leg permanently", "table still wobbles after tightening bolts", "table leg loose even after tightening screws"],
+    "related_product_id": "furniture-craft-plans",
+    "date": "2026-08-06",
+    "faqs": [
+      {"q": "Why does my table still wobble even though I already tightened every bolt?", "a": "Tightening bolts only fixes a wobble caused by loose hardware. If the real cause is an uneven floor, mismatched leg lengths, a stripped screw hole that spins freely, or a failed glue joint under the apron, tightening already-snug bolts won't change anything, which is why the wobble persists."},
+      {"q": "How do I tell if my floor is causing the wobble instead of the table?", "a": "Move the table to a different spot in the room, or ideally to a different room with a different floor. If the wobble disappears or shifts to a different corner, the floor is uneven, not the table, and the fix is leveling pads or adjustable glides rather than any repair to the table itself."},
+      {"q": "What does a stripped screw hole feel like when you try to fix a wobbly table?", "a": "A screw or bolt in a stripped hole turns smoothly with almost no resistance and never really snugs up, because the wood fibers or threads it needs to grip have worn away. The fix is filling the hole with glue and wood shims, letting it cure fully, then redrilling a pilot hole before reinserting the fastener."}
+    ]
   }
 ]
