@@ -479,5 +479,18 @@
       {"q": "How do I tell if my floor is causing the wobble instead of the table?", "a": "Move the table to a different spot in the room, or ideally to a different room with a different floor. If the wobble disappears or shifts to a different corner, the floor is uneven, not the table, and the fix is leveling pads or adjustable glides rather than any repair to the table itself."},
       {"q": "What does a stripped screw hole feel like when you try to fix a wobbly table?", "a": "A screw or bolt in a stripped hole turns smoothly with almost no resistance and never really snugs up, because the wood fibers or threads it needs to grip have worn away. The fix is filling the hole with glue and wood shims, letting it cure fully, then redrilling a pilot hole before reinserting the fastener."}
     ]
+  },
+  {
+    "id": "electric-bill-high-when-no-one-home",
+    "title": "Why Is My Electric Bill So High When No One's Home? 7 Real Causes",
+    "summary": "A high bill on an empty house isn't a meter glitch — it's almost always HVAC setpoints, an idle water heater, phantom-load electronics, or a fridge working overtime, each with a specific fix.",
+    "keywords": ["why is my electric bill so high when no one is home", "electric bill high empty house", "electric bill high while away", "high electric bill no one home"],
+    "related_product_id": "energy-revolution-system",
+    "date": "2026-08-07",
+    "faqs": [
+      {"q": "Can my electric bill be high even if I unplug everything I can find?", "a": "Yes. The biggest continuous draws in an empty house are usually the HVAC system holding its setpoint and the water heater keeping its tank hot, not small electronics. Unplugging chargers and standby devices helps, but it won't offset an air conditioner or heater running on a normal setpoint the whole time you're away."},
+      {"q": "How much does phantom or standby power actually add to a bill?", "a": "Estimates generally put combined standby power from idle electronics at around 5-10% of a typical home's total electricity use, sometimes more in homes with a lot of entertainment or smart-home devices. It's rarely the single biggest cause on its own, but it adds up every day, occupied or not."},
+      {"q": "Why would my bill be higher than usual even though my house was completely empty?", "a": "Check the billing cycle length first — a 33-35 day cycle instead of the usual 28-31 will produce a higher bill from normal-rate usage alone. If the cycle length is normal, walk through HVAC setpoints, the water heater, refrigerator condition, and any easy-to-forget devices like a space heater, well pump, or garage freezer before assuming something is broken."}
+    ]
   }
 ]
