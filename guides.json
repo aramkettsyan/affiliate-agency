@@ -492,5 +492,18 @@
       {"q": "How much does phantom or standby power actually add to a bill?", "a": "Estimates generally put combined standby power from idle electronics at around 5-10% of a typical home's total electricity use, sometimes more in homes with a lot of entertainment or smart-home devices. It's rarely the single biggest cause on its own, but it adds up every day, occupied or not."},
       {"q": "Why would my bill be higher than usual even though my house was completely empty?", "a": "Check the billing cycle length first — a 33-35 day cycle instead of the usual 28-31 will produce a higher bill from normal-rate usage alone. If the cycle length is normal, walk through HVAC setpoints, the water heater, refrigerator condition, and any easy-to-forget devices like a space heater, well pump, or garage freezer before assuming something is broken."}
     ]
+  },
+  {
+    "id": "bike-chain-skipping-when-pedaling-hard",
+    "title": "Why Does My Bike Chain Keep Skipping or Slipping When I Pedal Hard?",
+    "summary": "Chain skipping under load almost always traces to a stretched chain, loose cable tension, worn cassette teeth, or a bent derailleur hanger — here's how to tell which one you have and fix it.",
+    "keywords": ["why does my bike chain keep skipping", "bike chain slipping when pedaling hard", "bike chain jumps gears", "how to fix a skipping bike chain"],
+    "related_product_id": "diy-bike-repair-course",
+    "date": "2026-08-08",
+    "faqs": [
+      {"q": "Is it safe to keep riding a bike with a skipping chain?", "a": "It's not dangerous at low effort, but a chain that skips under hard pedaling can suddenly release tension and cause your foot to slip off the pedal, which is a real fall risk when standing and climbing or sprinting in traffic. It's worth diagnosing and fixing before riding somewhere with hills or cars."},
+      {"q": "How do I know if my chain is actually worn out?", "a": "A chain wear indicator tool (around $10-15) gives the most reliable reading, but a rough check is pulling the chain away from the front chainring at the 3 o'clock position — if you can lift it enough to see daylight behind more than half a tooth, it's stretched and due for replacement."},
+      {"q": "Will putting on a new chain fix the skipping?", "a": "Only if the cassette isn't also worn. A new chain paired with a badly worn cassette often skips worse than the old chain did, because the new chain doesn't match the wear grooved into the old cassette's teeth — check or replace both together if the drivetrain has heavy mileage."}
+    ]
   }
 ]
