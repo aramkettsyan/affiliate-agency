@@ -3653,5 +3653,26 @@
       "generate recipes online",
       "recipe book and shopping list app"
     ]
+  },
+  {
+    "id": "power-grid-generator",
+    "name": "Power Grid Generator",
+    "category": "Green Products",
+    "niche": "DIY off-grid energy / power independence",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=POWERGG",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 16.4,
+      "approval_required": false
+    },
+    "summary": "A step-by-step DIY guide showing homeowners how to build a small backup power setup to cut electricity bills and stay prepared during outages.",
+    "best_for": "homeowners wanting a low-cost DIY backup power option and lower monthly electric bills",
+    "keywords": [
+      "DIY backup power generator",
+      "reduce electricity bill at home",
+      "off grid power system guide",
+      "home power outage preparedness"
+    ]
   }
 ]
