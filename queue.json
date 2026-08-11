@@ -1,25 +1,5 @@
 [
   {
-    "id": "home-power-shield",
-    "name": "Home Power Shield",
-    "vendor": "HOMEPSH",
-    "category": "Green Products",
-    "niche": "DIY off-grid energy / power independence",
-    "price": "low-ticket (official page)",
-    "summary": "A home energy guide aimed at helping households build a simple backup power setup and reduce dependence on the grid.",
-    "best_for": "homeowners looking for a straightforward, low-cost way to add backup power at home",
-    "keywords": [
-      "home backup power guide",
-      "diy power independence",
-      "cut home energy costs",
-      "off grid electricity for beginners"
-    ],
-    "clickbank_stats": {
-      "gravity": 6.7,
-      "approval_required": false
-    }
-  },
-  {
     "id": "kinetic-power-system",
     "name": "Kinetic Power System",
     "vendor": "KINETICPS",
