@@ -518,5 +518,18 @@
       {"q": "How do I know if my chain is actually worn out?", "a": "A chain wear indicator tool (around $10-15) gives the most reliable reading, but a rough check is pulling the chain away from the front chainring at the 3 o'clock position — if you can lift it enough to see daylight behind more than half a tooth, it's stretched and due for replacement."},
       {"q": "Will putting on a new chain fix the skipping?", "a": "Only if the cassette isn't also worn. A new chain paired with a badly worn cassette often skips worse than the old chain did, because the new chain doesn't match the wear grooved into the old cassette's teeth — check or replace both together if the drivetrain has heavy mileage."}
     ]
+  },
+  {
+    "id": "how-to-fix-watery-soup",
+    "title": "Why Is My Soup Watery Instead of Thick? How to Fix It",
+    "summary": "Watery soup almost always comes down to too much liquid, no real thickener, or an uncovered-vs-covered cooking mistake — here's how to diagnose it and fix a thin pot fast.",
+    "keywords": ["why is my soup watery instead of thick", "how to thicken watery soup", "soup won't thicken fix", "how to fix thin soup"],
+    "related_product_id": "rapid-soup-diet",
+    "date": "2026-08-11",
+    "faqs": [
+      {"q": "What's the fastest way to fix watery soup?", "a": "Take the lid off and simmer it uncovered for 15-25 minutes. This lets excess water evaporate without diluting flavor the way adding a thickener can, and it's often enough on its own to noticeably tighten up a thin soup."},
+      {"q": "Should I use flour or cornstarch to thicken soup?", "a": "Cornstarch thickens faster and gives a glossier finish, while flour needs a few minutes of simmering to cook out the raw taste but holds up better in soups that will be reheated. Either way, mix it with cold water into a smooth slurry first — adding dry starch straight to hot liquid causes clumps."},
+      {"q": "Why does my soup get watery again after refrigerating and reheating it?", "a": "Starch-based thickeners like flour and cornstarch can break down slightly over time and during reheating, which thins the soup back out. Blended vegetables, potatoes, rice, or beans hold their thickening power much better after storage than a slurry does."}
+    ]
   }
 ]
