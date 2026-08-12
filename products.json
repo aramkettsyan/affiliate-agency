@@ -3716,5 +3716,68 @@
       "diy home energy independence",
       "lower power bill diy project"
     ]
+  },
+  {
+    "id": "the-mans-library",
+    "name": "The Man's Library",
+    "category": "Self-Help",
+    "niche": "survival / outdoor / DIY skills reference library",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MANLIBRARY",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.8,
+      "approval_required": false
+    },
+    "summary": "A digital library of 1,500+ guides covering survival, firearms, outdoor skills, and DIY preparedness in one reference collection.",
+    "best_for": "outdoorsmen and preppers who want a single go-to skills reference",
+    "keywords": [
+      "the man's library review",
+      "survival skills guide collection",
+      "outdoor preparedness reference library",
+      "diy survival guides for men"
+    ]
+  },
+  {
+    "id": "foraging-secrets",
+    "name": "Foraging Secrets",
+    "category": "Self-Help",
+    "niche": "wild food foraging / self-reliance",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FORAGING1",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.4,
+      "approval_required": false
+    },
+    "summary": "A physical foraging handbook that helps beginners identify wild edible plants safely for self-reliance and outdoor trips.",
+    "best_for": "self-reliance and homesteading enthusiasts wanting to learn safe wild foraging",
+    "keywords": [
+      "foraging secrets book review",
+      "how to identify edible wild plants",
+      "beginner foraging guide",
+      "wild food foraging for preppers"
+    ]
+  },
+  {
+    "id": "mindzoom-subliminal-software",
+    "name": "Mindzoom Affirmations Subliminal Software",
+    "category": "Self-Help",
+    "niche": "subliminal affirmation software / mindset training",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MINDZOOM",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.2,
+      "approval_required": false
+    },
+    "summary": "A long-running PC affirmation program that plays subliminal and on-screen affirmations while you work to reinforce positive self-talk.",
+    "best_for": "people who want a passive, hands-off way to reinforce daily affirmations",
+    "keywords": [
+      "mindzoom review",
+      "subliminal affirmation software",
+      "does subliminal messaging software work",
+      "affirmation software for pc"
+    ]
   }
 ]
