@@ -1,25 +1,5 @@
 [
   {
-    "id": "home-grid-freedom",
-    "name": "Home Grid Freedom",
-    "vendor": "PEAKSHAVER",
-    "category": "Green Products",
-    "niche": "Alternative / Home Energy",
-    "price": "low-ticket (official page)",
-    "summary": "A home energy guide from an established green-energy vendor showing how to cut electricity costs with a simple DIY setup.",
-    "best_for": "Homeowners looking to reduce their power bill with an affordable DIY energy project.",
-    "keywords": [
-      "reduce home electric bill",
-      "DIY home energy system",
-      "cut power bill guide",
-      "off grid energy at home"
-    ],
-    "clickbank_stats": {
-      "gravity": 5.8,
-      "approval_required": false
-    }
-  },
-  {
     "id": "orgone-energy-motor",
     "name": "Orgone Motor",
     "vendor": "SEMAK007",
