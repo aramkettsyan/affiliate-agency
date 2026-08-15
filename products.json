@@ -3884,5 +3884,68 @@
       "alternative energy diy guide",
       "orgone motor reviews"
     ]
+  },
+  {
+    "id": "final-survival-plan",
+    "name": "Final Survival Plan",
+    "category": "Self-Help",
+    "niche": "Survival & Preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FINAL18",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.7,
+      "approval_required": false
+    },
+    "summary": "An emergency-preparedness guide covering survival, off-grid energy, and self-reliance basics for households worried about disruptions.",
+    "best_for": "Preppers and homeowners who want a beginner-friendly emergency preparedness plan.",
+    "keywords": [
+      "survival preparedness guide",
+      "emergency plan for home",
+      "off grid survival",
+      "disaster readiness"
+    ]
+  },
+  {
+    "id": "backyard-miracle-farm",
+    "name": "The Backyard Miracle Farm",
+    "category": "Self-Help",
+    "niche": "Survival & Homesteading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SRFF14",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.0,
+      "approval_required": false
+    },
+    "summary": "A homesteading guide that walks through turning a small backyard into a self-sufficient mini-farm for food security.",
+    "best_for": "Homeowners wanting to grow more of their own food on a small plot of land.",
+    "keywords": [
+      "backyard mini farm guide",
+      "self sufficient homestead",
+      "grow your own food backyard",
+      "small space farming"
+    ]
+  },
+  {
+    "id": "takeover-usa",
+    "name": "Takeover USA",
+    "category": "Self-Help",
+    "niche": "Survival & Preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=TAKEOVERUS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.7,
+      "approval_required": false
+    },
+    "summary": "A preparedness program aimed at helping households build resilience plans for economic or infrastructure disruptions.",
+    "best_for": "Readers looking for a structured, step-by-step household resilience plan.",
+    "keywords": [
+      "household resilience plan",
+      "economic preparedness guide",
+      "survival plan usa",
+      "disruption preparedness"
+    ]
   }
 ]

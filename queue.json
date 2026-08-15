@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "bulletproof-home",
+    "name": "Bulletproof Home",
+    "vendor": "BULLETPH",
+    "category": "Self-Help",
+    "niche": "Home Defense & Survival",
+    "price": "low-ticket (official page)",
+    "summary": "A home-defense and hardening guide teaching practical steps to make a house more secure and self-sufficient in a crisis.",
+    "best_for": "Homeowners wanting straightforward home-security and self-reliance upgrades.",
+    "keywords": [
+      "home defense guide",
+      "harden your home security",
+      "family safety preparedness",
+      "home security diy"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "emp-survival-guide",
+    "name": "The EMP Survival Offer",
+    "vendor": "EMPPROT",
+    "category": "Self-Help",
+    "niche": "EMP & Grid-Down Preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide focused specifically on protecting a household's electronics and power access in the event of an EMP or grid-down scenario.",
+    "best_for": "Preppers specifically concerned about EMP events and long-term power outages.",
+    "keywords": [
+      "emp survival guide",
+      "grid down preparedness",
+      "protect electronics emp",
+      "power outage survival plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.7,
+      "approval_required": false
+    }
+  }
+]
