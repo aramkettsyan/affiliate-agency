@@ -570,5 +570,18 @@
       {"q": "Can I fix macrame rows that are already uneven, or do I have to start over?", "a": "You usually don't have to start over. Gently re-tensioning by hand, combing out minor twist, or steaming cotton cord can soften small unevenness, and for a genuinely crooked section it's often faster to unpick back to before the mistake and re-tie just that part."},
       {"q": "Does the type of cord affect how even my knots look?", "a": "Yes. Mixing cord from different dye lots or brands introduces small thickness and stretch differences that show up as unevenness even with perfect tension, so buying enough cord from one batch for a project and pre-stretching new cord before starting both help."}
     ]
+  },
+  {
+    "id": "how-to-price-woodworking-projects-to-sell",
+    "title": "How to Price Handmade Woodworking Projects So They Actually Sell",
+    "summary": "A repeatable five-part pricing formula (plus a fast materials-times-three shortcut) for woodworkers who are underpricing their builds and want to actually cover their time.",
+    "keywords": ["how to price woodworking projects to sell", "pricing handmade wood items", "how much to charge for woodworking projects", "woodworking business pricing guide"],
+    "related_product_id": "woodprofits",
+    "date": "2026-08-15",
+    "faqs": [
+      {"q": "What's the fastest way to price a simple woodworking item like a cutting board?", "a": "Materials cost multiplied by three is a common quick-start formula for simple, fast-build items like cutting boards or coasters. It's a rough estimate meant to fold in labor, overhead, and profit in one step, and works best on items that don't involve much detailed labor."},
+      {"q": "How much should I charge per hour for woodworking labor?", "a": "Beginners making simple items often start around $15-20 an hour of build time, while skilled joinery or custom furniture work can reasonably justify $30-50+ an hour. Time a few real builds, including sanding and finishing, before settling on a rate, since those steps are the most commonly underestimated part of the job."},
+      {"q": "Why do my woodworking prices feel too low compared to what I see online?", "a": "This usually means labor and overhead aren't being counted, only materials. Checking completed (not just active) Etsy listings and local craft fair prices for comparable pieces is a fast way to sanity-check a cost-based price against what the market actually supports."}
+    ]
   }
 ]
