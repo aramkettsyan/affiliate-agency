@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "the-eggs-factory",
+    "name": "The Eggs Factory",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken-keeping & home egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide to raising backyard chickens and producing your own eggs at home, aimed at cutting grocery costs.",
+    "best_for": "homeowners with yard space who want a beginner-friendly guide to starting a small backyard flock",
+    "keywords": [
+      "backyard chickens for eggs",
+      "raise chickens at home",
+      "diy chicken coop eggs",
+      "how to start a backyard flock"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "urban-survival-code",
+    "name": "Urban Survival Code",
+    "vendor": "URBANCODE",
+    "category": "Self-Help",
+    "niche": "urban / city disaster preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide focused specifically on surviving emergencies in a city or suburban environment rather than a rural bug-out scenario.",
+    "best_for": "city and suburban dwellers who want practical prepping steps that don't assume rural land or a bug-out cabin",
+    "keywords": [
+      "urban survival guide",
+      "city disaster preparedness",
+      "prepping in the city",
+      "urban emergency plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "my-survival-farm",
+    "name": "My Survival Farm",
+    "vendor": "SRVFARM",
+    "category": "Self-Help",
+    "niche": "prepper food self-sufficiency & permaculture",
+    "price": "low-ticket (official page)",
+    "summary": "A permaculture-style guide to growing a self-sustaining home food forest, aimed at preppers who want a long-term, low-maintenance food source.",
+    "best_for": "homesteaders and preppers who want to grow their own food supply without a traditional row-crop garden",
+    "keywords": [
+      "survival food garden",
+      "food forest permaculture",
+      "grow your own food preppers",
+      "self sufficient food supply"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "emp-blackout-protocol",
+    "name": "Blackout Protocol",
+    "vendor": "BLACKOUTP",
+    "category": "Self-Help",
+    "niche": "EMP / grid-down power outage preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide focused on protecting electronics and staying powered through an EMP event or extended blackout.",
+    "best_for": "preppers concerned about grid-down scenarios who want a step-by-step plan for protecting power and electronics",
+    "keywords": [
+      "emp survival guide",
+      "blackout preparedness",
+      "protect electronics from emp",
+      "grid down survival plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.3,
+      "approval_required": false
+    }
+  }
+]
