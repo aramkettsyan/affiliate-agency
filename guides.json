@@ -583,5 +583,18 @@
       {"q": "How much should I charge per hour for woodworking labor?", "a": "Beginners making simple items often start around $15-20 an hour of build time, while skilled joinery or custom furniture work can reasonably justify $30-50+ an hour. Time a few real builds, including sanding and finishing, before settling on a rate, since those steps are the most commonly underestimated part of the job."},
       {"q": "Why do my woodworking prices feel too low compared to what I see online?", "a": "This usually means labor and overhead aren't being counted, only materials. Checking completed (not just active) Etsy listings and local craft fair prices for comparable pieces is a fast way to sanity-check a cost-based price against what the market actually supports."}
     ]
+  },
+  {
+    "id": "universal-edibility-test-does-it-work",
+    "title": "Does the Universal Edibility Test Actually Work? What It Gets Wrong",
+    "summary": "The Universal Edibility Test sounds like a foolproof way to check an unknown wild plant, but it fails on mushrooms, rejects some genuinely edible plants, and misses slow-acting toxins — here's what it's actually good for and what really keeps foragers safe.",
+    "keywords": ["does the universal edibility test work", "universal edibility test foraging", "how to test if a wild plant is edible", "is the edibility test safe"],
+    "related_product_id": "foldable-forager",
+    "date": "2026-08-16",
+    "faqs": [
+      {"q": "Can you use the Universal Edibility Test on mushrooms?", "a": "No, never. Mushrooms don't follow the same rules as plants — a mushroom like the Death Cap can taste unremarkable and pass every stage of the test, then cause fatal organ damage hours or days later, well outside the test's observation window."},
+      {"q": "Why does the edibility test reject some plants that are actually edible?", "a": "The test flags any burning, tingling, or bitterness as a fail, but some genuinely edible plants only become safe after processing. Raw stinging nettle burns on skin contact but is fine cooked, and raw acorns taste bitter from tannins until they're leached or boiled — the test can't tell 'toxic' apart from 'needs cooking.'"},
+      {"q": "Is the Universal Edibility Test a good way to learn foraging?", "a": "Not really. It was designed as a last-resort tool for a genuine survival emergency with zero other options, not as an everyday identification method. Positive identification using multiple plant features, cross-checked against a reliable field guide, is what actually keeps regular foragers safe."}
+    ]
   }
 ]
