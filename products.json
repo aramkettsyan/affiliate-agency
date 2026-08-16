@@ -3947,5 +3947,26 @@
       "survival plan usa",
       "disruption preparedness"
     ]
+  },
+  {
+    "id": "bulletproof-home",
+    "name": "Bulletproof Home",
+    "category": "Self-Help",
+    "niche": "Home Defense & Survival",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BULLETPH",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.5,
+      "approval_required": false
+    },
+    "summary": "A home-defense and hardening guide teaching practical steps to make a house more secure and self-sufficient in a crisis.",
+    "best_for": "Homeowners wanting straightforward home-security and self-reliance upgrades.",
+    "keywords": [
+      "home defense guide",
+      "harden your home security",
+      "family safety preparedness",
+      "home security diy"
+    ]
   }
 ]
