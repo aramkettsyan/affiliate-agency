@@ -3989,5 +3989,47 @@
       "marriage repair course",
       "stop divorce"
     ]
+  },
+  {
+    "id": "urban-survival-code",
+    "name": "Urban Survival Code",
+    "category": "Self-Help",
+    "niche": "urban / city disaster preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=URBANCODE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "approval_required": false
+    },
+    "summary": "A preparedness guide focused specifically on surviving emergencies in a city or suburban environment rather than a rural bug-out scenario.",
+    "best_for": "city and suburban dwellers who want practical prepping steps that don't assume rural land or a bug-out cabin",
+    "keywords": [
+      "urban survival guide",
+      "city disaster preparedness",
+      "prepping in the city",
+      "urban emergency plan"
+    ]
+  },
+  {
+    "id": "emp-blackout-protocol",
+    "name": "Blackout Protocol",
+    "category": "Self-Help",
+    "niche": "EMP / grid-down power outage preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BLACKOUTP",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.3,
+      "approval_required": false
+    },
+    "summary": "A preparedness guide focused on protecting electronics and staying powered through an EMP event or extended blackout.",
+    "best_for": "preppers concerned about grid-down scenarios who want a step-by-step plan for protecting power and electronics",
+    "keywords": [
+      "emp survival guide",
+      "blackout preparedness",
+      "protect electronics from emp",
+      "grid down survival plan"
+    ]
   }
 ]
