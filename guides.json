@@ -596,5 +596,18 @@
       {"q": "Why does the edibility test reject some plants that are actually edible?", "a": "The test flags any burning, tingling, or bitterness as a fail, but some genuinely edible plants only become safe after processing. Raw stinging nettle burns on skin contact but is fine cooked, and raw acorns taste bitter from tannins until they're leached or boiled — the test can't tell 'toxic' apart from 'needs cooking.'"},
       {"q": "Is the Universal Edibility Test a good way to learn foraging?", "a": "Not really. It was designed as a last-resort tool for a genuine survival emergency with zero other options, not as an everyday identification method. Positive identification using multiple plant features, cross-checked against a reliable field guide, is what actually keeps regular foragers safe."}
     ]
+  },
+  {
+    "id": "why-are-joints-stiff-in-the-morning-but-fine-later",
+    "title": "Why Are My Joints Stiff in the Morning But Fine Later in the Day?",
+    "summary": "Morning joint stiffness that fades within 30 minutes is usually just \"morning gel\" from overnight stillness, not a warning sign — here's how to tell it apart from something that needs a doctor, and what actually helps.",
+    "keywords": ["why are my joints stiff in the morning", "joint stiffness in the morning goes away", "why do my joints loosen up after moving", "morning joint stiffness causes"],
+    "related_product_id": "mobility-reset-method",
+    "date": "2026-08-17",
+    "faqs": [
+      {"q": "Is it normal for joints to be stiff every morning?", "a": "Yes, for most healthy adults, especially with age. Overnight stillness thickens the joint's lubricating fluid and slows blood flow, so joints feel tight until movement warms them back up, typically within 10-30 minutes."},
+      {"q": "How long should morning joint stiffness normally last?", "a": "Ordinary morning stiffness usually resolves within about 30 minutes of getting up and moving. Stiffness that regularly lasts 30-45 minutes or longer, especially with swelling or warmth, is worth mentioning to a doctor."},
+      {"q": "Does drinking more water help with morning joint stiffness?", "a": "Chronic dehydration is associated with worse stiffness, so staying consistently hydrated can help at the margins, but it's not a standalone fix. Regular movement and a short daily mobility routine make a bigger difference for most people."}
+    ]
   }
 ]
