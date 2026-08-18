@@ -4052,5 +4052,68 @@
       "personalized fortune telling online",
       "scratch card horoscope reading"
     ]
+  },
+  {
+    "id": "veganize-baking",
+    "name": "Veganize Baking",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan baking recipes",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=VEGANBAKE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A vegan baking cookbook that shows how to convert classic baked goods like bread, cakes, and desserts into fully plant-based versions.",
+    "best_for": "home bakers switching to a vegan diet who don't want to give up baked treats",
+    "keywords": [
+      "vegan baking recipes",
+      "how to bake vegan desserts",
+      "plant-based baking cookbook",
+      "vegan bread and cake recipes"
+    ]
+  },
+  {
+    "id": "miami-ink-tattoo-designs",
+    "name": "Miami Ink Tattoo Designs",
+    "category": "Arts & Entertainment",
+    "niche": "tattoo design resource",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MIAMIINK",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A large online library of tattoo designs and reference art for people planning a tattoo or working as a tattoo artist.",
+    "best_for": "anyone researching tattoo ideas before booking an appointment, or artists wanting reference designs",
+    "keywords": [
+      "tattoo design ideas library",
+      "tattoo reference images online",
+      "find tattoo designs",
+      "tattoo flash art collection"
+    ]
+  },
+  {
+    "id": "custom-song-surprise",
+    "name": "Custom Song Surprise",
+    "category": "Arts & Entertainment",
+    "niche": "personalized gift songs",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SONGCUSTOM",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A service that turns a story or memory you provide into a personalized custom song, sold as a unique gift for birthdays, weddings, and anniversaries.",
+    "best_for": "people looking for a unique, sentimental gift rather than a typical store-bought present",
+    "keywords": [
+      "personalized custom song gift",
+      "turn story into a song",
+      "custom song for anniversary",
+      "unique gift idea song"
+    ]
   }
 ]
