@@ -622,5 +622,18 @@
       {"q": "Is it okay to knee my dog in the chest or step on its back paws to stop jumping?", "a": "No. These older corrections are more likely to create fear or a startled defensive reaction than to teach a lasting lesson. Turning away and rewarding four-paws-on-the-floor works better and doesn't risk provoking a fear-based nip."},
       {"q": "How long does it take to stop a dog from jumping on guests?", "a": "Most dogs show real improvement within 2-4 weeks of short daily practice sessions, provided every household member enforces the same rule. Inconsistent enforcement between people is the most common reason training stalls."}
     ]
+  },
+  {
+    "id": "how-to-treat-wound-no-bandages-no-antibiotic-ointment",
+    "title": "What to Do When You're Out of Bandages and Antibiotic Ointment for a Wound",
+    "summary": "You don't need a stocked first aid kit to treat most minor cuts and scrapes well — here's what to use instead of antibiotic ointment and bandages, and how to tell when a wound needs real medical care instead.",
+    "keywords": ["how to treat a wound without bandages", "what to use instead of antibiotic ointment", "no first aid supplies wound care", "emergency wound care at home"],
+    "related_product_id": "home-doctor",
+    "date": "2026-08-19",
+    "faqs": [
+      {"q": "Can petroleum jelly really replace antibiotic ointment?", "a": "For a clean, non-infected cut or scrape, yes. Studies have found plain petroleum jelly performs comparably to antibiotic ointment because the main benefit is keeping the wound moist, not the antibiotic itself. It won't treat an infection that's already started, so it's a substitute for prevention, not a cure."},
+      {"q": "What can I use as a bandage if I don't have any?", "a": "A clean strip of cotton cloth held in place with tape works well, and plastic wrap taped at the edges is a surprisingly effective improvised covering since it keeps the wound moist and protected without sticking to it. Change either at least once or twice a day and whenever it gets wet or dirty."},
+      {"q": "When is a wound too serious to treat at home?", "a": "See a doctor or urgent care if bleeding won't stop after 10-15 minutes of firm pressure, the cut is deeper than about half an inch or won't close, it came from a dirty or rusty object, it's an animal or human bite, or you notice spreading redness, warmth, pus, red streaking, or fever as it heals."}
+    ]
   }
 ]
