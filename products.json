@@ -4115,5 +4115,68 @@
       "custom song for anniversary",
       "unique gift idea song"
     ]
+  },
+  {
+    "id": "vegan-travel-toolkit",
+    "name": "Vegan Travel Toolkit",
+    "category": "Self-Help",
+    "niche": "vegan travel planning",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=VEGANTOOL",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0,
+      "approval_required": false
+    },
+    "summary": "An interactive planner for vegan travelers with a meal finder, budget tracker, and language cards for eating plant-based abroad.",
+    "best_for": "Vegan and plant-based travelers who want an easier time finding food and budgeting on trips.",
+    "keywords": [
+      "vegan travel planner",
+      "how to travel vegan",
+      "vegan food abroad guide",
+      "plant based travel toolkit"
+    ]
+  },
+  {
+    "id": "4-foot-farm",
+    "name": "4 Foot Farm",
+    "category": "Self-Help",
+    "niche": "small-space homesteading / self-reliance",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=4FTFARM",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0,
+      "approval_required": false
+    },
+    "summary": "A compact home-farming guide showing how to grow food and cut grocery costs in a small 4-foot garden space.",
+    "best_for": "Budget-conscious homesteaders and preppers with limited yard space.",
+    "keywords": [
+      "small space vegetable garden",
+      "4 foot farm review",
+      "grow your own food small yard",
+      "backyard homesteading guide"
+    ]
+  },
+  {
+    "id": "medicinal-garden-kit",
+    "name": "Medicinal Garden Kit",
+    "category": "Home & Garden",
+    "niche": "medicinal herb gardening",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BOOKOFREN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 16.9,
+      "approval_required": false
+    },
+    "summary": "A step-by-step kit and guide for growing a home garden of traditional medicinal herbs.",
+    "best_for": "Herbal gardening enthusiasts and self-reliance/prepper audiences interested in growing their own remedies.",
+    "keywords": [
+      "medicinal herb garden guide",
+      "grow healing herbs at home",
+      "medicinal garden kit review",
+      "home herbal remedy garden"
+    ]
   }
 ]
