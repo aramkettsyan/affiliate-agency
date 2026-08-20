@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "Backyard Chickens / Homesteading",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide to raising backyard chickens for a steady supply of fresh eggs and saving money on groceries.",
+    "best_for": "Homeowners and homesteaders wanting to start backyard egg production on a budget.",
+    "keywords": [
+      "backyard chickens for eggs guide",
+      "how to start raising chickens",
+      "backyard eggs big bucks review",
+      "diy chicken coop egg production"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 - Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality & Astrology",
+    "niche": "Astrology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized 2026 Year of the Horse astrology reading built around your birth chart.",
+    "best_for": "Astrology fans wanting a personalized outlook for the new year.",
+    "keywords": [
+      "year of the horse 2026 reading review",
+      "astrology language reading",
+      "personalized 2026 astrology forecast",
+      "chinese zodiac horse year reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 72.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "numerology-forecast-life-path",
+    "name": "Numerology Forecast: Decode Your Life's Path",
+    "vendor": "00NUMERO",
+    "category": "Spirituality & Astrology",
+    "niche": "Numerology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized numerology report that decodes your life path number to reveal purpose, love, and abundance insights.",
+    "best_for": "Readers curious about what their numerology life path number reveals.",
+    "keywords": [
+      "numerology forecast review",
+      "life path number reading",
+      "decode your life path numerology",
+      "personalized numerology report"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "soul-blueprint-kabbalistic-numerology",
+    "name": "Your Soul Blueprint - Kabbalistic Numerology Reading",
+    "vendor": "ANAREC",
+    "category": "Spirituality & Astrology",
+    "niche": "Numerology",
+    "price": "low-ticket (official page)",
+    "summary": "An instant, personalized Kabbalistic numerology report generated from your name and date of birth, with a 12-month forecast.",
+    "best_for": "Readers interested in Kabbalistic numerology and a personalized soul number analysis.",
+    "keywords": [
+      "kabbalistic numerology reading review",
+      "soul blueprint numerology",
+      "soul number analysis report",
+      "kabbalah numerology forecast"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "witchcraft-secret-manual",
+    "name": "Witchcraft Secret Manual",
+    "vendor": "WSMANUAL",
+    "category": "Spirituality & Astrology",
+    "niche": "Witchcraft",
+    "price": "low-ticket (official page)",
+    "summary": "A digital manual of white magic spells for love, money, and luck aimed at beginners exploring witchcraft.",
+    "best_for": "Readers curious about beginner-friendly white magic and spellcasting basics.",
+    "keywords": [
+      "witchcraft secret manual review",
+      "white magic spells for beginners",
+      "love and money spells guide",
+      "beginner witchcraft spellbook"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "soul-mirror-reading",
+    "name": "Soul Mirror Reading",
+    "vendor": "REBORNF",
+    "category": "Spirituality & Astrology",
+    "niche": "Tarot",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized tarot-style Soul Mirror reading that reflects your inner patterns and relationship dynamics.",
+    "best_for": "Readers who enjoy tarot-style personality and relationship reflections.",
+    "keywords": [
+      "soul mirror reading review",
+      "personalized tarot style reading",
+      "luna ross soul mirror reading",
+      "tarot relationship reflection reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 8.1,
+      "approval_required": false
+    }
+  }
+]
