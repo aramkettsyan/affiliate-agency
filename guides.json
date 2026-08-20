@@ -635,5 +635,18 @@
       {"q": "What can I use as a bandage if I don't have any?", "a": "A clean strip of cotton cloth held in place with tape works well, and plastic wrap taped at the edges is a surprisingly effective improvised covering since it keeps the wound moist and protected without sticking to it. Change either at least once or twice a day and whenever it gets wet or dirty."},
       {"q": "When is a wound too serious to treat at home?", "a": "See a doctor or urgent care if bleeding won't stop after 10-15 minutes of firm pressure, the cut is deeper than about half an inch or won't close, it came from a dirty or rusty object, it's an animal or human bite, or you notice spreading redness, warmth, pus, red streaking, or fever as it heals."}
     ]
+  },
+  {
+    "id": "how-to-dry-medicinal-herbs-without-losing-potency",
+    "title": "How to Dry Medicinal Herbs Without Losing Their Potency",
+    "summary": "The drying method you choose can make or break a medicinal herb harvest — here's how air drying, dehydrators, and storage each affect potency, and why the oven is usually a mistake.",
+    "keywords": ["how to dry medicinal herbs without losing potency", "best way to dry herbs for medicinal use", "air drying herbs vs dehydrator potency", "how to store dried herbs to keep potency"],
+    "related_product_id": "medicinal-garden-kit",
+    "date": "2026-08-20",
+    "faqs": [
+      {"q": "Is air drying or a dehydrator better for preserving herb potency?", "a": "Air drying in a dark, well-ventilated space is generally gentlest on volatile oils and other delicate compounds, since it uses no added heat. A low-temperature dehydrator (95-115°F) is a close second and is often the more practical choice in humid climates where slow air drying risks mold before the herb fully dries."},
+      {"q": "Why shouldn't I dry medicinal herbs in a regular oven?", "a": "Most home ovens can't hold a low enough temperature even on their lowest setting, and the heat that does get past that point breaks down volatile oils and other active compounds quickly. An oven can also go from underdone to scorched in a matter of minutes, making it easy to ruin an entire batch."},
+      {"q": "How long do dried medicinal herbs stay potent once stored?", "a": "Most dried herbs hold good potency for about a year when stored whole in an airtight jar in a cool, dark place, and are often still usable up to two years. Potency fades gradually rather than herbs simply spoiling, so a faded color or weak aroma compared to when it was jarred is the clearest sign it's time to replace a batch."}
+    ]
   }
 ]
