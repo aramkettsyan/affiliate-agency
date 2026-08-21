@@ -648,5 +648,18 @@
       {"q": "Why shouldn't I dry medicinal herbs in a regular oven?", "a": "Most home ovens can't hold a low enough temperature even on their lowest setting, and the heat that does get past that point breaks down volatile oils and other active compounds quickly. An oven can also go from underdone to scorched in a matter of minutes, making it easy to ruin an entire batch."},
       {"q": "How long do dried medicinal herbs stay potent once stored?", "a": "Most dried herbs hold good potency for about a year when stored whole in an airtight jar in a cool, dark place, and are often still usable up to two years. Potency fades gradually rather than herbs simply spoiling, so a faded color or weak aroma compared to when it was jarred is the clearest sign it's time to replace a batch."}
     ]
+  },
+  {
+    "id": "how-many-vegetables-4x4-raised-bed",
+    "title": "How Many Vegetables Can You Actually Grow in a 4x4 Raised Bed?",
+    "summary": "A 4x4 raised bed can hold 16-32+ plants when you switch from row planting to intensive square-foot spacing — here's a crop-by-crop breakdown, a layout trick most guides skip, and how succession planting multiplies your harvest.",
+    "keywords": ["how many vegetables can you grow in a 4x4 raised bed", "how many plants fit in a 4x4 raised bed", "4x4 raised bed layout vegetables", "square foot gardening 4x4 bed"],
+    "related_product_id": "4-foot-farm",
+    "date": "2026-08-21",
+    "faqs": [
+      {"q": "How many plants can you grow in a 4x4 raised bed?", "a": "It depends heavily on the crop. Root vegetables like carrots and radishes can be planted 16 per square foot (100+ in the whole bed), bush beans and spinach about 8-9 per square foot, lettuce around 4 per square foot, and larger plants like tomatoes or peppers closer to 1 plant per 1-4 square feet depending on the variety."},
+      {"q": "Is a 4x4 raised bed big enough to grow tomatoes?", "a": "Yes, but plan for only a few. A single tomato plant typically needs 2-4 square feet of its own space once mature, so a 4x4 bed usually fits 2-4 tomato plants comfortably if you're also growing other vegetables, or up to about 4-6 if tomatoes are the only crop."},
+      {"q": "How do I fit more vegetables into a small raised bed without overcrowding?", "a": "Use a small-medium-large layout: low plants like lettuce and herbs on the outer edge, medium plants like beans and peppers in the middle, and tall or trellised plants like tomatoes and cucumbers on the side that gets the most sun without shading the rest. Succession planting fast crops like radishes into space that will later hold a slower summer crop also increases total output from the same footprint."}
+    ]
   }
 ]
