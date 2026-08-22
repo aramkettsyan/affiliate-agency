@@ -1,21 +1,101 @@
 [
   {
-    "id": "numerology-forecast-decode-life-path",
-    "name": "Numerology Forecast: Decode Your Life's Path",
-    "vendor": "00NUMERO",
+    "id": "keep-praying-while-you-plow",
+    "name": "Keep Praying While You Plow",
+    "vendor": "VALERY53",
     "category": "Spirituality",
-    "niche": "personalized numerology life path readings",
+    "niche": "Christian faith and encouragement book",
     "price": "low-ticket (official page)",
-    "summary": "A personalized numerology report that uses a buyer's numbers to offer insight into their life path, purpose, and relationships.",
-    "best_for": "people interested in numerology who want a personalized breakdown of their life path number",
+    "summary": "A Christian book encouraging readers to stay faithful and keep trusting God's timing through difficult seasons.",
+    "best_for": "readers seeking faith-based encouragement during a season of waiting or hardship",
     "keywords": [
-      "numerology forecast review",
-      "decode your life path numerology",
-      "personalized numerology reading",
-      "life path number meaning"
+      "keep praying while you plow review",
+      "christian encouragement book",
+      "faith book for hard seasons",
+      "trusting gods timing book"
     ],
     "clickbank_stats": {
-      "gravity": 1.2,
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "silentwav-focus-sound-sessions",
+    "name": "SilentWav: Passive Sound Sessions for Focus & Calm",
+    "vendor": "SILENTWAV",
+    "category": "Self-Help",
+    "niche": "ambient audio sessions for focus and relaxation",
+    "price": "low-ticket (official page)",
+    "summary": "A lifetime library of passive ambient sound sessions designed to support focus, mental reset, and relaxation.",
+    "best_for": "professionals who want background audio to help them focus or unwind without a subscription",
+    "keywords": [
+      "silentwav review",
+      "focus sound sessions",
+      "ambient audio for concentration",
+      "passive sound therapy for calm"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "permitpal-home-permit-guide",
+    "name": "PermitPal: Know Your Permits and Project Costs",
+    "vendor": "RGKMKT1",
+    "category": "Home & Garden",
+    "niche": "AI home-improvement permit and cost lookup tool",
+    "price": "low-ticket (official page)",
+    "summary": "An AI tool that gives homeowners a municipality-specific permit checklist and material cost estimate before starting a project.",
+    "best_for": "homeowners and DIYers who want to know permit requirements and costs before starting a build",
+    "keywords": [
+      "permitpal review",
+      "home improvement permit checklist",
+      "building permit cost estimator",
+      "diy project permit guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "quantum-wealth-frequencies-audio",
+    "name": "Quantum Wealth Frequencies",
+    "vendor": "QUANTUMWEA",
+    "category": "Self-Help",
+    "niche": "brainwave audio for money mindset",
+    "price": "low-ticket (official page)",
+    "summary": "A daily audio practice using layered frequencies intended to help shift a listener's mindset around money and abundance.",
+    "best_for": "listeners interested in manifestation-style audio practices for building a positive money mindset",
+    "keywords": [
+      "quantum wealth frequencies review",
+      "money mindset audio",
+      "abundance frequency audio",
+      "wealth manifestation audio track"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "seven-minute-wealth-wave-audio",
+    "name": "The 7-Minute Wealth Wave Audio Bundle",
+    "vendor": "WAVESRT202",
+    "category": "Self-Help",
+    "niche": "short daily manifestation audio bundle",
+    "price": "low-ticket (official page)",
+    "summary": "A short daily audio program paired with a booster track, aimed at supporting a positive mindset and personal growth practice.",
+    "best_for": "people who want a quick 7-minute daily audio ritual for mindset and motivation",
+    "keywords": [
+      "7 minute wealth wave review",
+      "daily manifestation audio",
+      "wealth mindset audio bundle",
+      "short daily abundance ritual"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
       "approval_required": false
     }
   }
