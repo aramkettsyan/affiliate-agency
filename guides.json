@@ -3,676 +3,1431 @@
     "id": "how-to-stop-cat-spraying",
     "title": "How to Stop a Cat From Spraying: 7 Methods That Actually Work",
     "summary": "Cat spraying has specific, fixable causes. Here are 7 vet-informed methods to stop it — from ruling out medical issues to litter setup, enzyme cleaning, and stress reduction.",
-    "keywords": ["how to stop a cat from spraying", "stop cat spraying", "why is my cat spraying", "cat marking territory"],
+    "keywords": [
+      "how to stop a cat from spraying",
+      "stop cat spraying",
+      "why is my cat spraying",
+      "cat marking territory"
+    ],
     "related_product_id": "cat-spray-stop",
     "date": "2026-06-25",
     "faqs": [
-      {"q": "Will neutering stop my cat from spraying?", "a": "In most cases it greatly reduces or stops spraying, especially if done before the behavior becomes a long-term habit. It's the most effective single step for intact cats."},
-      {"q": "What's the difference between spraying and peeing outside the litter box?", "a": "Spraying is a small amount of urine on a vertical surface while the cat stands with a quivering tail. Inappropriate urination is a normal-sized puddle on a horizontal surface, usually tied to litter-box problems."},
-      {"q": "Does cleaning really matter for stopping spraying?", "a": "Yes. You must use an enzymatic cleaner to remove the scent markers in cat urine. Ordinary cleaners leave the scent, which tells the cat to spray there again."}
+      {
+        "q": "Will neutering stop my cat from spraying?",
+        "a": "In most cases it greatly reduces or stops spraying, especially if done before the behavior becomes a long-term habit. It's the most effective single step for intact cats."
+      },
+      {
+        "q": "What's the difference between spraying and peeing outside the litter box?",
+        "a": "Spraying is a small amount of urine on a vertical surface while the cat stands with a quivering tail. Inappropriate urination is a normal-sized puddle on a horizontal surface, usually tied to litter-box problems."
+      },
+      {
+        "q": "Does cleaning really matter for stopping spraying?",
+        "a": "Yes. You must use an enzymatic cleaner to remove the scent markers in cat urine. Ordinary cleaners leave the scent, which tells the cat to spray there again."
+      }
     ]
   },
   {
     "id": "puppy-biting-how-to-stop",
     "title": "Why Does My Puppy Bite So Much? How to Stop It Without Punishment",
     "summary": "Puppy biting is normal, not aggression — here's why it happens and a step-by-step, force-free plan to teach bite inhibition and stop the nipping.",
-    "keywords": ["why does my puppy bite so much", "how to stop puppy biting", "puppy biting won't stop", "stop puppy nipping"],
+    "keywords": [
+      "why does my puppy bite so much",
+      "how to stop puppy biting",
+      "puppy biting won't stop",
+      "stop puppy nipping"
+    ],
     "related_product_id": "brain-training-for-dogs",
     "date": "2026-06-27",
     "faqs": [
-      {"q": "Is it normal for puppies to bite this much?", "a": "Yes. Most puppies mouth and nip frequently, especially during teething (around 12-16 weeks) and through about 6 months of age. It's typically play and exploration, not aggression."},
-      {"q": "Should I ever hold my puppy's mouth shut or swat it for biting?", "a": "No. Physical corrections tend to increase fear or excitability and can make biting worse. A sharp yelp, ending play, or a brief calm time-out work better and don't damage trust."},
-      {"q": "At what age should puppy biting stop?", "a": "Most puppies bite much less by 6 months as adult teeth come in and bite inhibition develops with consistent redirection. If it's not improving or is getting more intense by then, talk to a trainer or your vet."}
+      {
+        "q": "Is it normal for puppies to bite this much?",
+        "a": "Yes. Most puppies mouth and nip frequently, especially during teething (around 12-16 weeks) and through about 6 months of age. It's typically play and exploration, not aggression."
+      },
+      {
+        "q": "Should I ever hold my puppy's mouth shut or swat it for biting?",
+        "a": "No. Physical corrections tend to increase fear or excitability and can make biting worse. A sharp yelp, ending play, or a brief calm time-out work better and don't damage trust."
+      },
+      {
+        "q": "At what age should puppy biting stop?",
+        "a": "Most puppies bite much less by 6 months as adult teeth come in and bite inhibition develops with consistent redirection. If it's not improving or is getting more intense by then, talk to a trainer or your vet."
+      }
     ]
   },
   {
     "id": "dog-pooping-house-at-night",
     "title": "Why Does My Potty-Trained Dog Poop or Pee in the House at Night?",
     "summary": "A previously reliable dog having nighttime accidents is rarely random — here's how to rule out a medical cause and fix the feeding, water, and walk timing that usually explains it.",
-    "keywords": ["dog pooping in house at night", "potty trained dog having accidents at night", "dog peeing in house at night suddenly", "house trained dog regression"],
+    "keywords": [
+      "dog pooping in house at night",
+      "potty trained dog having accidents at night",
+      "dog peeing in house at night suddenly",
+      "house trained dog regression"
+    ],
     "related_product_id": "housetrain-any-dog",
     "date": "2026-07-02",
     "faqs": [
-      {"q": "Should I take my dog to the vet if they suddenly start having accidents at night?", "a": "Yes, especially if the accidents started suddenly in a previously reliable dog. UTIs, bladder stones, parasites, and hormonal changes can all cause nighttime accidents that look identical to a training lapse, so it's worth ruling out a medical cause before assuming it's behavioral."},
-      {"q": "How long before bed should I pick up my dog's water bowl?", "a": "For most healthy adult dogs, about 1-2 hours before bedtime is enough to reduce overnight accidents without causing dehydration. Puppies, seniors, and dogs on certain medications may need water access longer, so check with your vet before restricting it."},
-      {"q": "Why does my dog poop a few hours after the last walk instead of during it?", "a": "This is usually the gastrocolic reflex — eating triggers the urge to defecate roughly 30-60 minutes later. If dinner is served late or your dog eats again before bed, that reflex can hit well after the last outside trip, in the middle of the night."}
+      {
+        "q": "Should I take my dog to the vet if they suddenly start having accidents at night?",
+        "a": "Yes, especially if the accidents started suddenly in a previously reliable dog. UTIs, bladder stones, parasites, and hormonal changes can all cause nighttime accidents that look identical to a training lapse, so it's worth ruling out a medical cause before assuming it's behavioral."
+      },
+      {
+        "q": "How long before bed should I pick up my dog's water bowl?",
+        "a": "For most healthy adult dogs, about 1-2 hours before bedtime is enough to reduce overnight accidents without causing dehydration. Puppies, seniors, and dogs on certain medications may need water access longer, so check with your vet before restricting it."
+      },
+      {
+        "q": "Why does my dog poop a few hours after the last walk instead of during it?",
+        "a": "This is usually the gastrocolic reflex — eating triggers the urge to defecate roughly 30-60 minutes later. If dinner is served late or your dog eats again before bed, that reflex can hit well after the last outside trip, in the middle of the night."
+      }
     ]
   },
   {
     "id": "what-size-shed-for-riding-lawn-mower",
     "title": "What Size Shed Do You Need for a Riding Lawn Mower? A Practical Sizing Guide",
     "summary": "How to calculate the right shed size for your specific mower, including the door width, ramp, and extra gear most sizing guides forget to mention.",
-    "keywords": ["what size shed for riding lawn mower", "shed size for riding mower", "how big a shed do I need for a lawn mower", "riding mower storage shed size"],
+    "keywords": [
+      "what size shed for riding lawn mower",
+      "shed size for riding mower",
+      "how big a shed do I need for a lawn mower",
+      "riding mower storage shed size"
+    ],
     "related_product_id": "my-shed-plans",
     "date": "2026-07-01",
     "faqs": [
-      {"q": "What is the minimum door width for a riding lawn mower shed?", "a": "The finished door opening should be at least 6 inches wider than your mower. Most residential tractors need a clear opening of 54–60 inches; large zero-turns often need 72 inches or more. A double door with a 6-foot total opening covers most mowers comfortably."},
-      {"q": "Can I fit a riding mower and a push mower in a 10x12 shed?", "a": "Yes, if you plan the layout carefully. Park the riding mower first, then use wall-mounted brackets or a corner space for the push mower. You will have limited room for anything else, so if you also need space for a snow blower or garden tools, size up to a 10x16 or 12x16."},
-      {"q": "Do I need a ramp for a riding lawn mower shed?", "a": "Almost always yes. Riding mowers cannot roll over a raised threshold, so you need a ramp wide enough to match the mower's tire track and long enough to keep the belly deck from scraping. A 6–8 foot ramp with a gradual slope works for most mowers. Setting the shed floor at or near ground level during construction eliminates the ramp issue entirely."}
+      {
+        "q": "What is the minimum door width for a riding lawn mower shed?",
+        "a": "The finished door opening should be at least 6 inches wider than your mower. Most residential tractors need a clear opening of 54–60 inches; large zero-turns often need 72 inches or more. A double door with a 6-foot total opening covers most mowers comfortably."
+      },
+      {
+        "q": "Can I fit a riding mower and a push mower in a 10x12 shed?",
+        "a": "Yes, if you plan the layout carefully. Park the riding mower first, then use wall-mounted brackets or a corner space for the push mower. You will have limited room for anything else, so if you also need space for a snow blower or garden tools, size up to a 10x16 or 12x16."
+      },
+      {
+        "q": "Do I need a ramp for a riding lawn mower shed?",
+        "a": "Almost always yes. Riding mowers cannot roll over a raised threshold, so you need a ramp wide enough to match the mower's tire track and long enough to keep the belly deck from scraping. A 6–8 foot ramp with a gradual slope works for most mowers. Setting the shed floor at or near ground level during construction eliminates the ramp issue entirely."
+      }
     ]
   },
   {
     "id": "how-to-filter-muddy-water-before-boiling",
     "title": "How to Filter Muddy or Cloudy Water Before Boiling It for Drinking",
     "summary": "Boiling kills pathogens but doesn't clear sediment. Here's how to settle, cloth-filter, and layer-filter muddy water before boiling, so it's actually safe and pleasant to drink.",
-    "keywords": ["how to filter muddy water before boiling", "how to make cloudy water clear for drinking", "filter dirty water for emergency drinking", "diy water filter for muddy water"],
+    "keywords": [
+      "how to filter muddy water before boiling",
+      "how to make cloudy water clear for drinking",
+      "filter dirty water for emergency drinking",
+      "diy water filter for muddy water"
+    ],
     "related_product_id": "water-freedom-system",
     "date": "2026-07-03",
     "faqs": [
-      {"q": "Does boiling muddy water make it safe to drink?", "a": "Boiling kills bacteria, viruses, and parasites, but it does not remove dirt, sediment, or chemical contamination. Muddy water should be settled and filtered to remove visible particles first, then boiled for at least 1 minute (3 minutes above 6,500 feet) to disinfect it."},
-      {"q": "What's the easiest way to clear muddy water without any equipment?", "a": "Let it sit undisturbed in a container for 12-24 hours. Sediment sinks to the bottom by gravity, and you can carefully pour or siphon off the clearer water from the top without any filter materials at all."},
-      {"q": "Can a homemade sand and gravel filter make water safe to drink on its own?", "a": "No. A layered sand-and-gravel or cloth filter only removes particles and improves clarity; it doesn't reliably remove bacteria or viruses. Filtered water still needs to be boiled or otherwise disinfected before it's safe to drink."}
+      {
+        "q": "Does boiling muddy water make it safe to drink?",
+        "a": "Boiling kills bacteria, viruses, and parasites, but it does not remove dirt, sediment, or chemical contamination. Muddy water should be settled and filtered to remove visible particles first, then boiled for at least 1 minute (3 minutes above 6,500 feet) to disinfect it."
+      },
+      {
+        "q": "What's the easiest way to clear muddy water without any equipment?",
+        "a": "Let it sit undisturbed in a container for 12-24 hours. Sediment sinks to the bottom by gravity, and you can carefully pour or siphon off the clearer water from the top without any filter materials at all."
+      },
+      {
+        "q": "Can a homemade sand and gravel filter make water safe to drink on its own?",
+        "a": "No. A layered sand-and-gravel or cloth filter only removes particles and improves clarity; it doesn't reliably remove bacteria or viruses. Filtered water still needs to be boiled or otherwise disinfected before it's safe to drink."
+      }
     ]
   },
   {
     "id": "declutter-when-overwhelmed-where-to-start",
     "title": "How to Declutter When You're Overwhelmed and Don't Know Where to Start",
     "summary": "When clutter feels too big to tackle, the fix isn't more willpower — it's shrinking the task. A practical, step-by-step approach to starting small and actually finishing.",
-    "keywords": ["how to declutter when overwhelmed", "don't know where to start decluttering", "decluttering tips for beginners", "how to start decluttering a messy house"],
+    "keywords": [
+      "how to declutter when overwhelmed",
+      "don't know where to start decluttering",
+      "decluttering tips for beginners",
+      "how to start decluttering a messy house"
+    ],
     "related_product_id": "declutter-fast",
     "date": "2026-06-29",
     "faqs": [
-      {"q": "Where should I start decluttering if my whole house feels overwhelming?", "a": "Start with one shelf, drawer, or countertop rather than a whole room. A small, finished space gives you a real win and builds momentum, while tackling a whole room at once usually stalls out half-finished."},
-      {"q": "Should I buy storage bins before I start decluttering?", "a": "No. Reduce the volume of stuff first, then organize what's left. Buying bins before decluttering just creates neatly organized clutter and often means buying the wrong size or amount of storage."},
-      {"q": "How long does it actually take to declutter an overwhelmed home?", "a": "Most people see a genuinely different home within four to six weeks using short, repeatable 15-20 minute sessions. A single weekend rarely fixes years of accumulated clutter, and expecting that sets you up to quit early."}
+      {
+        "q": "Where should I start decluttering if my whole house feels overwhelming?",
+        "a": "Start with one shelf, drawer, or countertop rather than a whole room. A small, finished space gives you a real win and builds momentum, while tackling a whole room at once usually stalls out half-finished."
+      },
+      {
+        "q": "Should I buy storage bins before I start decluttering?",
+        "a": "No. Reduce the volume of stuff first, then organize what's left. Buying bins before decluttering just creates neatly organized clutter and often means buying the wrong size or amount of storage."
+      },
+      {
+        "q": "How long does it actually take to declutter an overwhelmed home?",
+        "a": "Most people see a genuinely different home within four to six weeks using short, repeatable 15-20 minute sessions. A single weekend rarely fixes years of accumulated clutter, and expecting that sets you up to quit early."
+      }
     ]
   },
   {
     "id": "aquaponics-cloudy-water-fix",
     "title": "Why Is My Aquaponics Water Cloudy? Causes and How to Fix It",
     "summary": "Cloudy aquaponics water almost always has one of four causes — a new-system bacterial bloom, overfeeding, suspended solids, or algae — and each one has a distinct fix.",
-    "keywords": ["why is my aquaponics water cloudy", "aquaponics cloudy water fix", "aquaponics water milky", "how to clear cloudy aquaponics water"],
+    "keywords": [
+      "why is my aquaponics water cloudy",
+      "aquaponics cloudy water fix",
+      "aquaponics water milky",
+      "how to clear cloudy aquaponics water"
+    ],
     "related_product_id": "aquaponics-4-you",
     "date": "2026-07-04",
     "faqs": [
-      {"q": "Is cloudy water in a new aquaponics system dangerous for the fish?", "a": "Usually not. A white or gray haze in a system under 6-8 weeks old is typically a bacterial bloom tied to the normal cycling process, and it clears on its own as the nitrifying bacteria colony establishes. It's worth testing ammonia and nitrite to confirm rather than assume, especially if fish show signs of stress."},
-      {"q": "Should I do a water change to fix cloudy aquaponics water?", "a": "Only after you've identified the cause. A large water change during the initial cycling phase can actually remove the bacteria you need and restart the process. Once the system is established, a modest 10-20% change can help speed up clearing alongside fixing the underlying feeding, filtration, or light issue."},
-      {"q": "How long does it take for cloudy aquaponics water to clear up?", "a": "A cycling-related bloom in a new system typically clears within 1-3 weeks. Cloudiness from overfeeding or suspended solids often improves within days once the feeding amount is corrected or filtration is upgraded. Algae blooms clear within about a week of blocking light to the water."}
+      {
+        "q": "Is cloudy water in a new aquaponics system dangerous for the fish?",
+        "a": "Usually not. A white or gray haze in a system under 6-8 weeks old is typically a bacterial bloom tied to the normal cycling process, and it clears on its own as the nitrifying bacteria colony establishes. It's worth testing ammonia and nitrite to confirm rather than assume, especially if fish show signs of stress."
+      },
+      {
+        "q": "Should I do a water change to fix cloudy aquaponics water?",
+        "a": "Only after you've identified the cause. A large water change during the initial cycling phase can actually remove the bacteria you need and restart the process. Once the system is established, a modest 10-20% change can help speed up clearing alongside fixing the underlying feeding, filtration, or light issue."
+      },
+      {
+        "q": "How long does it take for cloudy aquaponics water to clear up?",
+        "a": "A cycling-related bloom in a new system typically clears within 1-3 weeks. Cloudiness from overfeeding or suspended solids often improves within days once the feeding amount is corrected or filtration is upgraded. Algae blooms clear within about a week of blocking light to the water."
+      }
     ]
   },
   {
     "id": "dog-digging-holes-yard",
     "title": "Why Does My Dog Keep Digging Holes in the Yard? Causes and Fixes",
     "summary": "Dogs dig for specific, identifiable reasons — boredom, escape, heat, prey drive, or anxiety — and matching the fix to the actual cause is what finally stops the holes.",
-    "keywords": ["why does my dog dig holes in the yard", "how to stop dog digging in yard", "dog digging holes in garden", "stop dog from digging under fence"],
+    "keywords": [
+      "why does my dog dig holes in the yard",
+      "how to stop dog digging in yard",
+      "dog digging holes in garden",
+      "stop dog from digging under fence"
+    ],
     "related_product_id": "secrets-to-dog-training",
     "date": "2026-07-06",
     "faqs": [
-      {"q": "Why is my dog suddenly digging holes when they never used to?", "a": "A sudden change usually points to a new trigger rather than a personality shift — check for new burrowing pests in the yard, a recent change in routine that increased boredom or anxiety, hot weather driving heat-seeking digging, or a new gap or activity on the other side of the fence prompting escape attempts."},
-      {"q": "Does punishing a dog for digging actually stop it?", "a": "No. Dogs don't reliably connect punishment after the fact with a hole they dug earlier, so scolding mainly adds anxiety without addressing the cause. It can even increase stress-related digging. Redirecting to an approved digging spot and fixing the underlying motivation works far better."},
-      {"q": "What breeds are most likely to dig, and does that mean it can't be fixed?", "a": "Terriers, Dachshunds, and other breeds developed to dig after burrowing prey have a stronger natural drive to dig, but the instinct can still be successfully redirected — it just may take more consistent management and a legal outlet, like a digging pit, than it would for a lower-drive breed."}
+      {
+        "q": "Why is my dog suddenly digging holes when they never used to?",
+        "a": "A sudden change usually points to a new trigger rather than a personality shift — check for new burrowing pests in the yard, a recent change in routine that increased boredom or anxiety, hot weather driving heat-seeking digging, or a new gap or activity on the other side of the fence prompting escape attempts."
+      },
+      {
+        "q": "Does punishing a dog for digging actually stop it?",
+        "a": "No. Dogs don't reliably connect punishment after the fact with a hole they dug earlier, so scolding mainly adds anxiety without addressing the cause. It can even increase stress-related digging. Redirecting to an approved digging spot and fixing the underlying motivation works far better."
+      },
+      {
+        "q": "What breeds are most likely to dig, and does that mean it can't be fixed?",
+        "a": "Terriers, Dachshunds, and other breeds developed to dig after burrowing prey have a stronger natural drive to dig, but the instinct can still be successfully redirected — it just may take more consistent management and a legal outlet, like a digging pit, than it would for a lower-drive breed."
+      }
     ]
   },
   {
     "id": "dog-stomach-gurgling",
     "title": "Why Is My Dog's Stomach Gurgling So Much? Causes and When to Worry",
     "summary": "A gurgling dog stomach is usually just normal digestion, but frequent gas and noise paired with other symptoms can signal a gut-health issue worth addressing.",
-    "keywords": ["why is my dog's stomach gurgling", "dog stomach gurgling a lot", "dog stomach making noises and gassy", "dog stomach gurgling and not eating"],
+    "keywords": [
+      "why is my dog's stomach gurgling",
+      "dog stomach gurgling a lot",
+      "dog stomach making noises and gassy",
+      "dog stomach gurgling and not eating"
+    ],
     "related_product_id": "happy-dog-gut-blueprint",
     "date": "2026-07-05",
     "faqs": [
-      {"q": "Is it normal for a dog's stomach to gurgle a lot?", "a": "Occasional gurgling is normal and comes from digestion (borborygmi) and hunger contractions. It becomes a concern when it's frequent, very loud, or paired with vomiting, diarrhea, loss of appetite, or a swollen or painful belly."},
-      {"q": "When should I take my dog to the vet for stomach gurgling?", "a": "See a vet promptly if gurgling is paired with vomiting, diarrhea, lethargy, refusing food, or a hard or swollen abdomen. In large, deep-chested breeds, a swollen belly with unproductive retching can signal bloat, which is a medical emergency."},
-      {"q": "Does eating too fast cause a gurgly, gassy stomach in dogs?", "a": "Yes. Dogs that gulp food or water swallow extra air along with it, which moves through the gut and often comes out as noise, gas, or burping. A slow-feeder bowl can reduce this significantly."}
+      {
+        "q": "Is it normal for a dog's stomach to gurgle a lot?",
+        "a": "Occasional gurgling is normal and comes from digestion (borborygmi) and hunger contractions. It becomes a concern when it's frequent, very loud, or paired with vomiting, diarrhea, loss of appetite, or a swollen or painful belly."
+      },
+      {
+        "q": "When should I take my dog to the vet for stomach gurgling?",
+        "a": "See a vet promptly if gurgling is paired with vomiting, diarrhea, lethargy, refusing food, or a hard or swollen abdomen. In large, deep-chested breeds, a swollen belly with unproductive retching can signal bloat, which is a medical emergency."
+      },
+      {
+        "q": "Does eating too fast cause a gurgly, gassy stomach in dogs?",
+        "a": "Yes. Dogs that gulp food or water swallow extra air along with it, which moves through the gut and often comes out as noise, gas, or burping. A slow-feeder bowl can reduce this significantly."
+      }
     ]
   },
   {
     "id": "fix-loose-wood-glue-joint",
     "title": "Why Won't My Wood Glue Joint Hold? How to Fix and Prevent Loose Joints",
     "summary": "A failed glue joint almost never means bad glue — it's clamping pressure, surface prep, open time, or the wrong joint for the job. Here's how to fix a loose joint and stop it from happening again.",
-    "keywords": ["why won't my wood glue joint hold", "how to fix a loose wood joint", "wood glue not holding", "how to fix loose furniture joint"],
+    "keywords": [
+      "why won't my wood glue joint hold",
+      "how to fix a loose wood joint",
+      "wood glue not holding",
+      "how to fix loose furniture joint"
+    ],
     "related_product_id": "tedswoodworking",
     "date": "2026-07-07",
     "faqs": [
-      {"q": "Why does my glued joint keep coming apart in the same spot?", "a": "If the same joint fails repeatedly even after re-gluing, the underlying joinery is usually too weak for the stress it's under. Adding mechanical reinforcement like a dowel, biscuit, or bracket alongside the glue is more reliable than re-gluing the same butt joint again."},
-      {"q": "How long should I clamp a wood glue joint before removing the clamps?", "a": "Most PVA wood glues reach handling strength in 30-60 minutes, but the joint isn't at full strength until it cures fully, which takes about 24 hours. Avoid putting any real load or stress on the joint before then, even if it feels solid sooner."},
-      {"q": "Can I just add more glue to a loose joint without taking it apart?", "a": "For joints that are hard to disassemble, working fresh glue into the joint with an injector or thin-tipped applicator and clamping firmly can work, especially if the original failure was due to insufficient glue coverage. If the joint has failed more than once, though, reinforcing it mechanically works better than relying on glue alone."}
+      {
+        "q": "Why does my glued joint keep coming apart in the same spot?",
+        "a": "If the same joint fails repeatedly even after re-gluing, the underlying joinery is usually too weak for the stress it's under. Adding mechanical reinforcement like a dowel, biscuit, or bracket alongside the glue is more reliable than re-gluing the same butt joint again."
+      },
+      {
+        "q": "How long should I clamp a wood glue joint before removing the clamps?",
+        "a": "Most PVA wood glues reach handling strength in 30-60 minutes, but the joint isn't at full strength until it cures fully, which takes about 24 hours. Avoid putting any real load or stress on the joint before then, even if it feels solid sooner."
+      },
+      {
+        "q": "Can I just add more glue to a loose joint without taking it apart?",
+        "a": "For joints that are hard to disassemble, working fresh glue into the joint with an injector or thin-tipped applicator and clamping firmly can work, especially if the original failure was due to insufficient glue coverage. If the joint has failed more than once, though, reinforcing it mechanically works better than relying on glue alone."
+      }
     ]
   },
   {
     "id": "why-does-my-cat-headbutt-me",
     "title": "Why Does My Cat Headbutt Me? What Bunting Really Means",
     "summary": "Cat headbutting (bunting) is a scent-marking bonding ritual, not random behavior — here's what it means, why some cats do it more than others, and when it's actually a red flag.",
-    "keywords": ["why does my cat headbutt me", "cat bunting meaning", "why does my cat head bump me", "cat headbutting affection"],
+    "keywords": [
+      "why does my cat headbutt me",
+      "cat bunting meaning",
+      "why does my cat head bump me",
+      "cat headbutting affection"
+    ],
     "related_product_id": "cat-language-bible",
     "date": "2026-07-09",
     "faqs": [
-      {"q": "Is it a good sign when my cat headbutts me?", "a": "Yes. Headbutting, or bunting, is a scent-marking bonding behavior cats generally reserve for people and animals they trust and feel safe around. It's one of the clearer signs of affection in typical cat body language."},
-      {"q": "Why does my cat headbutt me harder than usual?", "a": "An intense headbutt, sometimes paired with loud purring, is usually just an amplified version of the same affectionate behavior, especially if your cat's body otherwise looks relaxed. It's different from true head pressing, where a cat pushes its head against a solid object and holds it there, which can signal a neurological issue and is worth a vet visit."},
-      {"q": "Why does my cat headbutt me but not other people in the house?", "a": "This usually reflects who that specific cat feels most secure and comfortable with, or whose routine and energy match the cat's own habits, rather than a strict ranking of affection. Cats often show affection differently to different people."}
+      {
+        "q": "Is it a good sign when my cat headbutts me?",
+        "a": "Yes. Headbutting, or bunting, is a scent-marking bonding behavior cats generally reserve for people and animals they trust and feel safe around. It's one of the clearer signs of affection in typical cat body language."
+      },
+      {
+        "q": "Why does my cat headbutt me harder than usual?",
+        "a": "An intense headbutt, sometimes paired with loud purring, is usually just an amplified version of the same affectionate behavior, especially if your cat's body otherwise looks relaxed. It's different from true head pressing, where a cat pushes its head against a solid object and holds it there, which can signal a neurological issue and is worth a vet visit."
+      },
+      {
+        "q": "Why does my cat headbutt me but not other people in the house?",
+        "a": "This usually reflects who that specific cat feels most secure and comfortable with, or whose routine and energy match the cat's own habits, rather than a strict ranking of affection. Cats often show affection differently to different people."
+      }
     ]
   },
   {
     "id": "is-canned-food-safe-after-expiration-date",
     "title": "Is Canned Food Still Safe to Eat Years After the Expiration Date?",
     "summary": "The date on a can is a quality estimate, not a safety cutoff — here's how to actually judge whether an old can is safe, and how to store a canned-food stockpile so it lasts.",
-    "keywords": ["is expired canned food safe to eat", "how long does canned food last past expiration date", "canned food shelf life prepper stockpile", "how to tell if canned food has gone bad"],
+    "keywords": [
+      "is expired canned food safe to eat",
+      "how long does canned food last past expiration date",
+      "canned food shelf life prepper stockpile",
+      "how to tell if canned food has gone bad"
+    ],
     "related_product_id": "the-lost-superfoods",
     "date": "2026-07-08",
     "faqs": [
-      {"q": "Is it safe to eat canned food years after the expiration date?", "a": "In most cases, yes. Commercially canned food is shelf-stable for years past its printed date as long as the can itself is undamaged — no bulging, deep dents, or heavy rust. The date reflects peak quality, not a safety cutoff, and the USDA considers properly sealed canned food safe indefinitely."},
-      {"q": "What's the biggest warning sign that a can has gone bad?", "a": "A bulging or swollen top, bottom, or side is the most serious red flag, since it can indicate gas-producing bacterial activity inside the can. Any can that's swollen, spurts liquid when opened, or smells bad immediately should be discarded without tasting it."},
-      {"q": "Does canned food last as long once you open it?", "a": "No. Once opened, canned food should be treated like any other perishable food. Transfer leftovers to a covered container and refrigerate — low-acid foods like meat and vegetables last about 3-4 days, while high-acid foods like tomatoes and fruit last about 5-7 days."}
+      {
+        "q": "Is it safe to eat canned food years after the expiration date?",
+        "a": "In most cases, yes. Commercially canned food is shelf-stable for years past its printed date as long as the can itself is undamaged — no bulging, deep dents, or heavy rust. The date reflects peak quality, not a safety cutoff, and the USDA considers properly sealed canned food safe indefinitely."
+      },
+      {
+        "q": "What's the biggest warning sign that a can has gone bad?",
+        "a": "A bulging or swollen top, bottom, or side is the most serious red flag, since it can indicate gas-producing bacterial activity inside the can. Any can that's swollen, spurts liquid when opened, or smells bad immediately should be discarded without tasting it."
+      },
+      {
+        "q": "Does canned food last as long once you open it?",
+        "a": "No. Once opened, canned food should be treated like any other perishable food. Transfer leftovers to a covered container and refrigerate — low-acid foods like meat and vegetables last about 3-4 days, while high-acid foods like tomatoes and fruit last about 5-7 days."
+      }
     ]
   },
   {
     "id": "will-emp-destroy-my-car",
     "title": "Will an EMP Actually Destroy My Car? What Really Happens",
     "summary": "Movies make it look like every car dies instantly in an EMP, but real testing tells a very different story — here's what actually happens to vehicles, and where your real vulnerability lies.",
-    "keywords": ["will an emp destroy my car", "does emp affect cars", "emp proof car", "how to protect car from emp"],
+    "keywords": [
+      "will an emp destroy my car",
+      "does emp affect cars",
+      "emp proof car",
+      "how to protect car from emp"
+    ],
     "related_product_id": "davids-shield-emp-guide",
     "date": "2026-07-11",
     "faqs": [
-      {"q": "Will an EMP really stop every car on the road?", "a": "No. Real-world testing, including a 2004 U.S. EMP Commission study on about 50 vehicles, found that only a small number malfunctioned while running, and nearly all restarted normally afterward. A car's metal body provides meaningful, though not perfect, shielding."},
-      {"q": "Are older cars more EMP-resistant than new ones?", "a": "Generally yes. Older vehicles with mechanical fuel systems and minimal onboard electronics have far fewer components an EMP could damage compared to modern cars packed with computer modules, sensors, and drive-by-wire systems."},
-      {"q": "What's more vulnerable to an EMP than my car?", "a": "Small household electronics — phones, laptops, routers, backup radios — are generally more vulnerable, since they lack a car body's shielding and are often connected to household wiring that can act as an antenna for induced current."}
+      {
+        "q": "Will an EMP really stop every car on the road?",
+        "a": "No. Real-world testing, including a 2004 U.S. EMP Commission study on about 50 vehicles, found that only a small number malfunctioned while running, and nearly all restarted normally afterward. A car's metal body provides meaningful, though not perfect, shielding."
+      },
+      {
+        "q": "Are older cars more EMP-resistant than new ones?",
+        "a": "Generally yes. Older vehicles with mechanical fuel systems and minimal onboard electronics have far fewer components an EMP could damage compared to modern cars packed with computer modules, sensors, and drive-by-wire systems."
+      },
+      {
+        "q": "What's more vulnerable to an EMP than my car?",
+        "a": "Small household electronics — phones, laptops, routers, backup radios — are generally more vulnerable, since they lack a car body's shielding and are often connected to household wiring that can act as an antenna for induced current."
+      }
     ]
   },
   {
     "id": "chameleon-turning-black-causes",
     "title": "Why Is My Chameleon Turning Black? Causes and How to Fix It",
     "summary": "A darkening chameleon is almost always cold, stressed, or feeling exposed — here's how to tell the difference, fix the setup, and know when it's actually a vet-worthy sign.",
-    "keywords": ["why is my chameleon turning black", "chameleon turning dark stressed", "chameleon color change stress", "why is my chameleon dark all the time"],
+    "keywords": [
+      "why is my chameleon turning black",
+      "chameleon turning dark stressed",
+      "chameleon color change stress",
+      "why is my chameleon dark all the time"
+    ],
     "related_product_id": "chameleon-care-guide",
     "date": "2026-07-10",
     "faqs": [
-      {"q": "Is it normal for a chameleon to turn black sometimes?", "a": "Yes. Brief darkening after handling, during a temperature drop, or when startled is a normal stress response and usually resolves within an hour once the chameleon is warm and left alone in a familiar spot."},
-      {"q": "How long can a chameleon stay dark before it's a problem?", "a": "Occasional darkening that clears within an hour or two is normal. Darkening that persists for multiple days in a row, especially alongside not eating, lethargy, or sunken eyes, points to illness or chronic stress and is worth a reptile vet visit rather than waiting it out."},
-      {"q": "Does turning black mean my chameleon is cold?", "a": "It's one of the most common causes, since dark colors absorb more heat, but it's not the only one. Check the actual basking-spot temperature with a probe thermometer first, then rule out stress from handling, exposure, or a cramped enclosure if the temperature checks out fine."}
+      {
+        "q": "Is it normal for a chameleon to turn black sometimes?",
+        "a": "Yes. Brief darkening after handling, during a temperature drop, or when startled is a normal stress response and usually resolves within an hour once the chameleon is warm and left alone in a familiar spot."
+      },
+      {
+        "q": "How long can a chameleon stay dark before it's a problem?",
+        "a": "Occasional darkening that clears within an hour or two is normal. Darkening that persists for multiple days in a row, especially alongside not eating, lethargy, or sunken eyes, points to illness or chronic stress and is worth a reptile vet visit rather than waiting it out."
+      },
+      {
+        "q": "Does turning black mean my chameleon is cold?",
+        "a": "It's one of the most common causes, since dark colors absorb more heat, but it's not the only one. Check the actual basking-spot temperature with a probe thermometer first, then rule out stress from handling, exposure, or a cramped enclosure if the temperature checks out fine."
+      }
     ]
   },
   {
     "id": "why-are-english-bull-terriers-so-stubborn",
     "title": "Why Are English Bull Terriers So Stubborn? (And How to Actually Train One)",
     "summary": "Bull Terrier 'stubbornness' is independent thinking and prey drive left over from the breed's bull-baiting history, not defiance — here's why standard obedience advice fails and what actually works.",
-    "keywords": ["why are english bull terriers so stubborn", "are bull terriers hard to train", "english bull terrier training tips", "bull terrier stubborn behavior"],
+    "keywords": [
+      "why are english bull terriers so stubborn",
+      "are bull terriers hard to train",
+      "english bull terrier training tips",
+      "bull terrier stubborn behavior"
+    ],
     "related_product_id": "english-bull-terrier-guide",
     "date": "2026-07-12",
     "faqs": [
-      {"q": "Are English Bull Terriers actually trainable, or just naturally stubborn?", "a": "They're very trainable, but they respond much better to high-value rewards, short engaging sessions, and consistency than to repetition or correction-heavy methods. Owners who train with the breed's independent temperament in mind, rather than against it, usually see solid results within a few weeks."},
-      {"q": "Does neutering or spaying reduce stubbornness in Bull Terriers?", "a": "It can reduce some hormone-driven behaviors like marking, roaming, or dog-to-dog friction, but the core independent temperament and prey drive are breed traits, not hormone-driven ones, so spaying or neutering alone won't resolve typical Bull Terrier willfulness."},
-      {"q": "Is it normal for a Bull Terrier to ignore recall around other animals?", "a": "Yes, this is common due to the breed's strong prey drive, and it's exactly the scenario where a long training line is safer than trusting an unproven off-leash recall. Reliable recall around distractions usually takes deliberate, gradual proofing rather than assuming a solid 'come' in the yard will transfer to an open field."}
+      {
+        "q": "Are English Bull Terriers actually trainable, or just naturally stubborn?",
+        "a": "They're very trainable, but they respond much better to high-value rewards, short engaging sessions, and consistency than to repetition or correction-heavy methods. Owners who train with the breed's independent temperament in mind, rather than against it, usually see solid results within a few weeks."
+      },
+      {
+        "q": "Does neutering or spaying reduce stubbornness in Bull Terriers?",
+        "a": "It can reduce some hormone-driven behaviors like marking, roaming, or dog-to-dog friction, but the core independent temperament and prey drive are breed traits, not hormone-driven ones, so spaying or neutering alone won't resolve typical Bull Terrier willfulness."
+      },
+      {
+        "q": "Is it normal for a Bull Terrier to ignore recall around other animals?",
+        "a": "Yes, this is common due to the breed's strong prey drive, and it's exactly the scenario where a long training line is safer than trusting an unproven off-leash recall. Reliable recall around distractions usually takes deliberate, gradual proofing rather than assuming a solid 'come' in the yard will transfer to an open field."
+      }
     ]
   },
   {
     "id": "why-does-keto-bread-taste-eggy",
     "title": "Why Does Keto Bread Taste Eggy? Causes and How to Fix It",
     "summary": "Keto bread relies on eggs to replace the gluten regular bread gets from wheat flour — here's exactly why that makes it taste eggy, and five tested fixes to make it taste like actual bread.",
-    "keywords": ["why does keto bread taste eggy", "how to get rid of eggy taste in keto bread", "keto bread tastes like eggs", "keto bread eggy fix"],
+    "keywords": [
+      "why does keto bread taste eggy",
+      "how to get rid of eggy taste in keto bread",
+      "keto bread tastes like eggs",
+      "keto bread eggy fix"
+    ],
     "related_product_id": "keto-breads-desserts",
     "date": "2026-07-13",
     "faqs": [
-      {"q": "Why does keto bread need so many eggs in the first place?", "a": "Regular bread gets its structure and chew from gluten, a protein network formed in wheat flour. Almond and coconut flour have no gluten, so keto recipes use eggs instead to bind the batter and give the loaf some rise, which usually means far more eggs per cup of flour than a traditional recipe."},
-      {"q": "Does using only egg whites fix the eggy taste?", "a": "It helps significantly, since almost all of the egg flavor lives in the yolk rather than the white. Replacing 2-3 whole eggs with egg whites while keeping one or two whole eggs for richness is a common fix that keeps the bread's structure while cutting the eggy taste."},
-      {"q": "Will adding vinegar or sweetener make keto bread taste like vinegar or dessert?", "a": "No, not in the small amounts used. About 1 teaspoon of vinegar per 6 eggs and a few drops of liquid stevia are enough to balance and mute the egg flavor without adding a noticeable taste of their own — the same way a splash of acid rounds out a rich sauce."}
+      {
+        "q": "Why does keto bread need so many eggs in the first place?",
+        "a": "Regular bread gets its structure and chew from gluten, a protein network formed in wheat flour. Almond and coconut flour have no gluten, so keto recipes use eggs instead to bind the batter and give the loaf some rise, which usually means far more eggs per cup of flour than a traditional recipe."
+      },
+      {
+        "q": "Does using only egg whites fix the eggy taste?",
+        "a": "It helps significantly, since almost all of the egg flavor lives in the yolk rather than the white. Replacing 2-3 whole eggs with egg whites while keeping one or two whole eggs for richness is a common fix that keeps the bread's structure while cutting the eggy taste."
+      },
+      {
+        "q": "Will adding vinegar or sweetener make keto bread taste like vinegar or dessert?",
+        "a": "No, not in the small amounts used. About 1 teaspoon of vinegar per 6 eggs and a few drops of liquid stevia are enough to balance and mute the egg flavor without adding a noticeable taste of their own — the same way a splash of acid rounds out a rich sauce."
+      }
     ]
   },
   {
     "id": "crested-gecko-not-eating",
     "title": "Why Is My Crested Gecko Not Eating? Causes and What to Do",
     "summary": "A crested gecko that stops eating is usually about temperature, diet, or stress, not illness — here's how to work through the real causes and know when it's time for a vet.",
-    "keywords": ["why is my crested gecko not eating", "crested gecko won't eat", "crested gecko not eating for a week", "crested gecko refusing food"],
+    "keywords": [
+      "why is my crested gecko not eating",
+      "crested gecko won't eat",
+      "crested gecko not eating for a week",
+      "crested gecko refusing food"
+    ],
     "related_product_id": "crested-gecko-morph-guide",
     "date": "2026-07-14",
     "faqs": [
-      {"q": "How long can a crested gecko go without eating before it's a problem?", "a": "A healthy adult can typically go 10-14 days without food during a normal appetite dip, especially during shedding or brumation, without cause for alarm. Juveniles have far less fat reserve and should be checked sooner, generally within a few days of refusing food, since they can decline faster."},
-      {"q": "Does shedding affect a crested gecko's appetite?", "a": "Yes. Many crested geckos eat less in the day or two before and during a shed. This is a normal, temporary dip and appetite typically returns on its own once the shed is complete."},
-      {"q": "Can the wrong enclosure temperature really stop a crested gecko from eating?", "a": "Yes, and it's one of the most common causes. Crested geckos do best between 72-78°F; temperatures that run too warm or too cold for extended periods can suppress appetite even when the diet and setup are otherwise fine. A digital probe thermometer at gecko height is the most reliable way to check."}
+      {
+        "q": "How long can a crested gecko go without eating before it's a problem?",
+        "a": "A healthy adult can typically go 10-14 days without food during a normal appetite dip, especially during shedding or brumation, without cause for alarm. Juveniles have far less fat reserve and should be checked sooner, generally within a few days of refusing food, since they can decline faster."
+      },
+      {
+        "q": "Does shedding affect a crested gecko's appetite?",
+        "a": "Yes. Many crested geckos eat less in the day or two before and during a shed. This is a normal, temporary dip and appetite typically returns on its own once the shed is complete."
+      },
+      {
+        "q": "Can the wrong enclosure temperature really stop a crested gecko from eating?",
+        "a": "Yes, and it's one of the most common causes. Crested geckos do best between 72-78°F; temperatures that run too warm or too cold for extended periods can suppress appetite even when the diet and setup are otherwise fine. A digital probe thermometer at gecko height is the most reliable way to check."
+      }
     ]
   },
   {
     "id": "septic-tank-smells-outside",
     "title": "Why Does My Septic Tank Smell Bad Outside? Causes and How to Fix It",
     "summary": "Outdoor septic odor almost always traces back to a blocked vent, a cracked lid, an overdue tank, or a struggling drain field — here's how to diagnose the real cause and stop it.",
-    "keywords": ["why does my septic tank smell outside", "septic tank smell in yard", "how to get rid of septic smell outside", "septic tank odor causes"],
+    "keywords": [
+      "why does my septic tank smell outside",
+      "septic tank smell in yard",
+      "how to get rid of septic smell outside",
+      "septic tank odor causes"
+    ],
     "related_product_id": "septifix-septic-tank-treatment",
     "date": "2026-07-15",
     "faqs": [
-      {"q": "How often should a septic tank be pumped to avoid odor problems?", "a": "Most residential tanks need pumping every 3-5 years depending on household size and tank capacity. A tank that's overdue for pumping is one of the most common causes of sudden outdoor sewer odor, so checking your last service date is a good first step."},
-      {"q": "Can a septic tank smell bad even if it doesn't need pumping yet?", "a": "Yes. A cracked or poorly sealed tank lid or riser, a blocked vent pipe, or a soggy drain field can all cause noticeable outdoor odor even when the tank itself isn't full. Location and weather, like still humid air or a low-lying yard, can also make a minor amount of normal gas more noticeable."},
-      {"q": "Do septic tank treatment products actually help with odor?", "a": "Tablet-based treatments work by supporting the bacterial balance that breaks down waste inside the tank, which is the root cause of a lot of gradual odor buildup. They're a maintenance step, not a fix for a cracked lid or an overdue pump-out, but keeping that bacterial ecosystem healthy helps prevent the buildup that leads to odor and backups in the first place."}
+      {
+        "q": "How often should a septic tank be pumped to avoid odor problems?",
+        "a": "Most residential tanks need pumping every 3-5 years depending on household size and tank capacity. A tank that's overdue for pumping is one of the most common causes of sudden outdoor sewer odor, so checking your last service date is a good first step."
+      },
+      {
+        "q": "Can a septic tank smell bad even if it doesn't need pumping yet?",
+        "a": "Yes. A cracked or poorly sealed tank lid or riser, a blocked vent pipe, or a soggy drain field can all cause noticeable outdoor odor even when the tank itself isn't full. Location and weather, like still humid air or a low-lying yard, can also make a minor amount of normal gas more noticeable."
+      },
+      {
+        "q": "Do septic tank treatment products actually help with odor?",
+        "a": "Tablet-based treatments work by supporting the bacterial balance that breaks down waste inside the tank, which is the root cause of a lot of gradual odor buildup. They're a maintenance step, not a fix for a cracked lid or an overdue pump-out, but keeping that bacterial ecosystem healthy helps prevent the buildup that leads to odor and backups in the first place."
+      }
     ]
   },
   {
     "id": "one-car-garage-woodworking-shop-layout",
     "title": "How to Set Up a Small Woodworking Shop in a One-Car Garage",
     "summary": "A one-car garage can run a real woodworking shop if the layout follows workflow, tools go on wheels, and storage moves onto the walls — here's a practical, step-by-step setup approach.",
-    "keywords": ["how to set up a small woodworking shop in a garage", "one car garage woodworking shop layout", "small garage workshop setup", "garage woodworking shop ideas"],
+    "keywords": [
+      "how to set up a small woodworking shop in a garage",
+      "one car garage woodworking shop layout",
+      "small garage workshop setup",
+      "garage woodworking shop ideas"
+    ],
     "related_product_id": "ultimate-small-shop",
     "date": "2026-07-16",
     "faqs": [
-      {"q": "How much floor space do I actually need for a one-car garage woodworking shop?", "a": "Most one-car garages run 12x22 to 14x24 feet, and after accounting for the door swing and any utilities, that's enough for a table saw, workbench, and modest lumber storage as long as major tools are mobile and storage is wall-mounted rather than floor-based."},
-      {"q": "Do I need a dedicated dust collection system in a small garage shop?", "a": "Not to start. A portable shop vacuum with a dust-collection port, moved between tools as you switch tasks, combined with an ambient air filter or box-fan-and-furnace-filter setup, meaningfully improves air quality without the cost or ducting of a full dust collection system."},
-      {"q": "What electrical upgrades does a garage need before adding woodworking tools?", "a": "At minimum, check whether your outlets can handle a dedicated 20-amp circuit for larger tools, keep lighting on a separate circuit from tool outlets, and confirm 240-volt service if your equipment calls for it. If the existing panel and wiring are genuinely insufficient, that's worth a licensed electrician rather than relying on extension cords."}
+      {
+        "q": "How much floor space do I actually need for a one-car garage woodworking shop?",
+        "a": "Most one-car garages run 12x22 to 14x24 feet, and after accounting for the door swing and any utilities, that's enough for a table saw, workbench, and modest lumber storage as long as major tools are mobile and storage is wall-mounted rather than floor-based."
+      },
+      {
+        "q": "Do I need a dedicated dust collection system in a small garage shop?",
+        "a": "Not to start. A portable shop vacuum with a dust-collection port, moved between tools as you switch tasks, combined with an ambient air filter or box-fan-and-furnace-filter setup, meaningfully improves air quality without the cost or ducting of a full dust collection system."
+      },
+      {
+        "q": "What electrical upgrades does a garage need before adding woodworking tools?",
+        "a": "At minimum, check whether your outlets can handle a dedicated 20-amp circuit for larger tools, keep lighting on a separate circuit from tool outlets, and confirm 240-volt service if your equipment calls for it. If the existing panel and wiring are genuinely insufficient, that's worth a licensed electrician rather than relying on extension cords."
+      }
     ]
   },
   {
     "id": "tiny-house-diy-cost-breakdown",
     "title": "How Much Does It Cost to Build a Tiny House Yourself? A Realistic Line-Item Budget",
     "summary": "DIY tiny house costs range from $15,000 to $60,000 because most estimates skip categories like systems, permits, and contingency — here's a full line-item breakdown so you can budget your own build accurately.",
-    "keywords": ["how much does it cost to build a tiny house yourself", "diy tiny house budget breakdown", "cost to build a tiny house on wheels yourself", "cheapest way to build a tiny house"],
+    "keywords": [
+      "how much does it cost to build a tiny house yourself",
+      "diy tiny house budget breakdown",
+      "cost to build a tiny house on wheels yourself",
+      "cheapest way to build a tiny house"
+    ],
     "related_product_id": "tiny-house-made-easy",
     "date": "2026-07-17",
     "faqs": [
-      {"q": "What is the cheapest way to build a tiny house yourself?", "a": "Using a used but structurally sound trailer, reclaimed or secondhand materials for the interior finish, metal or vinyl siding instead of wood, and doing as much of the framing and finish work yourself as your skills and local permitting allow are the biggest cost levers. Materials for the shell and systems (electrical, plumbing, HVAC) are much harder to cut without compromising safety or durability."},
-      {"q": "Can I really build a tiny house for $15,000?", "a": "It's possible but requires an unusually favorable combination of a free or very cheap trailer, heavy use of reclaimed materials, minimal systems (no full plumbing or mini-split), and mostly your own labor with no paid subcontractors. Most builders who track every expense land closer to $25,000-$45,000 for a comfortable, fully-livable result."},
-      {"q": "Do I need a permit to build a tiny house myself?", "a": "It depends heavily on your state, county, and whether the house is built on a trailer (often treated as an RV) or a permanent foundation. Requirements range from none at all to full building permits and inspections, so check your specific local rules before starting the build rather than after."}
+      {
+        "q": "What is the cheapest way to build a tiny house yourself?",
+        "a": "Using a used but structurally sound trailer, reclaimed or secondhand materials for the interior finish, metal or vinyl siding instead of wood, and doing as much of the framing and finish work yourself as your skills and local permitting allow are the biggest cost levers. Materials for the shell and systems (electrical, plumbing, HVAC) are much harder to cut without compromising safety or durability."
+      },
+      {
+        "q": "Can I really build a tiny house for $15,000?",
+        "a": "It's possible but requires an unusually favorable combination of a free or very cheap trailer, heavy use of reclaimed materials, minimal systems (no full plumbing or mini-split), and mostly your own labor with no paid subcontractors. Most builders who track every expense land closer to $25,000-$45,000 for a comfortable, fully-livable result."
+      },
+      {
+        "q": "Do I need a permit to build a tiny house myself?",
+        "a": "It depends heavily on your state, county, and whether the house is built on a trailer (often treated as an RV) or a permanent foundation. Requirements range from none at all to full building permits and inspections, so check your specific local rules before starting the build rather than after."
+      }
     ]
   },
   {
     "id": "how-to-transition-dog-to-homemade-food",
     "title": "How to Transition a Dog to Homemade Food Without Upset Stomach",
     "summary": "A gradual 7–10 day mix schedule, portion tips, and troubleshooting for soft stool, picky eating, and gas when switching from kibble to homemade meals.",
-    "keywords": ["how to transition dog to homemade food", "switching dog from kibble to homemade", "homemade dog food transition schedule", "dog upset stomach after homemade food"],
+    "keywords": [
+      "how to transition dog to homemade food",
+      "switching dog from kibble to homemade",
+      "homemade dog food transition schedule",
+      "dog upset stomach after homemade food"
+    ],
     "related_product_id": "homemade-dog-food-without-secrets",
     "date": "2026-07-21",
     "faqs": [
-      {"q": "How long should it take to switch a dog from kibble to homemade food?", "a": "Most healthy adult dogs do well on a 7–10 day gradual mix. Sensitive dogs, puppies, and seniors often need the slower end of that range, and you should hold a mix stage longer if stools soften before increasing the homemade share."},
-      {"q": "Can I switch my dog to homemade food overnight?", "a": "It is not recommended. An abrupt swap is a common trigger for diarrhea, gas, and appetite dips because the gut microbiome has not had time to adapt to the new moisture, fat, and fiber profile."},
-      {"q": "When should I call the vet during a homemade food transition?", "a": "Pause and call your veterinarian if your dog has repeated vomiting, watery diarrhea, blood in stool, lethargy, or stops drinking. Soft stool for a day or two without other symptoms is common; those red-flag signs are not."}
+      {
+        "q": "How long should it take to switch a dog from kibble to homemade food?",
+        "a": "Most healthy adult dogs do well on a 7–10 day gradual mix. Sensitive dogs, puppies, and seniors often need the slower end of that range, and you should hold a mix stage longer if stools soften before increasing the homemade share."
+      },
+      {
+        "q": "Can I switch my dog to homemade food overnight?",
+        "a": "It is not recommended. An abrupt swap is a common trigger for diarrhea, gas, and appetite dips because the gut microbiome has not had time to adapt to the new moisture, fat, and fiber profile."
+      },
+      {
+        "q": "When should I call the vet during a homemade food transition?",
+        "a": "Pause and call your veterinarian if your dog has repeated vomiting, watery diarrhea, blood in stool, lethargy, or stops drinking. Soft stool for a day or two without other symptoms is common; those red-flag signs are not."
+      }
     ]
   },
   {
     "id": "how-to-recondition-car-battery-wont-hold-charge",
     "title": "How to Recondition a Car Battery That Won't Hold a Charge",
     "summary": "A battery that dies quickly often has mild sulfation, not a dead cell — here's how to test voltage, use a desulfation charger, safely try an Epsom salt refresh, and know when replacement is smarter.",
-    "keywords": ["how to recondition a car battery that won't hold charge", "car battery won't hold charge fix", "battery sulfation reconditioning", "desulfate car battery at home"],
+    "keywords": [
+      "how to recondition a car battery that won't hold charge",
+      "car battery won't hold charge fix",
+      "battery sulfation reconditioning",
+      "desulfate car battery at home"
+    ],
     "related_product_id": "ez-battery-reconditioning",
     "date": "2026-07-22",
     "faqs": [
-      {"q": "Can you recondition a car battery that won't hold a charge?", "a": "Often yes, if resting voltage stays between about 10 and 12.5 volts, the case is undamaged, and the battery is a serviceable flooded lead-acid type. Below 10 volts usually means a dead cell, and physical damage or sealed AGM/gel batteries limit what DIY reconditioning can do."},
-      {"q": "How long does it take to recondition a sulfated car battery?", "a": "A smart charger's desulfation mode typically needs 24 to 48 hours. An Epsom salt electrolyte refresh plus a slow 2-amp charge usually takes 24 to 36 hours. Rushing with high-amperage fast charging tends to overheat plates and makes recovery less likely."},
-      {"q": "Is Epsom salt better than a desulfation charger for fixing a weak battery?", "a": "For most people, a desulfation or recondition mode on a smart charger is safer and easier because it does not require opening cells or handling acid. Epsom salt refresh is a second-step option for accessible flooded batteries when pulse charging alone did not restore enough capacity."}
+      {
+        "q": "Can you recondition a car battery that won't hold a charge?",
+        "a": "Often yes, if resting voltage stays between about 10 and 12.5 volts, the case is undamaged, and the battery is a serviceable flooded lead-acid type. Below 10 volts usually means a dead cell, and physical damage or sealed AGM/gel batteries limit what DIY reconditioning can do."
+      },
+      {
+        "q": "How long does it take to recondition a sulfated car battery?",
+        "a": "A smart charger's desulfation mode typically needs 24 to 48 hours. An Epsom salt electrolyte refresh plus a slow 2-amp charge usually takes 24 to 36 hours. Rushing with high-amperage fast charging tends to overheat plates and makes recovery less likely."
+      },
+      {
+        "q": "Is Epsom salt better than a desulfation charger for fixing a weak battery?",
+        "a": "For most people, a desulfation or recondition mode on a smart charger is safer and easier because it does not require opening cells or handling acid. Epsom salt refresh is a second-step option for accessible flooded batteries when pulse charging alone did not restore enough capacity."
+      }
     ]
   },
   {
     "id": "why-does-my-parrot-bite-me-suddenly",
     "title": "Why Does My Parrot Bite Me Suddenly? Causes and How to Stop It",
     "summary": "Sudden parrot biting almost always has an identifiable cause — redirected aggression, hormones, fear, or pain — and a missed warning sign you can learn to catch.",
-    "keywords": ["why does my parrot bite me suddenly", "parrot biting out of nowhere", "how to stop parrot from biting", "parrot bite warning signs"],
+    "keywords": [
+      "why does my parrot bite me suddenly",
+      "parrot biting out of nowhere",
+      "how to stop parrot from biting",
+      "parrot bite warning signs"
+    ],
     "related_product_id": "parrot-secrets",
     "date": "2026-07-23",
     "faqs": [
-      {"q": "Why does my parrot bite me for no reason?", "a": "It's rarely truly for no reason. Common causes include redirected aggression from something else upsetting the bird, hormonal or seasonal behavior, fear or being startled, pain or illness, or a subtle warning sign that was missed. Tracking the time, activity, and body language right before a bite usually reveals a clear pattern."},
-      {"q": "What body language do parrots show right before they bite?", "a": "Common pre-bite signals include the eyes rapidly widening and narrowing (pinning), feathers puffing up or slicking down tight, the body crouching low or leaning away, tail fanning, and a raised foot. These signals are usually there a few seconds before a bite, even when the bite feels sudden to the owner."},
-      {"q": "Should I punish my parrot for biting?", "a": "No. Hitting, flicking, or yelling at a parrot for biting damages trust and often makes biting worse, since it can teach the bird to fear or preemptively attack hands. Staying calm, setting the bird down, and taking a short break is a more effective response."}
+      {
+        "q": "Why does my parrot bite me for no reason?",
+        "a": "It's rarely truly for no reason. Common causes include redirected aggression from something else upsetting the bird, hormonal or seasonal behavior, fear or being startled, pain or illness, or a subtle warning sign that was missed. Tracking the time, activity, and body language right before a bite usually reveals a clear pattern."
+      },
+      {
+        "q": "What body language do parrots show right before they bite?",
+        "a": "Common pre-bite signals include the eyes rapidly widening and narrowing (pinning), feathers puffing up or slicking down tight, the body crouching low or leaning away, tail fanning, and a raised foot. These signals are usually there a few seconds before a bite, even when the bite feels sudden to the owner."
+      },
+      {
+        "q": "Should I punish my parrot for biting?",
+        "a": "No. Hitting, flicking, or yelling at a parrot for biting damages trust and often makes biting worse, since it can teach the bird to fear or preemptively attack hands. Staying calm, setting the bird down, and taking a short break is a more effective response."
+      }
     ]
   },
   {
     "id": "how-many-nesting-boxes-for-chickens",
     "title": "How Many Nesting Boxes Do You Need for Your Backyard Flock? A Sizing Guide",
     "summary": "The real ratio is one nesting box per 3-4 hens, but box size, placement, and overall coop space matter just as much as the count.",
-    "keywords": ["how many nesting boxes do i need for 6 chickens", "how many nesting boxes per chicken", "chicken coop nesting box size", "how much space do chickens need in a coop"],
+    "keywords": [
+      "how many nesting boxes do i need for 6 chickens",
+      "how many nesting boxes per chicken",
+      "chicken coop nesting box size",
+      "how much space do chickens need in a coop"
+    ],
     "related_product_id": "build-a-chicken-coop",
     "date": "2026-07-24",
     "faqs": [
-      {"q": "Is 2 nesting boxes enough for 6 chickens?", "a": "Yes, in most cases. The general rule is one box per 3-4 hens, so 2 boxes comfortably covers a flock of 6-8 birds. Hens often prefer one favorite box regardless of how many are available, so 2 well-placed boxes frequently work better than 3-4 boxes."},
-      {"q": "What size should a chicken nesting box be?", "a": "About 12 x 12 x 12 inches works for standard breed hens. Size up to roughly 14 x 14 x 14 inches for larger breeds like Orpingtons or Jersey Giants, and down to about 10 x 10 x 10 inches for bantams."},
-      {"q": "Why do all my hens lay in the same nesting box?", "a": "This is normal flock behavior, not a design flaw. Hens gravitate toward whichever box feels darkest and most private, and laying habits tend to spread within a flock as hens follow each other's preference. As long as eggs are landing in a box rather than on the floor, one popular box among several isn't a problem to fix."}
+      {
+        "q": "Is 2 nesting boxes enough for 6 chickens?",
+        "a": "Yes, in most cases. The general rule is one box per 3-4 hens, so 2 boxes comfortably covers a flock of 6-8 birds. Hens often prefer one favorite box regardless of how many are available, so 2 well-placed boxes frequently work better than 3-4 boxes."
+      },
+      {
+        "q": "What size should a chicken nesting box be?",
+        "a": "About 12 x 12 x 12 inches works for standard breed hens. Size up to roughly 14 x 14 x 14 inches for larger breeds like Orpingtons or Jersey Giants, and down to about 10 x 10 x 10 inches for bantams."
+      },
+      {
+        "q": "Why do all my hens lay in the same nesting box?",
+        "a": "This is normal flock behavior, not a design flaw. Hens gravitate toward whichever box feels darkest and most private, and laying habits tend to spread within a flock as hens follow each other's preference. As long as eggs are landing in a box rather than on the floor, one popular box among several isn't a problem to fix."
+      }
     ]
   },
   {
     "id": "sloped-backyard-landscaping-on-a-budget",
     "title": "How to Landscape a Sloped Backyard on a Budget: A DIY Terracing Guide",
     "summary": "A sloped yard needs drainage, terracing, and erosion control handled in the right order — here's a practical, low-cost DIY plan using reclaimed materials instead of a retaining-wall contractor.",
-    "keywords": ["how to landscape a sloped backyard on a budget", "diy sloped backyard ideas", "how to terrace a sloped yard cheap", "sloped backyard landscaping ideas"],
+    "keywords": [
+      "how to landscape a sloped backyard on a budget",
+      "diy sloped backyard ideas",
+      "how to terrace a sloped yard cheap",
+      "sloped backyard landscaping ideas"
+    ],
     "related_product_id": "ideas-4-landscaping",
     "date": "2026-07-25",
     "faqs": [
-      {"q": "What is the cheapest way to fix a sloped backyard?", "a": "Ground cover plants, mulch, and native wildflower seed mixes are the cheapest options, often costing well under $200 for a modest slope, because they need no structural materials at all. If the slope is steep enough to require terracing, dry-stacked stone or reclaimed landscape timbers are the least expensive structural fix, typically running $200 to $800 per level for a DIY build."},
-      {"q": "Do I need a permit to build a retaining wall on a sloped yard?", "a": "In most areas, walls under about 3 to 4 feet don't require a permit and are reasonable DIY projects. Once a wall exceeds that height, most jurisdictions require a permit and often an engineered design, since a taller wall has to resist significant soil pressure. Always check with your local building department before starting."},
-      {"q": "Should I plant or fix drainage first on a sloped yard?", "a": "Fix drainage first. Planting before addressing how water moves across the slope is the most common reason budget slope projects fail, since runoff will wash out new soil, mulch, and seedlings before they can establish. Watch how water actually flows during a real rainstorm, then grade or add a swale before doing any terracing or planting."}
+      {
+        "q": "What is the cheapest way to fix a sloped backyard?",
+        "a": "Ground cover plants, mulch, and native wildflower seed mixes are the cheapest options, often costing well under $200 for a modest slope, because they need no structural materials at all. If the slope is steep enough to require terracing, dry-stacked stone or reclaimed landscape timbers are the least expensive structural fix, typically running $200 to $800 per level for a DIY build."
+      },
+      {
+        "q": "Do I need a permit to build a retaining wall on a sloped yard?",
+        "a": "In most areas, walls under about 3 to 4 feet don't require a permit and are reasonable DIY projects. Once a wall exceeds that height, most jurisdictions require a permit and often an engineered design, since a taller wall has to resist significant soil pressure. Always check with your local building department before starting."
+      },
+      {
+        "q": "Should I plant or fix drainage first on a sloped yard?",
+        "a": "Fix drainage first. Planting before addressing how water moves across the slope is the most common reason budget slope projects fail, since runoff will wash out new soil, mulch, and seedlings before they can establish. Watch how water actually flows during a real rainstorm, then grade or add a swale before doing any terracing or planting."
+      }
     ]
   },
   {
     "id": "angel-numbers-meaning-repeating",
     "title": "Why Do I Keep Seeing the Same Number Everywhere? Angel Numbers Explained",
     "summary": "Repeating numbers like 111 or 444 have both a psychological explanation (the frequency illusion) and a numerology one — here's what the common sequences mean and how to work with them without overthinking it.",
-    "keywords": ["why do i keep seeing the same number", "angel numbers meaning", "what does 444 mean spiritually", "why do i keep seeing 111"],
+    "keywords": [
+      "why do i keep seeing the same number",
+      "angel numbers meaning",
+      "what does 444 mean spiritually",
+      "why do i keep seeing 111"
+    ],
     "related_product_id": "numerologist",
     "date": "2026-07-26",
     "faqs": [
-      {"q": "Is seeing angel numbers a real sign or just coincidence?", "a": "There's no way to prove it either way. Psychologically, once a number catches your attention you naturally start noticing it more often (the frequency illusion), which explains the mechanism. Many people still find value in treating the moment as a prompt for reflection, regardless of which explanation they believe."},
-      {"q": "What's the difference between angel numbers and numerology?", "a": "Angel numbers are a narrow, popular slice of numerology focused on repeating sequences you happen to notice, like 111 or 444, and their meanings are generic — the same number means the same thing to everyone. Numerology more broadly calculates numbers specific to your birth date and name, like a life path number, giving a more personalized reading than a repeating-number list."},
-      {"q": "What should I actually do when I keep seeing the same number?", "a": "Note what you were thinking about or deciding right before you noticed it — that context usually matters more than the number itself. Treat it as a nudge to reflect, not a verdict to act on, and if a specific number keeps recurring over weeks, a short written log can show whether it's tied to a real pattern in your life."}
+      {
+        "q": "Is seeing angel numbers a real sign or just coincidence?",
+        "a": "There's no way to prove it either way. Psychologically, once a number catches your attention you naturally start noticing it more often (the frequency illusion), which explains the mechanism. Many people still find value in treating the moment as a prompt for reflection, regardless of which explanation they believe."
+      },
+      {
+        "q": "What's the difference between angel numbers and numerology?",
+        "a": "Angel numbers are a narrow, popular slice of numerology focused on repeating sequences you happen to notice, like 111 or 444, and their meanings are generic — the same number means the same thing to everyone. Numerology more broadly calculates numbers specific to your birth date and name, like a life path number, giving a more personalized reading than a repeating-number list."
+      },
+      {
+        "q": "What should I actually do when I keep seeing the same number?",
+        "a": "Note what you were thinking about or deciding right before you noticed it — that context usually matters more than the number itself. Treat it as a nudge to reflect, not a verdict to act on, and if a specific number keeps recurring over weeks, a short written log can show whether it's tied to a real pattern in your life."
+      }
     ]
   },
   {
     "id": "how-long-does-it-take-to-knit-a-sweater",
     "title": "How Long Does It Actually Take to Knit a Sweater? (And Is It Worth Selling One?)",
     "summary": "Hand-knit sweaters typically take 20-80 hours depending on yarn weight, size, and stitch pattern — here's how to estimate your own, plus an honest hours-to-price breakdown for anyone wondering if selling hand-knit sweaters can pay.",
-    "keywords": ["how long does it take to knit a sweater", "how many hours to knit a sweater", "is it worth it to sell handmade knitted sweaters", "how to price a hand knit sweater"],
+    "keywords": [
+      "how long does it take to knit a sweater",
+      "how many hours to knit a sweater",
+      "is it worth it to sell handmade knitted sweaters",
+      "how to price a hand knit sweater"
+    ],
     "related_product_id": "knitting-for-profit",
     "date": "2026-07-27",
     "faqs": [
-      {"q": "How long does it take to knit a sweater on average?", "a": "Most adult sweaters take 20-80 hours of knitting time, with a common range of 30-40 hours for a plain, worsted-weight pullover in a standard adult size. Bulky yarn and simple stitches land at the low end; fine yarn, larger sizes, and complex stitch patterns like cables or colorwork push it toward the high end."},
-      {"q": "Is it worth it to sell hand-knit sweaters?", "a": "Financially, sweaters are usually the least profitable item to sell per hour, since even a modest $15/hour labor rate on a 35-hour sweater adds up to $500+ before materials. It's not a reason to give up on selling knitwear, but it usually means focusing on smaller, faster items or repricing sweaters well above a simple materials-times-three formula."},
-      {"q": "What's the fastest way to estimate how long a specific sweater pattern will take me?", "a": "Knit a swatch in the pattern's exact yarn and stitch, time yourself for 15-20 minutes, and calculate your personal stitches-per-minute rate. Apply that to the pattern's approximate total stitch count (often inferable from the yardage), then add 10-15% for blocking, seaming, and finishing."}
+      {
+        "q": "How long does it take to knit a sweater on average?",
+        "a": "Most adult sweaters take 20-80 hours of knitting time, with a common range of 30-40 hours for a plain, worsted-weight pullover in a standard adult size. Bulky yarn and simple stitches land at the low end; fine yarn, larger sizes, and complex stitch patterns like cables or colorwork push it toward the high end."
+      },
+      {
+        "q": "Is it worth it to sell hand-knit sweaters?",
+        "a": "Financially, sweaters are usually the least profitable item to sell per hour, since even a modest $15/hour labor rate on a 35-hour sweater adds up to $500+ before materials. It's not a reason to give up on selling knitwear, but it usually means focusing on smaller, faster items or repricing sweaters well above a simple materials-times-three formula."
+      },
+      {
+        "q": "What's the fastest way to estimate how long a specific sweater pattern will take me?",
+        "a": "Knit a swatch in the pattern's exact yarn and stitch, time yourself for 15-20 minutes, and calculate your personal stitches-per-minute rate. Apply that to the pattern's approximate total stitch count (often inferable from the yardage), then add 10-15% for blocking, seaming, and finishing."
+      }
     ]
   },
   {
     "id": "how-much-land-self-sufficient",
     "title": "How Much Land Do You Actually Need to Be Self-Sufficient? A Realistic Breakdown",
     "summary": "The 'you need 5-10 acres' advice skips the part that matters: how much land depends entirely on what you're trying to produce, and most beginners can start on far less than they think.",
-    "keywords": ["how much land do you need to be self sufficient", "how many acres for a homestead", "self sufficient on small acreage", "how much land to grow your own food"],
+    "keywords": [
+      "how much land do you need to be self sufficient",
+      "how many acres for a homestead",
+      "self sufficient on small acreage",
+      "how much land to grow your own food"
+    ],
     "related_product_id": "self-sufficient-backyard",
     "date": "2026-07-28",
     "faqs": [
-      {"q": "Can you be self-sufficient on less than an acre?", "a": "Yes, for a meaningful share of food production. A well-planned vegetable garden, a couple of dwarf fruit trees, and a small laying flock can fit on well under a quarter acre and noticeably cut a grocery bill, even though it won't cover meat, dairy, or grain at scale."},
-      {"q": "How many acres do you need per person to be fully self-sufficient?", "a": "The commonly cited rule of thumb is about one acre per person for comprehensive self-sufficiency, including vegetables, fruit, eggs, some meat, and a small woodlot for fuel. Climate and soil quality can push that number up or down significantly."},
-      {"q": "Why do homesteading guides recommend 5-10 acres?", "a": "That range is built around adding pasture-raised meat animals, a larger orchard, hay production, and firewood, not vegetable growing. If your goals stop at a garden, some fruit, and a few hens, most of that extra acreage isn't necessary."}
+      {
+        "q": "Can you be self-sufficient on less than an acre?",
+        "a": "Yes, for a meaningful share of food production. A well-planned vegetable garden, a couple of dwarf fruit trees, and a small laying flock can fit on well under a quarter acre and noticeably cut a grocery bill, even though it won't cover meat, dairy, or grain at scale."
+      },
+      {
+        "q": "How many acres do you need per person to be fully self-sufficient?",
+        "a": "The commonly cited rule of thumb is about one acre per person for comprehensive self-sufficiency, including vegetables, fruit, eggs, some meat, and a small woodlot for fuel. Climate and soil quality can push that number up or down significantly."
+      },
+      {
+        "q": "Why do homesteading guides recommend 5-10 acres?",
+        "a": "That range is built around adding pasture-raised meat animals, a larger orchard, hay production, and firewood, not vegetable growing. If your goals stop at a garden, some fruit, and a few hens, most of that extra acreage isn't necessary."
+      }
     ]
   },
   {
     "id": "why-full-moon-makes-you-emotional",
     "title": "Why Do I Feel More Emotional During a Full Moon?",
     "summary": "Science doesn't support a direct link between the moon and mood, but light disruption, sleep loss, and pattern-seeking explain why full moons genuinely feel different — and how to handle them better.",
-    "keywords": ["why do i feel more emotional during a full moon", "does the full moon affect mood", "full moon emotional effects", "why am i so emotional on a full moon"],
+    "keywords": [
+      "why do i feel more emotional during a full moon",
+      "does the full moon affect mood",
+      "full moon emotional effects",
+      "why am i so emotional on a full moon"
+    ],
     "related_product_id": "moon-reading",
     "date": "2026-07-29",
     "faqs": [
-      {"q": "Does the full moon actually affect human mood or behavior?", "a": "Large studies on hospital admissions, crisis calls, and sleep haven't found a reliable link between the lunar cycle and mood or behavior. The feeling is real for many people, but it's better explained by light disruption, mild sleep loss, and confirmation bias than by any direct lunar effect."},
-      {"q": "Can a full moon really disrupt your sleep?", "a": "Yes, indirectly. A full moon is bright enough to cast shadows, and if a bedroom isn't fully dark, that extra light can delay falling asleep or interrupt deeper sleep stages. Even a modest sleep quality dip is enough to make most people noticeably more irritable or anxious the next day."},
-      {"q": "Why does it feel like I'm the only one affected by the full moon?", "a": "Once you associate the full moon with feeling off, you tend to notice and remember the nights that fit the pattern while overlooking the many other nights you felt the same way for unrelated reasons. This selective attention, known as confirmation bias, makes an occasional coincidence feel like a consistent rule."}
+      {
+        "q": "Does the full moon actually affect human mood or behavior?",
+        "a": "Large studies on hospital admissions, crisis calls, and sleep haven't found a reliable link between the lunar cycle and mood or behavior. The feeling is real for many people, but it's better explained by light disruption, mild sleep loss, and confirmation bias than by any direct lunar effect."
+      },
+      {
+        "q": "Can a full moon really disrupt your sleep?",
+        "a": "Yes, indirectly. A full moon is bright enough to cast shadows, and if a bedroom isn't fully dark, that extra light can delay falling asleep or interrupt deeper sleep stages. Even a modest sleep quality dip is enough to make most people noticeably more irritable or anxious the next day."
+      },
+      {
+        "q": "Why does it feel like I'm the only one affected by the full moon?",
+        "a": "Once you associate the full moon with feeling off, you tend to notice and remember the nights that fit the pattern while overlooking the many other nights you felt the same way for unrelated reasons. This selective attention, known as confirmation bias, makes an occasional coincidence feel like a consistent rule."
+      }
     ]
   },
   {
     "id": "sewing-pattern-doesnt-fit-measurements-match",
     "title": "Why Doesn't My Sewing Pattern Fit Even Though My Measurements Match?",
     "summary": "If your measurements match the size chart but the garment still doesn't fit, the real cause is usually ease, the wrong chart, or a body that spans multiple sizes — here's how to diagnose and fix it before you cut.",
-    "keywords": ["sewing pattern doesn't fit even though measurements match", "why is my sewing pattern too big", "how to grade between sewing pattern sizes", "sewing pattern size chart confusing"],
+    "keywords": [
+      "sewing pattern doesn't fit even though measurements match",
+      "why is my sewing pattern too big",
+      "how to grade between sewing pattern sizes",
+      "sewing pattern size chart confusing"
+    ],
     "related_product_id": "sewing-pattern-secrets",
     "date": "2026-07-30",
     "faqs": [
-      {"q": "Should I use my body measurements or the finished garment measurements to pick a pattern size?", "a": "Use the body measurements chart to select your size. The finished garment measurements chart shows what the sewn piece will measure once complete, which already includes built-in ease, so comparing your body to that chart instead will usually lead you to size up too far."},
-      {"q": "What should I do if my bust, waist, and hip measurements fall into different pattern sizes?", "a": "Grade between the sizes rather than picking just one. On a nested multi-size pattern, trace or select the cutting line at your bust size and gradually blend it to your waist and hip sizes using the printed size lines as a guide, smoothing the transition between them."},
-      {"q": "Why do two patterns in the same size fit so differently?", "a": "Each pattern is drafted with its own amount of ease based on the intended silhouette — a fitted style has much less built-in room than a relaxed or oversized style at the exact same labeled size. Subtracting your body measurement from the finished garment measurement at the same point tells you exactly how much ease that specific pattern includes."}
+      {
+        "q": "Should I use my body measurements or the finished garment measurements to pick a pattern size?",
+        "a": "Use the body measurements chart to select your size. The finished garment measurements chart shows what the sewn piece will measure once complete, which already includes built-in ease, so comparing your body to that chart instead will usually lead you to size up too far."
+      },
+      {
+        "q": "What should I do if my bust, waist, and hip measurements fall into different pattern sizes?",
+        "a": "Grade between the sizes rather than picking just one. On a nested multi-size pattern, trace or select the cutting line at your bust size and gradually blend it to your waist and hip sizes using the printed size lines as a guide, smoothing the transition between them."
+      },
+      {
+        "q": "Why do two patterns in the same size fit so differently?",
+        "a": "Each pattern is drafted with its own amount of ease based on the intended silhouette — a fitted style has much less built-in room than a relaxed or oversized style at the exact same labeled size. Subtracting your body measurement from the finished garment measurement at the same point tells you exactly how much ease that specific pattern includes."
+      }
     ]
   },
   {
     "id": "why-men-pull-away-when-they-like-you",
     "title": "Why Do Men Pull Away When They Start to Like You? The Real Reasons",
     "summary": "The retreat that happens right as a relationship gets serious usually isn't about losing interest — here's the actual psychology behind it and what helps versus what makes it worse.",
-    "keywords": ["why do men pull away when they start to like you", "why does he pull away when things get serious", "man pulling away emotionally", "why do men distance themselves when they catch feelings"],
+    "keywords": [
+      "why do men pull away when they start to like you",
+      "why does he pull away when things get serious",
+      "man pulling away emotionally",
+      "why do men distance themselves when they catch feelings"
+    ],
     "related_product_id": "his-secret-obsession",
     "date": "2026-07-31",
     "faqs": [
-      {"q": "Does a man pulling away always mean he's losing interest?", "a": "No. Men who are truly losing interest tend to fade gradually from the start, while this specific pattern shows up right as a relationship intensifies — after an emotionally open conversation, a new label, or meeting important people. That timing points to overwhelm or fear about the relationship getting more real, not a loss of interest."},
-      {"q": "Should I text him more if he starts pulling away?", "a": "Usually not. Increasing contact or pressing for an explanation in the moment tends to reinforce the exact pressure that triggered the withdrawal, which often extends it. Giving measured space while staying warm when you do interact tends to work better than closing the gap aggressively."},
-      {"q": "How do I know if it's normal pulling away or a genuinely bad sign?", "a": "Temporary, situational withdrawal in an otherwise healthy relationship is different from a repeating pattern paired with disrespect, dishonesty, or disappearing entirely with no real re-engagement afterward. If it's the latter, that's a clear signal worth taking seriously on its own, not something to wait out."}
+      {
+        "q": "Does a man pulling away always mean he's losing interest?",
+        "a": "No. Men who are truly losing interest tend to fade gradually from the start, while this specific pattern shows up right as a relationship intensifies — after an emotionally open conversation, a new label, or meeting important people. That timing points to overwhelm or fear about the relationship getting more real, not a loss of interest."
+      },
+      {
+        "q": "Should I text him more if he starts pulling away?",
+        "a": "Usually not. Increasing contact or pressing for an explanation in the moment tends to reinforce the exact pressure that triggered the withdrawal, which often extends it. Giving measured space while staying warm when you do interact tends to work better than closing the gap aggressively."
+      },
+      {
+        "q": "How do I know if it's normal pulling away or a genuinely bad sign?",
+        "a": "Temporary, situational withdrawal in an otherwise healthy relationship is different from a repeating pattern paired with disrespect, dishonesty, or disappearing entirely with no real re-engagement afterward. If it's the latter, that's a clear signal worth taking seriously on its own, not something to wait out."
+      }
     ]
   },
   {
     "id": "model-train-derailing-on-curves-fix",
     "title": "Why Does My Model Train Keep Derailing on Curves? Causes and Fixes",
     "summary": "Model train derailments on curves almost always trace back to one of four causes — too-tight radius, underweight cars, track alignment problems, or mismatched coupler height — here's how to diagnose and fix each one.",
-    "keywords": ["why does my model train derail on curves", "model train keeps derailing", "how to stop model train derailments", "HO scale minimum curve radius"],
+    "keywords": [
+      "why does my model train derail on curves",
+      "model train keeps derailing",
+      "how to stop model train derailments",
+      "HO scale minimum curve radius"
+    ],
     "related_product_id": "model-railroading-guide",
     "date": "2026-08-01",
     "faqs": [
-      {"q": "What is the minimum curve radius for HO scale model trains?", "a": "The technical minimum is 18 inches, but that's a bare survival number for short equipment. Most hobbyists find 22-24 inches noticeably more reliable, and layouts running longer steam locomotives or passenger cars do much better with 27-30 inch curves or larger."},
-      {"q": "Why does my train only derail when pulling other cars, not by itself?", "a": "This points to a weight, coupler height, or consist-matching problem rather than a track issue. Run a single well-weighted car through the curve alone first — if it stays on the rails alone but derails coupled to others, check coupler height and the weight of your lightest cars next."},
-      {"q": "Does adding weight to model train cars actually help with derailments?", "a": "Yes, weight is what keeps a car's wheels pressed onto the rail through a curve. The NMRA recommends roughly one ounce plus half an ounce per inch of car length, added low and centered in the car. Empty flatcars, gondolas, and hoppers are the most common underweight offenders."}
+      {
+        "q": "What is the minimum curve radius for HO scale model trains?",
+        "a": "The technical minimum is 18 inches, but that's a bare survival number for short equipment. Most hobbyists find 22-24 inches noticeably more reliable, and layouts running longer steam locomotives or passenger cars do much better with 27-30 inch curves or larger."
+      },
+      {
+        "q": "Why does my train only derail when pulling other cars, not by itself?",
+        "a": "This points to a weight, coupler height, or consist-matching problem rather than a track issue. Run a single well-weighted car through the curve alone first — if it stays on the rails alone but derails coupled to others, check coupler height and the weight of your lightest cars next."
+      },
+      {
+        "q": "Does adding weight to model train cars actually help with derailments?",
+        "a": "Yes, weight is what keeps a car's wheels pressed onto the rail through a curve. The NMRA recommends roughly one ounce plus half an ounce per inch of car length, added low and centered in the car. Empty flatcars, gondolas, and hoppers are the most common underweight offenders."
+      }
     ]
   },
   {
     "id": "dog-listens-to-one-person-not-another",
     "title": "Why Does My Dog Only Listen to One Person in the House? How to Fix It",
     "summary": "A dog that ignores one household member isn't picking favorites — it's an incomplete training and consistency gap, and here's the practical, step-by-step way to close it.",
-    "keywords": ["why does my dog only listen to one person", "dog listens to spouse but not me", "dog ignores me but listens to others", "how to get my dog to listen to me too"],
+    "keywords": [
+      "why does my dog only listen to one person",
+      "dog listens to spouse but not me",
+      "dog ignores me but listens to others",
+      "how to get my dog to listen to me too"
+    ],
     "related_product_id": "my-dog-plan-quiz",
     "date": "2026-08-03",
     "faqs": [
-      {"q": "Does my dog only listen to one person because it loves that person more?", "a": "Not usually. It's typically a training and consistency gap — the dog has learned clear rules and rewards from one person but incomplete or inconsistent ones from the other, not a reflection of who the dog loves more."},
-      {"q": "How long does it take to get a dog to listen to a second person?", "a": "Most households see a real improvement within two to three weeks of daily, consistent short training sessions from the previously-ignored person, combined with both people agreeing on and enforcing the same household rules."},
-      {"q": "When is a dog only listening to one person a bigger problem than just training?", "a": "If the dog shows real fear, growling, or avoidance toward the second person rather than simple non-responsiveness, that points to a behavioral issue worth addressing with a certified trainer or veterinary behaviorist rather than a consistency fix alone."}
+      {
+        "q": "Does my dog only listen to one person because it loves that person more?",
+        "a": "Not usually. It's typically a training and consistency gap — the dog has learned clear rules and rewards from one person but incomplete or inconsistent ones from the other, not a reflection of who the dog loves more."
+      },
+      {
+        "q": "How long does it take to get a dog to listen to a second person?",
+        "a": "Most households see a real improvement within two to three weeks of daily, consistent short training sessions from the previously-ignored person, combined with both people agreeing on and enforcing the same household rules."
+      },
+      {
+        "q": "When is a dog only listening to one person a bigger problem than just training?",
+        "a": "If the dog shows real fear, growling, or avoidance toward the second person rather than simple non-responsiveness, that points to a behavioral issue worth addressing with a certified trainer or veterinary behaviorist rather than a consistency fix alone."
+      }
     ]
   },
   {
     "id": "keep-shipping-container-home-cool-summer",
     "title": "How to Keep a Shipping Container Home Cool in Summer",
     "summary": "Bare steel containers can hit 110-120°F indoors in summer sun, but the right insulation, roof color, and ventilation can bring a container home in line with a conventional house — here's what actually works and in what order.",
-    "keywords": ["do shipping container homes get too hot in summer", "how to keep a shipping container home cool", "how hot do shipping containers get in summer", "shipping container home insulation for heat"],
+    "keywords": [
+      "do shipping container homes get too hot in summer",
+      "how to keep a shipping container home cool",
+      "how hot do shipping containers get in summer",
+      "shipping container home insulation for heat"
+    ],
     "related_product_id": "shipping-container-home",
     "date": "2026-08-02",
     "faqs": [
-      {"q": "Do shipping container homes need special insulation?", "a": "Yes. Closed-cell spray foam is the most common choice because it bonds directly to corrugated steel, seals every gap, and doubles as a vapor barrier, which prevents both heat transfer and the condensation-driven rust and mold that fiberglass batts alone can allow against bare steel."},
-      {"q": "What color should I paint a shipping container roof to keep it cool?", "a": "A white or light reflective color, ideally an elastomeric roof coating made for metal roofs. Light colors reflect radiant heat instead of absorbing it, and the roof is the single biggest source of heat gain on a container home, so this is one of the highest-impact, lowest-cost fixes available."},
-      {"q": "Can you use central AC or a mini-split in a shipping container home?", "a": "Yes, and a mini-split is the most common choice since it needs no ductwork. The key is sizing it after insulation and ventilation are in place — a properly insulated container needs a much smaller, more efficient unit than a bare one, and sizing for the bare-container heat load leads to an oversized, inefficient system."}
+      {
+        "q": "Do shipping container homes need special insulation?",
+        "a": "Yes. Closed-cell spray foam is the most common choice because it bonds directly to corrugated steel, seals every gap, and doubles as a vapor barrier, which prevents both heat transfer and the condensation-driven rust and mold that fiberglass batts alone can allow against bare steel."
+      },
+      {
+        "q": "What color should I paint a shipping container roof to keep it cool?",
+        "a": "A white or light reflective color, ideally an elastomeric roof coating made for metal roofs. Light colors reflect radiant heat instead of absorbing it, and the roof is the single biggest source of heat gain on a container home, so this is one of the highest-impact, lowest-cost fixes available."
+      },
+      {
+        "q": "Can you use central AC or a mini-split in a shipping container home?",
+        "a": "Yes, and a mini-split is the most common choice since it needs no ductwork. The key is sizing it after insulation and ventilation are in place — a properly insulated container needs a much smaller, more efficient unit than a bare one, and sizing for the bare-container heat load leads to an oversized, inefficient system."
+      }
     ]
   },
   {
     "id": "why-does-new-plywood-boat-leak",
     "title": "Why Does My New Plywood Boat Leak? Causes and How to Fix It",
     "summary": "New-build leaks in wooden and plywood boats almost always trace back to under-coated seams, unbedded hardware, or plywood delamination — here's how to find the source and fix it for good.",
-    "keywords": ["why does my plywood boat leak", "new boat leaking at seams", "how to stop a wooden boat from leaking", "plywood boat leaking after building"],
+    "keywords": [
+      "why does my plywood boat leak",
+      "new boat leaking at seams",
+      "how to stop a wooden boat from leaking",
+      "plywood boat leaking after building"
+    ],
     "related_product_id": "myboatplans",
     "date": "2026-08-04",
     "faqs": [
-      {"q": "Is it normal for a new wooden boat to leak a little at first?", "a": "A very slight weep at a seam during the first launch is common enough that many builders do a dry-land hose test before ever putting the boat in the water. Steady dripping or a bilge that fills noticeably within 30 minutes at rest is not normal and should be traced and fixed before regular use."},
-      {"q": "How do you find where a boat is leaking?", "a": "The most reliable method is a dry-land hose test — flood the interior with a few inches of water or spray the hull while it's supported upside down, then watch for and immediately mark the first drips, since water spreads quickly and is easy to lose track of once it starts moving."},
-      {"q": "Does epoxy stop a boat from leaking permanently?", "a": "Properly applied epoxy over a well-prepared seam is a permanent, waterproof seal, but it has to be sanded clean, fully wetted out, and given a full cure (about 24 hours at room temperature) before it's trusted on the water. A rushed or under-saturated application is the most common reason a 'sealed' seam leaks again."}
+      {
+        "q": "Is it normal for a new wooden boat to leak a little at first?",
+        "a": "A very slight weep at a seam during the first launch is common enough that many builders do a dry-land hose test before ever putting the boat in the water. Steady dripping or a bilge that fills noticeably within 30 minutes at rest is not normal and should be traced and fixed before regular use."
+      },
+      {
+        "q": "How do you find where a boat is leaking?",
+        "a": "The most reliable method is a dry-land hose test — flood the interior with a few inches of water or spray the hull while it's supported upside down, then watch for and immediately mark the first drips, since water spreads quickly and is easy to lose track of once it starts moving."
+      },
+      {
+        "q": "Does epoxy stop a boat from leaking permanently?",
+        "a": "Properly applied epoxy over a well-prepared seam is a permanent, waterproof seal, but it has to be sanded clean, fully wetted out, and given a full cure (about 24 hours at room temperature) before it's trusted on the water. A rushed or under-saturated application is the most common reason a 'sealed' seam leaks again."
+      }
     ]
   },
   {
     "id": "upcycle-furniture-without-sanding",
     "title": "How to Upcycle Old Furniture Without Sanding (5 Methods That Actually Work)",
     "summary": "Sanding exists to help paint grip a slick surface — here are five no-sand alternatives (deglosser, bonding primer, chalk paint, gel stain) plus how to know when a little sanding is still worth it.",
-    "keywords": ["how to upcycle furniture without sanding", "restore old furniture without sanding", "paint furniture without sanding", "upcycle furniture beginner guide"],
+    "keywords": [
+      "how to upcycle furniture without sanding",
+      "restore old furniture without sanding",
+      "paint furniture without sanding",
+      "upcycle furniture beginner guide"
+    ],
     "related_product_id": "trash-to-treasure-upcycling",
     "date": "2026-08-05",
     "faqs": [
-      {"q": "Can you really paint furniture without sanding it first?", "a": "Yes, in most cases. Sanding is meant to rough up a glossy surface so paint can grip it, but a deglosser (liquid sandpaper) combined with a bonding primer accomplishes the same thing chemically, letting you skip sanding on intact, non-peeling finishes."},
-      {"q": "Do I need a primer if I use chalk-style or mineral paint?", "a": "Often not, since many chalk-style and mineral paints are formulated to bond to existing finishes without a primer step. It varies by product, so check the specific paint's label, and use a bonding primer anyway on very glossy lacquer for extra insurance."},
-      {"q": "When should I sand furniture even if I'm trying to avoid it?", "a": "Sand at least the problem areas if the existing finish is peeling or flaking, if the piece has deep gouges or water damage that need filling and leveling, or if the lacquer is extremely glossy — a light scuff-sand there plus a bonding primer everywhere else is usually enough."}
+      {
+        "q": "Can you really paint furniture without sanding it first?",
+        "a": "Yes, in most cases. Sanding is meant to rough up a glossy surface so paint can grip it, but a deglosser (liquid sandpaper) combined with a bonding primer accomplishes the same thing chemically, letting you skip sanding on intact, non-peeling finishes."
+      },
+      {
+        "q": "Do I need a primer if I use chalk-style or mineral paint?",
+        "a": "Often not, since many chalk-style and mineral paints are formulated to bond to existing finishes without a primer step. It varies by product, so check the specific paint's label, and use a bonding primer anyway on very glossy lacquer for extra insurance."
+      },
+      {
+        "q": "When should I sand furniture even if I'm trying to avoid it?",
+        "a": "Sand at least the problem areas if the existing finish is peeling or flaking, if the piece has deep gouges or water damage that need filling and leveling, or if the lacquer is extremely glossy — a light scuff-sand there plus a bonding primer everywhere else is usually enough."
+      }
     ]
   },
   {
     "id": "fix-wobbly-table-leg-after-tightening-bolts",
     "title": "Why Does My Table Leg Still Wobble After Tightening the Bolts?",
     "summary": "A wobble that survives tightened bolts almost always traces to one of four causes — an uneven floor, mismatched leg lengths, a stripped screw hole, or a failed glue joint — and each one has its own fix.",
-    "keywords": ["why does my table leg wobble after tightening", "how to fix a wobbly table leg permanently", "table still wobbles after tightening bolts", "table leg loose even after tightening screws"],
+    "keywords": [
+      "why does my table leg wobble after tightening",
+      "how to fix a wobbly table leg permanently",
+      "table still wobbles after tightening bolts",
+      "table leg loose even after tightening screws"
+    ],
     "related_product_id": "furniture-craft-plans",
     "date": "2026-08-06",
     "faqs": [
-      {"q": "Why does my table still wobble even though I already tightened every bolt?", "a": "Tightening bolts only fixes a wobble caused by loose hardware. If the real cause is an uneven floor, mismatched leg lengths, a stripped screw hole that spins freely, or a failed glue joint under the apron, tightening already-snug bolts won't change anything, which is why the wobble persists."},
-      {"q": "How do I tell if my floor is causing the wobble instead of the table?", "a": "Move the table to a different spot in the room, or ideally to a different room with a different floor. If the wobble disappears or shifts to a different corner, the floor is uneven, not the table, and the fix is leveling pads or adjustable glides rather than any repair to the table itself."},
-      {"q": "What does a stripped screw hole feel like when you try to fix a wobbly table?", "a": "A screw or bolt in a stripped hole turns smoothly with almost no resistance and never really snugs up, because the wood fibers or threads it needs to grip have worn away. The fix is filling the hole with glue and wood shims, letting it cure fully, then redrilling a pilot hole before reinserting the fastener."}
+      {
+        "q": "Why does my table still wobble even though I already tightened every bolt?",
+        "a": "Tightening bolts only fixes a wobble caused by loose hardware. If the real cause is an uneven floor, mismatched leg lengths, a stripped screw hole that spins freely, or a failed glue joint under the apron, tightening already-snug bolts won't change anything, which is why the wobble persists."
+      },
+      {
+        "q": "How do I tell if my floor is causing the wobble instead of the table?",
+        "a": "Move the table to a different spot in the room, or ideally to a different room with a different floor. If the wobble disappears or shifts to a different corner, the floor is uneven, not the table, and the fix is leveling pads or adjustable glides rather than any repair to the table itself."
+      },
+      {
+        "q": "What does a stripped screw hole feel like when you try to fix a wobbly table?",
+        "a": "A screw or bolt in a stripped hole turns smoothly with almost no resistance and never really snugs up, because the wood fibers or threads it needs to grip have worn away. The fix is filling the hole with glue and wood shims, letting it cure fully, then redrilling a pilot hole before reinserting the fastener."
+      }
     ]
   },
   {
     "id": "electric-bill-high-when-no-one-home",
     "title": "Why Is My Electric Bill So High When No One's Home? 7 Real Causes",
     "summary": "A high bill on an empty house isn't a meter glitch — it's almost always HVAC setpoints, an idle water heater, phantom-load electronics, or a fridge working overtime, each with a specific fix.",
-    "keywords": ["why is my electric bill so high when no one is home", "electric bill high empty house", "electric bill high while away", "high electric bill no one home"],
+    "keywords": [
+      "why is my electric bill so high when no one is home",
+      "electric bill high empty house",
+      "electric bill high while away",
+      "high electric bill no one home"
+    ],
     "related_product_id": "energy-revolution-system",
     "date": "2026-08-07",
     "faqs": [
-      {"q": "Can my electric bill be high even if I unplug everything I can find?", "a": "Yes. The biggest continuous draws in an empty house are usually the HVAC system holding its setpoint and the water heater keeping its tank hot, not small electronics. Unplugging chargers and standby devices helps, but it won't offset an air conditioner or heater running on a normal setpoint the whole time you're away."},
-      {"q": "How much does phantom or standby power actually add to a bill?", "a": "Estimates generally put combined standby power from idle electronics at around 5-10% of a typical home's total electricity use, sometimes more in homes with a lot of entertainment or smart-home devices. It's rarely the single biggest cause on its own, but it adds up every day, occupied or not."},
-      {"q": "Why would my bill be higher than usual even though my house was completely empty?", "a": "Check the billing cycle length first — a 33-35 day cycle instead of the usual 28-31 will produce a higher bill from normal-rate usage alone. If the cycle length is normal, walk through HVAC setpoints, the water heater, refrigerator condition, and any easy-to-forget devices like a space heater, well pump, or garage freezer before assuming something is broken."}
+      {
+        "q": "Can my electric bill be high even if I unplug everything I can find?",
+        "a": "Yes. The biggest continuous draws in an empty house are usually the HVAC system holding its setpoint and the water heater keeping its tank hot, not small electronics. Unplugging chargers and standby devices helps, but it won't offset an air conditioner or heater running on a normal setpoint the whole time you're away."
+      },
+      {
+        "q": "How much does phantom or standby power actually add to a bill?",
+        "a": "Estimates generally put combined standby power from idle electronics at around 5-10% of a typical home's total electricity use, sometimes more in homes with a lot of entertainment or smart-home devices. It's rarely the single biggest cause on its own, but it adds up every day, occupied or not."
+      },
+      {
+        "q": "Why would my bill be higher than usual even though my house was completely empty?",
+        "a": "Check the billing cycle length first — a 33-35 day cycle instead of the usual 28-31 will produce a higher bill from normal-rate usage alone. If the cycle length is normal, walk through HVAC setpoints, the water heater, refrigerator condition, and any easy-to-forget devices like a space heater, well pump, or garage freezer before assuming something is broken."
+      }
     ]
   },
   {
     "id": "diy-cnc-router-cost-breakdown",
     "title": "How Much Does It Cost to Build a DIY CNC Router? A Real Budget Breakdown",
     "summary": "DIY CNC router costs range from $200 to $5,000+ depending on work area and motion-system quality — here's a line-item breakdown of where the money actually goes, plus the hidden costs most estimates skip.",
-    "keywords": ["how much does it cost to build a diy cnc router", "diy cnc router cost", "cheapest way to build a cnc machine", "diy cnc router budget breakdown"],
+    "keywords": [
+      "how much does it cost to build a diy cnc router",
+      "diy cnc router cost",
+      "cheapest way to build a cnc machine",
+      "diy cnc router budget breakdown"
+    ],
     "related_product_id": "diy-smart-saw",
     "date": "2026-08-09",
     "faqs": [
-      {"q": "Is it cheaper to build a CNC router or buy one?", "a": "For a small hobby machine, building is usually cheaper — a $500-$900 DIY build beats the $1,200+ starting price of a comparable small commercial router. The gap narrows once you're building a mid-size machine with a real spindle and precision rails, where a $1,500-$2,000 DIY build can end up close to a used commercial unit once your own time is factored in."},
-      {"q": "What's the biggest hidden cost in a DIY CNC router build?", "a": "Consumable bits, dust collection, and wasted material while learning feeds and speeds are the most commonly underestimated costs. None of them show up on a parts list, but they add up quickly during the first few months of use."},
-      {"q": "Is a CNC router kit worth the extra cost over sourcing parts yourself?", "a": "For first-time builders, often yes. Kits typically cost 20-40% more than sourcing the same parts individually, but the parts are already matched to each other, which avoids the mismatched-component problems (like an underpowered stepper motor or wrong belt pitch) that commonly trip up scratch builds."}
+      {
+        "q": "Is it cheaper to build a CNC router or buy one?",
+        "a": "For a small hobby machine, building is usually cheaper — a $500-$900 DIY build beats the $1,200+ starting price of a comparable small commercial router. The gap narrows once you're building a mid-size machine with a real spindle and precision rails, where a $1,500-$2,000 DIY build can end up close to a used commercial unit once your own time is factored in."
+      },
+      {
+        "q": "What's the biggest hidden cost in a DIY CNC router build?",
+        "a": "Consumable bits, dust collection, and wasted material while learning feeds and speeds are the most commonly underestimated costs. None of them show up on a parts list, but they add up quickly during the first few months of use."
+      },
+      {
+        "q": "Is a CNC router kit worth the extra cost over sourcing parts yourself?",
+        "a": "For first-time builders, often yes. Kits typically cost 20-40% more than sourcing the same parts individually, but the parts are already matched to each other, which avoids the mismatched-component problems (like an underpowered stepper motor or wrong belt pitch) that commonly trip up scratch builds."
+      }
     ]
   },
   {
     "id": "bike-chain-skipping-when-pedaling-hard",
     "title": "Why Does My Bike Chain Keep Skipping or Slipping When I Pedal Hard?",
     "summary": "Chain skipping under load almost always traces to a stretched chain, loose cable tension, worn cassette teeth, or a bent derailleur hanger — here's how to tell which one you have and fix it.",
-    "keywords": ["why does my bike chain keep skipping", "bike chain slipping when pedaling hard", "bike chain jumps gears", "how to fix a skipping bike chain"],
+    "keywords": [
+      "why does my bike chain keep skipping",
+      "bike chain slipping when pedaling hard",
+      "bike chain jumps gears",
+      "how to fix a skipping bike chain"
+    ],
     "related_product_id": "diy-bike-repair-course",
     "date": "2026-08-08",
     "faqs": [
-      {"q": "Is it safe to keep riding a bike with a skipping chain?", "a": "It's not dangerous at low effort, but a chain that skips under hard pedaling can suddenly release tension and cause your foot to slip off the pedal, which is a real fall risk when standing and climbing or sprinting in traffic. It's worth diagnosing and fixing before riding somewhere with hills or cars."},
-      {"q": "How do I know if my chain is actually worn out?", "a": "A chain wear indicator tool (around $10-15) gives the most reliable reading, but a rough check is pulling the chain away from the front chainring at the 3 o'clock position — if you can lift it enough to see daylight behind more than half a tooth, it's stretched and due for replacement."},
-      {"q": "Will putting on a new chain fix the skipping?", "a": "Only if the cassette isn't also worn. A new chain paired with a badly worn cassette often skips worse than the old chain did, because the new chain doesn't match the wear grooved into the old cassette's teeth — check or replace both together if the drivetrain has heavy mileage."}
+      {
+        "q": "Is it safe to keep riding a bike with a skipping chain?",
+        "a": "It's not dangerous at low effort, but a chain that skips under hard pedaling can suddenly release tension and cause your foot to slip off the pedal, which is a real fall risk when standing and climbing or sprinting in traffic. It's worth diagnosing and fixing before riding somewhere with hills or cars."
+      },
+      {
+        "q": "How do I know if my chain is actually worn out?",
+        "a": "A chain wear indicator tool (around $10-15) gives the most reliable reading, but a rough check is pulling the chain away from the front chainring at the 3 o'clock position — if you can lift it enough to see daylight behind more than half a tooth, it's stretched and due for replacement."
+      },
+      {
+        "q": "Will putting on a new chain fix the skipping?",
+        "a": "Only if the cassette isn't also worn. A new chain paired with a badly worn cassette often skips worse than the old chain did, because the new chain doesn't match the wear grooved into the old cassette's teeth — check or replace both together if the drivetrain has heavy mileage."
+      }
     ]
   },
   {
     "id": "how-to-fix-watery-soup",
     "title": "Why Is My Soup Watery Instead of Thick? How to Fix It",
     "summary": "Watery soup almost always comes down to too much liquid, no real thickener, or an uncovered-vs-covered cooking mistake — here's how to diagnose it and fix a thin pot fast.",
-    "keywords": ["why is my soup watery instead of thick", "how to thicken watery soup", "soup won't thicken fix", "how to fix thin soup"],
+    "keywords": [
+      "why is my soup watery instead of thick",
+      "how to thicken watery soup",
+      "soup won't thicken fix",
+      "how to fix thin soup"
+    ],
     "related_product_id": "rapid-soup-diet",
     "date": "2026-08-11",
     "faqs": [
-      {"q": "What's the fastest way to fix watery soup?", "a": "Take the lid off and simmer it uncovered for 15-25 minutes. This lets excess water evaporate without diluting flavor the way adding a thickener can, and it's often enough on its own to noticeably tighten up a thin soup."},
-      {"q": "Should I use flour or cornstarch to thicken soup?", "a": "Cornstarch thickens faster and gives a glossier finish, while flour needs a few minutes of simmering to cook out the raw taste but holds up better in soups that will be reheated. Either way, mix it with cold water into a smooth slurry first — adding dry starch straight to hot liquid causes clumps."},
-      {"q": "Why does my soup get watery again after refrigerating and reheating it?", "a": "Starch-based thickeners like flour and cornstarch can break down slightly over time and during reheating, which thins the soup back out. Blended vegetables, potatoes, rice, or beans hold their thickening power much better after storage than a slurry does."}
+      {
+        "q": "What's the fastest way to fix watery soup?",
+        "a": "Take the lid off and simmer it uncovered for 15-25 minutes. This lets excess water evaporate without diluting flavor the way adding a thickener can, and it's often enough on its own to noticeably tighten up a thin soup."
+      },
+      {
+        "q": "Should I use flour or cornstarch to thicken soup?",
+        "a": "Cornstarch thickens faster and gives a glossier finish, while flour needs a few minutes of simmering to cook out the raw taste but holds up better in soups that will be reheated. Either way, mix it with cold water into a smooth slurry first — adding dry starch straight to hot liquid causes clumps."
+      },
+      {
+        "q": "Why does my soup get watery again after refrigerating and reheating it?",
+        "a": "Starch-based thickeners like flour and cornstarch can break down slightly over time and during reheating, which thins the soup back out. Blended vegetables, potatoes, rice, or beans hold their thickening power much better after storage than a slurry does."
+      }
     ]
   },
   {
     "id": "why-wont-grass-grow-under-trees",
     "title": "Why Won't Grass Grow Under My Trees? Causes and What Actually Works Instead",
     "summary": "Grass loses to trees on shade, water, and root competition every time — here's why, and the shade-bed, ground-cover, and hardscape alternatives that actually hold up long-term.",
-    "keywords": ["why won't grass grow under my trees", "grass won't grow under tree fix", "landscaping ideas where grass won't grow", "shade tolerant ground cover under trees"],
+    "keywords": [
+      "why won't grass grow under my trees",
+      "grass won't grow under tree fix",
+      "landscaping ideas where grass won't grow",
+      "shade tolerant ground cover under trees"
+    ],
     "related_product_id": "ideas-4-landscaping",
     "date": "2026-08-12",
     "faqs": [
-      {"q": "Will shade-tolerant grass seed actually grow under a mature tree?", "a": "It can survive with at least four hours of filtered light a day if you use a fine fescue blend, mow it taller, and water and fertilize it lightly. Under a dense, low canopy with less light than that, no grass variety will hold up long-term."},
-      {"q": "Is it bad for the tree to plant flowers or ground cover under it?", "a": "Not if you plant carefully. Avoid deep tilling or heavy digging near the trunk, which can damage shallow feeder roots, and instead plant in small pockets between roots or mulch over bare soil rather than disturbing the root zone broadly."},
-      {"q": "Why won't anything grow under my black walnut tree specifically?", "a": "Black walnut releases a compound called juglone through its roots and fallen leaves that's toxic to many plants, including grass and common garden species. Under a black walnut, stick to juglone-tolerant plants or hardscaping rather than fighting it with more soil amendments."}
+      {
+        "q": "Will shade-tolerant grass seed actually grow under a mature tree?",
+        "a": "It can survive with at least four hours of filtered light a day if you use a fine fescue blend, mow it taller, and water and fertilize it lightly. Under a dense, low canopy with less light than that, no grass variety will hold up long-term."
+      },
+      {
+        "q": "Is it bad for the tree to plant flowers or ground cover under it?",
+        "a": "Not if you plant carefully. Avoid deep tilling or heavy digging near the trunk, which can damage shallow feeder roots, and instead plant in small pockets between roots or mulch over bare soil rather than disturbing the root zone broadly."
+      },
+      {
+        "q": "Why won't anything grow under my black walnut tree specifically?",
+        "a": "Black walnut releases a compound called juglone through its roots and fallen leaves that's toxic to many plants, including grass and common garden species. Under a black walnut, stick to juglone-tolerant plants or hardscaping rather than fighting it with more soil amendments."
+      }
     ]
   },
   {
     "id": "why-cant-i-touch-my-toes-even-though-i-stretch",
     "title": "Why Can't I Touch My Toes Even Though I Stretch Every Day?",
     "summary": "Toe-touch flexibility depends on more than the hamstrings — here's what's actually limiting you (tight hips, posture, stretching mistakes) and a more effective way to build real range of motion over weeks.",
-    "keywords": ["why can't i touch my toes even though i stretch every day", "how to touch your toes flexibility", "stretching every day not getting more flexible", "how long to touch toes stretching"],
+    "keywords": [
+      "why can't i touch my toes even though i stretch every day",
+      "how to touch your toes flexibility",
+      "stretching every day not getting more flexible",
+      "how long to touch toes stretching"
+    ],
     "related_product_id": "hyperbolic-stretching",
     "date": "2026-08-13",
     "faqs": [
-      {"q": "Is it bad if I can't touch my toes?", "a": "Not on its own. Toe-touch flexibility is influenced by hip and femur structure as well as muscle length, so plenty of healthy people never fully reach the floor. It's worth attention mainly if it comes with pain, or if it's noticeably limiting everyday movement like bending or tying shoes."},
-      {"q": "How long does it take to touch your toes if you stretch every day?", "a": "Most people see meaningful improvement within 4-8 weeks of consistent, correctly-done stretching (30-60 second holds, several times a week, targeting hips and lower back as well as hamstrings). Daily short sessions tend to outperform occasional long ones, and skeletal proportions mean some people will get much closer than others in that same timeframe."},
-      {"q": "Can you stretch too much trying to improve flexibility?", "a": "Yes. Stretching a muscle into pain, bouncing into a stretch, or doing intense stretching every single day without any lighter recovery days can cause strain and actually slow progress. A pain-free, gradually deepening stretch held with steady breathing works better than forcing extra range."}
+      {
+        "q": "Is it bad if I can't touch my toes?",
+        "a": "Not on its own. Toe-touch flexibility is influenced by hip and femur structure as well as muscle length, so plenty of healthy people never fully reach the floor. It's worth attention mainly if it comes with pain, or if it's noticeably limiting everyday movement like bending or tying shoes."
+      },
+      {
+        "q": "How long does it take to touch your toes if you stretch every day?",
+        "a": "Most people see meaningful improvement within 4-8 weeks of consistent, correctly-done stretching (30-60 second holds, several times a week, targeting hips and lower back as well as hamstrings). Daily short sessions tend to outperform occasional long ones, and skeletal proportions mean some people will get much closer than others in that same timeframe."
+      },
+      {
+        "q": "Can you stretch too much trying to improve flexibility?",
+        "a": "Yes. Stretching a muscle into pain, bouncing into a stretch, or doing intense stretching every single day without any lighter recovery days can cause strain and actually slow progress. A pain-free, gradually deepening stretch held with steady breathing works better than forcing extra range."
+      }
     ]
   },
   {
     "id": "macrame-knots-uneven-how-to-fix",
     "title": "Why Are My Macrame Knots Uneven? How to Fix It (And Keep Rows Straight)",
     "summary": "Uneven macrame rows almost always trace back to inconsistent tension, loose filler cords, or an unstable work surface — here's how to fix a lopsided section and a simple setup routine to keep every future row even.",
-    "keywords": ["why are my macrame knots uneven", "how to fix uneven macrame knots", "macrame rows not even", "macrame beginner mistakes tension"],
+    "keywords": [
+      "why are my macrame knots uneven",
+      "how to fix uneven macrame knots",
+      "macrame rows not even",
+      "macrame beginner mistakes tension"
+    ],
     "related_product_id": "macrame-for-beginners",
     "date": "2026-08-14",
     "faqs": [
-      {"q": "What's the number one cause of uneven macrame knots?", "a": "Inconsistent tension is the most common cause by far. If the pull on your working cords changes even slightly from knot to knot, the row height changes with it, which is why rows tend to drift the longer you work without a deliberate reset between knots."},
-      {"q": "Can I fix macrame rows that are already uneven, or do I have to start over?", "a": "You usually don't have to start over. Gently re-tensioning by hand, combing out minor twist, or steaming cotton cord can soften small unevenness, and for a genuinely crooked section it's often faster to unpick back to before the mistake and re-tie just that part."},
-      {"q": "Does the type of cord affect how even my knots look?", "a": "Yes. Mixing cord from different dye lots or brands introduces small thickness and stretch differences that show up as unevenness even with perfect tension, so buying enough cord from one batch for a project and pre-stretching new cord before starting both help."}
+      {
+        "q": "What's the number one cause of uneven macrame knots?",
+        "a": "Inconsistent tension is the most common cause by far. If the pull on your working cords changes even slightly from knot to knot, the row height changes with it, which is why rows tend to drift the longer you work without a deliberate reset between knots."
+      },
+      {
+        "q": "Can I fix macrame rows that are already uneven, or do I have to start over?",
+        "a": "You usually don't have to start over. Gently re-tensioning by hand, combing out minor twist, or steaming cotton cord can soften small unevenness, and for a genuinely crooked section it's often faster to unpick back to before the mistake and re-tie just that part."
+      },
+      {
+        "q": "Does the type of cord affect how even my knots look?",
+        "a": "Yes. Mixing cord from different dye lots or brands introduces small thickness and stretch differences that show up as unevenness even with perfect tension, so buying enough cord from one batch for a project and pre-stretching new cord before starting both help."
+      }
     ]
   },
   {
     "id": "how-to-price-woodworking-projects-to-sell",
     "title": "How to Price Handmade Woodworking Projects So They Actually Sell",
     "summary": "A repeatable five-part pricing formula (plus a fast materials-times-three shortcut) for woodworkers who are underpricing their builds and want to actually cover their time.",
-    "keywords": ["how to price woodworking projects to sell", "pricing handmade wood items", "how much to charge for woodworking projects", "woodworking business pricing guide"],
+    "keywords": [
+      "how to price woodworking projects to sell",
+      "pricing handmade wood items",
+      "how much to charge for woodworking projects",
+      "woodworking business pricing guide"
+    ],
     "related_product_id": "woodprofits",
     "date": "2026-08-15",
     "faqs": [
-      {"q": "What's the fastest way to price a simple woodworking item like a cutting board?", "a": "Materials cost multiplied by three is a common quick-start formula for simple, fast-build items like cutting boards or coasters. It's a rough estimate meant to fold in labor, overhead, and profit in one step, and works best on items that don't involve much detailed labor."},
-      {"q": "How much should I charge per hour for woodworking labor?", "a": "Beginners making simple items often start around $15-20 an hour of build time, while skilled joinery or custom furniture work can reasonably justify $30-50+ an hour. Time a few real builds, including sanding and finishing, before settling on a rate, since those steps are the most commonly underestimated part of the job."},
-      {"q": "Why do my woodworking prices feel too low compared to what I see online?", "a": "This usually means labor and overhead aren't being counted, only materials. Checking completed (not just active) Etsy listings and local craft fair prices for comparable pieces is a fast way to sanity-check a cost-based price against what the market actually supports."}
+      {
+        "q": "What's the fastest way to price a simple woodworking item like a cutting board?",
+        "a": "Materials cost multiplied by three is a common quick-start formula for simple, fast-build items like cutting boards or coasters. It's a rough estimate meant to fold in labor, overhead, and profit in one step, and works best on items that don't involve much detailed labor."
+      },
+      {
+        "q": "How much should I charge per hour for woodworking labor?",
+        "a": "Beginners making simple items often start around $15-20 an hour of build time, while skilled joinery or custom furniture work can reasonably justify $30-50+ an hour. Time a few real builds, including sanding and finishing, before settling on a rate, since those steps are the most commonly underestimated part of the job."
+      },
+      {
+        "q": "Why do my woodworking prices feel too low compared to what I see online?",
+        "a": "This usually means labor and overhead aren't being counted, only materials. Checking completed (not just active) Etsy listings and local craft fair prices for comparable pieces is a fast way to sanity-check a cost-based price against what the market actually supports."
+      }
     ]
   },
   {
     "id": "universal-edibility-test-does-it-work",
     "title": "Does the Universal Edibility Test Actually Work? What It Gets Wrong",
     "summary": "The Universal Edibility Test sounds like a foolproof way to check an unknown wild plant, but it fails on mushrooms, rejects some genuinely edible plants, and misses slow-acting toxins — here's what it's actually good for and what really keeps foragers safe.",
-    "keywords": ["does the universal edibility test work", "universal edibility test foraging", "how to test if a wild plant is edible", "is the edibility test safe"],
+    "keywords": [
+      "does the universal edibility test work",
+      "universal edibility test foraging",
+      "how to test if a wild plant is edible",
+      "is the edibility test safe"
+    ],
     "related_product_id": "foldable-forager",
     "date": "2026-08-16",
     "faqs": [
-      {"q": "Can you use the Universal Edibility Test on mushrooms?", "a": "No, never. Mushrooms don't follow the same rules as plants — a mushroom like the Death Cap can taste unremarkable and pass every stage of the test, then cause fatal organ damage hours or days later, well outside the test's observation window."},
-      {"q": "Why does the edibility test reject some plants that are actually edible?", "a": "The test flags any burning, tingling, or bitterness as a fail, but some genuinely edible plants only become safe after processing. Raw stinging nettle burns on skin contact but is fine cooked, and raw acorns taste bitter from tannins until they're leached or boiled — the test can't tell 'toxic' apart from 'needs cooking.'"},
-      {"q": "Is the Universal Edibility Test a good way to learn foraging?", "a": "Not really. It was designed as a last-resort tool for a genuine survival emergency with zero other options, not as an everyday identification method. Positive identification using multiple plant features, cross-checked against a reliable field guide, is what actually keeps regular foragers safe."}
+      {
+        "q": "Can you use the Universal Edibility Test on mushrooms?",
+        "a": "No, never. Mushrooms don't follow the same rules as plants — a mushroom like the Death Cap can taste unremarkable and pass every stage of the test, then cause fatal organ damage hours or days later, well outside the test's observation window."
+      },
+      {
+        "q": "Why does the edibility test reject some plants that are actually edible?",
+        "a": "The test flags any burning, tingling, or bitterness as a fail, but some genuinely edible plants only become safe after processing. Raw stinging nettle burns on skin contact but is fine cooked, and raw acorns taste bitter from tannins until they're leached or boiled — the test can't tell 'toxic' apart from 'needs cooking.'"
+      },
+      {
+        "q": "Is the Universal Edibility Test a good way to learn foraging?",
+        "a": "Not really. It was designed as a last-resort tool for a genuine survival emergency with zero other options, not as an everyday identification method. Positive identification using multiple plant features, cross-checked against a reliable field guide, is what actually keeps regular foragers safe."
+      }
     ]
   },
   {
     "id": "why-are-joints-stiff-in-the-morning-but-fine-later",
     "title": "Why Are My Joints Stiff in the Morning But Fine Later in the Day?",
     "summary": "Morning joint stiffness that fades within 30 minutes is usually just \"morning gel\" from overnight stillness, not a warning sign — here's how to tell it apart from something that needs a doctor, and what actually helps.",
-    "keywords": ["why are my joints stiff in the morning", "joint stiffness in the morning goes away", "why do my joints loosen up after moving", "morning joint stiffness causes"],
+    "keywords": [
+      "why are my joints stiff in the morning",
+      "joint stiffness in the morning goes away",
+      "why do my joints loosen up after moving",
+      "morning joint stiffness causes"
+    ],
     "related_product_id": "mobility-reset-method",
     "date": "2026-08-17",
     "faqs": [
-      {"q": "Is it normal for joints to be stiff every morning?", "a": "Yes, for most healthy adults, especially with age. Overnight stillness thickens the joint's lubricating fluid and slows blood flow, so joints feel tight until movement warms them back up, typically within 10-30 minutes."},
-      {"q": "How long should morning joint stiffness normally last?", "a": "Ordinary morning stiffness usually resolves within about 30 minutes of getting up and moving. Stiffness that regularly lasts 30-45 minutes or longer, especially with swelling or warmth, is worth mentioning to a doctor."},
-      {"q": "Does drinking more water help with morning joint stiffness?", "a": "Chronic dehydration is associated with worse stiffness, so staying consistently hydrated can help at the margins, but it's not a standalone fix. Regular movement and a short daily mobility routine make a bigger difference for most people."}
+      {
+        "q": "Is it normal for joints to be stiff every morning?",
+        "a": "Yes, for most healthy adults, especially with age. Overnight stillness thickens the joint's lubricating fluid and slows blood flow, so joints feel tight until movement warms them back up, typically within 10-30 minutes."
+      },
+      {
+        "q": "How long should morning joint stiffness normally last?",
+        "a": "Ordinary morning stiffness usually resolves within about 30 minutes of getting up and moving. Stiffness that regularly lasts 30-45 minutes or longer, especially with swelling or warmth, is worth mentioning to a doctor."
+      },
+      {
+        "q": "Does drinking more water help with morning joint stiffness?",
+        "a": "Chronic dehydration is associated with worse stiffness, so staying consistently hydrated can help at the margins, but it's not a standalone fix. Regular movement and a short daily mobility routine make a bigger difference for most people."
+      }
     ]
   },
   {
     "id": "dog-jumping-on-guests",
     "title": "Why Does My Dog Jump on Guests? How to Stop It for Good",
     "summary": "Jumping on guests is a reinforced greeting habit, not defiance — here's why in-the-moment corrections fail and a step-by-step management-plus-training plan that actually works.",
-    "keywords": ["why does my dog jump on guests", "how to stop dog jumping on guests", "dog jumps on visitors", "stop dog jumping when guests arrive"],
+    "keywords": [
+      "why does my dog jump on guests",
+      "how to stop dog jumping on guests",
+      "dog jumps on visitors",
+      "stop dog jumping when guests arrive"
+    ],
     "related_product_id": "secrets-to-dog-training",
     "date": "2026-08-18",
     "faqs": [
-      {"q": "Why does my dog only jump on guests and not on me?", "a": "Guests are novel and often react unpredictably, laughing, backing away, or petting the dog mid-jump, all of which reward the behavior. Household members who consistently ignore jumping give the dog far less reason to keep trying it with them."},
-      {"q": "Is it okay to knee my dog in the chest or step on its back paws to stop jumping?", "a": "No. These older corrections are more likely to create fear or a startled defensive reaction than to teach a lasting lesson. Turning away and rewarding four-paws-on-the-floor works better and doesn't risk provoking a fear-based nip."},
-      {"q": "How long does it take to stop a dog from jumping on guests?", "a": "Most dogs show real improvement within 2-4 weeks of short daily practice sessions, provided every household member enforces the same rule. Inconsistent enforcement between people is the most common reason training stalls."}
+      {
+        "q": "Why does my dog only jump on guests and not on me?",
+        "a": "Guests are novel and often react unpredictably, laughing, backing away, or petting the dog mid-jump, all of which reward the behavior. Household members who consistently ignore jumping give the dog far less reason to keep trying it with them."
+      },
+      {
+        "q": "Is it okay to knee my dog in the chest or step on its back paws to stop jumping?",
+        "a": "No. These older corrections are more likely to create fear or a startled defensive reaction than to teach a lasting lesson. Turning away and rewarding four-paws-on-the-floor works better and doesn't risk provoking a fear-based nip."
+      },
+      {
+        "q": "How long does it take to stop a dog from jumping on guests?",
+        "a": "Most dogs show real improvement within 2-4 weeks of short daily practice sessions, provided every household member enforces the same rule. Inconsistent enforcement between people is the most common reason training stalls."
+      }
     ]
   },
   {
     "id": "how-to-treat-wound-no-bandages-no-antibiotic-ointment",
     "title": "What to Do When You're Out of Bandages and Antibiotic Ointment for a Wound",
     "summary": "You don't need a stocked first aid kit to treat most minor cuts and scrapes well — here's what to use instead of antibiotic ointment and bandages, and how to tell when a wound needs real medical care instead.",
-    "keywords": ["how to treat a wound without bandages", "what to use instead of antibiotic ointment", "no first aid supplies wound care", "emergency wound care at home"],
+    "keywords": [
+      "how to treat a wound without bandages",
+      "what to use instead of antibiotic ointment",
+      "no first aid supplies wound care",
+      "emergency wound care at home"
+    ],
     "related_product_id": "home-doctor",
     "date": "2026-08-19",
     "faqs": [
-      {"q": "Can petroleum jelly really replace antibiotic ointment?", "a": "For a clean, non-infected cut or scrape, yes. Studies have found plain petroleum jelly performs comparably to antibiotic ointment because the main benefit is keeping the wound moist, not the antibiotic itself. It won't treat an infection that's already started, so it's a substitute for prevention, not a cure."},
-      {"q": "What can I use as a bandage if I don't have any?", "a": "A clean strip of cotton cloth held in place with tape works well, and plastic wrap taped at the edges is a surprisingly effective improvised covering since it keeps the wound moist and protected without sticking to it. Change either at least once or twice a day and whenever it gets wet or dirty."},
-      {"q": "When is a wound too serious to treat at home?", "a": "See a doctor or urgent care if bleeding won't stop after 10-15 minutes of firm pressure, the cut is deeper than about half an inch or won't close, it came from a dirty or rusty object, it's an animal or human bite, or you notice spreading redness, warmth, pus, red streaking, or fever as it heals."}
+      {
+        "q": "Can petroleum jelly really replace antibiotic ointment?",
+        "a": "For a clean, non-infected cut or scrape, yes. Studies have found plain petroleum jelly performs comparably to antibiotic ointment because the main benefit is keeping the wound moist, not the antibiotic itself. It won't treat an infection that's already started, so it's a substitute for prevention, not a cure."
+      },
+      {
+        "q": "What can I use as a bandage if I don't have any?",
+        "a": "A clean strip of cotton cloth held in place with tape works well, and plastic wrap taped at the edges is a surprisingly effective improvised covering since it keeps the wound moist and protected without sticking to it. Change either at least once or twice a day and whenever it gets wet or dirty."
+      },
+      {
+        "q": "When is a wound too serious to treat at home?",
+        "a": "See a doctor or urgent care if bleeding won't stop after 10-15 minutes of firm pressure, the cut is deeper than about half an inch or won't close, it came from a dirty or rusty object, it's an animal or human bite, or you notice spreading redness, warmth, pus, red streaking, or fever as it heals."
+      }
     ]
   },
   {
     "id": "how-to-dry-medicinal-herbs-without-losing-potency",
     "title": "How to Dry Medicinal Herbs Without Losing Their Potency",
     "summary": "The drying method you choose can make or break a medicinal herb harvest — here's how air drying, dehydrators, and storage each affect potency, and why the oven is usually a mistake.",
-    "keywords": ["how to dry medicinal herbs without losing potency", "best way to dry herbs for medicinal use", "air drying herbs vs dehydrator potency", "how to store dried herbs to keep potency"],
+    "keywords": [
+      "how to dry medicinal herbs without losing potency",
+      "best way to dry herbs for medicinal use",
+      "air drying herbs vs dehydrator potency",
+      "how to store dried herbs to keep potency"
+    ],
     "related_product_id": "medicinal-garden-kit",
     "date": "2026-08-20",
     "faqs": [
-      {"q": "Is air drying or a dehydrator better for preserving herb potency?", "a": "Air drying in a dark, well-ventilated space is generally gentlest on volatile oils and other delicate compounds, since it uses no added heat. A low-temperature dehydrator (95-115°F) is a close second and is often the more practical choice in humid climates where slow air drying risks mold before the herb fully dries."},
-      {"q": "Why shouldn't I dry medicinal herbs in a regular oven?", "a": "Most home ovens can't hold a low enough temperature even on their lowest setting, and the heat that does get past that point breaks down volatile oils and other active compounds quickly. An oven can also go from underdone to scorched in a matter of minutes, making it easy to ruin an entire batch."},
-      {"q": "How long do dried medicinal herbs stay potent once stored?", "a": "Most dried herbs hold good potency for about a year when stored whole in an airtight jar in a cool, dark place, and are often still usable up to two years. Potency fades gradually rather than herbs simply spoiling, so a faded color or weak aroma compared to when it was jarred is the clearest sign it's time to replace a batch."}
+      {
+        "q": "Is air drying or a dehydrator better for preserving herb potency?",
+        "a": "Air drying in a dark, well-ventilated space is generally gentlest on volatile oils and other delicate compounds, since it uses no added heat. A low-temperature dehydrator (95-115°F) is a close second and is often the more practical choice in humid climates where slow air drying risks mold before the herb fully dries."
+      },
+      {
+        "q": "Why shouldn't I dry medicinal herbs in a regular oven?",
+        "a": "Most home ovens can't hold a low enough temperature even on their lowest setting, and the heat that does get past that point breaks down volatile oils and other active compounds quickly. An oven can also go from underdone to scorched in a matter of minutes, making it easy to ruin an entire batch."
+      },
+      {
+        "q": "How long do dried medicinal herbs stay potent once stored?",
+        "a": "Most dried herbs hold good potency for about a year when stored whole in an airtight jar in a cool, dark place, and are often still usable up to two years. Potency fades gradually rather than herbs simply spoiling, so a faded color or weak aroma compared to when it was jarred is the clearest sign it's time to replace a batch."
+      }
     ]
   },
   {
     "id": "how-many-vegetables-4x4-raised-bed",
     "title": "How Many Vegetables Can You Actually Grow in a 4x4 Raised Bed?",
     "summary": "A 4x4 raised bed can hold 16-32+ plants when you switch from row planting to intensive square-foot spacing — here's a crop-by-crop breakdown, a layout trick most guides skip, and how succession planting multiplies your harvest.",
-    "keywords": ["how many vegetables can you grow in a 4x4 raised bed", "how many plants fit in a 4x4 raised bed", "4x4 raised bed layout vegetables", "square foot gardening 4x4 bed"],
+    "keywords": [
+      "how many vegetables can you grow in a 4x4 raised bed",
+      "how many plants fit in a 4x4 raised bed",
+      "4x4 raised bed layout vegetables",
+      "square foot gardening 4x4 bed"
+    ],
     "related_product_id": "4-foot-farm",
     "date": "2026-08-21",
     "faqs": [
-      {"q": "How many plants can you grow in a 4x4 raised bed?", "a": "It depends heavily on the crop. Root vegetables like carrots and radishes can be planted 16 per square foot (100+ in the whole bed), bush beans and spinach about 8-9 per square foot, lettuce around 4 per square foot, and larger plants like tomatoes or peppers closer to 1 plant per 1-4 square feet depending on the variety."},
-      {"q": "Is a 4x4 raised bed big enough to grow tomatoes?", "a": "Yes, but plan for only a few. A single tomato plant typically needs 2-4 square feet of its own space once mature, so a 4x4 bed usually fits 2-4 tomato plants comfortably if you're also growing other vegetables, or up to about 4-6 if tomatoes are the only crop."},
-      {"q": "How do I fit more vegetables into a small raised bed without overcrowding?", "a": "Use a small-medium-large layout: low plants like lettuce and herbs on the outer edge, medium plants like beans and peppers in the middle, and tall or trellised plants like tomatoes and cucumbers on the side that gets the most sun without shading the rest. Succession planting fast crops like radishes into space that will later hold a slower summer crop also increases total output from the same footprint."}
+      {
+        "q": "How many plants can you grow in a 4x4 raised bed?",
+        "a": "It depends heavily on the crop. Root vegetables like carrots and radishes can be planted 16 per square foot (100+ in the whole bed), bush beans and spinach about 8-9 per square foot, lettuce around 4 per square foot, and larger plants like tomatoes or peppers closer to 1 plant per 1-4 square feet depending on the variety."
+      },
+      {
+        "q": "Is a 4x4 raised bed big enough to grow tomatoes?",
+        "a": "Yes, but plan for only a few. A single tomato plant typically needs 2-4 square feet of its own space once mature, so a 4x4 bed usually fits 2-4 tomato plants comfortably if you're also growing other vegetables, or up to about 4-6 if tomatoes are the only crop."
+      },
+      {
+        "q": "How do I fit more vegetables into a small raised bed without overcrowding?",
+        "a": "Use a small-medium-large layout: low plants like lettuce and herbs on the outer edge, medium plants like beans and peppers in the middle, and tall or trellised plants like tomatoes and cucumbers on the side that gets the most sun without shading the rest. Succession planting fast crops like radishes into space that will later hold a slower summer crop also increases total output from the same footprint."
+      }
     ]
   },
   {
     "id": "why-wooden-cutting-boards-crack-warp",
     "title": "Why Wooden Cutting Boards Crack and Warp (Even When You Take Care of Them)",
     "summary": "Wood cutting boards warp and crack because of uneven moisture absorption between the two faces — here's the real cause, a maintenance routine that actually works, and when a non-porous board makes more sense.",
-    "keywords": ["why do wooden cutting boards crack and warp", "how to prevent cutting board warping", "wood cutting board cracked what to do", "best cutting board that won't warp"],
+    "keywords": [
+      "why do wooden cutting boards crack and warp",
+      "how to prevent cutting board warping",
+      "wood cutting board cracked what to do",
+      "best cutting board that won't warp"
+    ],
     "related_product_id": "vanotium-titanium-cutting-board",
     "date": "2026-08-22",
     "faqs": [
-      {"q": "Can I still use a cutting board that has a small crack in it?", "a": "A shallow surface crack that doesn't go all the way through can often be lightly sanded down and re-oiled. A crack that runs through the board, or a deep groove, gives bacteria a place to hide that scrubbing can't reach, especially after raw meat or poultry, and is a sign it's time to replace the board."},
-      {"q": "Is it ever safe to put a wood cutting board in the dishwasher?", "a": "No. The combination of prolonged water exposure, high heat, and forced-air drying is one of the most common causes of warped and cracked wood boards. Wood cutting boards should always be hand-washed and dried immediately."},
-      {"q": "Why does my cutting board warp even though I oil it regularly?", "a": "This usually means only one side is being oiled — typically the side you cut on. If the underside isn't oiled as often, it absorbs and releases moisture at a different rate than the top, which causes the same uneven expansion that oiling is meant to prevent. Oiling all sides and edges evenly fixes this."}
+      {
+        "q": "Can I still use a cutting board that has a small crack in it?",
+        "a": "A shallow surface crack that doesn't go all the way through can often be lightly sanded down and re-oiled. A crack that runs through the board, or a deep groove, gives bacteria a place to hide that scrubbing can't reach, especially after raw meat or poultry, and is a sign it's time to replace the board."
+      },
+      {
+        "q": "Is it ever safe to put a wood cutting board in the dishwasher?",
+        "a": "No. The combination of prolonged water exposure, high heat, and forced-air drying is one of the most common causes of warped and cracked wood boards. Wood cutting boards should always be hand-washed and dried immediately."
+      },
+      {
+        "q": "Why does my cutting board warp even though I oil it regularly?",
+        "a": "This usually means only one side is being oiled — typically the side you cut on. If the underside isn't oiled as often, it absorbs and releases moisture at a different rate than the top, which causes the same uneven expansion that oiling is meant to prevent. Oiling all sides and edges evenly fixes this."
+      }
+    ]
+  },
+  {
+    "id": "how-to-tell-if-well-water-is-safe-to-drink",
+    "title": "How to Tell If Well Water Is Safe to Drink Without Sending It to a Lab",
+    "summary": "Clear, odorless water can still fail a lab test. Here's what visible signs actually mean, which contaminants give zero warning, and why annual testing is the only real answer.",
+    "keywords": [
+      "is well water safe to drink",
+      "how to tell if well water is contaminated",
+      "well water testing signs",
+      "well water safety without testing"
+    ],
+    "related_product_id": "josephs-well-survival-guide",
+    "date": "2026-08-23",
+    "faqs": [
+      {
+        "q": "Can I just boil my well water to make it safe instead of testing it?",
+        "a": "Boiling for one minute at a rolling boil kills bacteria and most pathogens, but it does nothing for nitrates, arsenic, lead, or other chemical contaminants. Boiling can actually slightly concentrate nitrates as water evaporates, so it's the wrong fix if nitrates are the issue. Testing tells you what you're actually dealing with; boiling is only a partial, temporary bridge for bacterial contamination."
+      },
+      {
+        "q": "How often should I really test my well water?",
+        "a": "At minimum, test for coliform bacteria and nitrates every year — many county health departments offer this cheaply. Test for arsenic, lead, and other regional contaminants every few years or immediately after nearby construction, flooding, a new septic install, or any noticeable change in taste, smell, or color."
+      },
+      {
+        "q": "My well water looks and tastes completely normal. Does that mean it's safe?",
+        "a": "Not necessarily. The contaminants most likely to cause real health problems — bacteria, nitrates, arsenic, lead — are colorless, odorless, and tasteless at the concentrations that matter. Normal taste and appearance rule out some nuisance issues but can not rule out the ones a lab test is actually designed to catch."
+      }
     ]
   }
 ]
