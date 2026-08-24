@@ -1429,5 +1429,32 @@
         "a": "Not necessarily. The contaminants most likely to cause real health problems — bacteria, nitrates, arsenic, lead — are colorless, odorless, and tasteless at the concentrations that matter. Normal taste and appearance rule out some nuisance issues but can not rule out the ones a lab test is actually designed to catch."
       }
     ]
+  },
+  {
+    "id": "upstairs-hotter-than-downstairs-ac-on",
+    "title": "Why Is My Upstairs So Much Hotter Than Downstairs — Even With the AC On?",
+    "summary": "A hot second floor while the AC runs isn't usually a broken unit — it's heat rising, attic heat gain, leaky ducts, and thermostat placement stacking together, and most fixes are cheap.",
+    "keywords": [
+      "why is my upstairs so much hotter than downstairs",
+      "upstairs hot downstairs cold with ac on",
+      "second floor hot even with air conditioning",
+      "how to cool upstairs bedroom in summer"
+    ],
+    "related_product_id": "homeowners-hvac-guide",
+    "date": "2026-08-24",
+    "faqs": [
+      {
+        "q": "Is it normal for the upstairs to be hotter than downstairs in a two-story house?",
+        "a": "Yes, to a degree. A 5-10°F difference is common in most two-story homes because warm air naturally rises and pools on the upper floor. A gap larger than that, or one that's gotten noticeably worse, usually points to a specific fixable cause like attic heat gain, duct leaks, or thermostat placement rather than being unavoidable."
+      },
+      {
+        "q": "Does closing downstairs vents actually help cool the upstairs?",
+        "a": "It can help meaningfully, since it forces more of the system's total airflow toward open upstairs vents. Don't close more than about 20% of your downstairs vents, though — closing too many restricts airflow across the whole system and can strain the blower or cause coil freezing."
+      },
+      {
+        "q": "Is a bad AC unit usually the reason one floor doesn't cool well?",
+        "a": "Less often than people assume. In most homes the culprit is attic insulation letting roof heat soak into the ceiling below, ductwork losing cool air before it reaches the vent, or a single thermostat only reading the downstairs temperature. The AC unit itself is usually working correctly even when the upstairs stays warm."
+      }
+    ]
   }
 ]
