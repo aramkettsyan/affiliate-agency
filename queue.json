@@ -1,33 +1,121 @@
 [
   {
-    "id": "backyard-eggs-cluckboss",
-    "name": "Backyard Eggs",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chicken keeping / DIY egg production",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide showing how to set up a small backyard coop and keep hens laying reliably, so you can produce your own eggs at home instead of paying rising grocery prices.",
-    "best_for": "homeowners with yard space who want a practical, low-cost way to raise a few backyard hens for eggs",
-    "keywords": ["backyard chicken coop guide", "how to raise backyard hens", "DIY egg production at home", "backyard eggs beginner guide"],
-    "clickbank_stats": {"gravity": 1.0, "approval_required": false}
-  },
-  {
-    "id": "original-astro-lover-sketch",
-    "name": "Original Astro Lover Sketch",
-    "vendor": "ASTROSKETC",
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "soulvoice",
     "category": "Spirituality",
     "niche": "astrology-based soulmate sketch reading",
     "price": "low-ticket (official page)",
-    "summary": "An astrology-based reading that generates a personalized description of your ideal romantic match based on your birth chart, for entertainment purposes.",
-    "best_for": "people interested in astrology who are curious about the personality and traits of their ideal romantic match",
+    "summary": "An astrology-themed soulmate sketch reading that gives a personalized description and visual impression of your ideal match.",
+    "best_for": "astrology and soulmate-reading fans who want a fresh take on the sketch-reading format",
     "keywords": [
-      "astrology soulmate sketch",
-      "astro lover sketch reading",
-      "personalized love astrology reading",
-      "soulmate sketch by birth chart"
+      "Tara Lunar soulmate sketch",
+      "astrology soulmate portrait",
+      "soulmate sketch reading online",
+      "personalized astrology love reading"
     ],
     "clickbank_stats": {
-      "gravity": 23.9,
+      "gravity": 40.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "trueloveor",
+    "category": "Spirituality",
+    "niche": "channeling-based soulmate sketch reading",
+    "price": "low-ticket (official page)",
+    "summary": "A soulmate sketch reading built around a Balinese channeling narrative, producing a personalized description of your romantic match, for entertainment purposes.",
+    "best_for": "readers who enjoy story-driven spiritual readings with a unique cultural framing",
+    "keywords": [
+      "Balinese soulmate sketch",
+      "channeling soulmate reading",
+      "soulmate sketch online",
+      "personalized soulmate story reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 13.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "divine-wealth-path-reading",
+    "name": "Divine Wealth Path Reading",
+    "vendor": "divinewpr",
+    "category": "Spirituality",
+    "niche": "astrology-based wealth and abundance reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading focused on identifying the energies blocking abundance and outlining a path toward financial breakthrough, for entertainment purposes.",
+    "best_for": "astrology fans interested in a wealth-and-abundance angle on personalized readings",
+    "keywords": [
+      "divine wealth path reading",
+      "astrology wealth reading",
+      "personalized abundance reading",
+      "astrology money blocks reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 9.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "astro-manifestation",
+    "name": "Astro Manifestation",
+    "vendor": "astroman99",
+    "category": "Spirituality",
+    "niche": "astrology-based manifestation reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology-based manifestation program that ties your birth chart to manifestation practices, for entertainment and self-reflection purposes.",
+    "best_for": "astrology fans who are also interested in manifestation and law-of-attraction content",
+    "keywords": [
+      "astro manifestation reading",
+      "astrology manifestation program",
+      "personalized astrology manifestation",
+      "birth chart manifestation guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 7.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "nidra-abundance-code",
+    "name": "Nidra Abundance Code",
+    "vendor": "nidracode",
+    "category": "Spirituality",
+    "niche": "sleep-based manifestation audio",
+    "price": "low-ticket (official page)",
+    "summary": "A 'sleep-and-manifest' audio program inspired by yoga nidra, designed to be listened to at night to support abundance-focused manifestation practice.",
+    "best_for": "manifestation and law-of-attraction fans who prefer a passive, audio-based nightly routine",
+    "keywords": [
+      "nidra abundance code",
+      "sleep manifestation audio",
+      "yoga nidra abundance",
+      "manifestation while you sleep"
+    ],
+    "clickbank_stats": {
+      "gravity": 10.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "8th-chakra-code",
+    "name": "8th Chakra Code",
+    "vendor": "8ccode",
+    "category": "Spirituality",
+    "niche": "chakra and abundance manifestation program",
+    "price": "low-ticket (official page)",
+    "summary": "A chakra-themed manifestation program built around the concept of an '8th chakra' tied to abundance, aimed at law-of-attraction and chakra-focused audiences.",
+    "best_for": "readers already interested in chakra work who want to combine it with abundance manifestation practice",
+    "keywords": [
+      "8th chakra code",
+      "chakra abundance program",
+      "chakra manifestation guide",
+      "8th chakra manifestation"
+    ],
+    "clickbank_stats": {
+      "gravity": 9.6,
       "approval_required": false
     }
   }
