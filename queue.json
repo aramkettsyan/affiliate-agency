@@ -1,5 +1,17 @@
 [
   {
+    "id": "backyard-eggs-cluckboss",
+    "name": "Backyard Eggs",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping / DIY egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide showing how to set up a small backyard coop and keep hens laying reliably, so you can produce your own eggs at home instead of paying rising grocery prices.",
+    "best_for": "homeowners with yard space who want a practical, low-cost way to raise a few backyard hens for eggs",
+    "keywords": ["backyard chicken coop guide", "how to raise backyard hens", "DIY egg production at home", "backyard eggs beginner guide"],
+    "clickbank_stats": {"gravity": 1.0, "approval_required": false}
+  },
+  {
     "id": "original-astro-lover-sketch",
     "name": "Original Astro Lover Sketch",
     "vendor": "ASTROSKETC",
