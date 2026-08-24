@@ -4619,5 +4619,47 @@
       "Tina Aldea soulmate sketch",
       "personalized soulmate drawing"
     ]
+  },
+  {
+    "id": "divine-wealth-path-reading",
+    "name": "Divine Wealth Path Reading",
+    "category": "Spirituality",
+    "niche": "astrology-based wealth and abundance reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=divinewpr",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 9.0,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology reading focused on identifying the energies blocking abundance and outlining a path toward financial breakthrough, for entertainment purposes.",
+    "best_for": "astrology fans interested in a wealth-and-abundance angle on personalized readings",
+    "keywords": [
+      "divine wealth path reading",
+      "astrology wealth reading",
+      "personalized abundance reading",
+      "astrology money blocks reading"
+    ]
+  },
+  {
+    "id": "astro-manifestation",
+    "name": "Astro Manifestation",
+    "category": "Spirituality",
+    "niche": "astrology-based manifestation reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=astroman99",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 7.4,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology-based manifestation program that ties your birth chart to manifestation practices, for entertainment and self-reflection purposes.",
+    "best_for": "astrology fans who are also interested in manifestation and law-of-attraction content",
+    "keywords": [
+      "astro manifestation reading",
+      "astrology manifestation program",
+      "personalized astrology manifestation",
+      "birth chart manifestation guide"
+    ]
   }
 ]
