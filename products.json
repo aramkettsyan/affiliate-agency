@@ -4556,5 +4556,47 @@
       "astrovedic reading review",
       "personalized vedic horoscope"
     ]
+  },
+  {
+    "id": "homeowners-hvac-guide",
+    "name": "The Homeowner's HVAC Guide",
+    "category": "Home & Garden",
+    "niche": "home HVAC maintenance & protection reference",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=TRADLEDGER",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A technician-written reference guide that walks homeowners through maintaining, troubleshooting, and protecting their home HVAC system to help avoid costly breakdowns.",
+    "best_for": "homeowners who want to understand their HVAC system well enough to catch small problems early and avoid unnecessary repair bills",
+    "keywords": [
+      "homeowner HVAC guide",
+      "HVAC maintenance checklist",
+      "avoid HVAC repair costs",
+      "home heating and cooling guide"
+    ]
+  },
+  {
+    "id": "year-of-the-horse-astrology-reading",
+    "name": "Year of the Horse 2026 Astrology Reading",
+    "category": "Spirituality",
+    "niche": "personalized astrology reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ASTROLAN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 71.9,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology reading built around the Year of the Horse 2026 theme, generated from your birth details for entertainment and self-reflection.",
+    "best_for": "astrology enthusiasts curious what 2026 holds for their sign and looking for a personalized, easy-to-read forecast",
+    "keywords": [
+      "year of the horse 2026 astrology",
+      "personalized astrology reading 2026",
+      "astrology language reading",
+      "2026 horoscope forecast"
+    ]
   }
 ]
