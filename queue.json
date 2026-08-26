@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "crest-wake-business-tools",
+    "name": "Crest Wake",
+    "vendor": "CRESTWAKE",
+    "category": "Business / Investing",
+    "niche": "all-in-one business tools SaaS",
+    "price": "low-ticket (official page)",
+    "summary": "An all-in-one business membership bundling 350+ tools, models, and templates for entrepreneurs at every stage.",
+    "best_for": "entrepreneurs who want a bundled suite of business tools instead of many separate subscriptions",
+    "keywords": [
+      "all in one business tools",
+      "business software bundle",
+      "entrepreneur tools membership",
+      "business templates and tools saas"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "solomoat-ai-solopreneur",
+    "name": "SoloMoat",
+    "vendor": "SOLOMOAT",
+    "category": "Business / Investing",
+    "niche": "AI solopreneur training",
+    "price": "low-ticket (official page)",
+    "summary": "A training membership that teaches professionals how to build and run a one-person, AI-powered business.",
+    "best_for": "aspiring solopreneurs who want to build an AI-driven side business",
+    "keywords": [
+      "ai solopreneur training",
+      "build one person ai business",
+      "ai income training course",
+      "solo ai business membership"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "dropvault-wp-plugin",
+    "name": "DropVault WP Plugin",
+    "vendor": "DROPVAULT1",
+    "category": "Software & Tools",
+    "niche": "WordPress digital product delivery",
+    "price": "low-ticket (official page)",
+    "summary": "A WordPress plugin that automates secure digital file delivery for creators selling downloadable products.",
+    "best_for": "WordPress site owners who sell digital downloads and want automated, secure delivery",
+    "keywords": [
+      "wordpress digital delivery plugin",
+      "automate digital product delivery",
+      "secure file delivery wordpress",
+      "sell digital downloads wordpress"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]

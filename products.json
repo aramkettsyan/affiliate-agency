@@ -4745,5 +4745,26 @@
       "personalized tarot reading",
       "angelic tarot vsl"
     ]
+  },
+  {
+    "id": "birddogbot-real-estate",
+    "name": "BirdDogBot",
+    "category": "Business / Investing",
+    "niche": "real estate deal-finding software",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BIRDDOGBOT",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A membership tool that helps real estate investors automatically find off-market property deals.",
+    "best_for": "real estate investors and wholesalers looking for off-market deal leads",
+    "keywords": [
+      "real estate deal finding software",
+      "off market real estate leads",
+      "real estate investor tools",
+      "find real estate deals automatically"
+    ]
   }
 ]
