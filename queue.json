@@ -1,25 +1,5 @@
 [
   {
-    "id": "crest-wake-business-tools",
-    "name": "Crest Wake",
-    "vendor": "CRESTWAKE",
-    "category": "Business / Investing",
-    "niche": "all-in-one business tools SaaS",
-    "price": "low-ticket (official page)",
-    "summary": "An all-in-one business membership bundling 350+ tools, models, and templates for entrepreneurs at every stage.",
-    "best_for": "entrepreneurs who want a bundled suite of business tools instead of many separate subscriptions",
-    "keywords": [
-      "all in one business tools",
-      "business software bundle",
-      "entrepreneur tools membership",
-      "business templates and tools saas"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "solomoat-ai-solopreneur",
     "name": "SoloMoat",
     "vendor": "SOLOMOAT",

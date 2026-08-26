@@ -4766,5 +4766,26 @@
       "real estate investor tools",
       "find real estate deals automatically"
     ]
+  },
+  {
+    "id": "crest-wake-business-tools",
+    "name": "Crest Wake",
+    "category": "Business / Investing",
+    "niche": "all-in-one business tools SaaS",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CRESTWAKE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "An all-in-one business membership bundling 350+ tools, models, and templates for entrepreneurs at every stage.",
+    "best_for": "entrepreneurs who want a bundled suite of business tools instead of many separate subscriptions",
+    "keywords": [
+      "all in one business tools",
+      "business software bundle",
+      "entrepreneur tools membership",
+      "business templates and tools saas"
+    ]
   }
 ]
