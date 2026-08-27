@@ -1,45 +1,5 @@
 [
   {
-    "id": "cold-war-generator",
-    "name": "The Cold War Generator",
-    "vendor": "COLDWARG",
-    "category": "Green Products",
-    "niche": "DIY home energy and off-grid power",
-    "price": "low-ticket (official page)",
-    "summary": "A step-by-step digital plan for building a small backup power source at home, aimed at cutting energy costs and adding blackout preparedness.",
-    "best_for": "DIY homeowners who want a low-cost backup power project for energy savings or emergencies",
-    "keywords": [
-      "diy backup generator plan",
-      "home energy independence guide",
-      "diy off grid power project",
-      "build your own generator"
-    ],
-    "clickbank_stats": {
-      "gravity": 2.6,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "nomad-power-system",
-    "name": "NOMAD Power System",
-    "vendor": "NOMADPS",
-    "category": "Green Products",
-    "niche": "DIY home energy and off-grid power",
-    "price": "low-ticket (official page)",
-    "summary": "A digital DIY guide for building a portable home energy setup, positioned for homeowners looking to trim electric bills or prep for outages.",
-    "best_for": "homeowners and preppers who want a portable, low-cost DIY power project",
-    "keywords": [
-      "portable diy power system",
-      "diy energy independence guide",
-      "off grid power plans",
-      "home backup power diy"
-    ],
-    "clickbank_stats": {
-      "gravity": 2.4,
-      "approval_required": false
-    }
-  },
-  {
     "id": "ultimate-off-grid-generator",
     "name": "Ultimate OFF-GRID Generator",
     "vendor": "UOGGEN",
@@ -56,26 +16,6 @@
     ],
     "clickbank_stats": {
       "gravity": 7.8,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "killer-guitar-control-secrets",
-    "name": "Killer Guitar Control Secrets",
-    "vendor": "GUITARIST3",
-    "category": "Arts & Entertainment",
-    "niche": "Guitar lead playing instruction",
-    "price": "low-ticket (official page)",
-    "summary": "A guitar instruction course focused on mastering lead guitar control so players can improvise soulful solos at any skill level.",
-    "best_for": "guitar players who can already play basics and want to improve lead and solo playing",
-    "keywords": [
-      "learn lead guitar solos",
-      "guitar control course",
-      "improve guitar improvisation",
-      "guitar lead technique lessons"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.5,
       "approval_required": false
     }
   }

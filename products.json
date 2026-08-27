@@ -4829,5 +4829,47 @@
       "off grid power project",
       "home energy savings guide"
     ]
+  },
+  {
+    "id": "cold-war-generator",
+    "name": "The Cold War Generator",
+    "category": "Green Products",
+    "niche": "DIY home energy and off-grid power",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=COLDWARG",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.6,
+      "approval_required": false
+    },
+    "summary": "A step-by-step digital plan for building a small backup power source at home, aimed at cutting energy costs and adding blackout preparedness.",
+    "best_for": "DIY homeowners who want a low-cost backup power project for energy savings or emergencies",
+    "keywords": [
+      "diy backup generator plan",
+      "home energy independence guide",
+      "diy off grid power project",
+      "build your own generator"
+    ]
+  },
+  {
+    "id": "nomad-power-system",
+    "name": "NOMAD Power System",
+    "category": "Green Products",
+    "niche": "DIY home energy and off-grid power",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=NOMADPS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.4,
+      "approval_required": false
+    },
+    "summary": "A digital DIY guide for building a portable home energy setup, positioned for homeowners looking to trim electric bills or prep for outages.",
+    "best_for": "homeowners and preppers who want a portable, low-cost DIY power project",
+    "keywords": [
+      "portable diy power system",
+      "diy energy independence guide",
+      "off grid power plans",
+      "home backup power diy"
+    ]
   }
 ]
