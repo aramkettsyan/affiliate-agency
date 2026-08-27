@@ -1,25 +1,5 @@
 [
   {
-    "id": "solomoat-ai-solopreneur",
-    "name": "SoloMoat",
-    "vendor": "SOLOMOAT",
-    "category": "Business / Investing",
-    "niche": "AI solopreneur training",
-    "price": "low-ticket (official page)",
-    "summary": "A training membership that teaches professionals how to build and run a one-person, AI-powered business.",
-    "best_for": "aspiring solopreneurs who want to build an AI-driven side business",
-    "keywords": [
-      "ai solopreneur training",
-      "build one person ai business",
-      "ai income training course",
-      "solo ai business membership"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "dropvault-wp-plugin",
     "name": "DropVault WP Plugin",
     "vendor": "DROPVAULT1",
