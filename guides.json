@@ -1537,5 +1537,32 @@
         "a": "No. Stopping usually makes bleeding worse over time, since it lets the plaque causing the irritation keep building up. Keep flossing gently once a day and the bleeding should ease within a week or two as gum health improves."
       }
     ]
+  },
+  {
+    "id": "how-to-choose-next-woodworking-project",
+    "title": "How to Choose Your Next Woodworking Project (When You Can't Decide What to Build)",
+    "summary": "Project paralysis isn't a motivation problem — it's a missing filter. Here's a five-minute process to match a project to your actual time, material, and skill level instead of endlessly scrolling for inspiration.",
+    "keywords": [
+      "how to choose a woodworking project",
+      "what woodworking project should i build next",
+      "stuck on what to build woodworking",
+      "beginner woodworking project ideas by skill level"
+    ],
+    "related_product_id": "woodworkers-treasure-chest",
+    "date": "2026-08-28",
+    "faqs": [
+      {
+        "q": "Why do I keep abandoning woodworking projects halfway through?",
+        "a": "This is usually a mismatch between the project's scope and the time you actually have available, not a skill or motivation problem. Sizing a project to fit clearly into one sitting, one weekend, or several weekends before you start — rather than partway through — prevents most of these stalls."
+      },
+      {
+        "q": "Should beginners avoid complex joinery entirely?",
+        "a": "Not entirely, but it helps to introduce it one technique at a time. Build confidence with straight cuts and simple screw-and-glue or pocket-hole joints first, then add a single new technique, like one dado or miter joint, per project rather than combining several unfamiliar techniques in one build."
+      },
+      {
+        "q": "Is it better to build from a detailed plan or design my own project?",
+        "a": "For a gift, sale piece, or anything where consistency matters, a detailed plan you've followed before removes in-the-moment decisions that can stall a build. Freeform designing is better suited to pure skill-practice sessions where the goal is exploration, not a predictable finished result."
+      }
+    ]
   }
 ]
