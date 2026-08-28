@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping and DIY egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY digital guide showing how to raise backyard chickens for a steady home supply of eggs, aimed at cutting grocery costs amid rising egg prices.",
+    "best_for": "homeowners with yard space who want to raise a small backyard flock for eggs",
+    "keywords": [
+      "raise backyard chickens for eggs",
+      "diy backyard chicken coop guide",
+      "how to start keeping chickens",
+      "backyard egg production tips"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "original-astro-lover-sketch",
+    "name": "Original Astro Lover Sketch",
+    "vendor": "ASTROSKETC",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology-based soulmate portrait readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized digital soulmate sketch and reading built on an astrology angle, generating a custom portrait description based on the buyer's birth details.",
+    "best_for": "astrology and psychic-curious readers wanting a personalized soulmate sketch experience",
+    "keywords": [
+      "astrology soulmate sketch reading",
+      "personalized soulmate portrait astrology",
+      "what does my soulmate look like astrology",
+      "astro soulmate drawing online"
+    ],
+    "clickbank_stats": {
+      "gravity": 24.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "astro-triggers-love-reading",
+    "name": "Astro Triggers",
+    "vendor": "ZODIACPAL",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology-based love and relationship readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading focused on love and relationship compatibility, generated from the buyer's birth chart details.",
+    "best_for": "readers interested in astrology-based relationship and love compatibility insight",
+    "keywords": [
+      "astrology love compatibility reading",
+      "personalized astrology relationship report",
+      "zodiac love reading online",
+      "birth chart love compatibility"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "celestial-whisper",
+    "name": "Celestial Whisper",
+    "vendor": "CELESTWHIS",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized astrology 'lucky dates' forecasting",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading that identifies upcoming lucky dates for love, career, and personal life based on the buyer's birth chart.",
+    "best_for": "astrology fans who want date-specific guidance on when to act in love, work, or life decisions",
+    "keywords": [
+      "lucky dates astrology reading",
+      "personalized astrology forecast",
+      "best days for love astrology",
+      "astrology reading for luck"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "numerology-forecast",
+    "name": "Numerology Forecast: Decode Your Life's Path",
+    "vendor": "00NUMERO",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized numerology life-path readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized numerology reading that decodes the buyer's core numbers to offer insight into life purpose, love, and personal growth.",
+    "best_for": "readers curious about numerology and how their personal numbers relate to life decisions",
+    "keywords": [
+      "numerology life path reading",
+      "personalized numerology report",
+      "what is my life path number",
+      "numerology forecast online"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "covert-hypnosis-course",
+    "name": "The Art Of Covert Hypnosis",
+    "vendor": "HYPNOSISCO",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "conversational and covert hypnosis training",
+    "price": "low-ticket (official page)",
+    "summary": "A digital course teaching conversational hypnosis techniques for everyday persuasion and influence, taught through articles, ebooks, and videos.",
+    "best_for": "people wanting to learn practical conversational hypnosis and influence techniques",
+    "keywords": [
+      "learn covert hypnosis techniques",
+      "conversational hypnosis course",
+      "how to use hypnotic language",
+      "persuasion and influence hypnosis training"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.0,
+      "approval_required": false
+    }
+  }
+]
