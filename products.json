@@ -4892,5 +4892,47 @@
       "diy energy independence plans",
       "home off grid setup guide"
     ]
+  },
+  {
+    "id": "astro-triggers-love-reading",
+    "name": "Astro Triggers",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology-based love and relationship readings",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ZODIACPAL",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.7,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology reading focused on love and relationship compatibility, generated from the buyer's birth chart details.",
+    "best_for": "readers interested in astrology-based relationship and love compatibility insight",
+    "keywords": [
+      "astrology love compatibility reading",
+      "personalized astrology relationship report",
+      "zodiac love reading online",
+      "birth chart love compatibility"
+    ]
+  },
+  {
+    "id": "celestial-whisper",
+    "name": "Celestial Whisper",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized astrology 'lucky dates' forecasting",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CELESTWHIS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology reading that identifies upcoming lucky dates for love, career, and personal life based on the buyer's birth chart.",
+    "best_for": "astrology fans who want date-specific guidance on when to act in love, work, or life decisions",
+    "keywords": [
+      "lucky dates astrology reading",
+      "personalized astrology forecast",
+      "best days for love astrology",
+      "astrology reading for luck"
+    ]
   }
 ]
