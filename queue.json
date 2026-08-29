@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "easy-battery-fix",
+    "name": "Easy Battery Fix",
+    "vendor": "batteryfix",
+    "category": "Green Products",
+    "niche": "battery reconditioning / home savings",
+    "price": "low-ticket (official page)",
+    "summary": "A battery reconditioning course showing how to restore old car, phone, and laptop batteries to near-full capacity instead of replacing them.",
+    "best_for": "budget-conscious DIYers who want to extend battery life and cut replacement costs",
+    "keywords": [
+      "easy battery fix review",
+      "battery reconditioning course",
+      "how to recondition a car battery",
+      "restore old batteries at home"
+    ],
+    "clickbank_stats": {
+      "gravity": 7.8,
+      "approval_required": false
+    }
+  }
+]
