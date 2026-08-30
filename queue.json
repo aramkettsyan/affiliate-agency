@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "backyard-eggs-chicken-coop-plans",
+    "name": "Backyard Eggs",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping and egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide that walks homeowners through raising backyard chickens for a steady home egg supply amid rising grocery prices.",
+    "best_for": "homeowners with yard space who want to cut grocery costs by raising a small backyard flock",
+    "keywords": [
+      "backyard chickens for eggs",
+      "how to raise backyard chickens",
+      "diy chicken coop guide",
+      "backyard egg production at home"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "landscaping-ideas-7250",
+    "name": "7250 Landscaping Ideas",
+    "vendor": "IDEAS4LAND",
+    "category": "Home & Garden",
+    "niche": "landscaping design and yard makeover ideas",
+    "price": "low-ticket (official page)",
+    "summary": "A collection of over 7,250 landscaping designs and videos meant to help homeowners plan a yard makeover without hiring a designer.",
+    "best_for": "homeowners planning a yard or garden makeover who want design inspiration and a concrete plan before spending on materials",
+    "keywords": [
+      "landscaping ideas for front yard",
+      "backyard landscaping design ideas",
+      "diy landscape design plans",
+      "affordable yard makeover ideas"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "lost-superfoods-food-preservation",
+    "name": "The Lost SuperFoods",
+    "vendor": "LOSTREC",
+    "category": "Self-Help",
+    "niche": "food preservation and long-term food storage",
+    "price": "low-ticket (official page)",
+    "summary": "A guide to forgotten food preservation and storage techniques aimed at helping households build a resilient, long-lasting food supply.",
+    "best_for": "preparedness-minded households who want practical, old-fashioned methods for storing food long-term without relying on refrigeration",
+    "keywords": [
+      "long-term food storage guide",
+      "food preservation without refrigeration",
+      "emergency food supply tips",
+      "old-fashioned food preservation methods"
+    ],
+    "clickbank_stats": {
+      "gravity": 9.8,
+      "approval_required": false
+    }
+  }
+]
