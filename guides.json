@@ -1591,5 +1591,32 @@
         "a": "See a doctor if the pattern happens most nights for several weeks, if you snore heavily or gasp for air at night, or if daytime fatigue is affecting your mood, memory, or safety. Persistent hyperarousal can also be a symptom of anxiety, depression, or an underlying sleep disorder worth ruling out."
       }
     ]
+  },
+  {
+    "id": "do-i-need-a-permit-to-build-a-shed",
+    "title": "Do I Need a Permit to Build a Shed? Here's How to Actually Find Out",
+    "summary": "Shed permit thresholds usually fall between 100 and 200 square feet, but power, height, foundation type, and your specific city's rules can all change the answer — here's how to check for your own build.",
+    "keywords": [
+      "do i need a permit to build a shed",
+      "shed permit requirements by size",
+      "what size shed needs a permit",
+      "home renovation permit checklist"
+    ],
+    "related_product_id": "permitpal",
+    "date": "2026-08-30",
+    "faqs": [
+      {
+        "q": "What size shed can I build without a permit?",
+        "a": "There's no single national number, but many local codes exempt one-story detached accessory structures of 200 square feet or less. Some cities set a lower bar, closer to 100 square feet, while others allow up to 200, so check your specific city or county's rule rather than assuming a nationwide standard."
+      },
+      {
+        "q": "Does adding electricity to a shed always require a permit?",
+        "a": "In most jurisdictions, yes. Running power or plumbing to a shed typically triggers an electrical or plumbing permit regardless of the shed's overall size, even if the structure itself would otherwise be exempt."
+      },
+      {
+        "q": "What happens if I build a shed without a required permit?",
+        "a": "Common consequences include a stop-work order and having to permit the structure after the fact (often at a higher cost), potential gaps in homeowners insurance coverage for an unpermitted structure, and complications during a future home sale or inspection."
+      }
+    ]
   }
 ]
