@@ -1,21 +1,61 @@
 [
   {
-    "id": "lost-superfoods-food-preservation",
-    "name": "The Lost SuperFoods",
-    "vendor": "LOSTREC",
-    "category": "Self-Help",
-    "niche": "food preservation and long-term food storage",
+    "id": "searl-effect-generator-guide",
+    "name": "Searl Effect Generator Guide",
+    "vendor": "SRLEFFGEN",
+    "category": "Green Products",
+    "niche": "DIY magnetic generator and alternative home power devices",
     "price": "low-ticket (official page)",
-    "summary": "A guide to forgotten food preservation and storage techniques aimed at helping households build a resilient, long-lasting food supply.",
-    "best_for": "preparedness-minded households who want practical, old-fashioned methods for storing food long-term without relying on refrigeration",
+    "summary": "A build guide based on the Searl Effect concept, walking DIY-minded readers through constructing a magnetic power device to lower home power bills.",
+    "best_for": "hands-on DIYers and off-grid enthusiasts curious about alternative, non-solar home power projects",
     "keywords": [
-      "long-term food storage guide",
-      "food preservation without refrigeration",
-      "emergency food supply tips",
-      "old-fashioned food preservation methods"
+      "searl effect generator guide",
+      "diy magnetic generator plans",
+      "alternative home power device",
+      "build your own power device"
     ],
     "clickbank_stats": {
-      "gravity": 9.8,
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "dream-life-mastery",
+    "name": "Dream Life Mastery",
+    "vendor": "DRLMASTERY",
+    "category": "Self-Help",
+    "niche": "hypnosis-based mindset and personal development audio programs",
+    "price": "low-ticket (official page)",
+    "summary": "A collection of hypnosis and subliminal audio tracks designed to help listeners shift limiting beliefs around wealth, joy, and personal growth.",
+    "best_for": "self-help audiences who prefer passive audio-based mindset work over reading or structured courses",
+    "keywords": [
+      "hypnosis audio for mindset",
+      "personal development audio program",
+      "subliminal tracks for success",
+      "law of attraction hypnosis"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "expert-persuader-20-days",
+    "name": "How To Be An Expert Persuader in 20 Days",
+    "vendor": "MIKECPA",
+    "category": "Self-Help",
+    "niche": "persuasion, communication, and influence skills",
+    "price": "low-ticket (official page)",
+    "summary": "A 20-day program teaching practical persuasion and communication techniques for sales, negotiation, and everyday influence.",
+    "best_for": "readers who want structured, actionable lessons on becoming more persuasive in conversations, sales, or negotiations",
+    "keywords": [
+      "how to be more persuasive",
+      "persuasion techniques guide",
+      "improve communication skills course",
+      "influence and negotiation skills"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
       "approval_required": false
     }
   }
