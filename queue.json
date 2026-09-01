@@ -1,25 +1,5 @@
 [
   {
-    "id": "dream-life-mastery",
-    "name": "Dream Life Mastery",
-    "vendor": "DRLMASTERY",
-    "category": "Self-Help",
-    "niche": "hypnosis-based mindset and personal development audio programs",
-    "price": "low-ticket (official page)",
-    "summary": "A collection of hypnosis and subliminal audio tracks designed to help listeners shift limiting beliefs around wealth, joy, and personal growth.",
-    "best_for": "self-help audiences who prefer passive audio-based mindset work over reading or structured courses",
-    "keywords": [
-      "hypnosis audio for mindset",
-      "personal development audio program",
-      "subliminal tracks for success",
-      "law of attraction hypnosis"
-    ],
-    "clickbank_stats": {
-      "gravity": 4.4,
-      "approval_required": false
-    }
-  },
-  {
     "id": "expert-persuader-20-days",
     "name": "How To Be An Expert Persuader in 20 Days",
     "vendor": "MIKECPA",
