@@ -5207,5 +5207,68 @@
       "billionaire mindset program",
       "neuro activation manifestation"
     ]
+  },
+  {
+    "id": "silent-frequency-audio",
+    "name": "Silent Frequency",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "audio-based wealth manifestation program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=silentfreq",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 8.6,
+      "approval_required": false
+    },
+    "summary": "An audio manifestation program that plays specific tones and frequencies intended to help listeners shift their mindset toward abundance and wealth.",
+    "best_for": "listeners interested in law-of-attraction and frequency-based manifestation audio routines",
+    "keywords": [
+      "silent frequency review",
+      "wealth manifestation audio",
+      "law of attraction frequency",
+      "abundance sound therapy"
+    ]
+  },
+  {
+    "id": "soul-destiny-reading",
+    "name": "Soul Destiny Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized astrology destiny reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=souldestin",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 6.5,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology reading that claims to reveal a person's hidden life purpose and path using their birth information.",
+    "best_for": "readers who enjoy personalized astrology and destiny-themed content",
+    "keywords": [
+      "soul destiny reading review",
+      "personalized astrology reading",
+      "life purpose astrology",
+      "birth chart destiny reading"
+    ]
+  },
+  {
+    "id": "holy-frequency-audio",
+    "name": "Holy Frequency",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "faith-based manifestation and frequency audio",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=holyfreq",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 9.1,
+      "approval_required": false
+    },
+    "summary": "A faith-based audio program that pairs a specific sound frequency with Christian spiritual themes, marketed as a tool for prayer, focus, and manifestation.",
+    "best_for": "faith-oriented readers interested in Christian spirituality combined with sound-based meditation",
+    "keywords": [
+      "holy frequency review",
+      "christian manifestation audio",
+      "faith based frequency healing",
+      "prayer sound meditation"
+    ]
   }
 ]
