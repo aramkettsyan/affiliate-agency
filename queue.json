@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "hendershot-power-generator",
+    "name": "Hendershot Power Generator Guide",
+    "vendor": "ALLEXMRO",
+    "category": "Green Products",
+    "niche": "DIY home backup power projects",
+    "price": "low-ticket (official page)",
+    "summary": "A digital guide presenting DIY plans inspired by the historic Hendershot generator concept, marketed as a home backup power project.",
+    "best_for": "DIY enthusiasts interested in backup power projects who treat dramatic energy claims with the same skepticism as other guides in this niche",
+    "keywords": [
+      "Hendershot generator plans",
+      "DIY power generator guide",
+      "home backup power project",
+      "build your own generator guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "mountain-directory-trucker-guide",
+    "name": "Mountain Directory (Truckers, RV & Motorhome Guide)",
+    "vendor": "STEEPGRADE",
+    "category": "Travel",
+    "niche": "route planning for truckers and RV/motorhome drivers",
+    "price": "low-ticket (official page)",
+    "summary": "A reference guide listing over 700 mountain passes and steep grades across 22 U.S. states, built to help truckers and RV drivers plan safer routes.",
+    "best_for": "truck drivers, RVers, and motorhome owners who need to plan routes through mountainous terrain",
+    "keywords": [
+      "mountain pass guide for truckers",
+      "steep grade directory RV",
+      "motorhome mountain route planning",
+      "trucker mountain pass reference"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "travel-hackers-toolkit",
+    "name": "The Travel Hacker's Toolkit",
+    "vendor": "JOURNO",
+    "category": "Travel",
+    "niche": "budget travel and travel-hacking strategies",
+    "price": "low-ticket (official page)",
+    "summary": "A collection of budget travel strategies aimed at helping travelers find cheaper flights and get more value from points, miles, and deal-hunting.",
+    "best_for": "budget-conscious travelers who want to learn points, miles, and deal-hunting strategies",
+    "keywords": [
+      "travel hacking guide",
+      "cheap flights strategy guide",
+      "points and miles travel tips",
+      "budget travel planning toolkit"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ultimate-cruise-bundle",
+    "name": "The Ultimate Cruise Bundle",
+    "vendor": "CRUISEUNL",
+    "category": "Travel",
+    "niche": "cruise vacation planning",
+    "price": "low-ticket (official page)",
+    "summary": "A cruise-planning bundle created by a former cruise crew member, covering insider tips for getting more value and enjoyment out of a cruise vacation.",
+    "best_for": "first-time or infrequent cruisers who want insider guidance on cabins, excursions, and onboard perks",
+    "keywords": [
+      "cruise planning tips guide",
+      "first time cruiser guide",
+      "cruise insider tips",
+      "how to plan a cruise vacation"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
