@@ -1699,5 +1699,32 @@
         "a": "For most people the natural circadian dip lasts roughly 1-2 hours, typically somewhere between early and mid afternoon. A short walk, hydration, and a lighter, protein-forward lunch tend to shorten and flatten it considerably compared to riding it out at a desk."
       }
     ]
+  },
+  {
+    "id": "why-am-i-tired-after-going-vegan",
+    "title": "Why Am I So Tired After Going Vegan? Common Causes and How to Fix Them",
+    "summary": "New-vegan fatigue almost always traces back to a handful of fixable gaps — calories, iron, B12, protein, hydration, or blood sugar swings — here's how to identify which one is yours and fix it.",
+    "keywords": [
+      "why am i tired after going vegan",
+      "vegan diet fatigue causes",
+      "low energy on plant based diet",
+      "vegan diet tired all the time fix"
+    ],
+    "related_product_id": "vegan-challenge",
+    "date": "2026-09-03",
+    "faqs": [
+      {
+        "q": "How long does vegan diet fatigue usually last?",
+        "a": "For most people, energy improves within a few weeks as meal habits catch up to actual nutrient needs — especially once iron, B12, and calorie intake are addressed. Fatigue that persists longer than that, or that's severe, is worth checking with a doctor rather than assuming it will resolve on its own."
+      },
+      {
+        "q": "Do I really need to take a B12 supplement if I'm vegan?",
+        "a": "Yes. Vitamin B12 isn't reliably available in plant foods in a usable form, so fortified foods or a supplement are the standard, agreed-upon way vegans meet this requirement — it isn't something you can fix through food choices alone the way you can with most other nutrients."
+      },
+      {
+        "q": "Can you get enough protein and iron on a vegan diet without supplements?",
+        "a": "Protein, yes — beans, lentils, tofu, tempeh, and whole grains can fully meet protein needs with basic meal planning. Iron is possible too, but non-heme iron from plants absorbs less efficiently, so pairing iron-rich foods with vitamin C and getting levels checked periodically is a reasonable extra step, especially in the first few months of the transition."
+      }
+    ]
   }
 ]
