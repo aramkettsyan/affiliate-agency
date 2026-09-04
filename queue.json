@@ -1,25 +1,5 @@
 [
   {
-    "id": "mountain-directory-trucker-guide",
-    "name": "Mountain Directory (Truckers, RV & Motorhome Guide)",
-    "vendor": "STEEPGRADE",
-    "category": "Travel",
-    "niche": "route planning for truckers and RV/motorhome drivers",
-    "price": "low-ticket (official page)",
-    "summary": "A reference guide listing over 700 mountain passes and steep grades across 22 U.S. states, built to help truckers and RV drivers plan safer routes.",
-    "best_for": "truck drivers, RVers, and motorhome owners who need to plan routes through mountainous terrain",
-    "keywords": [
-      "mountain pass guide for truckers",
-      "steep grade directory RV",
-      "motorhome mountain route planning",
-      "trucker mountain pass reference"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.3,
-      "approval_required": false
-    }
-  },
-  {
     "id": "travel-hackers-toolkit",
     "name": "The Travel Hacker's Toolkit",
     "vendor": "JOURNO",
