@@ -5375,5 +5375,26 @@
       "motorhome mountain route planning",
       "trucker mountain pass reference"
     ]
+  },
+  {
+    "id": "travel-hackers-toolkit",
+    "name": "The Travel Hacker's Toolkit",
+    "category": "Travel",
+    "niche": "budget travel and travel-hacking strategies",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=JOURNO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    },
+    "summary": "A collection of budget travel strategies aimed at helping travelers find cheaper flights and get more value from points, miles, and deal-hunting.",
+    "best_for": "budget-conscious travelers who want to learn points, miles, and deal-hunting strategies",
+    "keywords": [
+      "travel hacking guide",
+      "cheap flights strategy guide",
+      "points and miles travel tips",
+      "budget travel planning toolkit"
+    ]
   }
 ]
