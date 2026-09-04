@@ -1,25 +1,5 @@
 [
   {
-    "id": "hendershot-power-generator",
-    "name": "Hendershot Power Generator Guide",
-    "vendor": "ALLEXMRO",
-    "category": "Green Products",
-    "niche": "DIY home backup power projects",
-    "price": "low-ticket (official page)",
-    "summary": "A digital guide presenting DIY plans inspired by the historic Hendershot generator concept, marketed as a home backup power project.",
-    "best_for": "DIY enthusiasts interested in backup power projects who treat dramatic energy claims with the same skepticism as other guides in this niche",
-    "keywords": [
-      "Hendershot generator plans",
-      "DIY power generator guide",
-      "home backup power project",
-      "build your own generator guide"
-    ],
-    "clickbank_stats": {
-      "gravity": 4.2,
-      "approval_required": false
-    }
-  },
-  {
     "id": "mountain-directory-trucker-guide",
     "name": "Mountain Directory (Truckers, RV & Motorhome Guide)",
     "vendor": "STEEPGRADE",

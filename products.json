@@ -5333,5 +5333,26 @@
       "off grid power system guide",
       "home energy saving device"
     ]
+  },
+  {
+    "id": "hendershot-power-generator",
+    "name": "Hendershot Power Generator Guide",
+    "category": "Green Products",
+    "niche": "DIY home backup power projects",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ALLEXMRO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.2,
+      "approval_required": false
+    },
+    "summary": "A digital guide presenting DIY plans inspired by the historic Hendershot generator concept, marketed as a home backup power project.",
+    "best_for": "DIY enthusiasts interested in backup power projects who treat dramatic energy claims with the same skepticism as other guides in this niche",
+    "keywords": [
+      "Hendershot generator plans",
+      "DIY power generator guide",
+      "home backup power project",
+      "build your own generator guide"
+    ]
   }
 ]
