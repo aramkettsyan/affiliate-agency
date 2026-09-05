@@ -1753,5 +1753,32 @@
         "a": "No. Sight-reading and ear playing are largely independent skills that use different mental pathways, and plenty of accomplished ear players read music poorly or not at all. You can build strong ear-playing skills without ever needing to sight-read fluently."
       }
     ]
+  },
+  {
+    "id": "shaky-lightheaded-after-eating",
+    "title": "Why Do I Feel Shaky and Lightheaded a Few Hours After Eating?",
+    "summary": "That post-meal shakiness usually isn't random — it's often reactive hypoglycemia, a delayed blood-sugar crash driven by an insulin overshoot, and there are practical, food-based ways to smooth it out.",
+    "keywords": [
+      "why do i feel shaky after eating",
+      "lightheaded a few hours after eating",
+      "reactive hypoglycemia symptoms",
+      "blood sugar crash after eating carbs"
+    ],
+    "related_product_id": "gluco6",
+    "date": "2026-09-05",
+    "faqs": [
+      {
+        "q": "Is it normal to feel shaky a couple hours after eating?",
+        "a": "Occasional mild shakiness can happen to people without any diagnosed condition, especially after carb-heavy meals, but frequent or severe episodes are worth discussing with a doctor. It's often reactive hypoglycemia, a delayed blood sugar dip caused by the body releasing more insulin than the meal actually required."
+      },
+      {
+        "q": "What foods are most likely to trigger a post-meal blood sugar crash?",
+        "a": "Meals high in refined carbohydrates and sugar with little protein, fat, or fiber digest quickly and cause a sharp glucose spike, which can trigger an insulin overshoot. White bread, sugary drinks, pastries, and white rice eaten alone are common triggers; pairing them with protein or fat slows digestion and blunts the swing."
+      },
+      {
+        "q": "When should I see a doctor about feeling shaky after eating?",
+        "a": "See a doctor if the episodes are frequent, severe, or include confusion, fainting, or vision changes, and especially if you have risk factors for diabetes. A doctor can order simple tests, like a fasting glucose or oral glucose tolerance test, to see exactly what your blood sugar is doing after meals rather than relying on guesswork."
+      }
+    ]
   }
 ]
