@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "ground-power-generator",
+    "name": "Ground Power Generator",
+    "vendor": "4WINONLINE",
+    "category": "Green Products",
+    "niche": "home energy / DIY power reduction guide",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY home-energy guide describing a simple ground-based device intended to help lower electricity bills.",
+    "best_for": "DIY hobbyists and homeowners curious about low-cost, at-home energy reduction projects.",
+    "keywords": [
+      "ground power generator review",
+      "DIY power bill reduction guide",
+      "home energy DIY project",
+      "lower electric bill diy device"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tornado-energy-generator",
+    "name": "The Tornado Energy Generator",
+    "vendor": "TORGEN",
+    "category": "Green Products",
+    "niche": "home energy / DIY power reduction guide",
+    "price": "low-ticket (official page)",
+    "summary": "A digital guide marketed as a simple, buildable device concept for cutting home electricity costs.",
+    "best_for": "Readers who like hands-on DIY energy projects and want a low-cost approach to trimming utility bills.",
+    "keywords": [
+      "tornado energy generator review",
+      "diy energy saving guide",
+      "home power bill reduction plan",
+      "build your own energy device"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "lee-bowman-permanent-magnet-motor",
+    "name": "Lee Bowman Permanent Magnet Motor",
+    "vendor": "LEBOWMAN",
+    "category": "Green Products",
+    "niche": "home energy / DIY magnet motor guide",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide based on the historical Lee Bowman magnet motor concept, aimed at hobbyists interested in home power projects.",
+    "best_for": "DIY and alternative-energy hobbyists curious about classic permanent-magnet motor build concepts.",
+    "keywords": [
+      "lee bowman magnet motor guide",
+      "permanent magnet motor DIY",
+      "free energy magnet motor review",
+      "diy magnet motor plans"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  }
+]
