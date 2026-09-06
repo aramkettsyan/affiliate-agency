@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "250-mouthwatering-vegan-recipes",
+    "name": "250 Mouthwatering Vegan Recipes Cookbook",
+    "vendor": "324259",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan recipe cookbook",
+    "price": "low-ticket (official page)",
+    "summary": "A plant-based recipe cookbook with 250 vegan dishes aimed at easy, everyday cooking.",
+    "best_for": "Readers exploring a vegan or plant-based diet who want a large, easy-to-follow recipe library.",
+    "keywords": [
+      "vegan recipes cookbook",
+      "plant based recipe collection",
+      "easy vegan meal ideas",
+      "vegan cookbook for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "1-month-vegan-challenge",
+    "name": "1 Month Vegan Challenge",
+    "vendor": "1monthveg",
+    "category": "Cooking, Food & Wine",
+    "niche": "structured vegan diet challenge program",
+    "price": "low-ticket (official page)",
+    "summary": "A 28-day structured vegan challenge with a meal plan and recipes meant to guide beginners through their first month of plant-based eating.",
+    "best_for": "People who want a guided, day-by-day plan to try veganism rather than figuring it out on their own.",
+    "keywords": [
+      "vegan challenge 30 days",
+      "one month vegan meal plan",
+      "beginner vegan challenge program",
+      "28 day vegan diet plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "plant-based-for-kids",
+    "name": "Plant-Based For Kids",
+    "vendor": "plantkids",
+    "category": "Cooking, Food & Wine",
+    "niche": "vegan recipes and meal plans for children",
+    "price": "low-ticket (official page)",
+    "summary": "A vegan cookbook built for families, with kid-friendly plant-based recipes, age-based meal plans, and allergy-friendly options.",
+    "best_for": "Plant-based parents looking for recipes their kids will actually eat, including picky eaters and food allergies.",
+    "keywords": [
+      "vegan recipes for kids",
+      "plant based family meal plan",
+      "kid friendly vegan cookbook",
+      "raising vegan children recipes"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "travel-hackers-toolkit",
+    "name": "The Travel Hacker's Toolkit",
+    "vendor": "journo",
+    "category": "Travel",
+    "niche": "budget travel and travel hacking strategies",
+    "price": "low-ticket (official page)",
+    "summary": "A guide of travel-hacking strategies and tools aimed at helping everyday travelers afford luxury-style trips on a modest budget.",
+    "best_for": "Budget-conscious travelers who want practical tactics for cheaper flights, points, and travel deals.",
+    "keywords": [
+      "travel hacking guide",
+      "budget luxury travel tips",
+      "how to travel cheap",
+      "travel points and miles strategy"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "cluckboss",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping and egg-selling side income",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide showing how to raise backyard chickens and turn surplus eggs into a small side income.",
+    "best_for": "Homeowners with yard space who are curious about backyard chickens as both a hobby and a modest income source.",
+    "keywords": [
+      "backyard chicken keeping guide",
+      "sell eggs for extra income",
+      "raising chickens for beginners",
+      "backyard egg business"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "pencil-drawing-made-easy",
+    "name": "Pencil Drawing Made Easy",
+    "vendor": "whattopa",
+    "category": "Arts & Entertainment",
+    "niche": "pencil drawing / sketching course",
+    "price": "low-ticket (official page)",
+    "summary": "A video-based pencil drawing course with over 40 hours of instruction aimed at taking beginners from basics to realistic sketches.",
+    "best_for": "Aspiring artists and hobbyists who want a structured, self-paced way to learn pencil drawing from scratch.",
+    "keywords": [
+      "learn pencil drawing",
+      "pencil drawing course for beginners",
+      "how to draw realistic sketches",
+      "pencil sketching tutorial"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.3,
+      "approval_required": false
+    }
+  }
+]
