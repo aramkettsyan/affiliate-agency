@@ -1,25 +1,5 @@
 [
   {
-    "id": "1-month-vegan-challenge",
-    "name": "1 Month Vegan Challenge",
-    "vendor": "1monthveg",
-    "category": "Cooking, Food & Wine",
-    "niche": "structured vegan diet challenge program",
-    "price": "low-ticket (official page)",
-    "summary": "A 28-day structured vegan challenge with a meal plan and recipes meant to guide beginners through their first month of plant-based eating.",
-    "best_for": "People who want a guided, day-by-day plan to try veganism rather than figuring it out on their own.",
-    "keywords": [
-      "vegan challenge 30 days",
-      "one month vegan meal plan",
-      "beginner vegan challenge program",
-      "28 day vegan diet plan"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.8,
-      "approval_required": false
-    }
-  },
-  {
     "id": "backyard-eggs-big-bucks",
     "name": "Backyard Eggs = Big Bucks!",
     "vendor": "cluckboss",
