@@ -113,7 +113,7 @@ def main():
         try:
             resp = fi.fetch(url)
             final = resp.geturl()
-            html = resp.read(600_000).decode("utf-8", "ignore")
+            html = fi.strip_comments(resp.read(600_000).decode("utf-8", "ignore"))
         except Exception as ex:
             print(f"  - drop {pid}: HopLink failed ({type(ex).__name__}) — vendor '{vendor}' may be dead")
             continue

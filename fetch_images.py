@@ -37,6 +37,12 @@ NEG = re.compile(r'(logo|icon|badge|seal|guarant|visa|master|paypal|amex|discove
                  r'header|footer|banner-?ad|checkout|payment|review-?\d|avatar|testimonial)', re.I)
 
 
+def strip_comments(html):
+    """Drop HTML comments so a stale/leftover og:image left in a commented-out
+    <meta> tag (common in scaffolded landing pages) isn't picked up as real."""
+    return re.sub(r"<!--.*?-->", "", html, flags=re.S)
+
+
 def candidate_images(html, base):
     """Return product-image URLs in priority order (keyword matches first)."""
     seen, pos, other = set(), [], []
@@ -83,7 +89,7 @@ def main():
         try:
             resp = fetch(hop)
             final = resp.geturl()
-            html = resp.read(600_000).decode("utf-8", "ignore")
+            html = strip_comments(resp.read(600_000).decode("utf-8", "ignore"))
             # priority: og:image first, then keyword-matched product images
             candidates = []
             m = OG_RE.search(html) or OG_RE2.search(html)
