@@ -5585,5 +5585,47 @@
       "personalized astrology reading",
       "soulmate sketch reviews"
     ]
+  },
+  {
+    "id": "the-money-wave",
+    "name": "The Money Wave",
+    "category": "Spirituality",
+    "niche": "wealth manifestation audio/video program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MONEYWAVEX",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 8.6,
+      "approval_required": false
+    },
+    "summary": "A wealth-manifestation program that uses a video and audio presentation to guide listeners through a money-focused visualization method.",
+    "best_for": "readers interested in manifestation-style approaches to building a wealth mindset",
+    "keywords": [
+      "the money wave review",
+      "money wave manifestation",
+      "wealth manifestation program",
+      "money mindset audio"
+    ]
+  },
+  {
+    "id": "lost-gospel-of-abundance",
+    "name": "Lost Gospel of Abundance",
+    "category": "Spirituality",
+    "niche": "faith-based abundance and prosperity program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LOSTGOSPEL",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 6.5,
+      "approval_required": false
+    },
+    "summary": "A faith-based audio program that pairs scripture-inspired themes with a nightly listening routine aimed at cultivating an abundance mindset.",
+    "best_for": "Christian and faith-oriented readers interested in a scripture-themed take on prosperity content",
+    "keywords": [
+      "lost gospel of abundance review",
+      "christian abundance program",
+      "faith based prosperity audio",
+      "scripture manifestation program"
+    ]
   }
 ]

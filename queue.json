@@ -1,65 +1,5 @@
 [
   {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "SOULVOICE",
-    "category": "Spirituality",
-    "niche": "astrology-based soulmate sketch reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized soulmate sketch reading from astrologer Tara Lunar that generates a drawn likeness of your future partner from your birth chart.",
-    "best_for": "readers interested in astrology-driven relationship and soulmate guidance",
-    "keywords": [
-      "tara lunar soulmate sketch",
-      "soulmate sketch reading",
-      "astrology soulmate drawing",
-      "find my soulmate astrology"
-    ],
-    "clickbank_stats": {
-      "gravity": 47.4,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "balinese-soulmate-sketch",
-    "name": "Balinese Soulmate Sketch",
-    "vendor": "TRUELOVEOR",
-    "category": "Spirituality",
-    "niche": "astrology-based soulmate sketch reading",
-    "price": "low-ticket (official page)",
-    "summary": "A soulmate sketch reading built around Balinese channeling traditions that produces a personalized visual of your future partner.",
-    "best_for": "readers drawn to a spiritual, story-driven twist on the soulmate sketch format",
-    "keywords": [
-      "balinese soulmate sketch",
-      "soulmate sketch reading review",
-      "spiritual soulmate drawing",
-      "channeled soulmate sketch"
-    ],
-    "clickbank_stats": {
-      "gravity": 15.7,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "karmic-astrology-reading",
-    "name": "Karmic Astrology VSL",
-    "vendor": "ARCANAVOX",
-    "category": "Spirituality",
-    "niche": "personalized karmic astrology reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized karmic astrology reading that maps recurring life patterns and past-life influences from your birth chart.",
-    "best_for": "readers interested in karma, past-life themes, and personalized astrology reports",
-    "keywords": [
-      "karmic astrology reading",
-      "past life astrology chart",
-      "personalized karma reading",
-      "karmic astrology review"
-    ],
-    "clickbank_stats": {
-      "gravity": 8.6,
-      "approval_required": false
-    }
-  },
-  {
     "id": "the-33rd-frequency",
     "name": "The 33rd Frequency",
     "vendor": "33RDDEGREE",
@@ -76,26 +16,6 @@
     ],
     "clickbank_stats": {
       "gravity": 9.2,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "the-money-wave",
-    "name": "The Money Wave",
-    "vendor": "MONEYWAVEX",
-    "category": "Spirituality",
-    "niche": "wealth manifestation audio/video program",
-    "price": "low-ticket (official page)",
-    "summary": "A wealth-manifestation program that uses a video and audio presentation to guide listeners through a money-focused visualization method.",
-    "best_for": "readers interested in manifestation-style approaches to building a wealth mindset",
-    "keywords": [
-      "the money wave review",
-      "money wave manifestation",
-      "wealth manifestation program",
-      "money mindset audio"
-    ],
-    "clickbank_stats": {
-      "gravity": 8.6,
       "approval_required": false
     }
   },
@@ -120,22 +40,22 @@
     }
   },
   {
-    "id": "lost-gospel-of-abundance",
-    "name": "Lost Gospel of Abundance",
-    "vendor": "LOSTGOSPEL",
+    "id": "karmic-astrology-reading",
+    "name": "Karmic Astrology VSL",
+    "vendor": "ARCANAVOX",
     "category": "Spirituality",
-    "niche": "faith-based abundance and prosperity program",
+    "niche": "personalized karmic astrology reading",
     "price": "low-ticket (official page)",
-    "summary": "A faith-based audio program that pairs scripture-inspired themes with a nightly listening routine aimed at cultivating an abundance mindset.",
-    "best_for": "Christian and faith-oriented readers interested in a scripture-themed take on prosperity content",
+    "summary": "A personalized karmic astrology reading that maps recurring life patterns and past-life influences from your birth chart.",
+    "best_for": "readers interested in karma, past-life themes, and personalized astrology reports",
     "keywords": [
-      "lost gospel of abundance review",
-      "christian abundance program",
-      "faith based prosperity audio",
-      "scripture manifestation program"
+      "karmic astrology reading",
+      "past life astrology chart",
+      "personalized karma reading",
+      "karmic astrology review"
     ],
     "clickbank_stats": {
-      "gravity": 6.5,
+      "gravity": 8.6,
       "approval_required": false
     }
   }
