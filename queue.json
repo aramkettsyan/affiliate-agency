@@ -1,25 +1,5 @@
 [
   {
-    "id": "quantum-wave-audio",
-    "name": "Quantum Wave",
-    "vendor": "THEQWAVE",
-    "category": "Spirituality",
-    "niche": "brainwave audio manifestation program",
-    "price": "low-ticket (official page)",
-    "summary": "A short brainwave audio track marketed as a 'quantum' manifestation tool for shifting mindset toward abundance.",
-    "best_for": "listeners curious about brainwave-audio approaches to manifestation and mindset work",
-    "keywords": [
-      "quantum wave audio review",
-      "brainwave manifestation audio",
-      "quantum manifestation track",
-      "mindset audio program"
-    ],
-    "clickbank_stats": {
-      "gravity": 7.6,
-      "approval_required": false
-    }
-  },
-  {
     "id": "karmic-astrology-reading",
     "name": "Karmic Astrology VSL",
     "vendor": "ARCANAVOX",
@@ -36,6 +16,186 @@
     ],
     "clickbank_stats": {
       "gravity": 8.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs",
+    "name": "Backyard Eggs",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "DIY backyard chicken-keeping and egg production guide",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide for raising backyard chickens to cut grocery egg costs and keep a small home flock.",
+    "best_for": "homeowners interested in raising a few backyard chickens for fresh eggs",
+    "keywords": [
+      "backyard eggs review",
+      "raise backyard chickens guide",
+      "backyard chicken coop diy",
+      "home egg production"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "four-foot-farm",
+    "name": "4 Foot Farm",
+    "vendor": "4FTFARM",
+    "category": "Home & Garden",
+    "niche": "compact backyard homesteading and grocery-savings gardening system",
+    "price": "low-ticket (official page)",
+    "summary": "A compact-space gardening and homesteading system aimed at cutting grocery bills by growing food in a small backyard footprint.",
+    "best_for": "budget-conscious homeowners wanting a small-space food garden or homesteading starter plan",
+    "keywords": [
+      "4 foot farm review",
+      "small space vegetable garden system",
+      "backyard homesteading grocery savings",
+      "compact garden plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 5.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "money-surge-frequency",
+    "name": "Money Surge",
+    "vendor": "MONEYSRGE",
+    "category": "Spirituality",
+    "niche": "short brainwave audio track for abundance mindset",
+    "price": "low-ticket (official page)",
+    "summary": "A short 'Money Brain' audio track marketed as a brainwave-frequency tool for shifting mindset toward financial abundance.",
+    "best_for": "listeners curious about brainwave-audio approaches to money mindset work",
+    "keywords": [
+      "money surge frequency review",
+      "money brain audio track",
+      "abundance brainwave audio",
+      "wealth mindset audio program"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "akashicsoul-past-life-quiz",
+    "name": "AkashicSoul Past Life Quiz",
+    "vendor": "AKASHICS",
+    "category": "Spirituality",
+    "niche": "AI-generated past life reading based on a personal quiz",
+    "price": "low-ticket (official page)",
+    "summary": "A 15-question quiz that generates a personalized AI-written past life reading report plus a follow-up 30-day protocol.",
+    "best_for": "readers curious about past-life themes who enjoy personalized quiz-based reports",
+    "keywords": [
+      "akashicsoul review",
+      "past life quiz reading",
+      "ai past life report",
+      "akashic records reading online"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality",
+    "niche": "personalized soulmate sketch and description reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized 'soulmate sketch' service that produces a drawn portrait and description based on a short intake questionnaire.",
+    "best_for": "readers interested in soulmate-sketch or psychic-art style relationship readings",
+    "keywords": [
+      "tara lunar soulmate sketch review",
+      "soulmate sketch reading",
+      "psychic soulmate drawing",
+      "soulmate portrait service"
+    ],
+    "clickbank_stats": {
+      "gravity": 46.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "day-and-sun-astrology-reports",
+    "name": "Day & Sun Astronomical Reports",
+    "vendor": "DAYANDSUN",
+    "category": "Spirituality",
+    "niche": "birth and relationship reports based on real planetary positions",
+    "price": "low-ticket (official page)",
+    "summary": "Personalized birth and relationship reports built from actual astronomical planetary positions rather than generic sun-sign astrology.",
+    "best_for": "astrology readers who want a more astronomy-grounded birth or compatibility report",
+    "keywords": [
+      "day and sun report review",
+      "astronomical birth report",
+      "planetary position relationship report",
+      "personalized astrology report"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "night-switch-sleep-audio",
+    "name": "Night Switch",
+    "vendor": "GETNSWITCH",
+    "category": "Self-Help",
+    "niche": "bedtime audio track and 14-night habit guide for winding down",
+    "price": "low-ticket (official page)",
+    "summary": "An 11-minute bedtime audio track paired with a 14-night habit guide meant to help listeners wind down before sleep; explicitly not a medical treatment.",
+    "best_for": "people wanting a simple audio-based bedtime wind-down routine",
+    "keywords": [
+      "night switch review",
+      "bedtime audio wind down",
+      "14 night sleep habit guide",
+      "sleep routine audio track"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "silentwav-sound-sessions",
+    "name": "SilentWav",
+    "vendor": "SILENTWAV",
+    "category": "Self-Help",
+    "niche": "passive ambient sound sessions for focus and calm",
+    "price": "low-ticket (official page)",
+    "summary": "A lifetime-access set of passive, real-time-generated sound sessions designed to support focus, mental reset, and relaxation for desk workers.",
+    "best_for": "analytical professionals who want background sound sessions for focus and calm",
+    "keywords": [
+      "silentwav review",
+      "focus sound sessions",
+      "ambient audio for concentration",
+      "passive sound wellness audio"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "focusfix-emotional-clarity-kit",
+    "name": "FocusFix: The Emotional Clarity Kit",
+    "vendor": "INTREADY",
+    "category": "Self-Help",
+    "niche": "downloadable kit for identifying emotional triggers behind lost focus",
+    "price": "low-ticket (official page)",
+    "summary": "A 14-module downloadable kit that helps people name the emotion behind a lost work session and use short resets and a start ritual to regain focus.",
+    "best_for": "people who lose work time to distraction and want a structured, non-motivation-dependent reset method",
+    "keywords": [
+      "focusfix emotional clarity kit review",
+      "emotional clarity kit for focus",
+      "distraction reset method",
+      "focus productivity self-help kit"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
       "approval_required": false
     }
   }
