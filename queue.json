@@ -1,25 +1,5 @@
 [
   {
-    "id": "night-switch-sleep-audio",
-    "name": "Night Switch",
-    "vendor": "GETNSWITCH",
-    "category": "Self-Help",
-    "niche": "bedtime audio track and 14-night habit guide for winding down",
-    "price": "low-ticket (official page)",
-    "summary": "An 11-minute bedtime audio track paired with a 14-night habit guide meant to help listeners wind down before sleep; explicitly not a medical treatment.",
-    "best_for": "people wanting a simple audio-based bedtime wind-down routine",
-    "keywords": [
-      "night switch review",
-      "bedtime audio wind down",
-      "14 night sleep habit guide",
-      "sleep routine audio track"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "focusfix-emotional-clarity-kit",
     "name": "FocusFix: The Emotional Clarity Kit",
     "vendor": "INTREADY",
