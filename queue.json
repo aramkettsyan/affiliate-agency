@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs",
-    "name": "Backyard Eggs",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "DIY backyard chicken-keeping and egg production guide",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide for raising backyard chickens to cut grocery egg costs and keep a small home flock.",
-    "best_for": "homeowners interested in raising a few backyard chickens for fresh eggs",
-    "keywords": [
-      "backyard eggs review",
-      "raise backyard chickens guide",
-      "backyard chicken coop diy",
-      "home egg production"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.6,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "four-foot-farm",
-    "name": "4 Foot Farm",
-    "vendor": "4FTFARM",
-    "category": "Home & Garden",
-    "niche": "compact backyard homesteading and grocery-savings gardening system",
-    "price": "low-ticket (official page)",
-    "summary": "A compact-space gardening and homesteading system aimed at cutting grocery bills by growing food in a small backyard footprint.",
-    "best_for": "budget-conscious homeowners wanting a small-space food garden or homesteading starter plan",
-    "keywords": [
-      "4 foot farm review",
-      "small space vegetable garden system",
-      "backyard homesteading grocery savings",
-      "compact garden plan"
-    ],
-    "clickbank_stats": {
-      "gravity": 5.1,
-      "approval_required": false
-    }
-  },
-  {
     "id": "money-surge-frequency",
     "name": "Money Surge",
     "vendor": "MONEYSRGE",
@@ -56,26 +16,6 @@
     ],
     "clickbank_stats": {
       "gravity": 2.5,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "akashicsoul-past-life-quiz",
-    "name": "AkashicSoul Past Life Quiz",
-    "vendor": "AKASHICS",
-    "category": "Spirituality",
-    "niche": "AI-generated past life reading based on a personal quiz",
-    "price": "low-ticket (official page)",
-    "summary": "A 15-question quiz that generates a personalized AI-written past life reading report plus a follow-up 30-day protocol.",
-    "best_for": "readers curious about past-life themes who enjoy personalized quiz-based reports",
-    "keywords": [
-      "akashicsoul review",
-      "past life quiz reading",
-      "ai past life report",
-      "akashic records reading online"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.9,
       "approval_required": false
     }
   },
