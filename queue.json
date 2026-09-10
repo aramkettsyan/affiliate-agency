@@ -1,65 +1,5 @@
 [
   {
-    "id": "money-surge-frequency",
-    "name": "Money Surge",
-    "vendor": "MONEYSRGE",
-    "category": "Spirituality",
-    "niche": "short brainwave audio track for abundance mindset",
-    "price": "low-ticket (official page)",
-    "summary": "A short 'Money Brain' audio track marketed as a brainwave-frequency tool for shifting mindset toward financial abundance.",
-    "best_for": "listeners curious about brainwave-audio approaches to money mindset work",
-    "keywords": [
-      "money surge frequency review",
-      "money brain audio track",
-      "abundance brainwave audio",
-      "wealth mindset audio program"
-    ],
-    "clickbank_stats": {
-      "gravity": 2.5,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "SOULVOICE",
-    "category": "Spirituality",
-    "niche": "personalized soulmate sketch and description reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized 'soulmate sketch' service that produces a drawn portrait and description based on a short intake questionnaire.",
-    "best_for": "readers interested in soulmate-sketch or psychic-art style relationship readings",
-    "keywords": [
-      "tara lunar soulmate sketch review",
-      "soulmate sketch reading",
-      "psychic soulmate drawing",
-      "soulmate portrait service"
-    ],
-    "clickbank_stats": {
-      "gravity": 46.9,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "day-and-sun-astrology-reports",
-    "name": "Day & Sun Astronomical Reports",
-    "vendor": "DAYANDSUN",
-    "category": "Spirituality",
-    "niche": "birth and relationship reports based on real planetary positions",
-    "price": "low-ticket (official page)",
-    "summary": "Personalized birth and relationship reports built from actual astronomical planetary positions rather than generic sun-sign astrology.",
-    "best_for": "astrology readers who want a more astronomy-grounded birth or compatibility report",
-    "keywords": [
-      "day and sun report review",
-      "astronomical birth report",
-      "planetary position relationship report",
-      "personalized astrology report"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "night-switch-sleep-audio",
     "name": "Night Switch",
     "vendor": "GETNSWITCH",
@@ -73,26 +13,6 @@
       "bedtime audio wind down",
       "14 night sleep habit guide",
       "sleep routine audio track"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "silentwav-sound-sessions",
-    "name": "SilentWav",
-    "vendor": "SILENTWAV",
-    "category": "Self-Help",
-    "niche": "passive ambient sound sessions for focus and calm",
-    "price": "low-ticket (official page)",
-    "summary": "A lifetime-access set of passive, real-time-generated sound sessions designed to support focus, mental reset, and relaxation for desk workers.",
-    "best_for": "analytical professionals who want background sound sessions for focus and calm",
-    "keywords": [
-      "silentwav review",
-      "focus sound sessions",
-      "ambient audio for concentration",
-      "passive sound wellness audio"
     ],
     "clickbank_stats": {
       "gravity": 0.0,

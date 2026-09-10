@@ -5711,5 +5711,47 @@
       "backyard homesteading grocery savings",
       "compact garden plan"
     ]
+  },
+  {
+    "id": "money-surge-frequency",
+    "name": "Money Surge",
+    "category": "Spirituality",
+    "niche": "short brainwave audio track for abundance mindset",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MONEYSRGE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.5,
+      "approval_required": false
+    },
+    "summary": "A short 'Money Brain' audio track marketed as a brainwave-frequency tool for shifting mindset toward financial abundance.",
+    "best_for": "listeners curious about brainwave-audio approaches to money mindset work",
+    "keywords": [
+      "money surge frequency review",
+      "money brain audio track",
+      "abundance brainwave audio",
+      "wealth mindset audio program"
+    ]
+  },
+  {
+    "id": "day-and-sun-astrology-reports",
+    "name": "Day & Sun Astronomical Reports",
+    "category": "Spirituality",
+    "niche": "birth and relationship reports based on real planetary positions",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DAYANDSUN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "Personalized birth and relationship reports built from actual astronomical planetary positions rather than generic sun-sign astrology.",
+    "best_for": "astrology readers who want a more astronomy-grounded birth or compatibility report",
+    "keywords": [
+      "day and sun report review",
+      "astronomical birth report",
+      "planetary position relationship report",
+      "personalized astrology report"
+    ]
   }
 ]
