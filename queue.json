@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "songchoice-personalised-song",
+    "name": "Personalised Song by SongChoice",
+    "vendor": "PSM25",
+    "category": "Arts & Entertainment",
+    "niche": "custom personalized song creation service",
+    "price": "low-ticket (official page)",
+    "summary": "A custom song service that turns a customer's own story and musical preferences into a personalized, professionally produced song delivered within days.",
+    "best_for": "gift-givers wanting a unique, personalized song for a birthday, anniversary, or special occasion",
+    "keywords": [
+      "personalised song review",
+      "custom song gift service",
+      "songchoice personalized song",
+      "make a custom song online"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "draw-your-soulmate",
+    "name": "Draw your Soulmate",
+    "vendor": "MINDSETVAU",
+    "category": "E-Commerce",
+    "niche": "personalized soulmate portrait sketch service",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized illustration service that takes a customer's photo and answers to a short questionnaire to sketch an artist's impression of their soulmate.",
+    "best_for": "shoppers who enjoy novelty spiritual-themed gifts and personalized artwork",
+    "keywords": [
+      "draw your soulmate review",
+      "soulmate sketch from photo",
+      "personalized soulmate portrait",
+      "custom soulmate drawing service"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
