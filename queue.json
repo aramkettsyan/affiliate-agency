@@ -1,41 +1,101 @@
 [
   {
-    "id": "songchoice-personalised-song",
-    "name": "Personalised Song by SongChoice",
-    "vendor": "PSM25",
-    "category": "Arts & Entertainment",
-    "niche": "custom personalized song creation service",
+    "id": "make-your-pets-food-at-home",
+    "name": "Make Your Pet's Food At Home",
+    "vendor": "HAPPYTAIL",
+    "category": "Home & Garden",
+    "niche": "homemade dog food recipes and guides",
     "price": "low-ticket (official page)",
-    "summary": "A custom song service that turns a customer's own story and musical preferences into a personalized, professionally produced song delivered within days.",
-    "best_for": "gift-givers wanting a unique, personalized song for a birthday, anniversary, or special occasion",
+    "summary": "A downloadable guide with recipes and instructions for preparing homemade dog food at home instead of relying solely on commercial kibble.",
+    "best_for": "dog owners who want a budget-friendly, homemade alternative to store-bought pet food",
     "keywords": [
-      "personalised song review",
-      "custom song gift service",
-      "songchoice personalized song",
-      "make a custom song online"
+      "homemade dog food recipes",
+      "make dog food at home",
+      "diy dog food guide",
+      "natural dog food recipes"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 1.0,
       "approval_required": false
     }
   },
   {
-    "id": "draw-your-soulmate",
-    "name": "Draw your Soulmate",
-    "vendor": "MINDSETVAU",
-    "category": "E-Commerce",
-    "niche": "personalized soulmate portrait sketch service",
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping and egg production",
     "price": "low-ticket (official page)",
-    "summary": "A personalized illustration service that takes a customer's photo and answers to a short questionnaire to sketch an artist's impression of their soulmate.",
-    "best_for": "shoppers who enjoy novelty spiritual-themed gifts and personalized artwork",
+    "summary": "A DIY guide aimed at backyard chicken keepers looking to raise their own hens for a steady, low-cost supply of fresh eggs.",
+    "best_for": "homesteaders and backyard hobbyists interested in raising chickens for eggs",
     "keywords": [
-      "draw your soulmate review",
-      "soulmate sketch from photo",
-      "personalized soulmate portrait",
-      "custom soulmate drawing service"
+      "backyard chicken keeping guide",
+      "raising chickens for eggs",
+      "diy backyard eggs",
+      "how to raise egg laying hens"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 0.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-mans-library",
+    "name": "The Man's Library",
+    "vendor": "MANLIBRARY",
+    "category": "Self-Help",
+    "niche": "survival, outdoor, and DIY skills guides for men",
+    "price": "low-ticket (official page)",
+    "summary": "A large bundle of guides covering survival, firearms, outdoor skills, and DIY preparedness topics aimed at men building practical know-how.",
+    "best_for": "preppers and outdoor enthusiasts who want a broad library of survival and DIY reference guides",
+    "keywords": [
+      "survival skills guide",
+      "outdoor preparedness library",
+      "diy survival guides for men",
+      "the mans library review"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality & Astrology",
+    "niche": "personalized soulmate sketch and astrology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized soulmate sketch and reading service that uses a customer's birth details to produce an illustrated description of a potential partner, offered purely as entertainment.",
+    "best_for": "astrology and relationship-curious readers looking for a fun, personalized novelty reading",
+    "keywords": [
+      "soulmate sketch review",
+      "personalized soulmate drawing",
+      "astrology soulmate reading",
+      "tara lunar soulmate sketch"
+    ],
+    "clickbank_stats": {
+      "gravity": 47.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "drawmytwinflame",
+    "name": "DrawMyTwinFlame",
+    "vendor": "00DRAWMYTF",
+    "category": "Spirituality & Astrology",
+    "niche": "personalized twin flame sketch and spiritual reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized 'twin flame' sketch service that generates an illustrated reading based on a customer's answers, positioned as a novelty spiritual entertainment product.",
+    "best_for": "readers interested in twin flame and soulmate concepts looking for a personalized novelty keepsake",
+    "keywords": [
+      "twin flame sketch review",
+      "drawmytwinflame review",
+      "personalized twin flame drawing",
+      "twin flame reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 22.9,
       "approval_required": false
     }
   }
