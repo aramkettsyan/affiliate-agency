@@ -1,25 +1,5 @@
 [
   {
-    "id": "make-your-pets-food-at-home",
-    "name": "Make Your Pet's Food At Home",
-    "vendor": "HAPPYTAIL",
-    "category": "Home & Garden",
-    "niche": "homemade dog food recipes and guides",
-    "price": "low-ticket (official page)",
-    "summary": "A downloadable guide with recipes and instructions for preparing homemade dog food at home instead of relying solely on commercial kibble.",
-    "best_for": "dog owners who want a budget-friendly, homemade alternative to store-bought pet food",
-    "keywords": [
-      "homemade dog food recipes",
-      "make dog food at home",
-      "diy dog food guide",
-      "natural dog food recipes"
-    ],
-    "clickbank_stats": {
-      "gravity": 1.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "backyard-eggs-big-bucks",
     "name": "Backyard Eggs = Big Bucks!",
     "vendor": "CLUCKBOSS",
@@ -40,26 +20,6 @@
     }
   },
   {
-    "id": "the-mans-library",
-    "name": "The Man's Library",
-    "vendor": "MANLIBRARY",
-    "category": "Self-Help",
-    "niche": "survival, outdoor, and DIY skills guides for men",
-    "price": "low-ticket (official page)",
-    "summary": "A large bundle of guides covering survival, firearms, outdoor skills, and DIY preparedness topics aimed at men building practical know-how.",
-    "best_for": "preppers and outdoor enthusiasts who want a broad library of survival and DIY reference guides",
-    "keywords": [
-      "survival skills guide",
-      "outdoor preparedness library",
-      "diy survival guides for men",
-      "the mans library review"
-    ],
-    "clickbank_stats": {
-      "gravity": 3.2,
-      "approval_required": false
-    }
-  },
-  {
     "id": "tara-lunar-soulmate-sketch",
     "name": "Tara Lunar's Soulmate Sketch",
     "vendor": "SOULVOICE",
@@ -76,26 +36,6 @@
     ],
     "clickbank_stats": {
       "gravity": 47.0,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "drawmytwinflame",
-    "name": "DrawMyTwinFlame",
-    "vendor": "00DRAWMYTF",
-    "category": "Spirituality & Astrology",
-    "niche": "personalized twin flame sketch and spiritual reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized 'twin flame' sketch service that generates an illustrated reading based on a customer's answers, positioned as a novelty spiritual entertainment product.",
-    "best_for": "readers interested in twin flame and soulmate concepts looking for a personalized novelty keepsake",
-    "keywords": [
-      "twin flame sketch review",
-      "drawmytwinflame review",
-      "personalized twin flame drawing",
-      "twin flame reading"
-    ],
-    "clickbank_stats": {
-      "gravity": 22.9,
       "approval_required": false
     }
   }

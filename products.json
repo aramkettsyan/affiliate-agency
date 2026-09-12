@@ -5837,5 +5837,26 @@
       "songchoice personalized song",
       "make a custom song online"
     ]
+  },
+  {
+    "id": "make-your-pets-food-at-home",
+    "name": "Make Your Pet's Food At Home",
+    "category": "Home & Garden",
+    "niche": "homemade dog food recipes and guides",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=HAPPYTAIL",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    },
+    "summary": "A downloadable guide with recipes and instructions for preparing homemade dog food at home instead of relying solely on commercial kibble.",
+    "best_for": "dog owners who want a budget-friendly, homemade alternative to store-bought pet food",
+    "keywords": [
+      "homemade dog food recipes",
+      "make dog food at home",
+      "diy dog food guide",
+      "natural dog food recipes"
+    ]
   }
 ]
