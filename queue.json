@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "divine-blessings-reading",
+    "name": "Divine Blessings",
+    "vendor": "DVB001",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized spiritual blessing and manifestation reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized spiritual reading offer centered on delivering a custom \"divine blessing\" message meant to support manifestation and positive-mindset practices.",
+    "best_for": "spirituality-focused readers interested in personalized blessing and manifestation content",
+    "keywords": [
+      "divine blessings reading review",
+      "personalized spiritual blessing",
+      "manifestation reading online",
+      "spiritual blessing message"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "cosmic-love-astrology-forecast",
+    "name": "Cosmic Love Astrology Forecast",
+    "vendor": "COSLOVTAR",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized love-focused astrology forecast",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology forecast focused on love and relationships, generated from a buyer's birth details through an interactive quiz-style funnel.",
+    "best_for": "astrology readers seeking a personalized love and relationship forecast",
+    "keywords": [
+      "cosmic love astrology forecast review",
+      "personalized love astrology reading",
+      "astrology love forecast online",
+      "relationship astrology reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  }
+]
