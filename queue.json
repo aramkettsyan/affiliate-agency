@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "cpc-practice-exam-medical-coding",
+    "name": "CPC Practice Exam - Medical Coding Study Guide",
+    "vendor": "CPCPREXAM",
+    "category": "Education",
+    "niche": "medical billing and coding certification exam prep",
+    "price": "low-ticket (official page)",
+    "summary": "A practice exam and study guide built to help aspiring medical coders prepare for the CPC certification exam.",
+    "best_for": "people studying for the CPC medical coding certification who want extra practice questions before test day",
+    "keywords": [
+      "cpc practice exam",
+      "medical coding study guide",
+      "cpc certification prep",
+      "medical billing and coding exam practice"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "guide-to-passing-the-plumbers-exam",
+    "name": "Guide to Passing the Plumbers Exam",
+    "vendor": "MYWOMAN",
+    "category": "Education",
+    "niche": "plumbing license exam prep guide",
+    "price": "low-ticket (official page)",
+    "summary": "A study guide covering the plumbing code and business/law sections of the licensing exam for people working toward a plumber's license.",
+    "best_for": "apprentice or journeyman plumbers preparing to sit for their state licensing exam",
+    "keywords": [
+      "plumbers license exam guide",
+      "how to pass the plumbing exam",
+      "plumbing code study guide",
+      "plumber license test prep"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "vert-shock-vertical-jump-training",
+    "name": "Vert Shock",
+    "vendor": "ADAMFOLKER",
+    "category": "Self-Help",
+    "niche": "vertical jump training program for basketball and volleyball players",
+    "price": "low-ticket (official page)",
+    "summary": "An 8-week jump-training program built around plyometrics, aimed at basketball and volleyball players who want to add inches to their vertical leap.",
+    "best_for": "basketball and volleyball players (and coaches) looking for a structured plyometric program to increase vertical jump",
+    "keywords": [
+      "vert shock review",
+      "vertical jump training program",
+      "how to jump higher for basketball",
+      "plyometric jump training"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "vinalert-vehicle-history-report",
+    "name": "VinAlert Vehicle History Reports",
+    "vendor": "QUALITY478",
+    "category": "E-Commerce",
+    "niche": "budget vehicle history report / VIN lookup",
+    "price": "low-ticket (official page)",
+    "summary": "A budget vehicle and motorcycle history report service that checks a VIN for accidents, title issues, and odometer problems for less than the big-name report services.",
+    "best_for": "used-car and used-motorcycle buyers who want a cheaper alternative to Carfax before they buy",
+    "keywords": [
+      "vinalert review",
+      "cheap vehicle history report",
+      "vin lookup before buying used car",
+      "vehicle history report alternative to carfax"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  }
+]
