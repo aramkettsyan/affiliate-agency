@@ -1,25 +1,5 @@
 [
   {
-    "id": "cpc-practice-exam-medical-coding",
-    "name": "CPC Practice Exam - Medical Coding Study Guide",
-    "vendor": "CPCPREXAM",
-    "category": "Education",
-    "niche": "medical billing and coding certification exam prep",
-    "price": "low-ticket (official page)",
-    "summary": "A practice exam and study guide built to help aspiring medical coders prepare for the CPC certification exam.",
-    "best_for": "people studying for the CPC medical coding certification who want extra practice questions before test day",
-    "keywords": [
-      "cpc practice exam",
-      "medical coding study guide",
-      "cpc certification prep",
-      "medical billing and coding exam practice"
-    ],
-    "clickbank_stats": {
-      "gravity": 1.4,
-      "approval_required": false
-    }
-  },
-  {
     "id": "guide-to-passing-the-plumbers-exam",
     "name": "Guide to Passing the Plumbers Exam",
     "vendor": "MYWOMAN",
