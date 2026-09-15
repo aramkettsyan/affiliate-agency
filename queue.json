@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "ready-made-client-websites",
+    "name": "Ready Client Sites",
+    "vendor": "NEDRAFOLSM",
+    "category": "E-Business & E-Marketing",
+    "niche": "done-for-you website reselling",
+    "price": "low-ticket (official page)",
+    "summary": "A set of editable, ready-made business websites that freelancers and aspiring agency owners can customize and resell to local clients.",
+    "best_for": "freelancers or side-hustlers who want to sell websites to local businesses without designing or building them from scratch",
+    "keywords": [
+      "ready made websites to sell",
+      "done for you client websites",
+      "sell websites to local businesses",
+      "website reseller business"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ai-digital-products-guide",
+    "name": "How to Create & Sell Digital Products with AI",
+    "vendor": "DAVBIZ26",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI-assisted digital product creation",
+    "price": "low-ticket (official page)",
+    "summary": "A beginner-friendly ebook that walks through using AI tools to create, package, price, and promote digital products like ebooks, templates, and prompt packs.",
+    "best_for": "aspiring creators who want a simple starting process for turning AI-generated content into sellable digital products",
+    "keywords": [
+      "create digital products with ai",
+      "sell ai generated ebooks",
+      "ai digital product business",
+      "how to make and sell templates"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "real-estate-followup-system",
+    "name": "Real Estate Follow-Up & Response System",
+    "vendor": "DDENN",
+    "category": "E-Business & E-Marketing",
+    "niche": "client follow-up / lead management for sales professionals",
+    "price": "low-ticket (official page)",
+    "summary": "A follow-up and lead-management system with an implementation manual and workbook built for real estate, insurance, and other client-facing sales professionals.",
+    "best_for": "real estate agents, insurance agents, or consultants who lose deals because leads go cold before a proper follow-up happens",
+    "keywords": [
+      "real estate lead follow up system",
+      "follow up system for realtors",
+      "client follow up workbook",
+      "sales lead response system"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
