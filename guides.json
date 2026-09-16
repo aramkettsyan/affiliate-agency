@@ -2050,5 +2050,32 @@
         "a": "Heat- and water-stress curling often eases within a few days of cooler weather or a corrected watering routine. Curling from a hard prune or heavy fertilizing can take one to two weeks to resolve as the plant rebalances. If nothing improves after two weeks, recheck for pests, herbicide exposure, or viral symptoms."
       }
     ]
+  },
+  {
+    "id": "how-long-will-my-food-storage-last",
+    "title": "How Long Will My Food Storage Actually Last? How to Calculate It",
+    "summary": "Emergency food storage duration comes down to one formula — total stored calories divided by daily household need — here's how to calculate your real number and keep it accurate as your stockpile changes.",
+    "keywords": [
+      "how long will my food storage last",
+      "how to calculate emergency food storage duration",
+      "food storage calculator by calories",
+      "how many days of food do I have stored"
+    ],
+    "related_product_id": "foodstorageiq-survival-app",
+    "date": "2026-09-16",
+    "faqs": [
+      {
+        "q": "How many calories does a person need per day for food storage planning?",
+        "a": "A commonly used baseline is 2,000-2,500 calories per adult per day, adjusted upward for physically active adults, teenagers, or a more strenuous emergency situation, and downward for young children. Add each household member's estimate together for your total daily need."
+      },
+      {
+        "q": "Is a calorie-sufficient food storage plan automatically a healthy one?",
+        "a": "No. A stockpile can clear the calorie bar while being heavy on rice, pasta, and sugar and light on protein, fat, and micronutrients. A sustainable supply needs a mix of food categories, not just a total calorie count that adds up on paper."
+      },
+      {
+        "q": "How often should I recalculate how long my food storage will last?",
+        "a": "Update it whenever your stockpile or household changes meaningfully — after a large grocery trip, after using up stored items, or if your household size changes — rather than doing one estimate and assuming it stays accurate. Expired or forgotten items quietly shrink your real total if it isn't kept current."
+      }
+    ]
   }
 ]
