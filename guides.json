@@ -2077,5 +2077,32 @@
         "a": "Update it whenever your stockpile or household changes meaningfully — after a large grocery trip, after using up stored items, or if your household size changes — rather than doing one estimate and assuming it stays accurate. Expired or forgotten items quietly shrink your real total if it isn't kept current."
       }
     ]
+  },
+  {
+    "id": "dog-throwing-up-yellow-bile-morning",
+    "title": "Why Does My Dog Throw Up Yellow Bile in the Morning?",
+    "summary": "A dog that vomits yellow bile on an empty stomach, usually first thing in the morning, likely has bilious vomiting syndrome — a real, vet-recognized condition that's usually fixed by adjusting meal timing rather than switching foods entirely.",
+    "keywords": [
+      "why does my dog throw up yellow bile in the morning",
+      "dog vomiting bile on empty stomach",
+      "bilious vomiting syndrome dog",
+      "dog throws up foamy yellow liquid"
+    ],
+    "related_product_id": "happy-dog-gut-blueprint",
+    "date": "2026-09-17",
+    "faqs": [
+      {
+        "q": "Is it normal for a dog to throw up yellow bile in the morning?",
+        "a": "It's common and usually not an emergency, but it's not something to just ignore either. Occasional yellow-bile vomiting on an empty stomach, in a dog that's otherwise eating and acting normally, points to bilious vomiting syndrome, a recognized and generally manageable condition. It should still be checked by a vet, especially the first time it happens, to rule out anything more serious."
+      },
+      {
+        "q": "Will feeding my dog a snack before bed actually stop the vomiting?",
+        "a": "For many dogs, yes. Bilious vomiting syndrome is driven by bile sitting in an empty stomach for too long overnight, so a small meal or handful of kibble right before bed shortens that gap and is one of the most consistently effective fixes vets recommend."
+      },
+      {
+        "q": "When is vomiting bile actually an emergency in dogs?",
+        "a": "See a vet promptly (not just eventually) if the vomit contains blood or looks like coffee grounds, if your dog is lethargic or refusing food, if diarrhea or a swollen, painful abdomen is also present, or if the vomiting is becoming more frequent rather than following a predictable empty-stomach pattern. In large, deep-chested breeds, a swollen abdomen with unproductive retching needs emergency care."
+      }
+    ]
   }
 ]
