@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "liberty-generator-biogas",
+    "name": "Renewable Energy from Biogas (Liberty Generator)",
+    "vendor": "LIBGEN",
+    "category": "Green Products",
+    "niche": "DIY biogas / renewable home energy guide",
+    "price": "low-ticket (official page)",
+    "summary": "A digital guide introducing homeowners to building a simple biogas-based renewable energy setup at home.",
+    "best_for": "DIY and off-grid enthusiasts curious about biogas as a renewable home energy source",
+    "keywords": [
+      "liberty generator biogas review",
+      "diy biogas energy guide",
+      "renewable home energy diy",
+      "build biogas generator"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  }
+]
