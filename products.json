@@ -6362,5 +6362,47 @@
       "renewable home energy diy",
       "build biogas generator"
     ]
+  },
+  {
+    "id": "space-energy-generator",
+    "name": "The Space Energy Generator",
+    "category": "Green Products",
+    "niche": "DIY home energy / power bill reduction guide",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SPCGEN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.9,
+      "approval_required": false
+    },
+    "summary": "A digital guide introducing a DIY approach to building a home energy device aimed at cutting electricity costs.",
+    "best_for": "DIY and off-grid enthusiasts looking for budget-friendly home energy projects",
+    "keywords": [
+      "space energy generator review",
+      "diy home energy device",
+      "reduce power bill diy guide",
+      "green energy generator plans"
+    ]
+  },
+  {
+    "id": "blackops-elite-strategies",
+    "name": "BlackOps Elite Strategies",
+    "category": "Self-Help",
+    "niche": "Survival and self-reliance preparedness guide",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BLACKOPSE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.3,
+      "approval_required": false
+    },
+    "summary": "A digital survival guide covering self-reliance and preparedness strategies for emergency situations.",
+    "best_for": "Preppers and self-reliance enthusiasts wanting practical emergency preparedness tactics",
+    "keywords": [
+      "blackops elite strategies review",
+      "survival preparedness guide",
+      "emergency self reliance tactics",
+      "prepper strategy guide"
+    ]
   }
 ]
