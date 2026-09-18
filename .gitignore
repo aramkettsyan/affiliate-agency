@@ -13,3 +13,6 @@ public/.nojekyll
 .env
 .env.local
 secrets.local
+
+# local scheduler state for post_to_facebook.py (avoids commit races)
+social_log.json
