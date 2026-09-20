@@ -1,21 +1,41 @@
 [
   {
-    "id": "listimo-ai-amazon-listings",
-    "name": "Listimo AI Amazon Listings",
-    "vendor": "LISTIMO",
-    "category": "E-Business & E-Marketing",
-    "niche": "AI e-commerce / Amazon FBA tools",
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping / DIY egg production",
     "price": "low-ticket (official page)",
-    "summary": "An AI tool that turns a single product photo into a complete Amazon listing, including images, title, bullet points, description, and A+ content.",
-    "best_for": "Amazon FBA and e-commerce sellers who want to speed up listing creation without hiring a copywriter or photographer",
+    "summary": "A DIY guide that shows how to set up a small backyard egg operation to cut grocery costs and even sell surplus eggs to neighbors.",
+    "best_for": "Homeowners with yard space who want fresher eggs and a small side income amid rising grocery prices",
     "keywords": [
-      "ai amazon listing generator",
-      "amazon listing from photo tool",
-      "fba listing automation software",
-      "ai product listing creator"
+      "backyard chicken coop guide",
+      "how to raise chickens for eggs",
+      "diy egg business at home",
+      "backyard egg farming for beginners"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 0.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology / soulmate sketch reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology-based reading service that generates a sketch and description of the customer's destined soulmate.",
+    "best_for": "People curious about astrology and love compatibility who enjoy personalized psychic-style readings",
+    "keywords": [
+      "soulmate sketch reading",
+      "astrology soulmate drawing",
+      "who is my soulmate astrology",
+      "personalized soulmate portrait"
+    ],
+    "clickbank_stats": {
+      "gravity": 45.3,
       "approval_required": false
     }
   }

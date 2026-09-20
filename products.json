@@ -6551,5 +6551,26 @@
       "automated affiliate site builder",
       "affiliate marketing starter kit"
     ]
+  },
+  {
+    "id": "listimo-ai-amazon-listings",
+    "name": "Listimo AI Amazon Listings",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI e-commerce / Amazon FBA tools",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LISTIMO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "An AI tool that turns a single product photo into a complete Amazon listing, including images, title, bullet points, description, and A+ content.",
+    "best_for": "Amazon FBA and e-commerce sellers who want to speed up listing creation without hiring a copywriter or photographer",
+    "keywords": [
+      "ai amazon listing generator",
+      "amazon listing from photo tool",
+      "fba listing automation software",
+      "ai product listing creator"
+    ]
   }
 ]
