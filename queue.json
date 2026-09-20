@@ -1,25 +1,5 @@
 [
   {
-    "id": "automated-income-sites-starter",
-    "name": "Automated Income Sites Starter",
-    "vendor": "AISITES",
-    "category": "E-Business & E-Marketing",
-    "niche": "affiliate marketing / side-hustle websites",
-    "price": "low-ticket (official page)",
-    "summary": "A browser-based dashboard for launching and managing an affiliate niche website, bundling site setup, content tools, and lead-capture features.",
-    "best_for": "beginners who want to start a niche affiliate site without hand-coding one from scratch",
-    "keywords": [
-      "done for you affiliate website",
-      "start a niche site dashboard",
-      "automated affiliate site builder",
-      "affiliate marketing starter kit"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "listimo-ai-amazon-listings",
     "name": "Listimo AI Amazon Listings",
     "vendor": "LISTIMO",
