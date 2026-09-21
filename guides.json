@@ -2185,5 +2185,32 @@
         "a": "Yes. Graduated compression socks apply gentle, decreasing pressure from the ankle up the calf, which helps push fluid upward through the day instead of letting it pool. They're especially effective for jobs involving long periods of standing or sitting."
       }
     ]
+  },
+  {
+    "id": "small-vegetable-garden-low-yield-fix",
+    "title": "Why Is My Small Vegetable Garden Producing So Little? 5 Fixable Causes",
+    "summary": "A disappointing harvest from a small backyard garden almost always traces back to sun exposure, soil nutrients, spacing, watering consistency, or under-harvesting — here's how to diagnose and fix each one.",
+    "keywords": [
+      "why is my vegetable garden yield so low",
+      "small backyard garden not producing",
+      "how to increase yield in small garden",
+      "small vegetable garden low yield fix"
+    ],
+    "related_product_id": "four-foot-farm",
+    "date": "2026-09-21",
+    "faqs": [
+      {
+        "q": "How much sunlight do vegetables actually need to produce well?",
+        "a": "Most fruiting vegetables like tomatoes, peppers, cucumbers, and squash need at least 6 hours of direct, unobstructed sunlight a day. Leafy greens and root crops can tolerate somewhat less, but fruiting crops getting only 3-4 hours will often grow healthy-looking leaves while setting little to no fruit."
+      },
+      {
+        "q": "Does overcrowding plants really reduce how much a small garden produces?",
+        "a": "Yes. Plants spaced closer than their recommended distance compete for light, water, and nutrients, which lowers the yield of every individual plant even though more plants are packed into the space. Following seed packet or tag spacing, and using vertical supports for vining crops, is one of the most reliable ways to increase total yield in a small footprint."
+      },
+      {
+        "q": "Why does picking vegetables more often actually increase my harvest?",
+        "a": "For crops like beans, peppers, cucumbers, and zucchini, leaving mature fruit on the plant signals it to slow down or stop producing new flowers, since its biological goal of making seeds is already being met. Harvesting every 1-2 days during peak season, slightly before fruit reaches maximum size, keeps plants producing for longer and increases total season yield."
+      }
+    ]
   }
 ]
