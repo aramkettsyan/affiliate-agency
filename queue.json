@@ -1,41 +1,61 @@
 [
   {
-    "id": "backyard-eggs-big-bucks",
-    "name": "Backyard Eggs = Big Bucks",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chicken keeping / DIY egg production",
+    "id": "past-life-reading",
+    "name": "Past Life Reading",
+    "vendor": "WHOWEREYOU",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "past life regression / spirituality quiz",
     "price": "low-ticket (official page)",
-    "summary": "A DIY guide that shows how to set up a small backyard egg operation to cut grocery costs and even sell surplus eggs to neighbors.",
-    "best_for": "Homeowners with yard space who want fresher eggs and a small side income amid rising grocery prices",
+    "summary": "An interactive quiz-based reading that reveals a personalized past life story, said to explain present-day patterns and personality traits.",
+    "best_for": "People curious about past lives, reincarnation, and spiritual self-discovery through a quick interactive quiz",
     "keywords": [
-      "backyard chicken coop guide",
-      "how to raise chickens for eggs",
-      "diy egg business at home",
-      "backyard egg farming for beginners"
+      "past life reading quiz",
+      "who was I in my past life",
+      "free past life regression reading",
+      "discover your past life"
     ],
     "clickbank_stats": {
-      "gravity": 0.4,
+      "gravity": 0.0,
       "approval_required": false
     }
   },
   {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "SOULVOICE",
+    "id": "personalized-astrology-system-east-west",
+    "name": "Personalized Astrology System (Eastern & Western)",
+    "vendor": "PATHCOSMIC",
     "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "astrology / soulmate sketch reading",
+    "niche": "astrology / combined Eastern-Western birth chart reports",
     "price": "low-ticket (official page)",
-    "summary": "A personalized astrology-based reading service that generates a sketch and description of the customer's destined soulmate.",
-    "best_for": "People curious about astrology and love compatibility who enjoy personalized psychic-style readings",
+    "summary": "A personalized astrology report that blends Eastern and Western astrology traditions into one combined birth chart analysis.",
+    "best_for": "Astrology enthusiasts who want a broader reading that goes beyond a standard Western-only horoscope",
     "keywords": [
-      "soulmate sketch reading",
-      "astrology soulmate drawing",
-      "who is my soulmate astrology",
-      "personalized soulmate portrait"
+      "eastern and western astrology reading",
+      "combined birth chart report",
+      "personalized astrology system",
+      "chinese and western zodiac reading"
     ],
     "clickbank_stats": {
-      "gravity": 45.3,
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "love-astrology-women-45",
+    "name": "Love Astrology",
+    "vendor": "SOULARIS",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology / relationship reading for older women",
+    "price": "low-ticket (official page)",
+    "summary": "An astrology-based love reading built specifically for women 45 and older, focused on relationship insight and renewed romantic confidence.",
+    "best_for": "Women over 45 interested in astrology who want relationship guidance tailored to their life stage",
+    "keywords": [
+      "astrology reading for women over 45",
+      "love astrology for older women",
+      "midlife romance astrology reading",
+      "astrology relationship guidance women"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
       "approval_required": false
     }
   }

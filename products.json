@@ -6572,5 +6572,68 @@
       "fba listing automation software",
       "ai product listing creator"
     ]
+  },
+  {
+    "id": "your-abundance-flow",
+    "name": "Your Abundance Flow",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "feng shui / abundance & home energy",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ABUNFLOW",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A feng shui-based guide that shows how to rearrange and energize the home to remove blocks to abundance, love, and opportunity.",
+    "best_for": "People curious about feng shui and home energy practices who want a practical, room-by-room approach to attracting abundance",
+    "keywords": [
+      "feng shui for abundance",
+      "how to attract abundance at home",
+      "feng shui money corner guide",
+      "clear blocked energy in your home"
+    ]
+  },
+  {
+    "id": "twin-flame-tarot",
+    "name": "Twin Flame Tarot",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "tarot / twin flame reading with sketch",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=TWINFLAMET",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A tarot-based reading service that draws cards to reveal a description and sketch of the customer's twin flame connection.",
+    "best_for": "People drawn to tarot and twin flame concepts who want a personalized reading and visual sketch",
+    "keywords": [
+      "twin flame tarot reading",
+      "twin flame sketch reading",
+      "what does my twin flame look like",
+      "tarot reading for twin flame"
+    ]
+  },
+  {
+    "id": "personalized-cosmic-compatibility-profile",
+    "name": "Personalized Cosmic Compatibility Profile",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "astrology / relationship compatibility reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=COSMICLUV",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology-based compatibility system that analyzes a couple's birth details to reveal relationship strengths and friction points.",
+    "best_for": "Couples and singles curious about astrological compatibility who want a detailed, personalized breakdown",
+    "keywords": [
+      "astrology compatibility reading",
+      "zodiac relationship compatibility",
+      "personalized cosmic compatibility profile",
+      "are we compatible astrology"
+    ]
   }
 ]
