@@ -2212,5 +2212,32 @@
         "a": "For crops like beans, peppers, cucumbers, and zucchini, leaving mature fruit on the plant signals it to slow down or stop producing new flowers, since its biological goal of making seeds is already being met. Harvesting every 1-2 days during peak season, slightly before fruit reaches maximum size, keeps plants producing for longer and increases total season yield."
       }
     ]
+  },
+  {
+    "id": "how-long-can-you-store-water-for-emergencies",
+    "title": "How Long Can You Store Water for Emergencies Before It Goes Bad?",
+    "summary": "Water doesn't expire the way food does — what actually determines how long stored water stays safe is your container, treatment, and storage spot, not a fixed shelf-life date.",
+    "keywords": [
+      "how long can you store water for emergencies",
+      "does stored water go bad",
+      "how long does bottled water last in storage",
+      "how to store water long term for emergencies"
+    ],
+    "related_product_id": "water-liberty-guide",
+    "date": "2026-09-22",
+    "faqs": [
+      {
+        "q": "Does bottled water expire?",
+        "a": "The water itself doesn't spoil, but the plastic bottle can degrade over time and is more likely to leach chemicals when exposed to heat or sunlight, especially for thin, single-use bottles not meant for long-term storage. Store-bought bottled water is generally fine to drink well past its printed date as long as the bottle looks intact and hasn't been exposed to high heat."
+      },
+      {
+        "q": "Can you store tap water without treating it?",
+        "a": "Yes, if it comes from a chlorinated municipal supply, since the existing chlorine offers some baseline protection during storage. Well water or water from an untreated source benefits from a small, precisely measured dose of unscented bleach or a dedicated water preserver product before long-term storage."
+      },
+      {
+        "q": "How much water should I actually store per person?",
+        "a": "A common baseline is one gallon per person per day for at least three days, covering both drinking and basic hygiene. If space allows, building toward a two-week supply gives meaningfully more security during an extended outage or emergency."
+      }
+    ]
   }
 ]
