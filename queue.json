@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "clozure-ai-business-os",
+    "name": "Clozure AI Business OS",
+    "vendor": "CLOZURE",
+    "category": "Business / Investing",
+    "niche": "AI-powered small business operations software",
+    "price": "low-ticket (official page)",
+    "summary": "An all-in-one AI business operating system bundling email, calendar, CRM, meetings, and team collaboration into a single dashboard.",
+    "best_for": "Solopreneurs and small teams who want to consolidate scattered business tools into one AI-assisted workspace",
+    "keywords": [
+      "ai business os software",
+      "all in one small business software",
+      "ai crm and email tool",
+      "business management software for solopreneurs"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "admin-restaurant-intelligence",
+    "name": "Admin Restaurant Intelligence",
+    "vendor": "ARIRM",
+    "category": "Business / Investing",
+    "niche": "restaurant and hospitality operations software",
+    "price": "low-ticket (official page)",
+    "summary": "A hospitality operations platform that helps restaurant owners track and manage day-to-day operations from one intelligent dashboard.",
+    "best_for": "Restaurant and hospitality business owners who want a clearer view of daily operations without juggling multiple tools",
+    "keywords": [
+      "restaurant operations software",
+      "hospitality management platform",
+      "restaurant business intelligence tool",
+      "software for restaurant owners"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "leadership-guide-brand-marketing-managers",
+    "name": "Leadership Guide for Brand, Marketing & Product Managers",
+    "vendor": "FLIPFUNLEA",
+    "category": "Business / Investing",
+    "niche": "leadership and management skills for new managers",
+    "price": "low-ticket (official page)",
+    "summary": "A practical 90-day leadership guide for new brand, marketing, and product managers covering delegation, feedback, meetings, and team communication.",
+    "best_for": "Newly promoted managers in brand, marketing, or product roles who want a structured playbook for their first 90 days",
+    "keywords": [
+      "new manager leadership guide",
+      "marketing manager leadership skills",
+      "90 day management plan",
+      "product manager leadership training"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
