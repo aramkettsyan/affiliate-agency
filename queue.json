@@ -1,25 +1,5 @@
 [
   {
-    "id": "admin-restaurant-intelligence",
-    "name": "Admin Restaurant Intelligence",
-    "vendor": "ARIRM",
-    "category": "Business / Investing",
-    "niche": "restaurant and hospitality operations software",
-    "price": "low-ticket (official page)",
-    "summary": "A hospitality operations platform that helps restaurant owners track and manage day-to-day operations from one intelligent dashboard.",
-    "best_for": "Restaurant and hospitality business owners who want a clearer view of daily operations without juggling multiple tools",
-    "keywords": [
-      "restaurant operations software",
-      "hospitality management platform",
-      "restaurant business intelligence tool",
-      "software for restaurant owners"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "leadership-guide-brand-marketing-managers",
     "name": "Leadership Guide for Brand, Marketing & Product Managers",
     "vendor": "FLIPFUNLEA",
