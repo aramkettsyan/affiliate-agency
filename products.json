@@ -6782,5 +6782,47 @@
       "90 day management plan",
       "product manager leadership training"
     ]
+  },
+  {
+    "id": "amazon-online-arbitrage-complete-system",
+    "name": "The Amazon Online Arbitrage Complete System",
+    "category": "Business / Investing",
+    "niche": "Amazon online arbitrage for new sellers",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ARBEDGE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A 65-page playbook plus four implementation tools from a 7-year Amazon seller, focused on sourcing, fees, and storage-cost accuracy for online arbitrage.",
+    "best_for": "Newer Amazon FBA sellers who want a structured online arbitrage process and better fee tracking",
+    "keywords": [
+      "amazon online arbitrage guide",
+      "online arbitrage for beginners",
+      "amazon fba storage fees",
+      "amazon oa sourcing system"
+    ]
+  },
+  {
+    "id": "small-business-ai-growth-toolkits",
+    "name": "Small Business AI, Technology & Growth Toolkits",
+    "category": "Software & Services",
+    "niche": "AI and technology toolkits for small businesses",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=RICKYLUV71",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "Digital toolkits for small businesses and consultants covering AI automation, technology assessments, customer growth, business continuity, and content workflows.",
+    "best_for": "Small business owners and consultants who want ready-made templates for adopting AI and planning technology",
+    "keywords": [
+      "small business ai toolkit",
+      "ai automation for small business",
+      "business continuity plan template",
+      "technology assessment template"
+    ]
   }
 ]
