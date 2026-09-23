@@ -2239,5 +2239,32 @@
         "a": "A common baseline is one gallon per person per day for at least three days, covering both drinking and basic hygiene. If space allows, building toward a two-week supply gives meaningfully more security during an extended outage or emergency."
       }
     ]
+  },
+  {
+    "id": "keep-chicken-coop-warm-winter-without-electricity",
+    "title": "How to Keep a Chicken Coop Warm in Winter Without Electricity",
+    "summary": "Healthy chickens handle cold well; the real winter dangers are drafts and damp, and you can beat both without a heat lamp using ventilation, deep litter, smart roosts, and sunlight.",
+    "keywords": [
+      "how to keep chicken coop warm in winter without electricity",
+      "do chickens need a heat lamp in winter",
+      "deep litter method for winter",
+      "how to winterize a chicken coop"
+    ],
+    "related_product_id": "build-a-chicken-coop",
+    "date": "2026-09-23",
+    "faqs": [
+      {
+        "q": "How cold is too cold for chickens?",
+        "a": "Most fully feathered adult backyard chickens tolerate temperatures well below freezing, often into the single digits Fahrenheit or lower, as long as the coop is dry and free of drafts. Bantams, young birds, molting hens, and thinly feathered breeds are more vulnerable and need extra protection."
+      },
+      {
+        "q": "Do chickens need a heat lamp in winter?",
+        "a": "Usually not. Heat lamps are a common cause of coop fires, and birds that get used to artificial heat can struggle if the power fails. A dry, well-ventilated, draft-free coop with deep bedding and wide roosts keeps most flocks comfortable without supplemental heat."
+      },
+      {
+        "q": "Should I close all the vents in my chicken coop in winter?",
+        "a": "No. Sealing the coop traps moisture from breathing and droppings, which raises the risk of frostbite and respiratory problems. Keep vents open high above the roosts so moist air can escape, and block only the drafts at or below roost level."
+      }
+    ]
   }
 ]
