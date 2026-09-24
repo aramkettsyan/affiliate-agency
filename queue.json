@@ -18,25 +18,5 @@
       "gravity": 0.0,
       "approval_required": false
     }
-  },
-  {
-    "id": "instant-conversational-hypnosis-crash-course",
-    "name": "Instant Conversational Hypnosis Crash Course (Dr. David Snyder)",
-    "vendor": "DRSNYDER",
-    "category": "Self-Help",
-    "niche": "conversational hypnosis and NLP communication skills",
-    "price": "low-ticket (official page)",
-    "summary": "28 video lessons on conversational hypnosis and persuasive language patterns from long-time NLP trainer Dr. David Snyder, with a 60-day guarantee.",
-    "best_for": "Self-improvement learners, salespeople, and communicators curious about NLP-style language patterns",
-    "keywords": [
-      "conversational hypnosis course",
-      "david snyder nlp",
-      "learn conversational hypnosis",
-      "nlp persuasion course online"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
   }
 ]
