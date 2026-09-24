@@ -357,7 +357,7 @@ def render_article(product, config, roundups, related):
     verdict = (f'<div class="verdict"><strong>Quick verdict</strong>'
                f'{e(product.get("summary",""))} Best for {e(product.get("best_for","the right buyer"))}. '
                f'Backed by ClickBank\'s 60-day money-back guarantee.</div>')
-    byline = ('<div class="byline"><span class="av">SP</span> Reviewed by the Smart Picks editorial team · '
+    byline = ('<div class="byline"><span class="av">PO</span> Reviewed by the PickOak editorial team · '
               f'Updated {date.today().strftime("%B %Y")}</div>')
 
     img = image_for(product)
@@ -425,7 +425,7 @@ def render_roundup(roundup, by_id, config, roundups):
                    f'</div></div>')
 
     disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
-    byline = ('<div class="byline"><span class="av">SP</span> By the Smart Picks editorial team · '
+    byline = ('<div class="byline"><span class="av">PO</span> By the PickOak editorial team · '
               f'Updated {date.today().strftime("%B %Y")}</div>')
     body = (crumb + f'<h1>{e(roundup["title"])}</h1>' + byline + disclosure
             + f'<p style="font-size:19px;color:var(--muted)">{e(roundup["intro"])}</p>'
@@ -474,7 +474,7 @@ def render_guide(guide, config, roundups, by_id):
     canonical = f"{config['base_url'].rstrip('/')}/{gid}.html"
     crumb = (f'<div class="crumb"><a href="index.html">Home</a> › '
              f'<a href="guides.html">Guides</a> › {e(guide["title"])}</div>')
-    byline = ('<div class="byline"><span class="av">SP</span> By the Smart Picks editorial team · '
+    byline = ('<div class="byline"><span class="av">PO</span> By the PickOak editorial team · '
               f'Updated {date.today().strftime("%B %Y")}</div>')
     disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
 
