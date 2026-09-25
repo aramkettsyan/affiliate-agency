@@ -6887,5 +6887,47 @@
       "soulmate sketch online",
       "psychic soulmate drawing review"
     ]
+  },
+  {
+    "id": "reading-head-start",
+    "name": "Reading Head Start",
+    "category": "Parenting & Families",
+    "niche": "early reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=READINGHS",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    },
+    "summary": "A phonics-based reading program that gives parents short lessons to teach young children to read.",
+    "best_for": "Parents of toddlers and early-primary kids learning to read",
+    "keywords": [
+      "reading head start review",
+      "teach child to read at home",
+      "phonics program for kids",
+      "is reading head start worth it"
+    ]
+  },
+  {
+    "id": "baby-sleep-miracle",
+    "name": "Baby Sleep Miracle",
+    "category": "Parenting & Families",
+    "niche": "baby sleep",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BBYSLEEP",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    },
+    "summary": "A parenting guide with routines and techniques to help babies and toddlers sleep more consistently.",
+    "best_for": "Tired parents of infants and toddlers with irregular sleep",
+    "keywords": [
+      "baby sleep miracle review",
+      "baby sleep training guide",
+      "how to get baby to sleep through the night",
+      "toddler sleep routine"
+    ]
   }
 ]
