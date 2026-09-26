@@ -6971,5 +6971,68 @@
       "early reading ebook",
       "teach kids to read activities"
     ]
+  },
+  {
+    "id": "real-life-self-defense",
+    "name": "REAL LIFE Self Defense",
+    "category": "Self-Help",
+    "niche": "Personal safety",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=TOUGHMIND",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "approval_required": false
+    },
+    "summary": "A video-based self-defense program from a tactical trainer, aimed at ordinary adults of any age or fitness level.",
+    "best_for": "Adults who want practical personal-safety basics they can practice at home",
+    "keywords": [
+      "real life self defense review",
+      "self defense course for beginners",
+      "home self defense training videos",
+      "self defense for older adults"
+    ]
+  },
+  {
+    "id": "doctors-book-survival-home-remedies",
+    "name": "The Doctor's Book of Survival Home Remedies",
+    "category": "Self-Help",
+    "niche": "Preparedness & first aid",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DOCSREM10",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.8,
+      "approval_required": false
+    },
+    "summary": "A preparedness-focused reference book on home first aid and traditional remedies for when professional care is not immediately available.",
+    "best_for": "Preppers building an emergency reference library (not a substitute for medical care)",
+    "keywords": [
+      "doctor's book of survival home remedies review",
+      "survival home remedies book",
+      "emergency first aid book preppers",
+      "off grid first aid guide"
+    ]
+  },
+  {
+    "id": "text-that-girl",
+    "name": "Text That Girl",
+    "category": "Self-Help",
+    "niche": "Dating advice for men",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=AOINTRIGUE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.3,
+      "approval_required": false
+    },
+    "summary": "A men's texting and online-dating guide covering how to start and keep conversations going on dating apps.",
+    "best_for": "Single men who struggle to keep dating-app conversations going",
+    "keywords": [
+      "text that girl review",
+      "how to text a girl you like",
+      "online dating texting guide for men",
+      "tinder conversation tips"
+    ]
   }
 ]
