@@ -1,45 +1,5 @@
 [
   {
-    "id": "tao-of-badass",
-    "name": "The Tao of Badass",
-    "vendor": "BEABADASS",
-    "category": "Self-Help",
-    "niche": "Dating advice for men",
-    "price": "low-ticket (official page)",
-    "summary": "A long-running men's dating guide focused on confidence, body language and approaching women respectfully.",
-    "best_for": "Men who want a structured confidence and dating-skills course",
-    "keywords": [
-      "tao of badass review",
-      "is tao of badass worth it",
-      "dating confidence guide for men",
-      "how to approach women confidently"
-    ],
-    "clickbank_stats": {
-      "gravity": 2.8,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "the-forever-woman",
-    "name": "The Forever Woman",
-    "vendor": "MAKHIMWANT",
-    "category": "Self-Help",
-    "niche": "Relationship advice for women",
-    "price": "low-ticket (official page)",
-    "summary": "A women's relationship guide by dating coach Matthew Coast about building lasting commitment with a partner.",
-    "best_for": "Women looking for relationship coaching material on commitment and communication",
-    "keywords": [
-      "the forever woman review",
-      "matthew coast forever woman",
-      "how to make him commit",
-      "relationship advice for women"
-    ],
-    "clickbank_stats": {
-      "gravity": 3.3,
-      "approval_required": false
-    }
-  },
-  {
     "id": "the-power-switch",
     "name": "The Power Switch",
     "vendor": "PWRSWITCH",
