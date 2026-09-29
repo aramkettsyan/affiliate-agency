@@ -1,21 +1,101 @@
 [
   {
-    "id": "unforgettable-brazilian-recipes",
-    "name": "Unforgettable Brazilian Recipes – Trilingual Edition",
-    "vendor": "ACALANTO",
-    "category": "Cooking, Food & Wine",
-    "niche": "Brazilian cooking",
+    "id": "the-resilient-home",
+    "name": "The Resilient Home – 3-7-30 Household Resilience Plan",
+    "vendor": "RESILIENTH",
+    "category": "Home & Garden",
+    "niche": "household emergency preparedness",
     "price": "low-ticket (official page)",
-    "summary": "A digital cookbook of traditional Brazilian dishes, sweets and drinks written in Portuguese, English and Spanish with step-by-step instructions.",
-    "best_for": "Home cooks and bilingual families who want authentic Brazilian recipes in more than one language",
+    "summary": "A practical household resilience plan that walks families through 3-day, 7-day, and 30-day readiness steps for outages and other disruptions.",
+    "best_for": "Homeowners and families who want a simple, non-alarmist plan for handling power outages and short-term emergencies",
     "keywords": [
-      "brazilian recipes ebook",
-      "traditional brazilian cooking at home",
-      "brazilian desserts recipes",
-      "trilingual cookbook portuguese english spanish"
+      "household emergency preparedness plan",
+      "power outage readiness guide",
+      "family emergency plan pdf",
+      "home resilience checklist"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chickens / DIY homesteading",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide showing how to raise backyard chickens for a steady supply of fresh eggs and cut down on rising grocery costs.",
+    "best_for": "Homeowners with yard space who want to start raising chickens for eggs on a budget",
+    "keywords": [
+      "how to raise backyard chickens",
+      "backyard chicken coop guide",
+      "raising chickens for eggs at home",
+      "cheap egg alternative diy"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "magnetic-money-secrets",
+    "name": "It's Here. Magnetic Money Secrets",
+    "vendor": "MAGNETICMS",
+    "category": "Self-Help",
+    "niche": "money mindset / motivational",
+    "price": "low-ticket (official page)",
+    "summary": "A mindset-focused program aimed at helping people reframe limiting beliefs around money and build better financial habits.",
+    "best_for": "Readers interested in self-help and mindset work around money, not literal investment advice",
+    "keywords": [
+      "money mindset program",
+      "financial abundance mindset course",
+      "law of attraction money",
+      "wealth mindset ebook"
+    ],
+    "clickbank_stats": {
+      "gravity": 5.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "last-battery",
+    "name": "LAST BATTERY",
+    "vendor": "LASTBATT",
+    "category": "Green Products",
+    "niche": "battery reconditioning / backup power",
+    "price": "low-ticket (official page)",
+    "summary": "A guide covering ways to extend, recondition, and get more life out of household batteries to save money and cut waste.",
+    "best_for": "Budget-conscious homeowners and preppers who want to stop replacing batteries so often",
+    "keywords": [
+      "battery reconditioning guide",
+      "how to extend battery life",
+      "recondition old batteries at home",
+      "backup power savings guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 14.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "money-nervous-reset",
+    "name": "Money Nervous System Reset",
+    "vendor": "MONEYNRVRE",
+    "category": "Self-Help",
+    "niche": "financial anxiety / mindset",
+    "price": "low-ticket (official page)",
+    "summary": "An audio-based program designed to help listeners calm financial anxiety using a nervous-system-focused relaxation approach.",
+    "best_for": "People who feel chronic stress around money and want a calming, mindset-based approach rather than technical financial advice",
+    "keywords": [
+      "financial anxiety relief program",
+      "money stress relief audio",
+      "nervous system reset for money anxiety",
+      "calm financial anxiety naturally"
+    ],
+    "clickbank_stats": {
+      "gravity": 2.2,
       "approval_required": false
     }
   }
