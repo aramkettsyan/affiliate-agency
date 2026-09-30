@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs-big-bucks",
-    "name": "Backyard Eggs = Big Bucks!",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chickens / DIY homesteading",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide showing how to raise backyard chickens for a steady supply of fresh eggs and cut down on rising grocery costs.",
-    "best_for": "Homeowners with yard space who want to start raising chickens for eggs on a budget",
-    "keywords": [
-      "how to raise backyard chickens",
-      "backyard chicken coop guide",
-      "raising chickens for eggs at home",
-      "cheap egg alternative diy"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.3,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "magnetic-money-secrets",
-    "name": "It's Here. Magnetic Money Secrets",
-    "vendor": "MAGNETICMS",
-    "category": "Self-Help",
-    "niche": "money mindset / motivational",
-    "price": "low-ticket (official page)",
-    "summary": "A mindset-focused program aimed at helping people reframe limiting beliefs around money and build better financial habits.",
-    "best_for": "Readers interested in self-help and mindset work around money, not literal investment advice",
-    "keywords": [
-      "money mindset program",
-      "financial abundance mindset course",
-      "law of attraction money",
-      "wealth mindset ebook"
-    ],
-    "clickbank_stats": {
-      "gravity": 5.4,
-      "approval_required": false
-    }
-  },
-  {
     "id": "last-battery",
     "name": "LAST BATTERY",
     "vendor": "LASTBATT",
