@@ -1,25 +1,5 @@
 [
   {
-    "id": "last-battery",
-    "name": "LAST BATTERY",
-    "vendor": "LASTBATT",
-    "category": "Green Products",
-    "niche": "battery reconditioning / backup power",
-    "price": "low-ticket (official page)",
-    "summary": "A guide covering ways to extend, recondition, and get more life out of household batteries to save money and cut waste.",
-    "best_for": "Budget-conscious homeowners and preppers who want to stop replacing batteries so often",
-    "keywords": [
-      "battery reconditioning guide",
-      "how to extend battery life",
-      "recondition old batteries at home",
-      "backup power savings guide"
-    ],
-    "clickbank_stats": {
-      "gravity": 14.2,
-      "approval_required": false
-    }
-  },
-  {
     "id": "money-nervous-reset",
     "name": "Money Nervous System Reset",
     "vendor": "MONEYNRVRE",
