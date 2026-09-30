@@ -2401,5 +2401,32 @@
         "a": "Milk and yogurt proteins clump when mixed with acidic fruit like orange, pineapple or kiwi. Use Greek yogurt or an acid-tolerant plant milk like oat or coconut milk, keep ingredients cold, and drink it right away."
       }
     ]
+  },
+  {
+    "id": "blurry-vision-after-eating",
+    "title": "Why Is My Vision Blurry After Eating? Causes and When to Worry",
+    "summary": "Blurry vision after meals is usually a temporary blood sugar or blood pressure shift, but a few red-flag patterns mean it's time to see a doctor rather than wait it out.",
+    "keywords": [
+      "why is my vision blurry after eating",
+      "blurry vision after eating sugar",
+      "vision blurry after meals",
+      "blurred vision after eating causes"
+    ],
+    "related_product_id": "visiflora",
+    "date": "2026-09-30",
+    "faqs": [
+      {
+        "q": "Is blurry vision after eating always a sign of diabetes?",
+        "a": "No. It's a well-known early symptom of high blood sugar and diabetes, but postprandial hypotension, dehydration, food sensitivities, and simple digital eye strain around mealtime can cause the same pattern. Consistent or worsening blur is worth checking with a doctor, but an occasional episode isn't an automatic diabetes diagnosis."
+      },
+      {
+        "q": "How long does blurry vision after eating usually last?",
+        "a": "When it's blood-sugar related, it typically clears within 30 to 90 minutes as glucose levels come back down and fluid redistributes out of the eye's lens. Blur that lasts much longer, keeps recurring after nearly every meal, or is getting worse over time is a reason to see a doctor rather than continuing to wait it out."
+      },
+      {
+        "q": "Can dehydration cause blurry vision after meals?",
+        "a": "Yes. Digestion draws fluid into the gut, and a salty or large meal can leave less circulating fluid for other tissues, including the eyes and tear film. Drinking a full glass of water with meals resolves this for some people entirely, which is a useful, low-cost thing to try before assuming a more serious cause."
+      }
+    ]
   }
 ]
