@@ -1,21 +1,121 @@
 [
   {
-    "id": "money-nervous-reset",
-    "name": "Money Nervous System Reset",
-    "vendor": "MONEYNRVRE",
-    "category": "Self-Help",
-    "niche": "financial anxiety / mindset",
+    "id": "astrology-tv-video-reading",
+    "name": "Astrology.TV",
+    "vendor": "ASTROTV",
+    "category": "Spirituality",
+    "niche": "astrology / personalized video readings",
     "price": "low-ticket (official page)",
-    "summary": "An audio-based program designed to help listeners calm financial anxiety using a nervous-system-focused relaxation approach.",
-    "best_for": "People who feel chronic stress around money and want a calming, mindset-based approach rather than technical financial advice",
+    "summary": "A dynamically generated, fully personalized video astrology reading service built around each visitor's own birth chart.",
+    "best_for": "People curious about a personalized video-style horoscope reading rather than a generic written one",
     "keywords": [
-      "financial anxiety relief program",
-      "money stress relief audio",
-      "nervous system reset for money anxiety",
-      "calm financial anxiety naturally"
+      "personalized video astrology reading",
+      "astrology tv review",
+      "custom horoscope video reading",
+      "birth chart video reading online"
     ],
     "clickbank_stats": {
-      "gravity": 2.2,
+      "gravity": 1.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "killer-guitar-control-secrets",
+    "name": "Killer Guitar Control Secrets",
+    "vendor": "GUITARIST3",
+    "category": "Crafts & Hobbies",
+    "niche": "music / guitar lessons",
+    "price": "low-ticket (official page)",
+    "summary": "A guitar lead-playing course that breaks down the core techniques behind soulful, expressive solos for players at any level.",
+    "best_for": "Guitar players who can already play but want to develop more expressive, soulful lead playing",
+    "keywords": [
+      "guitar lead playing course",
+      "learn soulful guitar solos",
+      "guitar control secrets review",
+      "improve guitar lead technique"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "sonic-producer-music-software",
+    "name": "Sonic Producer V2.0",
+    "vendor": "SONICPRO",
+    "category": "Crafts & Hobbies",
+    "niche": "music production software",
+    "price": "low-ticket (official page)",
+    "summary": "Beat-making software aimed at beginners who want to produce their own beats and instrumentals without a full studio setup.",
+    "best_for": "Aspiring music producers who want an affordable, beginner-friendly beat-making program",
+    "keywords": [
+      "beat making software for beginners",
+      "sonic producer review",
+      "make beats at home software",
+      "music production software for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "save-my-marriage-today",
+    "name": "Save My Marriage Today",
+    "vendor": "SAVEMARRIA",
+    "category": "Self-Help",
+    "niche": "marriage / relationship recovery",
+    "price": "low-ticket (official page)",
+    "summary": "A relationship-recovery guide aimed at couples trying to work through a rough patch and rebuild a struggling marriage.",
+    "best_for": "Married couples looking for a structured, at-home approach to repairing their relationship before considering other options",
+    "keywords": [
+      "save my marriage today review",
+      "how to save a struggling marriage",
+      "marriage recovery guide",
+      "fix my marriage at home"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "motherhood-unleashed-parenting-roadmap",
+    "name": "Motherhood Unleashed",
+    "vendor": "CREATIVDGE",
+    "category": "Parenting",
+    "niche": "parenting / early childhood",
+    "price": "low-ticket (official page)",
+    "summary": "A 0-7 years parenting roadmap covering developmental stages, tantrums, bedtime routines, and emotional intelligence with checklists and milestone trackers.",
+    "best_for": "Parents of young children who want a structured, stage-by-stage reference for the first seven years",
+    "keywords": [
+      "0-7 parenting roadmap",
+      "toddler milestone tracker guide",
+      "motherhood unleashed review",
+      "early childhood parenting guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ultimate-diabetic-cookbook",
+    "name": "Ultimate Diabetic Cookbook",
+    "vendor": "DIABETICCB",
+    "category": "Cooking",
+    "niche": "diabetic-friendly recipes",
+    "price": "low-ticket (official page)",
+    "summary": "A collection of over 250 diabetic-friendly recipes designed to make lower-sugar, blood-sugar-conscious cooking easier at home.",
+    "best_for": "Home cooks managing diabetes (or cooking for someone who is) who want practical, lower-sugar recipe ideas",
+    "keywords": [
+      "diabetic cookbook recipes",
+      "low sugar recipes for diabetics",
+      "diabetic friendly meal ideas",
+      "cookbook for diabetics review"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
       "approval_required": false
     }
   }
