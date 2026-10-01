@@ -25,11 +25,31 @@ ROOT = Path(__file__).parent
 PUBLIC = ROOT / "public"
 YEAR = date.today().year
 TODAY = date.today().isoformat()
+TODAY_ISO = TODAY + "T00:00:00+00:00"  # full datetime+timezone; bare dates fail schema.org validation
+DEFAULT_OG_IMAGE = "img/og-default.jpg"  # branded fallback so every page has a valid share/schema image
 IMAGES = {}  # product id -> local image path (populated in main from images.json)
 
 
 def image_for(product):
     return IMAGES.get(product["id"])
+
+
+def iso_dt(d):
+    """Turn a stored 'YYYY-MM-DD' (or already-ISO) date into a full ISO-8601
+    datetime with timezone, which schema.org's date validators require."""
+    d = str(d)
+    return d if "T" in d else d + "T00:00:00+00:00"
+
+
+def abs_url(config, path):
+    return f"{config['base_url'].rstrip('/')}/{path.lstrip('/')}"
+
+
+def image_url_for(product, config):
+    """Absolute image URL for a product: its own fetched image if we have
+    one, otherwise the site's branded default so the field is never empty."""
+    img = image_for(product)
+    return abs_url(config, img) if img else abs_url(config, DEFAULT_OG_IMAGE)
 
 
 # ---------------------------------------------------------------------------
@@ -307,12 +327,13 @@ document.addEventListener('click',function(ev){
 
 
 def page_shell(config, roundups, *, title, description, canonical, body,
-               og_type="article", schema_objs=None):
+               og_type="article", schema_objs=None, image=None):
     schema = ""
     for obj in (schema_objs or []):
         if obj:
             schema += f'<script type="application/ld+json">{json.dumps(obj)}</script>'
     analytics = analytics_head(config)
+    img_url = image or abs_url(config, DEFAULT_OG_IMAGE)
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -323,7 +344,9 @@ def page_shell(config, roundups, *, title, description, canonical, body,
 <meta property="og:type" content="{og_type}"><meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(description)}"><meta property="og:url" content="{e(canonical)}">
 <meta property="og:site_name" content="{e(config['site_name'])}">
+<meta property="og:image" content="{e(img_url)}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{e(img_url)}">
 {analytics}
 {schema}<style>{STYLE}</style></head>
 <body>{header_html(config)}
@@ -388,12 +411,24 @@ def render_article(product, config, roundups, related):
             + cta_button(product) + f'<article>{body_inner}</article>' + cta_button(product)
             + faq_html(faqs) + rel_html)
 
-    review_schema = {
-        "@context": "https://schema.org", "@type": "Review",
-        "itemReviewed": {"@type": "Product", "name": product["name"],
-                         "category": product.get("category", ""), "description": product.get("summary", "")},
-        "author": {"@type": "Organization", "name": config["site_name"]},
-        "publisher": {"@type": "Organization", "name": config["site_name"]}, "url": canonical,
+    img_url = image_url_for(product, config)
+    org = {"@type": "Organization", "name": config["site_name"], "url": config["base_url"]}
+    # Product must be the top-level type with "review" nested inside it (not the
+    # reverse) — Google's Product-snippets validator requires the Product entity
+    # itself to carry offers/review/aggregateRating directly. We skip offers
+    # (no reliable live price data for ClickBank vendor pages) and skip
+    # aggregateRating (no genuine per-product rating data — fabricating one
+    # would violate Google's review-snippet policy), so "review" is what
+    # makes the Product eligible.
+    product_schema = {
+        "@context": "https://schema.org", "@type": "Product",
+        "name": product["name"], "category": product.get("category", ""),
+        "description": product.get("summary", ""), "image": img_url, "url": canonical,
+        "review": {
+            "@type": "Review", "author": org, "publisher": org,
+            "reviewBody": product.get("summary", ""),
+            "datePublished": TODAY_ISO, "url": canonical,
+        },
     }
     crumb_schema = {
         "@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -404,7 +439,8 @@ def render_article(product, config, roundups, related):
     title = f'{product["name"]} Review ({YEAR}): Worth It? | {config["site_name"]}'
     return slug, page_shell(config, roundups, title=title,
                             description=product.get("summary", "")[:155], canonical=canonical,
-                            body=body, schema_objs=[review_schema, faq_schema(faqs), crumb_schema])
+                            body=body, schema_objs=[product_schema, faq_schema(faqs), crumb_schema],
+                            image=img_url)
 
 
 def render_roundup(roundup, by_id, config, roundups):
@@ -506,12 +542,13 @@ def render_guide(guide, config, roundups, by_id):
     body = (crumb + f'<h1>{e(guide["title"])}</h1>' + byline + disclosure
             + f'<article>{guide_body(guide)}</article>' + rec + faq_html(faqs))
 
+    guide_img = abs_url(config, DEFAULT_OG_IMAGE)
     article_schema = {
         "@context": "https://schema.org", "@type": "Article",
-        "headline": guide["title"], "description": guide.get("summary", ""),
-        "author": {"@type": "Organization", "name": config["site_name"]},
-        "publisher": {"@type": "Organization", "name": config["site_name"]},
-        "datePublished": guide.get("date", TODAY), "dateModified": TODAY, "url": canonical,
+        "headline": guide["title"], "description": guide.get("summary", ""), "image": guide_img,
+        "author": {"@type": "Organization", "name": config["site_name"], "url": config["base_url"]},
+        "publisher": {"@type": "Organization", "name": config["site_name"], "url": config["base_url"]},
+        "datePublished": iso_dt(guide.get("date", TODAY)), "dateModified": TODAY_ISO, "url": canonical,
     }
     crumb_schema = {
         "@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -524,7 +561,8 @@ def render_guide(guide, config, roundups, by_id):
     title = f'{guide["title"]} | {config["site_name"]}'
     return gid, page_shell(config, roundups, title=title, description=guide.get("summary", "")[:155],
                            canonical=canonical, body=body,
-                           schema_objs=[article_schema, faq_schema(faqs), crumb_schema])
+                           schema_objs=[article_schema, faq_schema(faqs), crumb_schema],
+                           image=guide_img)
 
 
 def render_guides_index(guides, config, roundups):
