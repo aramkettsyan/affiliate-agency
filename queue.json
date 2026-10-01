@@ -1,45 +1,5 @@
 [
   {
-    "id": "killer-guitar-control-secrets",
-    "name": "Killer Guitar Control Secrets",
-    "vendor": "GUITARIST3",
-    "category": "Crafts & Hobbies",
-    "niche": "music / guitar lessons",
-    "price": "low-ticket (official page)",
-    "summary": "A guitar lead-playing course that breaks down the core techniques behind soulful, expressive solos for players at any level.",
-    "best_for": "Guitar players who can already play but want to develop more expressive, soulful lead playing",
-    "keywords": [
-      "guitar lead playing course",
-      "learn soulful guitar solos",
-      "guitar control secrets review",
-      "improve guitar lead technique"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.9,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "sonic-producer-music-software",
-    "name": "Sonic Producer V2.0",
-    "vendor": "SONICPRO",
-    "category": "Crafts & Hobbies",
-    "niche": "music production software",
-    "price": "low-ticket (official page)",
-    "summary": "Beat-making software aimed at beginners who want to produce their own beats and instrumentals without a full studio setup.",
-    "best_for": "Aspiring music producers who want an affordable, beginner-friendly beat-making program",
-    "keywords": [
-      "beat making software for beginners",
-      "sonic producer review",
-      "make beats at home software",
-      "music production software for beginners"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "save-my-marriage-today",
     "name": "Save My Marriage Today",
     "vendor": "SAVEMARRIA",
