@@ -2428,5 +2428,32 @@
         "a": "Yes. Digestion draws fluid into the gut, and a salty or large meal can leave less circulating fluid for other tissues, including the eyes and tear film. Drinking a full glass of water with meals resolves this for some people entirely, which is a useful, low-cost thing to try before assuming a more serious cause."
       }
     ]
+  },
+  {
+    "id": "how-to-tell-if-used-car-was-in-accident",
+    "title": "How to Tell If a Used Car Was in an Accident Before You Buy It",
+    "summary": "A step-by-step inspection routine — panel gaps, paint, under the hood, interior clues, and a VIN history check — for spotting a used car's hidden accident history before you pay for it.",
+    "keywords": [
+      "how to tell if a used car was in an accident",
+      "signs a used car has hidden damage",
+      "how to check if a car has been in an accident before buying",
+      "used car accident history check"
+    ],
+    "related_product_id": "vinalert-vehicle-history-report",
+    "date": "2026-10-01",
+    "faqs": [
+      {
+        "q": "Can I tell if a used car was in an accident just by looking at it?",
+        "a": "Often partially. Visual checks like panel gaps, paint mismatches, and welding marks catch many repairs, but a well-done repair or a flood or salvage title from another state can be invisible to the eye. Pairing a visual inspection with a VIN-based vehicle history report and a mechanic's inspection catches far more than either step alone."
+      },
+      {
+        "q": "Do dealers have to disclose if a used car was in an accident?",
+        "a": "Disclosure rules vary by state and by whether the damage was significant enough to trigger a branded title. A dealer is generally required to disclose a branded title, but minor repaired damage that never affected the title may not have to be disclosed verbally, which is exactly why an independent check matters."
+      },
+      {
+        "q": "Is a free VIN check as reliable as a paid vehicle history report?",
+        "a": "No. Free VIN checks typically only confirm basic specs or open recalls, not accident, title, or odometer records, which come from paid databases the free tools don't have access to. A low-cost paid report that pulls accident and title data is worth it before a purchase this size, even if it isn't a big-name brand."
+      }
+    ]
   }
 ]
