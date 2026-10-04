@@ -1,25 +1,5 @@
 [
   {
-    "id": "born-blueprint-human-design",
-    "name": "Born Blueprint: Personal Human Design Reading",
-    "vendor": "BORNBLUE1",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "Human Design / Astrology",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized Human Design reading generated from your exact birth details, including a free chart quiz, a full reading, a forecast, and a daily guide subscription.",
-    "best_for": "people curious about Human Design who want a personalized chart rather than a generic overview",
-    "keywords": [
-      "human design chart reading",
-      "free human design quiz",
-      "personal human design report",
-      "what is my human design type"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "spooky-night-halloween-kit",
     "name": "Spooky Night - Halloween Family Fun Kit",
     "vendor": "EASYWRITEA",
