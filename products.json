@@ -7454,5 +7454,68 @@
       "personalized tarot reading service",
       "tarot reading for beginners"
     ]
+  },
+  {
+    "id": "diy-home-energy-solar-program",
+    "name": "DIY Home Energy Solar Power Program",
+    "category": "Green Products",
+    "niche": "Alternative Energy / Solar",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DIYHOMEENE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.7,
+      "approval_required": false
+    },
+    "summary": "A video/guide course that walks homeowners through practical steps to cut their electric bill using solar and home energy basics.",
+    "best_for": "homeowners looking for a beginner-friendly way to understand and start reducing home energy costs",
+    "keywords": [
+      "diy home solar power guide",
+      "lower electric bill at home",
+      "home energy savings course",
+      "beginner solar power program"
+    ]
+  },
+  {
+    "id": "neravia-astrology-reading",
+    "name": "NERAVIA Personalized Astrology Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Astrology",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ALEXK4II",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A fully personalized astrology reading built from your exact birth date, time and place, individually prepared and delivered digitally within 24 hours.",
+    "best_for": "astrology fans who want a one-on-one style natal reading rather than an instant generic report",
+    "keywords": [
+      "personalized astrology reading online",
+      "birth chart reading by hand",
+      "custom natal chart report",
+      "astrology reading based on birth time"
+    ]
+  },
+  {
+    "id": "starlit-chart-birth-reading",
+    "name": "Starlit Chart: Personal Birth Chart Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Astrology",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=STARLIT2",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A personalized astrology funnel that starts with a free birth chart quiz and expands into a full natal reading, yearly forecast, and monthly subscription.",
+    "best_for": "people who want to start with a free astrology quiz before deciding on a deeper reading",
+    "keywords": [
+      "free birth chart quiz",
+      "personal natal chart reading",
+      "year ahead astrology forecast",
+      "monthly astrology forecast subscription"
+    ]
   }
 ]

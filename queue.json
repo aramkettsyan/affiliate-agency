@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "born-blueprint-human-design",
+    "name": "Born Blueprint: Personal Human Design Reading",
+    "vendor": "BORNBLUE1",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Human Design / Astrology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Human Design reading generated from your exact birth details, including a free chart quiz, a full reading, a forecast, and a daily guide subscription.",
+    "best_for": "people curious about Human Design who want a personalized chart rather than a generic overview",
+    "keywords": [
+      "human design chart reading",
+      "free human design quiz",
+      "personal human design report",
+      "what is my human design type"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "spooky-night-halloween-kit",
+    "name": "Spooky Night - Halloween Family Fun Kit",
+    "vendor": "EASYWRITEA",
+    "category": "Parenting & Families",
+    "niche": "Seasonal / Family Activities",
+    "price": "low-ticket (official page)",
+    "summary": "A printable Halloween activity kit with games and activities designed for parents and grandparents to share with kids during the holiday season.",
+    "best_for": "parents and grandparents looking for easy, ready-made Halloween activities for family game nights",
+    "keywords": [
+      "printable halloween activities for kids",
+      "halloween family game night ideas",
+      "halloween activity kit for families",
+      "kids halloween printables pdf"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "grief-worksheets-pdf-booklet",
+    "name": "Grief Worksheets - PDF Booklet",
+    "vendor": "SOCIALSUPP",
+    "category": "Self-Help",
+    "niche": "Grief & Emotional Support",
+    "price": "low-ticket (official page)",
+    "summary": "A printable PDF workbook of grief worksheets covering different experiences of loss, meant to be used alone or alongside a counsellor or support worker.",
+    "best_for": "people processing grief who want structured, practical worksheets to work through at their own pace",
+    "keywords": [
+      "grief worksheets printable pdf",
+      "grief workbook for loss",
+      "coping with grief exercises",
+      "grief support worksheets for adults"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
