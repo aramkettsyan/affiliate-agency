@@ -7391,5 +7391,68 @@
       "diabetic friendly meal ideas",
       "cookbook for diabetics review"
     ]
+  },
+  {
+    "id": "mighty-k9-dog-joint-support",
+    "name": "Mighty-K9 Dog Joint Support",
+    "category": "Home & Garden",
+    "niche": "Animal Care & Pets",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MIGHTYK9",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A daily liquid supplement for dogs formulated with ESS60 and organic extra virgin olive oil to support joint comfort and mobility in older dogs.",
+    "best_for": "owners of senior or less-mobile dogs looking for an easy daily joint-support routine",
+    "keywords": [
+      "dog joint supplement for older dogs",
+      "senior dog mobility supplement",
+      "liquid joint support for dogs",
+      "ESS60 dog supplement"
+    ]
+  },
+  {
+    "id": "fitmyshed-plans",
+    "name": "FitMyShed",
+    "category": "Home & Garden",
+    "niche": "How-to & Home Improvements",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FITMYSHED",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A made-to-measure shed plan generator that builds a custom 3D design, cut list, shopping list, and materials calculator for the exact size shed you want.",
+    "best_for": "DIYers who want a shed plan sized precisely to their own yard rather than a generic template",
+    "keywords": [
+      "custom shed plans by size",
+      "made to measure shed blueprint",
+      "shed building materials calculator",
+      "DIY shed cut list generator"
+    ]
+  },
+  {
+    "id": "claires-tarot-reading",
+    "name": "Claire's Tarot Reading",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Tarot",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ARCANAVOX",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 16.5,
+      "approval_required": false
+    },
+    "summary": "A personalized online tarot reading service that starts with a free 5-card draw and expands into a fuller reading for those curious about tarot guidance.",
+    "best_for": "people new to tarot or looking for a quick, personalized online reading",
+    "keywords": [
+      "online tarot card reading",
+      "free 5 card tarot draw",
+      "personalized tarot reading service",
+      "tarot reading for beginners"
+    ]
   }
 ]
