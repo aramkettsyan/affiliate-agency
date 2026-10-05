@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "aura-reading-online",
+    "name": "Aura Reading",
+    "vendor": "AURAREAD",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "aura reading / energy field personality reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized online aura reading that interprets your energy field to offer insight into personality traits, emotional state, and life direction.",
+    "best_for": "people new to aura reading who want an easy, personalized introduction to the practice",
+    "keywords": [
+      "aura reading review",
+      "online aura reading",
+      "what does my aura color mean",
+      "personalized aura reading review"
+    ],
+    "clickbank_stats": {
+      "gravity": 3.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "biofield-resonance-pyramid",
+    "name": "Biofield Resonance Pyramid",
+    "vendor": "LOOMIE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "feng shui / biofield pyramid decor for manifestation and energy",
+    "price": "low-ticket (official page)",
+    "summary": "A decorative pyramid-shaped item marketed to support feng shui, manifestation, and energy balance practices in the home.",
+    "best_for": "people interested in feng shui or manifestation decor who want a physical focal point for their practice",
+    "keywords": [
+      "biofield resonance pyramid review",
+      "feng shui pyramid decor review",
+      "manifestation pyramid",
+      "energy balance home decor"
+    ],
+    "clickbank_stats": {
+      "gravity": 13.4,
+      "approval_required": false
+    }
+  }
+]
