@@ -1,21 +1,121 @@
 [
   {
-    "id": "lussira-ai-personal-stylist",
-    "name": "Lussira — AI Personal Stylist & Wardrobe App",
-    "vendor": "HAMIDSH191",
-    "category": "Self-Help",
-    "niche": "AI-powered outfit planning and wardrobe styling app",
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "DIY backyard chicken-keeping and egg production guide",
     "price": "low-ticket (official page)",
-    "summary": "An AI styling app that builds outfit combinations from clothes users already own, with separate AI stylists for women and men, delivered as a low-cost trial subscription.",
-    "best_for": "people who want outfit ideas from their existing wardrobe without hiring a personal stylist",
+    "summary": "A DIY guide that shows homeowners how to raise backyard chickens for a steady supply of fresh eggs, aimed at the renewed interest in home egg production.",
+    "best_for": "homeowners who want to cut grocery costs and keep a small backyard flock for fresh eggs",
     "keywords": [
-      "ai personal stylist app review",
-      "outfit planner app",
-      "ai wardrobe app",
-      "lussira app review"
+      "backyard chicken coop guide",
+      "how to raise chickens for eggs",
+      "backyard eggs big bucks review",
+      "diy egg production at home"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "freedom-without-overwhelm",
+    "name": "Freedom Without Overwhelm",
+    "vendor": "FREELA09",
+    "category": "Business & Investing",
+    "niche": "A 90-day income-planning program for freelancers with variable income",
+    "price": "low-ticket (official page, $27)",
+    "summary": "A structured 90-day plan built for US freelancers who want to manage unpredictable income without feeling constantly overwhelmed, with no guaranteed-results claims.",
+    "best_for": "freelancers and gig workers who want a calmer, more structured approach to variable income",
+    "keywords": [
+      "freelancer income planning guide",
+      "freedom without overwhelm review",
+      "manage variable freelance income",
+      "90 day freelancer income plan"
     ],
     "clickbank_stats": {
       "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "preparate-entrevista-ingles-charly",
+    "name": "Prepárate Para Tu Entrevista (Charly Speak Lab)",
+    "vendor": "CARLOSTOOL",
+    "category": "Education",
+    "niche": "Interactive English-learning program for Spanish speakers preparing for job interviews",
+    "price": "low-ticket (official page)",
+    "summary": "An interactive English program for Spanish speakers that focuses on real job-interview scenarios, letting learners listen, speak, record themselves, and get corrected pronunciation feedback.",
+    "best_for": "Spanish speakers who need practical, job-focused English speaking and interview practice",
+    "keywords": [
+      "aprender ingles para entrevista de trabajo",
+      "charly speak lab review",
+      "english for job interviews spanish speakers",
+      "curso de ingles interactivo"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "dictate-ai-book-blueprint",
+    "name": "Dictate: AI Book Blueprint",
+    "vendor": "DICTATE",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI-guided interview tool that turns spoken expertise into a personalized book blueprint",
+    "price": "low-ticket (official page, $27)",
+    "summary": "An AI-guided interview tool that walks coaches, consultants, and entrepreneurs through talking out their expertise, then turns the conversation into a structured personalized book blueprint.",
+    "best_for": "coaches, consultants, and entrepreneurs who want to turn their knowledge into a book outline without starting from a blank page",
+    "keywords": [
+      "dictate ai book blueprint review",
+      "ai tool to write a book outline",
+      "turn expertise into a book",
+      "ai guided book writing tool"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality & Astrology",
+    "niche": "Personalized Eastern-style astrology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading drawing on Eastern astrological traditions, delivered digitally for entertainment and self-reflection.",
+    "best_for": "readers curious about Eastern astrology traditions who enjoy personalized horoscope-style content",
+    "keywords": [
+      "eastern astrology reading review",
+      "personalized astrology reading online",
+      "chinese astrology reading",
+      "eastern zodiac compatibility reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 73.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality & Astrology",
+    "niche": "Personalized soulmate sketch and astrology-based compatibility reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized soulmate sketch service that combines astrology-style questions with an artist-style rendering, aimed at entertainment and self-reflection on relationships.",
+    "best_for": "readers curious about soulmate sketch and astrology-based relationship content for entertainment purposes",
+    "keywords": [
+      "tara lunar soulmate sketch review",
+      "soulmate sketch astrology",
+      "personalized soulmate drawing",
+      "who is my soulmate reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 39.5,
       "approval_required": false
     }
   }
