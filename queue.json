@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs-big-bucks",
-    "name": "Backyard Eggs = Big Bucks!",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chicken coop & egg side-income DIY guide",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide for raising backyard chickens and turning fresh eggs into a small side income, aimed at homeowners looking to offset rising grocery costs.",
-    "best_for": "homeowners and hobby farmers interested in backyard chickens as both a food source and a small side hustle",
-    "keywords": [
-      "backyard chicken egg side income",
-      "how to raise backyard chickens for eggs",
-      "backyard eggs big bucks review",
-      "chicken coop diy guide"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.3,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "fairs-festivals-vendor-calendar",
-    "name": "Fairs and Festivals Vendor Calendar AND Ebook",
-    "vendor": "LINDSEYFWA",
-    "category": "Home & Garden",
-    "niche": "craft fair and festival vendor event directory for makers",
-    "price": "low-ticket (official page)",
-    "summary": "A detailed event calendar covering fairs, craft shows, and festivals across the USA with organizer contacts and booth/vendor information, aimed at artists and crafters who sell at in-person events.",
-    "best_for": "crafters, artists, and home-based makers who sell at fairs and festivals and need a reliable event calendar",
-    "keywords": [
-      "craft fair vendor calendar",
-      "festival vendor directory",
-      "where to sell crafts in person",
-      "craft show calendar usa"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "lussira-ai-personal-stylist",
     "name": "Lussira — AI Personal Stylist & Wardrobe App",
     "vendor": "HAMIDSH191",
