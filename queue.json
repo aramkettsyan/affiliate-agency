@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs-big-bucks",
-    "name": "Backyard Eggs = Big Bucks!",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "DIY backyard chicken-keeping and egg production guide",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide that shows homeowners how to raise backyard chickens for a steady supply of fresh eggs, aimed at the renewed interest in home egg production.",
-    "best_for": "homeowners who want to cut grocery costs and keep a small backyard flock for fresh eggs",
-    "keywords": [
-      "backyard chicken coop guide",
-      "how to raise chickens for eggs",
-      "backyard eggs big bucks review",
-      "diy egg production at home"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.2,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "freedom-without-overwhelm",
-    "name": "Freedom Without Overwhelm",
-    "vendor": "FREELA09",
-    "category": "Business & Investing",
-    "niche": "A 90-day income-planning program for freelancers with variable income",
-    "price": "low-ticket (official page, $27)",
-    "summary": "A structured 90-day plan built for US freelancers who want to manage unpredictable income without feeling constantly overwhelmed, with no guaranteed-results claims.",
-    "best_for": "freelancers and gig workers who want a calmer, more structured approach to variable income",
-    "keywords": [
-      "freelancer income planning guide",
-      "freedom without overwhelm review",
-      "manage variable freelance income",
-      "90 day freelancer income plan"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "preparate-entrevista-ingles-charly",
     "name": "Prepárate Para Tu Entrevista (Charly Speak Lab)",
     "vendor": "CARLOSTOOL",
