@@ -1,25 +1,5 @@
 [
   {
-    "id": "preparate-entrevista-ingles-charly",
-    "name": "Prepárate Para Tu Entrevista (Charly Speak Lab)",
-    "vendor": "CARLOSTOOL",
-    "category": "Education",
-    "niche": "Interactive English-learning program for Spanish speakers preparing for job interviews",
-    "price": "low-ticket (official page)",
-    "summary": "An interactive English program for Spanish speakers that focuses on real job-interview scenarios, letting learners listen, speak, record themselves, and get corrected pronunciation feedback.",
-    "best_for": "Spanish speakers who need practical, job-focused English speaking and interview practice",
-    "keywords": [
-      "aprender ingles para entrevista de trabajo",
-      "charly speak lab review",
-      "english for job interviews spanish speakers",
-      "curso de ingles interactivo"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "dictate-ai-book-blueprint",
     "name": "Dictate: AI Book Blueprint",
     "vendor": "DICTATE",
