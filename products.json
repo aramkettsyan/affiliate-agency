@@ -7895,5 +7895,47 @@
       "prepper diy projects",
       "survival upgrades for home"
     ]
+  },
+  {
+    "id": "five-minute-survival-blueprint",
+    "name": "5 Minute Survival Blueprint",
+    "category": "Self-Help",
+    "niche": "quick-start emergency preparedness blueprint",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=RETHINKSUR",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    },
+    "summary": "A concise, fast-start guide to basic emergency preparedness steps that anyone can begin in minutes.",
+    "best_for": "beginners who want a simple, low-effort starting point for emergency readiness",
+    "keywords": [
+      "5 minute survival plan",
+      "quick emergency preparedness guide",
+      "beginner survival blueprint",
+      "fast emergency prep steps"
+    ]
+  },
+  {
+    "id": "survival-grenade-kit-guide",
+    "name": "Survival Grenade Kit",
+    "category": "Self-Help",
+    "niche": "compact 15-item emergency survival kit",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SVLGRENADE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A compact, giveaway-style 15-item survival kit guide aimed at everyday emergency readiness.",
+    "best_for": "people who want an affordable, pocket-sized starter emergency kit",
+    "keywords": [
+      "survival kit essentials",
+      "15 item survival kit",
+      "emergency kit guide",
+      "compact survival kit"
+    ]
   }
 ]
