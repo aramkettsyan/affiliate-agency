@@ -1,18 +1,58 @@
 [
   {
-    "id": "aquastiq-water-purification-stick",
-    "name": "Aquastiq Personal Water Purification",
-    "vendor": "AQUASTIQ",
-    "category": "Self-Help",
-    "niche": "portable personal water purification device",
+    "id": "fieldquote-ai-contractors",
+    "name": "FieldQuote AI - AI Quotes & Invoicing for Contractors",
+    "vendor": "FIELDQUOTE",
+    "category": "Business / Investing",
+    "niche": "AI-powered quoting and invoicing software for contractors and field service businesses",
     "price": "low-ticket (official page)",
-    "summary": "A portable straw-style water purification device for making found water sources safer to drink in the field.",
-    "best_for": "hikers, campers, and preppers who want a compact backup water-purification tool",
+    "summary": "A SaaS tool that helps contractors and field service businesses create professional quotes, invoices, and customer records faster using AI.",
+    "best_for": "contractors, tradespeople, and field service businesses who want to quote and invoice jobs faster without extra admin work",
     "keywords": [
-      "personal water purification straw",
-      "portable water filter survival",
-      "emergency water purifier",
-      "camping water purification device"
+      "AI quoting software for contractors",
+      "contractor invoicing app",
+      "field service business software",
+      "quote and invoice tool for tradesmen"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "prediabetes-action-plan",
+    "name": "Prediabetes Action Plan",
+    "vendor": "WELLAGEMD",
+    "category": "Health & Fitness",
+    "niche": "physician-written guide to improving insulin sensitivity and reversing prediabetes",
+    "price": "low-ticket (official page)",
+    "summary": "A physician-written, step-by-step guide to improving insulin sensitivity, steadying blood sugar, and building a realistic path toward reversing prediabetes.",
+    "best_for": "people recently told they are prediabetic who want a clear, practical plan before it progresses to type 2 diabetes",
+    "keywords": [
+      "prediabetes action plan guide",
+      "reverse prediabetes naturally",
+      "improve insulin sensitivity",
+      "lower blood sugar prediabetes"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "fimavyn-metabolic-support",
+    "name": "FIMAVYN - Metabolic Support Dietary Supplement",
+    "vendor": "FIMAVYN",
+    "category": "Health & Fitness",
+    "niche": "daily metabolic support dietary supplement",
+    "price": "low-ticket (official page)",
+    "summary": "A daily dietary supplement with a transparent 10-ingredient formula designed to support metabolism and general wellness.",
+    "best_for": "adults looking for a straightforward daily metabolic-support supplement with a clearly listed ingredient panel",
+    "keywords": [
+      "metabolic support supplement",
+      "daily wellness supplement",
+      "FIMAVYN review",
+      "metabolism support pills"
     ],
     "clickbank_stats": {
       "gravity": 0.0,
