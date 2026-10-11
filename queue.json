@@ -1,41 +1,101 @@
 [
   {
-    "id": "eastern-astrology-language-reading",
-    "name": "Eastern Astrology Language Reading",
-    "vendor": "ASTROLAN",
-    "category": "Spirituality & Astrology",
-    "niche": "Personalized Eastern-style astrology reading",
+    "id": "emp-survival-protection-guide",
+    "name": "The EMP Survival Offer",
+    "vendor": "EMPPROT",
+    "category": "Self-Help",
+    "niche": "EMP and grid-down emergency preparedness guide",
     "price": "low-ticket (official page)",
-    "summary": "A personalized astrology reading drawing on Eastern astrological traditions, delivered digitally for entertainment and self-reflection.",
-    "best_for": "readers curious about Eastern astrology traditions who enjoy personalized horoscope-style content",
+    "summary": "A guide focused on practical steps for preparing for power-grid disruptions and EMP-related emergency scenarios.",
+    "best_for": "preppers concerned about power-grid disruptions and long-term outages",
     "keywords": [
-      "eastern astrology reading review",
-      "personalized astrology reading online",
-      "chinese astrology reading",
-      "eastern zodiac compatibility reading"
+      "emp survival guide",
+      "grid down preparedness",
+      "emp protection tips",
+      "power outage survival plan"
     ],
     "clickbank_stats": {
-      "gravity": 73.4,
+      "gravity": 1.2,
       "approval_required": false
     }
   },
   {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "SOULVOICE",
-    "category": "Spirituality & Astrology",
-    "niche": "Personalized soulmate sketch and astrology-based compatibility reading",
+    "id": "five-minute-survival-blueprint",
+    "name": "5 Minute Survival Blueprint",
+    "vendor": "RETHINKSUR",
+    "category": "Self-Help",
+    "niche": "quick-start emergency preparedness blueprint",
     "price": "low-ticket (official page)",
-    "summary": "A personalized soulmate sketch service that combines astrology-style questions with an artist-style rendering, aimed at entertainment and self-reflection on relationships.",
-    "best_for": "readers curious about soulmate sketch and astrology-based relationship content for entertainment purposes",
+    "summary": "A concise, fast-start guide to basic emergency preparedness steps that anyone can begin in minutes.",
+    "best_for": "beginners who want a simple, low-effort starting point for emergency readiness",
     "keywords": [
-      "tara lunar soulmate sketch review",
-      "soulmate sketch astrology",
-      "personalized soulmate drawing",
-      "who is my soulmate reading"
+      "5 minute survival plan",
+      "quick emergency preparedness guide",
+      "beginner survival blueprint",
+      "fast emergency prep steps"
     ],
     "clickbank_stats": {
-      "gravity": 39.5,
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs-income",
+    "name": "Backyard Eggs",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken-keeping & egg production DIY guide",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide for raising backyard chickens to produce your own eggs at home amid rising grocery prices.",
+    "best_for": "homeowners and backyard hobbyists interested in raising a few chickens for eggs",
+    "keywords": [
+      "backyard chickens for eggs",
+      "raise chickens at home",
+      "backyard egg guide",
+      "chicken coop for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "survival-grenade-kit-guide",
+    "name": "Survival Grenade Kit",
+    "vendor": "SVLGRENADE",
+    "category": "Self-Help",
+    "niche": "compact 15-item emergency survival kit",
+    "price": "low-ticket (official page)",
+    "summary": "A compact, giveaway-style 15-item survival kit guide aimed at everyday emergency readiness.",
+    "best_for": "people who want an affordable, pocket-sized starter emergency kit",
+    "keywords": [
+      "survival kit essentials",
+      "15 item survival kit",
+      "emergency kit guide",
+      "compact survival kit"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "aquastiq-water-purification-stick",
+    "name": "Aquastiq Personal Water Purification",
+    "vendor": "AQUASTIQ",
+    "category": "Self-Help",
+    "niche": "portable personal water purification device",
+    "price": "low-ticket (official page)",
+    "summary": "A portable straw-style water purification device for making found water sources safer to drink in the field.",
+    "best_for": "hikers, campers, and preppers who want a compact backup water-purification tool",
+    "keywords": [
+      "personal water purification straw",
+      "portable water filter survival",
+      "emergency water purifier",
+      "camping water purification device"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
       "approval_required": false
     }
   }
