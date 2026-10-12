@@ -1,25 +1,5 @@
 [
   {
-    "id": "fieldquote-ai-contractors",
-    "name": "FieldQuote AI - AI Quotes & Invoicing for Contractors",
-    "vendor": "FIELDQUOTE",
-    "category": "Business / Investing",
-    "niche": "AI-powered quoting and invoicing software for contractors and field service businesses",
-    "price": "low-ticket (official page)",
-    "summary": "A SaaS tool that helps contractors and field service businesses create professional quotes, invoices, and customer records faster using AI.",
-    "best_for": "contractors, tradespeople, and field service businesses who want to quote and invoice jobs faster without extra admin work",
-    "keywords": [
-      "AI quoting software for contractors",
-      "contractor invoicing app",
-      "field service business software",
-      "quote and invoice tool for tradesmen"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "prediabetes-action-plan",
     "name": "Prediabetes Action Plan",
     "vendor": "WELLAGEMD",
