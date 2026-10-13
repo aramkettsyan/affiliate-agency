@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "TRUELOVEOR",
+    "category": "Spirituality",
+    "niche": "Astrology & Psychic Sketch Readings",
+    "price": "low-ticket (official page)",
+    "summary": "A soulmate sketch reading built around a Balinese channeling story, offering a personalized visual depiction of a reader's future partner.",
+    "best_for": "Readers drawn to a unique cultural angle on the soulmate-sketch reading format",
+    "keywords": [
+      "Balinese soulmate sketch",
+      "soulmate sketch reading online",
+      "psychic sketch of soulmate",
+      "channeled soulmate drawing"
+    ],
+    "clickbank_stats": {
+      "gravity": 10.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "pyramid-wealth-frequency",
+    "name": "Pyramid Wealth Frequency",
+    "vendor": "PWFREQUNCY",
+    "category": "Spirituality",
+    "niche": "Manifestation & Wealth Audio",
+    "price": "low-ticket (official page)",
+    "summary": "An audio manifestation program combining pyramid-inspired frequency tracks with a wealth and abundance mindset angle.",
+    "best_for": "Listeners interested in audio-based manifestation and law-of-attraction content",
+    "keywords": [
+      "pyramid wealth frequency audio",
+      "wealth manifestation audio track",
+      "abundance frequency program",
+      "manifestation audio for wealth"
+    ],
+    "clickbank_stats": {
+      "gravity": 9.5,
+      "approval_required": false
+    }
+  }
+]

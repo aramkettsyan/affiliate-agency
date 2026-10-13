@@ -8021,5 +8021,47 @@
       "FIMAVYN review",
       "metabolism support pills"
     ]
+  },
+  {
+    "id": "wealth-manifest",
+    "name": "Wealth Manifest",
+    "category": "Spirituality",
+    "niche": "Manifestation",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MANIFESTDY",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.1,
+      "approval_required": false
+    },
+    "summary": "A manifestation program promising a step-by-step system to shift mindset and attract wealth, aimed at a broad personal-development audience.",
+    "best_for": "Beginners to manifestation and law-of-attraction practices looking for a structured program",
+    "keywords": [
+      "wealth manifestation program",
+      "law of attraction wealth course",
+      "manifest money mindset guide",
+      "abundance manifestation system"
+    ]
+  },
+  {
+    "id": "gypsy-love-spell",
+    "name": "Gypsy Love Spell",
+    "category": "Spirituality",
+    "niche": "Witchcraft & Love Spells",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=GLSEC00",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.8,
+      "approval_required": false
+    },
+    "summary": "A witchcraft-themed love spell offer marketed to women interested in spiritual approaches to romance and relationships.",
+    "best_for": "Readers interested in witchcraft and spell-casting content around love and relationships",
+    "keywords": [
+      "gypsy love spell",
+      "love spell for relationships",
+      "witchcraft love ritual",
+      "spiritual love spell casting"
+    ]
   }
 ]
