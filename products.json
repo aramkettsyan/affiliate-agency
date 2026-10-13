@@ -8063,5 +8063,68 @@
       "witchcraft love ritual",
       "spiritual love spell casting"
     ]
+  },
+  {
+    "id": "time-to-thrive",
+    "name": "Time to Thrive",
+    "category": "Spirituality",
+    "niche": "Religion & Personal Growth",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=TIMETOTHRI",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.4,
+      "approval_required": false
+    },
+    "summary": "A faith-oriented personal-growth funnel positioned for readers seeking religious and motivational content.",
+    "best_for": "Readers interested in faith-based personal development content",
+    "keywords": [
+      "Time to Thrive review",
+      "faith based personal growth program",
+      "religious motivation course",
+      "Christian self improvement program"
+    ]
+  },
+  {
+    "id": "zodiac-twin-flame-tarot",
+    "name": "Zodiac Twin Flame Tarot",
+    "category": "Spirituality",
+    "niche": "Tarot & Twin Flame Readings",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ZTFT00",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.5,
+      "approval_required": false
+    },
+    "summary": "A tarot reading offer centered on the 'twin flame' relationship concept, combining zodiac and tarot angles.",
+    "best_for": "Readers interested in twin flame and tarot-based relationship readings",
+    "keywords": [
+      "zodiac twin flame tarot",
+      "twin flame tarot reading",
+      "twin flame zodiac reading",
+      "tarot twin flame connection"
+    ]
+  },
+  {
+    "id": "celeste-hart-soulmate-sketch",
+    "name": "Celeste Hart - Soulmate Sketch",
+    "category": "Spirituality",
+    "niche": "Astrology & Psychic Sketch Readings",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SOULCIETY",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 2.1,
+      "approval_required": false
+    },
+    "summary": "A soulmate sketch reading from the 'Celeste Hart' persona, offering a personalized visual depiction of a reader's future partner.",
+    "best_for": "Readers interested in the soulmate-sketch reading format with a new persona angle",
+    "keywords": [
+      "Celeste Hart soulmate sketch",
+      "soulmate sketch reading online",
+      "psychic sketch of soulmate",
+      "personalized soulmate portrait"
+    ]
   }
 ]

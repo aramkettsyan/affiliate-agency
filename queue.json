@@ -1,41 +1,21 @@
 [
   {
-    "id": "balinese-soulmate-sketch",
-    "name": "Balinese Soulmate Sketch",
-    "vendor": "TRUELOVEOR",
+    "id": "pure-reiki-mastery",
+    "name": "Pure Reiki Mastery",
+    "vendor": "PUREREIKI",
     "category": "Spirituality",
-    "niche": "Astrology & Psychic Sketch Readings",
+    "niche": "Reiki & Energy Healing",
     "price": "low-ticket (official page)",
-    "summary": "A soulmate sketch reading built around a Balinese channeling story, offering a personalized visual depiction of a reader's future partner.",
-    "best_for": "Readers drawn to a unique cultural angle on the soulmate-sketch reading format",
+    "summary": "An evergreen Reiki training offer teaching readers the fundamentals of Reiki energy healing, positioned to pair with LOA, manifestation, and chakra content.",
+    "best_for": "Readers interested in learning Reiki and energy-healing practices",
     "keywords": [
-      "Balinese soulmate sketch",
-      "soulmate sketch reading online",
-      "psychic sketch of soulmate",
-      "channeled soulmate drawing"
+      "pure reiki mastery review",
+      "learn reiki healing online",
+      "reiki training course",
+      "reiki energy healing guide"
     ],
     "clickbank_stats": {
-      "gravity": 10.5,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "pyramid-wealth-frequency",
-    "name": "Pyramid Wealth Frequency",
-    "vendor": "PWFREQUNCY",
-    "category": "Spirituality",
-    "niche": "Manifestation & Wealth Audio",
-    "price": "low-ticket (official page)",
-    "summary": "An audio manifestation program combining pyramid-inspired frequency tracks with a wealth and abundance mindset angle.",
-    "best_for": "Listeners interested in audio-based manifestation and law-of-attraction content",
-    "keywords": [
-      "pyramid wealth frequency audio",
-      "wealth manifestation audio track",
-      "abundance frequency program",
-      "manifestation audio for wealth"
-    ],
-    "clickbank_stats": {
-      "gravity": 9.5,
+      "gravity": 5.6,
       "approval_required": false
     }
   }
