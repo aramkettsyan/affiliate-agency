@@ -1,121 +1,81 @@
 [
   {
-    "id": "spooky-night-halloween-family-fun-kit",
-    "name": "Spooky Night - Halloween Family Fun Kit",
-    "vendor": "EASYWRITEA",
-    "category": "Parenting & Families",
-    "niche": "Halloween printable activities for families",
+    "id": "killer-guitar-control-secrets",
+    "name": "Killer Guitar Control Secrets",
+    "vendor": "GUITARIST3",
+    "category": "Arts & Entertainment",
+    "niche": "intermediate guitar lead and technique training",
     "price": "low-ticket (official page)",
-    "summary": "A printable Halloween activity kit with games and activities designed for parents and grandparents to share with kids during the holiday season.",
-    "best_for": "Parents and grandparents looking for easy, low-cost Halloween activities to do with kids at home",
+    "summary": "A guitar course focused on the three components of guitar control, aimed at helping intermediate players move past a plateau and play more soulful lead guitar.",
+    "best_for": "intermediate guitarists who already know basic chords and scales but want more control and feel in their lead playing",
     "keywords": [
-      "halloween printable activities for kids",
-      "family halloween games",
-      "halloween activity kit",
-      "spooky season kids crafts"
+      "guitar control course",
+      "lead guitar training",
+      "improve guitar technique",
+      "guitar lessons for intermediate players"
     ],
     "clickbank_stats": {
-      "gravity": 1.5,
+      "gravity": 0.6,
       "approval_required": false
     }
   },
   {
-    "id": "stop-texting-like-roommates-couples-ebook",
-    "name": "Stop Texting Like Roommates - Couples Texting Ebook",
-    "vendor": "FELIX2027",
-    "category": "Self-Help",
-    "niche": "couples communication & texting habits",
+    "id": "get-paid-to-drive-medical-courier",
+    "name": "Get Paid to Drive: Medical Courier Side Hustle Guide",
+    "vendor": "MEDCOURIER",
+    "category": "Employment & Jobs",
+    "niche": "medical courier gig economy side hustle",
     "price": "low-ticket (official page)",
-    "summary": "An ebook for married couples whose texts have turned into pure logistics, teaching a '3-Text Bridge' method to bring more warmth back into everyday texting.",
-    "best_for": "Married couples roughly age 28-55 who want to reconnect through small daily texting habits rather than big gestures",
+    "summary": "A guide showing how to turn your own vehicle into a medical courier side hustle, delivering lab specimens and medical supplies for extra income.",
+    "best_for": "people with a reliable vehicle who want a flexible side hustle or part-time income without starting a full business",
     "keywords": [
-      "couples communication ebook",
-      "how to text your spouse better",
-      "marriage texting tips",
-      "reconnect with spouse daily habits"
+      "medical courier side hustle",
+      "get paid to drive",
+      "become a medical courier",
+      "earn money with your car"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 1.6,
       "approval_required": false
     }
   },
   {
-    "id": "born-blueprint-human-design-reading",
-    "name": "Born Blueprint: Personal Human Design Reading",
-    "vendor": "BORNBLUE1",
-    "category": "Spirituality & Astrology",
-    "niche": "Human Design readings",
+    "id": "stress-free-golf-swing",
+    "name": "The Stress-Free Golf Swing",
+    "vendor": "EMETMARK",
+    "category": "Sports",
+    "niche": "golf swing instruction for recreational players",
     "price": "low-ticket (official page)",
-    "summary": "A personalized Human Design reading generated from a visitor's exact birth details, including a free chart quiz, a full reading, a 2027 forecast, and an optional Daily Guide subscription.",
-    "best_for": "People curious about Human Design who want a personalized chart and ongoing daily guidance, for entertainment and self-reflection",
+    "summary": "A golf instruction program, formerly a top-ranked ClickBank golf product and relaunched for 2026, teaching a simpler, lower-tension swing for recreational golfers.",
+    "best_for": "recreational golfers who want a simpler, more repeatable swing without constant mechanical overthinking",
     "keywords": [
-      "human design reading",
-      "free human design chart",
-      "personalized human design report",
-      "human design for beginners"
+      "stress free golf swing review",
+      "simple golf swing method",
+      "golf swing training program",
+      "improve golf swing consistency"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 4.0,
       "approval_required": false
     }
   },
   {
-    "id": "jade-pillars-chinese-zodiac-reading",
-    "name": "Jade Pillars: Personal Chinese Zodiac Reading for 2027",
-    "vendor": "JADEPILL",
-    "category": "Spirituality & Astrology",
-    "niche": "Chinese zodiac / Four Pillars (BaZi) readings",
+    "id": "ford-shop-service-manuals",
+    "name": "Ford Shop Manuals and Service Manuals (eBooks)",
+    "vendor": "FORDMANUAL",
+    "category": "Reference",
+    "niche": "vintage Ford vehicle repair and service manuals",
     "price": "low-ticket (official page)",
-    "summary": "A personalized Chinese zodiac and Four Pillars (BaZi) reading built from the customer's exact birth details, including a 2027 Fire Goat reading, compatibility reports, and a monthly almanac.",
-    "best_for": "People interested in Chinese astrology who want a detailed BaZi reading beyond just their birth-year zodiac animal",
+    "summary": "A digital library of 125+ licensed vintage Ford shop and service manuals, wiring diagrams, and parts catalogs for cars and trucks.",
+    "best_for": "classic Ford owners and DIY mechanics who need accurate factory-licensed repair and wiring information",
     "keywords": [
-      "chinese zodiac reading",
-      "bazi four pillars reading",
-      "2027 fire goat forecast",
-      "chinese astrology compatibility report"
+      "ford shop manual download",
+      "vintage ford service manual",
+      "ford wiring diagrams",
+      "classic ford repair guide"
     ],
     "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "starlit-chart-birth-chart-reading",
-    "name": "Starlit Chart: Personal Birth Chart Reading",
-    "vendor": "STARLIT2",
-    "category": "Spirituality & Astrology",
-    "niche": "Western astrology birth chart readings",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized Western astrology reading built from a visitor's exact birth details, including a free birth chart quiz, a full natal reading, and optional Year Ahead and Monthly Forecast subscriptions.",
-    "best_for": "People new to astrology who want an easy-to-read personalized natal chart rather than generic horoscopes",
-    "keywords": [
-      "free birth chart reading",
-      "personalized natal chart",
-      "astrology reading online",
-      "2027 year ahead astrology forecast"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "manifesting-clearly-abundance-system",
-    "name": "Manifesting Clearly – 7-Minute Manifestation Audio & Abundance System",
-    "vendor": "ZEUS0132",
-    "category": "Spirituality",
-    "niche": "Law of Attraction / manifestation audio",
-    "price": "low-ticket (official page)",
-    "summary": "A 7-minute daily manifestation audio program for Law of Attraction, abundance, and visualization practice, with optional affirmation and meditation upsells.",
-    "best_for": "People already into Law of Attraction content who want a short, repeatable daily audio practice",
-    "keywords": [
-      "7 minute manifestation audio",
-      "law of attraction abundance audio",
-      "daily manifestation practice",
-      "visualization audio for abundance"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
+      "gravity": 4.5,
       "approval_required": false
     }
   }
