@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "spooky-night-halloween-family-fun-kit",
+    "name": "Spooky Night - Halloween Family Fun Kit",
+    "vendor": "EASYWRITEA",
+    "category": "Parenting & Families",
+    "niche": "Halloween printable activities for families",
+    "price": "low-ticket (official page)",
+    "summary": "A printable Halloween activity kit with games and activities designed for parents and grandparents to share with kids during the holiday season.",
+    "best_for": "Parents and grandparents looking for easy, low-cost Halloween activities to do with kids at home",
+    "keywords": [
+      "halloween printable activities for kids",
+      "family halloween games",
+      "halloween activity kit",
+      "spooky season kids crafts"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "stop-texting-like-roommates-couples-ebook",
+    "name": "Stop Texting Like Roommates - Couples Texting Ebook",
+    "vendor": "FELIX2027",
+    "category": "Self-Help",
+    "niche": "couples communication & texting habits",
+    "price": "low-ticket (official page)",
+    "summary": "An ebook for married couples whose texts have turned into pure logistics, teaching a '3-Text Bridge' method to bring more warmth back into everyday texting.",
+    "best_for": "Married couples roughly age 28-55 who want to reconnect through small daily texting habits rather than big gestures",
+    "keywords": [
+      "couples communication ebook",
+      "how to text your spouse better",
+      "marriage texting tips",
+      "reconnect with spouse daily habits"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "born-blueprint-human-design-reading",
+    "name": "Born Blueprint: Personal Human Design Reading",
+    "vendor": "BORNBLUE1",
+    "category": "Spirituality & Astrology",
+    "niche": "Human Design readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Human Design reading generated from a visitor's exact birth details, including a free chart quiz, a full reading, a 2027 forecast, and an optional Daily Guide subscription.",
+    "best_for": "People curious about Human Design who want a personalized chart and ongoing daily guidance, for entertainment and self-reflection",
+    "keywords": [
+      "human design reading",
+      "free human design chart",
+      "personalized human design report",
+      "human design for beginners"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "jade-pillars-chinese-zodiac-reading",
+    "name": "Jade Pillars: Personal Chinese Zodiac Reading for 2027",
+    "vendor": "JADEPILL",
+    "category": "Spirituality & Astrology",
+    "niche": "Chinese zodiac / Four Pillars (BaZi) readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Chinese zodiac and Four Pillars (BaZi) reading built from the customer's exact birth details, including a 2027 Fire Goat reading, compatibility reports, and a monthly almanac.",
+    "best_for": "People interested in Chinese astrology who want a detailed BaZi reading beyond just their birth-year zodiac animal",
+    "keywords": [
+      "chinese zodiac reading",
+      "bazi four pillars reading",
+      "2027 fire goat forecast",
+      "chinese astrology compatibility report"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "starlit-chart-birth-chart-reading",
+    "name": "Starlit Chart: Personal Birth Chart Reading",
+    "vendor": "STARLIT2",
+    "category": "Spirituality & Astrology",
+    "niche": "Western astrology birth chart readings",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Western astrology reading built from a visitor's exact birth details, including a free birth chart quiz, a full natal reading, and optional Year Ahead and Monthly Forecast subscriptions.",
+    "best_for": "People new to astrology who want an easy-to-read personalized natal chart rather than generic horoscopes",
+    "keywords": [
+      "free birth chart reading",
+      "personalized natal chart",
+      "astrology reading online",
+      "2027 year ahead astrology forecast"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "manifesting-clearly-abundance-system",
+    "name": "Manifesting Clearly – 7-Minute Manifestation Audio & Abundance System",
+    "vendor": "ZEUS0132",
+    "category": "Spirituality",
+    "niche": "Law of Attraction / manifestation audio",
+    "price": "low-ticket (official page)",
+    "summary": "A 7-minute daily manifestation audio program for Law of Attraction, abundance, and visualization practice, with optional affirmation and meditation upsells.",
+    "best_for": "People already into Law of Attraction content who want a short, repeatable daily audio practice",
+    "keywords": [
+      "7 minute manifestation audio",
+      "law of attraction abundance audio",
+      "daily manifestation practice",
+      "visualization audio for abundance"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
