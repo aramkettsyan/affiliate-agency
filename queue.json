@@ -1,45 +1,5 @@
 [
   {
-    "id": "killer-guitar-control-secrets",
-    "name": "Killer Guitar Control Secrets",
-    "vendor": "GUITARIST3",
-    "category": "Arts & Entertainment",
-    "niche": "intermediate guitar lead and technique training",
-    "price": "low-ticket (official page)",
-    "summary": "A guitar course focused on the three components of guitar control, aimed at helping intermediate players move past a plateau and play more soulful lead guitar.",
-    "best_for": "intermediate guitarists who already know basic chords and scales but want more control and feel in their lead playing",
-    "keywords": [
-      "guitar control course",
-      "lead guitar training",
-      "improve guitar technique",
-      "guitar lessons for intermediate players"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.6,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "get-paid-to-drive-medical-courier",
-    "name": "Get Paid to Drive: Medical Courier Side Hustle Guide",
-    "vendor": "MEDCOURIER",
-    "category": "Employment & Jobs",
-    "niche": "medical courier gig economy side hustle",
-    "price": "low-ticket (official page)",
-    "summary": "A guide showing how to turn your own vehicle into a medical courier side hustle, delivering lab specimens and medical supplies for extra income.",
-    "best_for": "people with a reliable vehicle who want a flexible side hustle or part-time income without starting a full business",
-    "keywords": [
-      "medical courier side hustle",
-      "get paid to drive",
-      "become a medical courier",
-      "earn money with your car"
-    ],
-    "clickbank_stats": {
-      "gravity": 1.6,
-      "approval_required": false
-    }
-  },
-  {
     "id": "stress-free-golf-swing",
     "name": "The Stress-Free Golf Swing",
     "vendor": "EMETMARK",
