@@ -8210,5 +8210,26 @@
       "become a medical courier",
       "earn money with your car"
     ]
+  },
+  {
+    "id": "ford-shop-service-manuals",
+    "name": "Ford Shop Manuals and Service Manuals (eBooks)",
+    "category": "Reference",
+    "niche": "vintage Ford vehicle repair and service manuals",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FORDMANUAL",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.5,
+      "approval_required": false
+    },
+    "summary": "A digital library of 125+ licensed vintage Ford shop and service manuals, wiring diagrams, and parts catalogs for cars and trucks.",
+    "best_for": "classic Ford owners and DIY mechanics who need accurate factory-licensed repair and wiring information",
+    "keywords": [
+      "ford shop manual download",
+      "vintage ford service manual",
+      "ford wiring diagrams",
+      "classic ford repair guide"
+    ]
   }
 ]
