@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "lifepathway-numerology-reading",
+    "name": "Lifepathway Numerology Reading",
+    "vendor": "ZENITHCODE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Numerology",
+    "price": "low-ticket (official page)",
+    "summary": "A fully personalized numerology reading that starts with a free mini-reading, with optional in-depth PDF and audio upsells covering different areas of life.",
+    "best_for": "readers who want to start with a free numerology mini-reading before going deeper",
+    "keywords": [
+      "free numerology mini reading",
+      "personalized numerology reading",
+      "life path numerology report",
+      "numerology audio report"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]

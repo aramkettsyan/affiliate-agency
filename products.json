@@ -8336,5 +8336,47 @@
       "online fortune reading review",
       "spiritual fortune reading"
     ]
+  },
+  {
+    "id": "master-lis-universal-cheat-codes",
+    "name": "Master Li's Universal Cheat Codes",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Numerology / Manifestation",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CCUCC",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    },
+    "summary": "A manifestation program built around Grabovoi-style numeric codes, pitched as everyday mental shortcuts for focusing intention toward specific goals.",
+    "best_for": "readers already interested in Law of Attraction and numeric manifestation practices",
+    "keywords": [
+      "grabovoi codes guide",
+      "manifestation numeric codes",
+      "law of attraction cheat codes",
+      "universal cheat codes manifestation"
+    ]
+  },
+  {
+    "id": "numerologist-pro-soul-blueprint",
+    "name": "Numerologist PRO Soul Blueprint and Name Report",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Numerology",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=NUMPRO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A personalized Soul Blueprint and Name Report built from numerology, part of a wider suite of numerology reports, affirmations, and self-discovery courses.",
+    "best_for": "readers wanting a deeper numerology report tied to their name and birth details",
+    "keywords": [
+      "soul blueprint numerology",
+      "numerology name report",
+      "personalized numerology reading",
+      "numerology self discovery report"
+    ]
   }
 ]
