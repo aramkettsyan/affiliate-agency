@@ -8378,5 +8378,47 @@
       "personalized numerology reading",
       "numerology self discovery report"
     ]
+  },
+  {
+    "id": "keeper-of-final-moments",
+    "name": "Keeper of Final Moments",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Grief & End-of-Life Reflection",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=KOFM1",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A digital book paired with a 30-day interactive workbook for adults working through grief, mortality, and spiritual reflection on death and loss.",
+    "best_for": "adults processing grief or loss who want a structured, reflective journaling companion",
+    "keywords": [
+      "grief workbook guide",
+      "coping with loss journal",
+      "mortality reflection book",
+      "end of life spiritual guide"
+    ]
+  },
+  {
+    "id": "strength-at-home-desk-workers",
+    "name": "Strength at Home for Desk Workers 40+",
+    "category": "Health & Fitness",
+    "niche": "Home Strength Training (No Gym)",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=VERAHEALTH",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A 14-day home strength program for desk workers over 40, using just a chair, a wall, and bodyweight, built around short sessions that fit around a work schedule.",
+    "best_for": "desk workers 40+ who want a simple, no-equipment strength routine that fits a busy schedule",
+    "keywords": [
+      "home strength training no gym",
+      "workout for desk workers",
+      "bodyweight strength plan over 40",
+      "no equipment exercise routine"
+    ]
   }
 ]
