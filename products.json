@@ -8420,5 +8420,26 @@
       "bodyweight strength plan over 40",
       "no equipment exercise routine"
     ]
+  },
+  {
+    "id": "daily-invoice-maker",
+    "name": "Daily Invoice Maker",
+    "category": "Software & Services",
+    "niche": "Invoicing & Bookkeeping Software for Contractors",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=OMER4111",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A one-time-purchase desktop invoicing and bookkeeping app built for contractors and small service businesses who want to avoid a monthly subscription.",
+    "best_for": "contractors and small service businesses who want simple invoicing software without a recurring subscription",
+    "keywords": [
+      "invoicing software for contractors",
+      "pay once invoicing app",
+      "small business bookkeeping software",
+      "no subscription invoicing tool"
+    ]
   }
 ]
