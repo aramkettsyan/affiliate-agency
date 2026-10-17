@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "free-power-secrets",
+    "name": "Free Power Secrets",
+    "vendor": "FREEPOW",
+    "category": "Green Products",
+    "niche": "DIY home energy & off-grid power",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide aimed at homeowners who want to build a simple homemade fuel/energy setup to cut utility bills, aimed at the energy-conscious and off-grid/prepper audience.",
+    "best_for": "budget-conscious homeowners curious about DIY energy projects who want to experiment with cutting their power bills",
+    "keywords": [
+      "diy home energy guide",
+      "cut electricity bill diy",
+      "off grid power guide",
+      "homemade energy project"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.9,
+      "approval_required": false
+    }
+  }
+]
