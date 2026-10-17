@@ -8441,5 +8441,47 @@
       "small business bookkeeping software",
       "no subscription invoicing tool"
     ]
+  },
+  {
+    "id": "heavens-code",
+    "name": "Heavens Code",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Christian faith-based digital program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=HCODES",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.6,
+      "approval_required": false
+    },
+    "summary": "A faith-based digital program built around Christian scripture and prayer themes, aimed at readers looking for a devotional, evergreen spiritual resource.",
+    "best_for": "Christian readers looking for a scripture-based devotional program",
+    "keywords": [
+      "christian faith based program",
+      "heavens code review",
+      "scripture devotional program",
+      "christian spiritual guide online"
+    ]
+  },
+  {
+    "id": "st-benedict-spiritual-authority-key",
+    "name": "St. Benedict Spiritual Authority Key",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Christian devotional / blessed keepsake",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=KEYSPIRIT",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    },
+    "summary": "A physical St. Benedict medal-style keepsake paired with a digital prayer guide, positioned around themes of spiritual protection and peace for Christian readers.",
+    "best_for": "Christian readers drawn to traditional devotional keepsakes and prayer guides",
+    "keywords": [
+      "st benedict medal keepsake",
+      "christian protection prayer guide",
+      "spiritual authority key review",
+      "catholic devotional keepsake"
+    ]
   }
 ]
