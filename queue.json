@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "blackout-protocol",
+    "name": "Blackout Protocol",
+    "vendor": "BLACKOUTP",
+    "category": "Self-Help",
+    "niche": "Power outage and grid-down preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A preparedness guide focused on keeping a household fed, powered, and safe through extended power outages and grid failures.",
+    "best_for": "preppers and homeowners worried about blackouts or grid instability",
+    "keywords": [
+      "power outage survival guide",
+      "grid down preparedness plan",
+      "blackout prep guide",
+      "emergency power backup plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 8.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "manifestation-miracle",
+    "name": "Manifestation Miracle",
+    "vendor": "MANIMIR",
+    "category": "Self-Help",
+    "niche": "Law of attraction and manifestation self-help",
+    "price": "low-ticket (official page)",
+    "summary": "A long-running law-of-attraction program teaching manifestation techniques aimed at wealth, relationships, and personal goals.",
+    "best_for": "readers interested in law-of-attraction and manifestation practices",
+    "keywords": [
+      "manifestation miracle review",
+      "law of attraction program",
+      "manifestation techniques guide",
+      "attract abundance course"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "freedom-power-of-advanced-thinking",
+    "name": "FREEDOM - The Power of Advanced Thinking",
+    "vendor": "ADVANCED33",
+    "category": "Self-Help",
+    "niche": "Mindset and personal development",
+    "price": "low-ticket (official page)",
+    "summary": "A mindset program teaching advanced-thinking techniques aimed at personal clarity and breaking self-limiting patterns.",
+    "best_for": "readers looking for a mindset and personal-development reset",
+    "keywords": [
+      "advanced thinking mindset program",
+      "personal freedom self help",
+      "break limiting beliefs course",
+      "mindset transformation guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "Backyard chicken keeping and DIY egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide to setting up a small backyard egg operation to cut grocery costs and potentially sell the surplus.",
+    "best_for": "homeowners with yard space who want fresh eggs and a small side income",
+    "keywords": [
+      "backyard chicken coop guide",
+      "raise chickens for eggs",
+      "backyard egg business",
+      "chicken coop DIY plans"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  }
+]
