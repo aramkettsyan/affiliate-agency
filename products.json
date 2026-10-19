@@ -8546,5 +8546,26 @@
       "custom astrology report",
       "online star reading"
     ]
+  },
+  {
+    "id": "blackout-protocol",
+    "name": "Blackout Protocol",
+    "category": "Self-Help",
+    "niche": "Power outage and grid-down preparedness",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=BLACKOUTP",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 8.1,
+      "approval_required": false
+    },
+    "summary": "A preparedness guide focused on keeping a household fed, powered, and safe through extended power outages and grid failures.",
+    "best_for": "preppers and homeowners worried about blackouts or grid instability",
+    "keywords": [
+      "power outage survival guide",
+      "grid down preparedness plan",
+      "blackout prep guide",
+      "emergency power backup plan"
+    ]
   }
 ]
