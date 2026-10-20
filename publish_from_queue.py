@@ -46,13 +46,13 @@ def build_review_html(stub):
     summary = esc(stub.get("summary", ""))
     best_for = esc(stub.get("best_for", "the right buyer"))
     pros = stub.get("pros") or [
-        f"Focused, practical {stub.get('niche','')} content".strip(),
+        "Aimed at a clear audience: see \"Who is it best for?\" above",
         "60-day money-back guarantee through ClickBank",
-        "Instant access after purchase",
+        "Secure checkout handled by ClickBank",
     ]
     cons = stub.get("cons") or [
-        "Results depend on consistent effort",
-        "It's a digital product, not a physical one",
+        "Sales pages use marketing language, so weigh the claims with healthy skepticism",
+        "Price and offers can change, so confirm current details on the official page",
         "Some upsells are offered after purchase",
     ]
     pros_li = "".join(f"<li>{esc(x)}</li>" for x in pros)
