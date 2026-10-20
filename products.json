@@ -8651,5 +8651,68 @@
       "understanding male behavior",
       "truth talk relationship guide"
     ]
+  },
+  {
+    "id": "one-shot-fight-enders",
+    "name": "One Shot Fight Enders",
+    "category": "Self-Help",
+    "niche": "self-defense and fight-ending techniques",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=60MIN",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A self-defense training guide focused on simple, fast techniques designed to end a physical confrontation in one decisive move.",
+    "best_for": "beginners who want practical self-defense moves without formal martial-arts training",
+    "keywords": [
+      "one shot self defense techniques",
+      "end a fight fast",
+      "self defense for beginners",
+      "fight ending moves guide"
+    ]
+  },
+  {
+    "id": "fight-4-family",
+    "name": "Fight 4 Family",
+    "category": "Self-Help",
+    "niche": "family-oriented self-defense training",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FIGHT4FAM",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A self-defense course built around protecting your family, covering practical techniques for home and personal safety.",
+    "best_for": "parents and family members who want straightforward home and personal-safety training",
+    "keywords": [
+      "family self defense course",
+      "home safety training",
+      "protect your family self defense",
+      "fight 4 family review"
+    ]
+  },
+  {
+    "id": "millionaires-brain-academy",
+    "name": "Millionaire's Brain Academy",
+    "category": "Self-Help",
+    "niche": "wealth mindset and manifestation audio program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MILLIONB",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    },
+    "summary": "A self-help audio and mindset program aimed at reprogramming limiting beliefs around money using wealth-attraction and mind-power techniques.",
+    "best_for": "people interested in mindset and manifestation-style approaches to building wealth",
+    "keywords": [
+      "millionaire mindset program",
+      "wealth attraction audio",
+      "money mindset course",
+      "millionaire's brain academy review"
+    ]
   }
 ]
