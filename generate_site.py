@@ -380,6 +380,9 @@ def cta_button(product, label=None):
             f'rel="nofollow sponsored" target="_blank">{e(label)}</a>{price_html}</div>')
 
 
+GUIDES_ALL = []
+
+
 def render_article(product, config, roundups, related):
     slug = slugify(product["name"])
     canonical = f"{config['base_url'].rstrip('/')}/{slug}.html"
@@ -405,6 +408,11 @@ def render_article(product, config, roundups, related):
     if related:
         rel_html = ('<div class="related"><div class="section-title"><h2>Related reviews</h2></div>'
                     '<div class="grid">' + "".join(product_card(r) for r in related) + '</div></div>')
+
+    rg = [g for g in GUIDES_ALL if g.get("related_product_id") == product["id"]]
+    if rg:
+        rel_html += ('<div class="related"><div class="section-title"><h2>Related guides</h2></div><ul>'
+                     + "".join(f'<li><a href="{e(g["id"])}.html">{e(g["title"])}</a></li>' for g in rg) + '</ul></div>')
 
     disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
     body = (crumb + f'<h1>{e(product["name"])} Review ({YEAR})</h1>' + byline + hero_img + disclosure + verdict
@@ -539,8 +547,13 @@ def render_guide(guide, config, roundups, by_id):
                f'<a class="btn ghost" href="{rslug}.html">Read our full review</a></div>')
 
     faqs = [(f["q"], f["a"]) for f in guide.get("faqs", [])]
+    others = [g for g in GUIDES_ALL if g["id"] != gid and g.get("related_product_id") == guide.get("related_product_id")][:4]
+    more = ""
+    if others:
+        more = ('<div class="related"><div class="section-title"><h2>More guides on this topic</h2></div><ul>'
+                + "".join(f'<li><a href="{e(g["id"])}.html">{e(g["title"])}</a></li>' for g in others) + '</ul></div>')
     body = (crumb + f'<h1>{e(guide["title"])}</h1>' + byline + disclosure
-            + f'<article>{guide_body(guide)}</article>' + rec + faq_html(faqs))
+            + f'<article>{guide_body(guide)}</article>' + rec + faq_html(faqs) + more)
 
     guide_img = abs_url(config, DEFAULT_OG_IMAGE)
     article_schema = {
@@ -668,6 +681,7 @@ def main():
     IMAGES = load_json("images.json") if (ROOT / "images.json").exists() else {}
     PUBLIC.mkdir(exist_ok=True)
 
+    GUIDES_ALL[:] = guides
     products = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
     by_id = {p["id"]: p for p in products}
     urls = [f"{config['base_url'].rstrip('/')}/"]
