@@ -1,25 +1,5 @@
 [
   {
-    "id": "the-opulent-library",
-    "name": "The Opulent Library",
-    "vendor": "OPULENT7",
-    "category": "Self-Help",
-    "niche": "all-in-one self-mastery and wealth-building membership",
-    "price": "low-ticket (official page)",
-    "summary": "A membership library bundling self-mastery, money and wealth-building, and success-system courses into one subscription instead of buying separate programs.",
-    "best_for": "self-improvement readers who want one membership instead of multiple standalone courses",
-    "keywords": [
-      "self mastery membership",
-      "wealth building course library",
-      "all in one success membership",
-      "opulent library review"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "7-minute-wealth-wave-audio",
     "name": "The 7-Minute Wealth Wave Audio Bundle",
     "vendor": "WAVESRT202",
