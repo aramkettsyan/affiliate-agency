@@ -1,25 +1,5 @@
 [
   {
-    "id": "the-resilient-home-plan",
-    "name": "The Resilient Home",
-    "vendor": "RESILIENTH",
-    "category": "Home & Garden",
-    "niche": "household resilience and family emergency preparedness",
-    "price": "low-ticket (official page)",
-    "summary": "A practical 3-7-30 day household resilience plan covering food, water, power and family readiness for outages and emergencies.",
-    "best_for": "families and homeowners who want a straightforward, non-extreme approach to emergency preparedness",
-    "keywords": [
-      "household emergency preparedness plan",
-      "family resilience guide",
-      "home readiness assessment",
-      "resilient home review"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.5,
-      "approval_required": false
-    }
-  },
-  {
     "id": "ideas4landscaping",
     "name": "7250 Landscaping Ideas",
     "vendor": "IDEAS4LAND",
