@@ -1,45 +1,5 @@
 [
   {
-    "id": "backyard-eggs-cluckboss",
-    "name": "Backyard Eggs",
-    "vendor": "CLUCKBOSS",
-    "category": "Home & Garden",
-    "niche": "backyard chicken-keeping and home egg production",
-    "price": "low-ticket (official page)",
-    "summary": "A DIY guide to raising backyard chickens for a reliable home egg supply, aimed at households looking to cut grocery costs amid rising egg prices.",
-    "best_for": "homeowners and hobby farmers interested in raising their own chickens for eggs",
-    "keywords": [
-      "backyard chicken coop guide",
-      "raise chickens for eggs",
-      "home egg production",
-      "backyard eggs review"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.9,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "shipping-container-home-guide",
-    "name": "Build Your Own Shipping Container Home",
-    "vendor": "IMCODERS",
-    "category": "Home & Garden",
-    "niche": "shipping container home design and construction",
-    "price": "low-ticket (official page)",
-    "summary": "A step-by-step guide covering how to plan, design, budget and build a home from a shipping container.",
-    "best_for": "DIY-minded homeowners exploring affordable, alternative home-building options",
-    "keywords": [
-      "shipping container home plans",
-      "build a container house",
-      "affordable home building guide",
-      "container home guide review"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.7,
-      "approval_required": false
-    }
-  },
-  {
     "id": "the-resilient-home-plan",
     "name": "The Resilient Home",
     "vendor": "RESILIENTH",
