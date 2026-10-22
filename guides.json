@@ -2914,5 +2914,32 @@
         "a": "It is not recommended. A shed needs a level, well-drained base, and building straight on a slope can twist the frame, jam doors and let water pool underneath."
       }
     ]
+  },
+  {
+    "id": "how-to-safely-identify-wild-edible-plants-beginners",
+    "title": "How to Safely Identify Wild Edible Plants as a Beginner",
+    "summary": "A rule-based beginner process for identifying wild edibles, avoiding poisonous lookalikes, and knowing when to get help.",
+    "keywords": [
+      "how to identify edible wild plants",
+      "beginner foraging guide",
+      "poisonous lookalikes wild plants",
+      "is this wild plant safe to eat"
+    ],
+    "related_product_id": "foraging-secrets",
+    "date": "2026-10-22",
+    "faqs": [
+      {
+        "q": "How can you tell if a wild plant is edible?",
+        "a": "Only by positive identification: every feature (leaves, stem, flowers, habitat, season) must match a reliable description, checked against at least two regional field guides. If anything is doubtful, do not eat it."
+      },
+      {
+        "q": "What is the safest way for a beginner to start foraging?",
+        "a": "Learn three to five common local plants with few dangerous lookalikes, study them across seasons, and join a guided walk with an experienced local forager."
+      },
+      {
+        "q": "Is the universal edibility test safe?",
+        "a": "No. Tasting-based tests are unreliable and can be dangerous, since some toxins cause harm in tiny amounts. Identify the plant first instead of testing it."
+      }
+    ]
   }
 ]
