@@ -8840,5 +8840,47 @@
       "backup home power diy",
       "off grid generator plans"
     ]
+  },
+  {
+    "id": "loreever-thinking",
+    "name": "LOREEVER Thinking",
+    "category": "Self-Help",
+    "niche": "self-help",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LOREEVER",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A mindset ebook that helps readers break limiting beliefs and build simple daily habits for clearer thinking and steady progress.",
+    "best_for": "Readers who want practical, low-pressure habits for better decision-making and personal growth.",
+    "keywords": [
+      "build a success mindset",
+      "break limiting beliefs ebook",
+      "daily habits for personal growth",
+      "clearer thinking guide"
+    ]
+  },
+  {
+    "id": "orginsights-capabilities-assessment",
+    "name": "OrgInsights Capabilities Assessment",
+    "category": "Self-Help",
+    "niche": "career-development",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=ORGINSIGHT",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "An online capabilities assessment that helps job seekers document employer-relevant skills so AI resume screening and recruiters take notice.",
+    "best_for": "Job seekers who want concrete proof of their skills to get past automated resume screening.",
+    "keywords": [
+      "job skills assessment online",
+      "beat ai resume screening",
+      "career capabilities test",
+      "prove job skills to employers"
+    ]
   }
 ]

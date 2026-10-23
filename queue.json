@@ -1,38 +1,18 @@
 [
   {
-    "id": "ground-power-generator",
-    "name": "Ground Power Generator",
-    "vendor": "4WINONLINE",
-    "category": "Green Products",
-    "niche": "alternative-energy",
+    "id": "greek-modes-for-guitar",
+    "name": "Greek Modes for Guitar",
+    "vendor": "KARPATHIOS",
+    "category": "Crafts & Hobbies",
+    "niche": "music-education",
     "price": "low-ticket (official page)",
-    "summary": "A video guide walking homeowners through building a simple backup power generator to help cut electricity costs.",
-    "best_for": "Homeowners wanting an affordable, easy-to-follow DIY backup power project.",
+    "summary": "A detailed guide teaching guitarists the ten Greek modes with chords, progressions, and phrases for a unique, less-common musical style.",
+    "best_for": "Guitarists wanting to explore distinctive Mediterranean scales and expand beyond standard Western modes.",
     "keywords": [
-      "ground power generator guide",
-      "DIY backup generator plans",
-      "cut electric bill diy",
-      "home power generator video guide"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.1,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "loreever-thinking",
-    "name": "LOREEVER Thinking",
-    "vendor": "LOREEVER",
-    "category": "Self-Help",
-    "niche": "self-help",
-    "price": "low-ticket (official page)",
-    "summary": "A mindset ebook that helps readers break limiting beliefs and build simple daily habits for clearer thinking and steady progress.",
-    "best_for": "Readers who want practical, low-pressure habits for better decision-making and personal growth.",
-    "keywords": [
-      "build a success mindset",
-      "break limiting beliefs ebook",
-      "daily habits for personal growth",
-      "clearer thinking guide"
+      "greek modes for guitar",
+      "hijaz scale guitar guide",
+      "rebetiko guitar lessons",
+      "learn greek guitar scales"
     ],
     "clickbank_stats": {
       "gravity": 0.0,
@@ -40,42 +20,22 @@
     }
   },
   {
-    "id": "eastern-astrology-language-reading",
-    "name": "Eastern Astrology Language Reading",
-    "vendor": "ASTROLAN",
-    "category": "Spirituality",
-    "niche": "astrology",
+    "id": "dating-again-after-widowhood",
+    "name": "Dating Again After Widowhood 55+",
+    "vendor": "VANTAUSA",
+    "category": "Self-Help",
+    "niche": "dating-guides",
     "price": "low-ticket (official page)",
-    "summary": "A personalized Eastern-style astrology reading that interprets a visitor's birth details for entertainment and self-reflection.",
-    "best_for": "Astrology fans curious about Eastern astrological traditions and personalized chart readings.",
+    "summary": "A compassionate 8-step digital guide helping widowed adults over 55 navigate dating again with confidence and emotional readiness.",
+    "best_for": "Widowed adults 55 and older who want practical, respectful guidance on re-entering the dating world.",
     "keywords": [
-      "eastern astrology reading online",
-      "personalized astrology chart",
-      "birth date astrology reading",
-      "eastern zodiac reading"
+      "dating after widowhood guide",
+      "dating again after losing a spouse",
+      "senior dating advice 55+",
+      "widowed adults dating confidence"
     ],
     "clickbank_stats": {
-      "gravity": 66.6,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "balinese-soulmate-sketch",
-    "name": "Balinese Soulmate Sketch",
-    "vendor": "TRUELOVEOR",
-    "category": "Spirituality",
-    "niche": "psychics",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized hand-drawn soulmate sketch service built around a Balinese channeling story, offered for entertainment purposes.",
-    "best_for": "People curious about soulmate sketch readings looking for a fresh take on the genre.",
-    "keywords": [
-      "soulmate sketch reading",
-      "balinese soulmate drawing",
-      "personalized soulmate portrait",
-      "psychic soulmate sketch online"
-    ],
-    "clickbank_stats": {
-      "gravity": 9.9,
+      "gravity": 0.0,
       "approval_required": false
     }
   }
