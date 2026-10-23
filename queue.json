@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "ground-power-generator",
+    "name": "Ground Power Generator",
+    "vendor": "4WINONLINE",
+    "category": "Green Products",
+    "niche": "alternative-energy",
+    "price": "low-ticket (official page)",
+    "summary": "A video guide walking homeowners through building a simple backup power generator to help cut electricity costs.",
+    "best_for": "Homeowners wanting an affordable, easy-to-follow DIY backup power project.",
+    "keywords": [
+      "ground power generator guide",
+      "DIY backup generator plans",
+      "cut electric bill diy",
+      "home power generator video guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "loreever-thinking",
+    "name": "LOREEVER Thinking",
+    "vendor": "LOREEVER",
+    "category": "Self-Help",
+    "niche": "self-help",
+    "price": "low-ticket (official page)",
+    "summary": "A mindset ebook that helps readers break limiting beliefs and build simple daily habits for clearer thinking and steady progress.",
+    "best_for": "Readers who want practical, low-pressure habits for better decision-making and personal growth.",
+    "keywords": [
+      "build a success mindset",
+      "break limiting beliefs ebook",
+      "daily habits for personal growth",
+      "clearer thinking guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality",
+    "niche": "astrology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Eastern-style astrology reading that interprets a visitor's birth details for entertainment and self-reflection.",
+    "best_for": "Astrology fans curious about Eastern astrological traditions and personalized chart readings.",
+    "keywords": [
+      "eastern astrology reading online",
+      "personalized astrology chart",
+      "birth date astrology reading",
+      "eastern zodiac reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 66.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "TRUELOVEOR",
+    "category": "Spirituality",
+    "niche": "psychics",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized hand-drawn soulmate sketch service built around a Balinese channeling story, offered for entertainment purposes.",
+    "best_for": "People curious about soulmate sketch readings looking for a fresh take on the genre.",
+    "keywords": [
+      "soulmate sketch reading",
+      "balinese soulmate drawing",
+      "personalized soulmate portrait",
+      "psychic soulmate sketch online"
+    ],
+    "clickbank_stats": {
+      "gravity": 9.9,
+      "approval_required": false
+    }
+  }
+]
