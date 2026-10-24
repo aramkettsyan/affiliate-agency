@@ -2968,5 +2968,32 @@
         "a": "Blot up the urine, saturate the area with an enzymatic pet-urine cleaner so it reaches deeper layers, and let it air dry fully. Avoid ammonia-based cleaners, which can encourage repeat marking."
       }
     ]
+  },
+  {
+    "id": "how-long-does-food-last-in-fridge-during-power-outage",
+    "title": "How Long Does Food Last in the Fridge During a Power Outage?",
+    "summary": "A clear timeline for fridge and freezer food safety when the power goes out, what to toss, and how to prepare for the next blackout.",
+    "keywords": [
+      "how long does food last in fridge during power outage",
+      "freezer food safe power outage",
+      "refreeze food after power outage",
+      "power outage food safety"
+    ],
+    "related_product_id": "emp-blackout-protocol",
+    "date": "2026-10-24",
+    "faqs": [
+      {
+        "q": "How long is food safe in a fridge without power?",
+        "a": "About 4 hours if the door stays closed. After that, perishable items like meat, dairy, eggs and leftovers that have been above 40°F should be discarded."
+      },
+      {
+        "q": "How long does a freezer stay cold during a power outage?",
+        "a": "A full freezer stays cold for about 48 hours and a half-full freezer for about 24 hours, provided the door is kept closed."
+      },
+      {
+        "q": "Can I refreeze food that thawed during a power outage?",
+        "a": "Often yes, if it still has ice crystals or is at 40°F or below, though quality may suffer. Fully thawed and warmed meat or seafood is safer to discard."
+      }
+    ]
   }
 ]
