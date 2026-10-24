@@ -8903,5 +8903,68 @@
       "rebetiko guitar lessons",
       "learn greek guitar scales"
     ]
+  },
+  {
+    "id": "q-code-prayer",
+    "name": "Q Code Prayer",
+    "category": "Spirituality",
+    "niche": "Christian / faith-based manifestation audio",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=QCODEPRAY",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 7.0,
+      "approval_required": false
+    },
+    "summary": "A faith-based audio program built around a short prayer practice aimed at helping listeners align their mindset with abundance and manifestation principles.",
+    "best_for": "Christian and faith-oriented readers interested in prayer-based manifestation and mindset audio programs",
+    "keywords": [
+      "christian manifestation prayer",
+      "faith based abundance audio",
+      "prayer mindset program",
+      "q code prayer review"
+    ]
+  },
+  {
+    "id": "the-crystal-key",
+    "name": "The Crystal Key",
+    "category": "Spirituality",
+    "niche": "Spiritual/manifestation audio program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=GETTHEKEY",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.6,
+      "approval_required": false
+    },
+    "summary": "A spiritual audio program centered on a 'crystal key' concept, aimed at helping listeners unlock abundance and manifestation mindset shifts.",
+    "best_for": "listeners drawn to crystal/energy-themed manifestation and abundance audio programs",
+    "keywords": [
+      "crystal key manifestation",
+      "spiritual abundance audio",
+      "manifestation audio program",
+      "crystal energy mindset"
+    ]
+  },
+  {
+    "id": "creator-code",
+    "name": "Creator Code",
+    "category": "Spirituality",
+    "niche": "Wealth & spiritual manifestation program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=CREATOR42",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.3,
+      "approval_required": false
+    },
+    "summary": "A wealth-and-spirituality manifestation program combining mindset upsells on social magnetism and longevity themes, aimed at personal-development audiences.",
+    "best_for": "personal-development readers interested in combined wealth-mindset and spiritual manifestation content",
+    "keywords": [
+      "creator code manifestation",
+      "wealth mindset program",
+      "spiritual abundance course",
+      "manifestation and wealth audio"
+    ]
   }
 ]
