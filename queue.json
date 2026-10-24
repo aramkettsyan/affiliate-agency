@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks!",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "Backyard chicken keeping & DIY egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide showing homeowners how to raise backyard chickens for a steady supply of fresh eggs, aimed at the self-sufficiency and rising-grocery-cost crowd.",
+    "best_for": "homeowners with yard space who want to cut grocery bills and raise a few backyard hens",
+    "keywords": ["backyard chickens guide", "raise chickens for eggs", "DIY chicken coop eggs", "self sufficient egg production"],
+    "clickbank_stats": {"gravity": 0.8, "approval_required": false}
+  },
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality",
+    "niche": "Eastern/Chinese astrology personalized reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Eastern astrology reading that translates birth details into insights on personality, relationships, and life direction using Eastern zodiac traditions.",
+    "best_for": "astrology enthusiasts curious about Eastern/Chinese zodiac interpretations of their personality and path",
+    "keywords": ["eastern astrology reading", "chinese zodiac personality reading", "personalized astrology report", "eastern zodiac compatibility"],
+    "clickbank_stats": {"gravity": 64.1, "approval_required": false}
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality",
+    "niche": "Psychic soulmate sketch / twin flame art",
+    "price": "low-ticket (official page)",
+    "summary": "A psychic-drawn sketch and description of your soulmate based on details you provide, blending astrology and intuitive artistry.",
+    "best_for": "people curious about psychic-style soulmate art and personality readings for fun or reflection",
+    "keywords": ["soulmate sketch reading", "psychic soulmate drawing", "twin flame sketch", "soulmate portrait reading"],
+    "clickbank_stats": {"gravity": 35.1, "approval_required": false}
+  },
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "TRUELOVEOR",
+    "category": "Spirituality",
+    "niche": "Psychic soulmate sketch with Balinese channeling angle",
+    "price": "low-ticket (official page)",
+    "summary": "A soulmate sketch offer with a Balinese clifftop-channeling storyline, delivering a hand-drawn depiction and personality insights about your soulmate.",
+    "best_for": "fans of psychic/soulmate sketch readings looking for a fresh cultural angle on the format",
+    "keywords": ["balinese soulmate sketch", "soulmate drawing reading", "psychic sketch soulmate", "soulmate art reading"],
+    "clickbank_stats": {"gravity": 9.3, "approval_required": false}
+  },
+  {
+    "id": "q-code-prayer",
+    "name": "Q Code Prayer",
+    "vendor": "QCODEPRAY",
+    "category": "Spirituality",
+    "niche": "Christian / faith-based manifestation audio",
+    "price": "low-ticket (official page)",
+    "summary": "A faith-based audio program built around a short prayer practice aimed at helping listeners align their mindset with abundance and manifestation principles.",
+    "best_for": "Christian and faith-oriented readers interested in prayer-based manifestation and mindset audio programs",
+    "keywords": ["christian manifestation prayer", "faith based abundance audio", "prayer mindset program", "q code prayer review"],
+    "clickbank_stats": {"gravity": 7.0, "approval_required": false}
+  },
+  {
+    "id": "tarot-element-reading",
+    "name": "Tarot-Element Reading",
+    "vendor": "TAROTELE96",
+    "category": "Spirituality",
+    "niche": "Personalized tarot reading tied to the four elements",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized tarot reading that ties your card draw to the four classical elements (fire, water, earth, air) for a themed take on traditional tarot interpretation.",
+    "best_for": "tarot fans who enjoy a themed, personalized spin on a classic tarot card reading",
+    "keywords": ["elemental tarot reading", "personalized tarot reading", "tarot four elements", "tarot reading online"],
+    "clickbank_stats": {"gravity": 3.5, "approval_required": false}
+  },
+  {
+    "id": "the-crystal-key",
+    "name": "The Crystal Key",
+    "vendor": "GETTHEKEY",
+    "category": "Spirituality",
+    "niche": "Spiritual/manifestation audio program",
+    "price": "low-ticket (official page)",
+    "summary": "A spiritual audio program centered on a 'crystal key' concept, aimed at helping listeners unlock abundance and manifestation mindset shifts.",
+    "best_for": "listeners drawn to crystal/energy-themed manifestation and abundance audio programs",
+    "keywords": ["crystal key manifestation", "spiritual abundance audio", "manifestation audio program", "crystal energy mindset"],
+    "clickbank_stats": {"gravity": 4.6, "approval_required": false}
+  },
+  {
+    "id": "creator-code",
+    "name": "Creator Code",
+    "vendor": "CREATOR42",
+    "category": "Spirituality",
+    "niche": "Wealth & spiritual manifestation program",
+    "price": "low-ticket (official page)",
+    "summary": "A wealth-and-spirituality manifestation program combining mindset upsells on social magnetism and longevity themes, aimed at personal-development audiences.",
+    "best_for": "personal-development readers interested in combined wealth-mindset and spiritual manifestation content",
+    "keywords": ["creator code manifestation", "wealth mindset program", "spiritual abundance course", "manifestation and wealth audio"],
+    "clickbank_stats": {"gravity": 3.3, "approval_required": false}
+  },
+  {
+    "id": "rose-grail-prayer",
+    "name": "Rose Grail Prayer",
+    "vendor": "MDLPRAYER",
+    "category": "Spirituality",
+    "niche": "Christian/faith-based prayer manifestation offer",
+    "price": "low-ticket (official page)",
+    "summary": "A faith-based prayer program marketed to Christian and law-of-attraction audiences, built around a themed daily prayer practice for abundance.",
+    "best_for": "Christian and faith-oriented readers interested in a structured daily prayer practice tied to abundance themes",
+    "keywords": ["rose grail prayer review", "christian abundance prayer", "faith based manifestation program", "daily prayer practice abundance"],
+    "clickbank_stats": {"gravity": 3.1, "approval_required": false}
+  }
+]

@@ -381,6 +381,7 @@ def cta_button(product, label=None):
 
 
 GUIDES_ALL = []
+ALL_PRODUCTS = []
 
 
 def render_article(product, config, roundups, related):
@@ -409,7 +410,9 @@ def render_article(product, config, roundups, related):
         rel_html = ('<div class="related"><div class="section-title"><h2>Related reviews</h2></div>'
                     '<div class="grid">' + "".join(product_card(r) for r in related) + '</div></div>')
 
-    rg = [g for g in GUIDES_ALL if g.get("related_product_id") == product["id"]]
+    _bid = {p_["id"]: p_ for p_ in ALL_PRODUCTS}
+    rg = [g for g in GUIDES_ALL if g.get("related_product_id") == product["id"]
+          or (g.get("related_product_id") in _bid and slugify(_bid[g["related_product_id"]]["name"]) == slugify(product["name"]))]
     if rg:
         rel_html += ('<div class="related"><div class="section-title"><h2>Related guides</h2></div><ul>'
                      + "".join(f'<li><a href="{e(g["id"])}.html">{e(g["title"])}</a></li>' for g in rg) + '</ul></div>')
@@ -682,6 +685,7 @@ def main():
     PUBLIC.mkdir(exist_ok=True)
 
     GUIDES_ALL[:] = guides
+    ALL_PRODUCTS[:] = products
     products = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
     by_id = {p["id"]: p for p in products}
     urls = [f"{config['base_url'].rstrip('/')}/"]
