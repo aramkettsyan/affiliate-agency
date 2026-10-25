@@ -550,7 +550,7 @@ def render_guide(guide, config, roundups, by_id):
                f'<a class="btn ghost" href="{rslug}.html">Read our full review</a></div>')
 
     faqs = [(f["q"], f["a"]) for f in guide.get("faqs", [])]
-    others = [g for g in GUIDES_ALL if g["id"] != gid and g.get("related_product_id") == guide.get("related_product_id")][:4]
+    others = [g for g in GUIDES_ALL if g["id"] != gid and g.get("related_product_id") == guide.get("related_product_id")][::-1][:4]
     more = ""
     if others:
         more = ('<div class="related"><div class="section-title"><h2>More guides on this topic</h2></div><ul>'
