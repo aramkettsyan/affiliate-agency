@@ -8987,5 +8987,68 @@
       "faith based manifestation program",
       "daily prayer practice abundance"
     ]
+  },
+  {
+    "id": "the-starseed-signal",
+    "name": "The Starseed Signal",
+    "category": "Spirituality",
+    "niche": "starseed / cosmic spirituality audio",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=STARSIG",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.3,
+      "approval_required": false
+    },
+    "summary": "An audio program built around the 'starseed' spiritual concept, aimed at listeners interested in cosmic-origin spirituality and self-discovery audio tracks.",
+    "best_for": "listeners drawn to New Age/starseed spirituality who enjoy audio-based personal development content",
+    "keywords": [
+      "starseed signal audio",
+      "starseed spirituality program",
+      "cosmic origin spiritual audio",
+      "starseed awakening audio"
+    ]
+  },
+  {
+    "id": "divine-invocation-code",
+    "name": "Divine Invocation Code",
+    "category": "Spirituality",
+    "niche": "manifestation / spiritual invocation program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=DIVINEINVO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.4,
+      "approval_required": false
+    },
+    "summary": "A spiritual manifestation program centered on a step-by-step 'invocation' ritual framed to help listeners focus intention toward their goals.",
+    "best_for": "readers interested in manifestation and law-of-attraction style spiritual practice",
+    "keywords": [
+      "divine invocation code",
+      "manifestation ritual program",
+      "spiritual invocation guide",
+      "law of attraction program"
+    ]
+  },
+  {
+    "id": "prosperity-miracles",
+    "name": "Prosperity Miracles",
+    "category": "Spirituality",
+    "niche": "wealth / personal development program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=EPCMIRACLE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 4.8,
+      "approval_required": false
+    },
+    "summary": "A personal-development program framed around attracting 'prosperity miracles,' combining mindset and manifestation-style content for readers focused on financial growth.",
+    "best_for": "readers interested in mindset-driven personal development around money and prosperity",
+    "keywords": [
+      "prosperity miracles program",
+      "wealth mindset manifestation",
+      "personal development prosperity",
+      "attract abundance program"
+    ]
   }
 ]
