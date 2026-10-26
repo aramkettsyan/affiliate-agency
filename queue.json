@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "viking-soulmate-sketch",
+    "name": "Viking Soulmate Sketch",
+    "vendor": "VIKINGSOUL",
+    "category": "Spirituality",
+    "niche": "Soulmate sketch / Norse-themed psychic entertainment",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized AI soulmate portrait with a Norse name and runic reading, built from a short quiz, positioned as entertainment for astrology and relationship-curious audiences.",
+    "best_for": "Readers who enjoy soulmate-sketch style entertainment products but want a distinct Viking/Norse angle instead of the generic version.",
+    "keywords": [
+      "Viking soulmate sketch review",
+      "Norse runic soulmate reading",
+      "AI soulmate portrait review",
+      "personalized soulmate drawing online"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "magickpower-course",
+    "name": "MagickPower.com Course",
+    "vendor": "MAGICKP",
+    "category": "Spirituality",
+    "niche": "Law of attraction / personal manifestation course",
+    "price": "low-ticket (official page)",
+    "summary": "A self-paced course claiming to teach practical manifestation techniques for getting what you want in life without studying occult systems or performing rituals.",
+    "best_for": "Readers interested in law-of-attraction style personal development who want a simpler, non-ritual approach.",
+    "keywords": [
+      "MagickPower.com review",
+      "manifestation course without rituals",
+      "law of attraction course review",
+      "get what you want in life course"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "total-money-magnetism",
+    "name": "Total Money Magnetism",
+    "vendor": "TOTALMON",
+    "category": "Spirituality",
+    "niche": "Wealth manifestation / hypnosis-based personal development",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation and money-mindset program from the creators of Manifestation Miracle, authored by Dr. Steve G. Jones, combining audio, quiz, and written material aimed at shifting beliefs around wealth.",
+    "best_for": "Readers already interested in law-of-attraction content who want a program from an established, named author in the niche.",
+    "keywords": [
+      "Total Money Magnetism review",
+      "Dr Steve G Jones manifestation program",
+      "money mindset hypnosis program",
+      "wealth manifestation course review"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
