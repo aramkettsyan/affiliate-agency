@@ -9281,5 +9281,68 @@
       "22 arcana chart",
       "numerology destiny reading"
     ]
+  },
+  {
+    "id": "pattern-traders-atlas",
+    "name": "Pattern Trader's Atlas",
+    "category": "Business / Investing",
+    "niche": "Trading education",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=digistamp",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    },
+    "summary": "A 159-page field manual cataloging 140 chart, candlestick, and price-action trading patterns for technical analysis.",
+    "best_for": "self-directed traders and investing hobbyists who want a reference guide to chart patterns, not real-time signals",
+    "keywords": [
+      "chart pattern trading guide",
+      "candlestick pattern manual",
+      "technical analysis reference book",
+      "price action patterns pdf"
+    ]
+  },
+  {
+    "id": "ai-blueprint-hustle-empire",
+    "name": "The AI Blueprint: From Hustle to High-Growth Empire",
+    "category": "Business / Investing",
+    "niche": "AI for entrepreneurs",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=iamatexan",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    },
+    "summary": "A guide for entrepreneurs and creators on using current AI tools to automate workflows, generate content, and scale a small business.",
+    "best_for": "solopreneurs and small business owners who want a practical walkthrough of using AI tools to save time",
+    "keywords": [
+      "ai tools for entrepreneurs",
+      "automate business with ai",
+      "ai blueprint guide",
+      "scale business with ai"
+    ]
+  },
+  {
+    "id": "vip-algos-trading-indicators",
+    "name": "Vip Algos",
+    "category": "Business / Investing",
+    "niche": "Trading indicator software",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=fxlife",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 13.4,
+      "approval_required": false
+    },
+    "summary": "A premium trading-indicator and charting toolkit for forex, crypto, stocks, and gold, built for traders who do their own technical analysis.",
+    "best_for": "active traders who want chart-based indicator tools rather than signal services or financial advice",
+    "keywords": [
+      "trading indicator software",
+      "forex crypto charting tool",
+      "technical analysis indicators",
+      "vip algos review"
+    ]
   }
 ]
