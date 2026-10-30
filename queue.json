@@ -1,25 +1,5 @@
 [
   {
-    "id": "sqribble-ebook-creator",
-    "name": "Sqribble",
-    "vendor": "SQRIBBLEX",
-    "category": "E-Business & E-Marketing",
-    "niche": "Ebook / lead-magnet creation software",
-    "price": "low-ticket (official page)",
-    "summary": "A drag-and-drop ebook design tool that turns text into formatted PDF ebooks, reports, and lead magnets using pre-built templates, aimed at marketers and course creators.",
-    "best_for": "solopreneurs and marketers who need polished ebooks or lead magnets without hiring a designer",
-    "keywords": [
-      "sqribble review",
-      "ebook creator software",
-      "lead magnet design tool",
-      "pdf ebook maker"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.1,
-      "approval_required": false
-    }
-  },
-  {
     "id": "videly-video-seo-software",
     "name": "Videly",
     "vendor": "VIDELY",
@@ -36,6 +16,186 @@
     ],
     "clickbank_stats": {
       "gravity": 0.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "Backyard chicken-keeping / DIY egg production guide",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide that walks homeowners through raising backyard chickens for fresh eggs, aimed at people looking to cut grocery costs amid rising egg prices.",
+    "best_for": "homeowners and hobbyists interested in backyard chickens or home food self-sufficiency",
+    "keywords": [
+      "backyard eggs review",
+      "raising backyard chickens guide",
+      "diy egg production",
+      "backyard chicken coop plans"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Personalized Eastern/Asian-style astrology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading service built around Eastern astrology traditions, delivered as a digital chart and report based on the visitor's birth details.",
+    "best_for": "astrology enthusiasts curious about Eastern astrology traditions and personalized charts",
+    "keywords": [
+      "eastern astrology reading review",
+      "personalized astrology chart",
+      "asian astrology reading",
+      "birth chart report"
+    ],
+    "clickbank_stats": {
+      "gravity": 63.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "magick-ability-quiz",
+    "name": "What's My Magick Type Quiz",
+    "vendor": "PRAKTICAL",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Personalized magick/spirituality quiz funnel",
+    "price": "low-ticket (official page)",
+    "summary": "An interactive quiz that identifies a visitor's personal 'magick type' and leads into a suite of spirituality-themed digital products and readings.",
+    "best_for": "spirituality and new-age audiences curious about their personal magick style",
+    "keywords": [
+      "magick type quiz review",
+      "spirituality quiz online",
+      "what is my magick type",
+      "magick ability test"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "spellvixen-wealth-spell",
+    "name": "SpellVixen Wealth Spell Casting",
+    "vendor": "CCVIXEN",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Wealth/abundance spell casting service",
+    "price": "low-ticket (official page)",
+    "summary": "A spell-casting service offering wealth and abundance rituals performed by a self-described priestess, aimed at manifestation and law-of-attraction audiences.",
+    "best_for": "spirituality audiences interested in manifestation rituals and wealth spell casting",
+    "keywords": [
+      "spellvixen review",
+      "wealth spell casting",
+      "abundance ritual service",
+      "manifestation spell online"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "wealth-genie-lady-fortuna",
+    "name": "Wealth Genie Lady Fortuna",
+    "vendor": "DEWISHES",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Wealth manifestation / wish-granting digital offer",
+    "price": "low-ticket (official page)",
+    "summary": "A manifestation-themed digital offer built around a 'wish-granting genie' concept, aimed at wealth and abundance-focused spirituality audiences.",
+    "best_for": "manifestation and law-of-attraction audiences looking for a novel wealth ritual offer",
+    "keywords": [
+      "wealth genie review",
+      "lady fortuna offer",
+      "wealth manifestation ritual",
+      "wish granting genie spirituality"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "numerology-forecast-life-path",
+    "name": "Numerology Forecast",
+    "vendor": "00NUMERO",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Personalized numerology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized numerology report that decodes a visitor's life-path number to offer insight into purpose, love, and abundance.",
+    "best_for": "self-discovery and spirituality audiences interested in numerology insights",
+    "keywords": [
+      "numerology forecast review",
+      "life path number reading",
+      "personalized numerology report",
+      "decode your numbers"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "presence-power-and-profit",
+    "name": "Presence Power & Profit",
+    "vendor": "LIKEBLUE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Personal development / influence and presence training",
+    "price": "low-ticket (official page)",
+    "summary": "A personal-development program focused on building personal presence and influence, framed for law-of-attraction and success-minded audiences.",
+    "best_for": "self-improvement audiences interested in presence, influence, and personal magnetism",
+    "keywords": [
+      "presence power and profit review",
+      "personal presence training",
+      "influence and success program",
+      "personal magnetism course"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "one-minute-love-prayer",
+    "name": "1-Minute Love Prayer",
+    "vendor": "PRB00",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Faith-based love and relationship prayer guide",
+    "price": "low-ticket (official page)",
+    "summary": "A short daily prayer ritual marketed to women seeking love and relationship guidance through a faith-based spirituality lens.",
+    "best_for": "faith-oriented audiences interested in relationship-focused prayer practices",
+    "keywords": [
+      "1-minute love prayer review",
+      "daily love prayer ritual",
+      "faith based relationship guide",
+      "prayer for love"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "wealth-bracelet",
+    "name": "Wealth Bracelet",
+    "vendor": "SACHIEL247",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Physical wealth-manifestation bracelet",
+    "price": "low-ticket (official page)",
+    "summary": "A physical bracelet marketed as a wealth-manifestation talisman for spirituality and Christianity-leaning audiences.",
+    "best_for": "spirituality audiences who prefer a physical manifestation talisman over a digital product",
+    "keywords": [
+      "wealth bracelet review",
+      "manifestation bracelet",
+      "abundance talisman jewelry",
+      "wealth attraction bracelet"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
       "approval_required": false
     }
   }
