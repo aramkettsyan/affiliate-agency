@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "remixable-video-resell-software",
+    "name": "Remixable",
+    "vendor": "REMIXABLE",
+    "category": "E-Business & E-Marketing",
+    "niche": "Video remixing / resale software for marketers",
+    "price": "low-ticket (official page)",
+    "summary": "A video creation and resale software aimed at affiliate marketers who want to repurpose and resell video content as a digital product.",
+    "best_for": "affiliate marketers and content resellers looking for a video-based product to sell",
+    "keywords": [
+      "remixable review",
+      "video resell software",
+      "video marketing tool",
+      "affiliate video software"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "sqribble-ebook-creator",
+    "name": "Sqribble",
+    "vendor": "SQRIBBLEX",
+    "category": "E-Business & E-Marketing",
+    "niche": "Ebook / lead-magnet creation software",
+    "price": "low-ticket (official page)",
+    "summary": "A drag-and-drop ebook design tool that turns text into formatted PDF ebooks, reports, and lead magnets using pre-built templates, aimed at marketers and course creators.",
+    "best_for": "solopreneurs and marketers who need polished ebooks or lead magnets without hiring a designer",
+    "keywords": [
+      "sqribble review",
+      "ebook creator software",
+      "lead magnet design tool",
+      "pdf ebook maker"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "videly-video-seo-software",
+    "name": "Videly",
+    "vendor": "VIDELY",
+    "category": "E-Business & E-Marketing",
+    "niche": "YouTube / video SEO software",
+    "price": "low-ticket (official page)",
+    "summary": "A video SEO tool that analyzes a niche and auto-generates optimized titles, descriptions, and tags to help YouTube videos rank higher in search.",
+    "best_for": "YouTubers and content creators who want help with keyword research and on-page video SEO",
+    "keywords": [
+      "videly review",
+      "youtube seo software",
+      "video ranking tool",
+      "video seo optimization"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    }
+  }
+]
