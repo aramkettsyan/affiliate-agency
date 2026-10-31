@@ -1,45 +1,5 @@
 [
   {
-    "id": "numerology-forecast-life-path",
-    "name": "Numerology Forecast",
-    "vendor": "00NUMERO",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "Personalized numerology reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized numerology report that decodes a visitor's life-path number to offer insight into purpose, love, and abundance.",
-    "best_for": "self-discovery and spirituality audiences interested in numerology insights",
-    "keywords": [
-      "numerology forecast review",
-      "life path number reading",
-      "personalized numerology report",
-      "decode your numbers"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.1,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "presence-power-and-profit",
-    "name": "Presence Power & Profit",
-    "vendor": "LIKEBLUE",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "Personal development / influence and presence training",
-    "price": "low-ticket (official page)",
-    "summary": "A personal-development program focused on building personal presence and influence, framed for law-of-attraction and success-minded audiences.",
-    "best_for": "self-improvement audiences interested in presence, influence, and personal magnetism",
-    "keywords": [
-      "presence power and profit review",
-      "personal presence training",
-      "influence and success program",
-      "personal magnetism course"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "one-minute-love-prayer",
     "name": "1-Minute Love Prayer",
     "vendor": "PRB00",
