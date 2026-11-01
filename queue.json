@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "backyard-eggs-big-bucks",
+    "name": "Backyard Eggs = Big Bucks",
+    "vendor": "CLUCKBOSS",
+    "category": "Home & Garden",
+    "niche": "backyard chicken keeping / egg production",
+    "price": "low-ticket (official page)",
+    "summary": "A DIY guide aimed at homeowners looking to raise backyard chickens for fresh eggs, covering coop setup and the basics of keeping a small flock as egg prices rise.",
+    "best_for": "homeowners curious about raising a small backyard flock for fresh eggs",
+    "keywords": [
+      "backyard chickens for eggs",
+      "raising backyard chickens guide",
+      "diy chicken coop",
+      "backyard eggs big bucks review"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "numerology-forecast-decode-your-life",
+    "name": "Numerology Forecast: Decode Your Life's Path",
+    "vendor": "00NUMERO",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized numerology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized numerology report that uses a reader's name and birth date to generate insights on life path, love, and personal growth, aimed at readers curious about numerology.",
+    "best_for": "readers new to numerology who want a personalized, easy-to-follow report",
+    "keywords": [
+      "numerology forecast review",
+      "free numerology reading",
+      "life path number report",
+      "personalized numerology reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.1,
+      "approval_required": false
+    }
+  }
+]
