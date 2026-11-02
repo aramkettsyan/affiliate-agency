@@ -1,21 +1,121 @@
 [
   {
-    "id": "numerology-forecast-decode-your-life",
-    "name": "Numerology Forecast: Decode Your Life's Path",
-    "vendor": "00NUMERO",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized numerology reading",
+    "id": "weekend-family-binder",
+    "name": "Weekend Family Binder",
+    "vendor": "RANDOMBIRD",
+    "category": "Home & Garden",
+    "niche": "household organization / family information binder",
     "price": "low-ticket (official page)",
-    "summary": "A personalized numerology report that uses a reader's name and birth date to generate insights on life path, love, and personal growth, aimed at readers curious about numerology.",
-    "best_for": "readers new to numerology who want a personalized, easy-to-follow report",
+    "summary": "A $97 printable family organization system for keeping track of accounts, policies, and passwords in one place, aimed at households that want their affairs organized.",
+    "best_for": "families and households who want a simple, ready-made system for organizing important household information",
     "keywords": [
-      "numerology forecast review",
-      "free numerology reading",
-      "life path number report",
-      "personalized numerology reading"
+      "family information binder printable",
+      "household organization system",
+      "family emergency binder",
+      "keep track of passwords and accounts"
     ],
     "clickbank_stats": {
-      "gravity": 0.1,
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "mtgbrew-ai-deck-builder",
+    "name": "MTGBrew AI Deck Builder",
+    "vendor": "MTGBREW",
+    "category": "Crafts & Hobbies",
+    "niche": "Magic: The Gathering deck building tool",
+    "price": "low-ticket (official page)",
+    "summary": "An AI-powered Magic: The Gathering deck builder that tunes Commander decks to a budget and power level, with collection tracking and live card values.",
+    "best_for": "Magic: The Gathering players who want AI help building and tuning Commander decks without manually researching every card",
+    "keywords": [
+      "AI magic the gathering deck builder",
+      "commander deck builder tool",
+      "mtg collection tracker",
+      "best mtg deck building app"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "loreever-thinking",
+    "name": "Loreever Thinking",
+    "vendor": "LOREEVER",
+    "category": "Self-Help",
+    "niche": "mindset / personal growth book",
+    "price": "low-ticket (official page)",
+    "summary": "A personal-growth book aimed at helping readers spot manipulation, break limiting beliefs, and build simple daily habits for clearer thinking and steady progress.",
+    "best_for": "readers who want a practical, habit-based approach to clearer thinking and personal growth",
+    "keywords": [
+      "how to spot manipulation",
+      "break limiting beliefs book",
+      "mindset book for clear thinking",
+      "daily habits for personal growth"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "greek-modes-for-guitar",
+    "name": "Greek Modes for Guitar",
+    "vendor": "KARPATHIOS",
+    "category": "Crafts & Hobbies",
+    "niche": "guitar music theory / Greek modes guide",
+    "price": "low-ticket (official page)",
+    "summary": "A 194-page PDF guide covering 10 Greek guitar modes (Hijaz, Ousak, Rast, and more) in all 12 keys, with chords, 49 progressions, and 30 taximi phrases.",
+    "best_for": "guitarists who want to learn Greek and Middle Eastern-style modes, scales, and progressions beyond standard Western music theory",
+    "keywords": [
+      "greek modes for guitar",
+      "hijaz scale guitar",
+      "rebetiko guitar lessons",
+      "guitar modes beyond major and minor"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-esther-secret",
+    "name": "The Esther Secret",
+    "vendor": "JOSISILVA0",
+    "category": "Spirituality",
+    "niche": "biblical faith / personal growth program",
+    "price": "low-ticket (official page)",
+    "summary": "A digital program inspired by the biblical story of Queen Esther, built around lessons on faith, courage, purpose, and personal growth.",
+    "best_for": "readers interested in faith-based personal growth and reflection drawn from biblical teachings",
+    "keywords": [
+      "biblical personal growth program",
+      "faith based self improvement",
+      "queen esther bible study",
+      "christian courage and purpose course"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "dating-again-after-widowhood",
+    "name": "Dating Again After Widowhood",
+    "vendor": "VANTAUSA",
+    "category": "Self-Help",
+    "niche": "dating guide for widowed adults 55+",
+    "price": "low-ticket (official page)",
+    "summary": "An 8-step digital guide helping widowed adults 55+ navigate dating again, covering guilt, emotional readiness, modern dating, safety, and family concerns.",
+    "best_for": "widowed adults 55 and older who want compassionate, practical guidance on dating again",
+    "keywords": [
+      "dating after widowhood",
+      "dating again after losing a spouse",
+      "senior dating guide",
+      "dating advice for widows and widowers"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
       "approval_required": false
     }
   }
