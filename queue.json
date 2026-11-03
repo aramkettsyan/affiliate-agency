@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "family-friendly-healthy-eating-cookbook",
+    "name": "Family-Friendly Healthy Eating Cookbook",
+    "vendor": "DHEIKKINEN",
+    "category": "Cooking, Food & Wine",
+    "niche": "family meal planning and healthy recipes",
+    "price": "low-ticket (official page)",
+    "summary": "A digital cookbook of 110+ family-friendly healthy recipes with simple ingredients, delivered as a mobile-friendly and printable PDF.",
+    "best_for": "busy parents who want straightforward, healthy recipes the whole family will actually eat",
+    "keywords": [
+      "family friendly healthy recipes",
+      "easy healthy family cookbook",
+      "simple healthy dinner recipes",
+      "healthy eating cookbook pdf"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "self-esteem-elevation-for-children-coaching-certification",
+    "name": "Self-Esteem Elevation for Children Coaching Certification",
+    "vendor": "ESTEEMCERT",
+    "category": "Parenting & Families",
+    "niche": "child self-esteem coaching certification course",
+    "price": "low-ticket (official page)",
+    "summary": "A coaching certification program teaching parents, teachers, and coaches practical methods to help build self-esteem in children.",
+    "best_for": "parents, teachers, and coaches who want a structured framework for helping children build confidence and self-esteem",
+    "keywords": [
+      "child self esteem coaching",
+      "self esteem certification course",
+      "how to build confidence in children",
+      "parenting self esteem program"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "halloween-activity-pack",
+    "name": "Halloween Activity Pack",
+    "vendor": "SNAPHALWN",
+    "category": "Parenting & Families",
+    "niche": "printable Halloween activities for kids and families",
+    "price": "low-ticket (official page)",
+    "summary": "A printable digital bundle of Halloween-themed activities, coloring pages, crafts, songs, and games for kids and families.",
+    "best_for": "parents, teachers, and party hosts who want ready-made Halloween activities for kids without planning from scratch",
+    "keywords": [
+      "halloween activities for kids",
+      "printable halloween activity pack",
+      "halloween coloring pages",
+      "halloween party games for kids"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-7-minute-wealth-wave-audio-bundle",
+    "name": "The 7-Minute Wealth Wave Audio Bundle",
+    "vendor": "WAVESRT202",
+    "category": "Self-Help",
+    "niche": "neuro-acoustic audio program for mindset and personal growth",
+    "price": "low-ticket (official page)",
+    "summary": "A short daily audio program combining neuro-acoustic sound design with guided listening, aimed at supporting a positive mindset and personal growth routine.",
+    "best_for": "people who want a quick, low-effort daily audio habit to support mindset and personal growth",
+    "keywords": [
+      "daily mindset audio program",
+      "neuro acoustic audio for focus",
+      "personal growth audio bundle",
+      "7 minute mindset routine"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-world-tapping-circle",
+    "name": "The World Tapping Circle",
+    "vendor": "SONYASOPHI",
+    "category": "Self-Help",
+    "niche": "EFT tapping for stress relief",
+    "price": "low-ticket (official page)",
+    "summary": "A guided EFT (Emotional Freedom Technique) tapping program led by Sonya Sophia, aimed at helping people release stress and practice emotional self-regulation.",
+    "best_for": "people curious about EFT tapping who want guided sessions for everyday stress relief",
+    "keywords": [
+      "eft tapping for stress",
+      "emotional freedom technique guide",
+      "guided tapping sessions",
+      "stress relief tapping program"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
+      "approval_required": false
+    }
+  }
+]
