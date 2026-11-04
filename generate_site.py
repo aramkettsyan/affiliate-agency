@@ -412,7 +412,8 @@ def render_article(product, config, roundups, related):
 
     _bid = {p_["id"]: p_ for p_ in ALL_PRODUCTS}
     rg = [g for g in GUIDES_ALL if g.get("related_product_id") == product["id"]
-          or (g.get("related_product_id") in _bid and slugify(_bid[g["related_product_id"]]["name"]) == slugify(product["name"]))]
+          or (g.get("related_product_id") in _bid and slugify(_bid[g["related_product_id"]]["name"]) == slugify(product["name"]))
+          or product["id"] in g.get("also_link_from", [])]
     if rg:
         rel_html += ('<div class="related"><div class="section-title"><h2>Related guides</h2></div><ul>'
                      + "".join(f'<li><a href="{e(g["id"])}.html">{e(g["title"])}</a></li>' for g in rg) + '</ul></div>')
@@ -550,7 +551,13 @@ def render_guide(guide, config, roundups, by_id):
                f'<a class="btn ghost" href="{rslug}.html">Read our full review</a></div>')
 
     faqs = [(f["q"], f["a"]) for f in guide.get("faqs", [])]
-    others = [g for g in GUIDES_ALL if g["id"] != gid and g.get("related_product_id") == guide.get("related_product_id")][::-1][:4]
+    # optional "also_link_from" on a guide cross-links it with guides/reviews on the same topic that
+    # recommend a different product; those links come first so the [:4] cap can't drop them.
+    linked = [g for g in GUIDES_ALL if g["id"] != gid
+              and (gid in g.get("also_link_from", []) or g["id"] in guide.get("also_link_from", []))]
+    same_product = [g for g in GUIDES_ALL if g["id"] != gid and g not in linked
+                    and g.get("related_product_id") == guide.get("related_product_id")]
+    others = (linked[::-1] + same_product[::-1])[:4]
     more = ""
     if others:
         more = ('<div class="related"><div class="section-title"><h2>More guides on this topic</h2></div><ul>'
@@ -691,9 +698,17 @@ def main():
     urls = [f"{config['base_url'].rstrip('/')}/"]
 
     # product reviews (with related = up to 3 same-category others)
+    # Some products have two catalog entries whose names slugify to the same URL. Only one page can exist
+    # at that URL, so render the entry with the fuller review instead of whichever happens to come last.
+    strongest = {}
     for p in products:
+        slug = slugify(p["name"])
+        words = len(article_body(p, config).split())
+        if slug not in strongest or words >= strongest[slug][0]:
+            strongest[slug] = (words, p)
+    for slug, (_, p) in strongest.items():
         related = [q for q in products
-                   if q is not p and q.get("category") == p.get("category")][:3]
+                   if slugify(q["name"]) != slug and q.get("category") == p.get("category")][:3]
         slug, page = render_article(p, config, roundups, related)
         (PUBLIC / f"{slug}.html").write_text(page, encoding="utf-8")
         urls.append(f"{config['base_url'].rstrip('/')}/{slug}.html")
