@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "financial-command-center",
+    "name": "Financial Command Center - Ultimate US Edition",
+    "vendor": "LUMENOR",
+    "category": "Business / Investing",
+    "niche": "all-in-one personal finance spreadsheet dashboard for US households",
+    "price": "low-ticket (official page)",
+    "summary": "Financial Command Center is a 19-sheet Excel dashboard that brings budgeting, net worth, debt payoff, investments, asset allocation, and a US-specific tax and retirement tracker (401(k), IRA, HSA, 529) into one place.",
+    "best_for": "US households who want a single spreadsheet to track their whole financial picture instead of juggling several apps",
+    "keywords": [
+      "personal finance spreadsheet",
+      "budget and net worth tracker",
+      "debt payoff spreadsheet",
+      "401k IRA tracker excel"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "faceless-media-engine",
+    "name": "The Faceless Media Engine",
+    "vendor": "FMENGINE",
+    "category": "E-Business & E-Marketing",
+    "niche": "step-by-step course for building an AI-powered faceless video channel",
+    "price": "low-ticket (official page)",
+    "summary": "The Faceless Media Engine is a step-by-step PDF course that walks through planning a niche and channel, scripting, AI voiceover, editing, and posting, so buyers build their own faceless video workflow rather than copy someone else's.",
+    "best_for": "people who want to start a faceless YouTube or social video channel but don't know where to begin with the workflow",
+    "keywords": [
+      "faceless youtube channel course",
+      "ai faceless video workflow",
+      "how to start a faceless channel",
+      "ai video content system"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "affiliate-campaign-blueprint",
+    "name": "Affiliate Campaign Blueprint",
+    "vendor": "CHAUHANP",
+    "category": "E-Business & E-Marketing",
+    "niche": "beginner affiliate marketing campaign planning guide",
+    "price": "low-ticket (official page)",
+    "summary": "Affiliate Campaign Blueprint is a beginner-friendly planning guide for an affiliate promotion, including an A-Z reference, checklist, summaries, a mind map, a resource list, and a worked example.",
+    "best_for": "someone brand new to affiliate marketing who wants a structured plan before launching their first campaign",
+    "keywords": [
+      "affiliate marketing for beginners",
+      "how to plan an affiliate campaign",
+      "affiliate marketing checklist",
+      "affiliate marketing blueprint"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "ai-made-easy-after-50",
+    "name": "AI Made Easy After 50",
+    "vendor": "AIMADEEZ50",
+    "category": "Education",
+    "niche": "plain-English AI guide aimed at people over 50",
+    "price": "low-ticket (official page)",
+    "summary": "AI Made Easy After 50 is a plain-English guide that helps people over 50 put AI tools to work in everyday life, including a 60-prompt book and practical checklists.",
+    "best_for": "older adults who feel overwhelmed by AI tools and want a clear, jargon-free starting point",
+    "keywords": [
+      "ai for seniors",
+      "ai guide for beginners over 50",
+      "chatgpt prompts for seniors",
+      "plain english ai guide"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "famous-artworks",
+    "name": "Famous Artworks",
+    "vendor": "FAMOUSART",
+    "category": "Arts & Entertainment",
+    "niche": "curated digital collection of famous museum artwork reproductions",
+    "price": "low-ticket (official page)",
+    "summary": "Famous Artworks is a curated digital collection of reproductions of well-known masterpieces held in museums and private collections around the world.",
+    "best_for": "art lovers who want a ready-made digital collection of famous paintings to view, study, or use for personal projects",
+    "keywords": [
+      "famous paintings digital collection",
+      "museum masterpieces download",
+      "classic art reproductions",
+      "digital art collection for art lovers"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
