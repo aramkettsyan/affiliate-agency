@@ -25,6 +25,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # generate_site.py reads page dates from git history
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

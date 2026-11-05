@@ -18,6 +18,7 @@ import json
 import os
 import re
 import html
+import subprocess
 from datetime import date
 from pathlib import Path
 
@@ -28,6 +29,39 @@ TODAY = date.today().isoformat()
 TODAY_ISO = TODAY + "T00:00:00+00:00"  # full datetime+timezone; bare dates fail schema.org validation
 DEFAULT_OG_IMAGE = "img/og-default.jpg"  # branded fallback so every page has a valid share/schema image
 IMAGES = {}  # product id -> local image path (populated in main from images.json)
+
+
+def _load_content_dates():
+    """Map each content file to (first commit date, last commit date) from git history.
+
+    Pages are rebuilt on every deploy, so build time says nothing about when a page really changed.
+    The deploy workflow checks out with fetch-depth: 0 so this history is complete in CI.
+    """
+    try:
+        out = subprocess.run(["git", "log", "--format=@%cs", "--name-only", "--", "content/"],
+                             cwd=ROOT, capture_output=True, text=True, check=True).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return {}
+    dates, current = {}, None
+    for line in out.splitlines():  # newest commit first
+        if line.startswith("@"):
+            current = line[1:]
+        elif line.strip() and current:
+            last = dates[line.strip()][1] if line.strip() in dates else current
+            dates[line.strip()] = (current, last)
+    return dates
+
+
+CONTENT_DATES = _load_content_dates()
+
+
+def content_dates(rel_path):
+    """(first published, last modified) as YYYY-MM-DD; a file not yet committed counts as today."""
+    return CONTENT_DATES.get(rel_path, (TODAY, TODAY))
+
+
+def month_label(iso_date):
+    return date.fromisoformat(iso_date).strftime("%B %Y")
 
 
 def image_for(product):
@@ -387,6 +421,7 @@ ALL_PRODUCTS = []
 def render_article(product, config, roundups, related):
     slug = slugify(product["name"])
     canonical = f"{config['base_url'].rstrip('/')}/{slug}.html"
+    first_date, last_date = content_dates(f"content/{product['id']}.html")
     emoji, color = icon_for(product)
     body_inner = article_body(product, config)
     faqs = faqs_for(product)
@@ -399,7 +434,7 @@ def render_article(product, config, roundups, related):
                f'{e(product.get("summary",""))} Best for {e(product.get("best_for","the right buyer"))}. '
                f'Backed by ClickBank\'s 60-day money-back guarantee.</div>')
     byline = ('<div class="byline"><span class="av">HB</span> Reviewed by the Honest Buy Reviews editorial team · '
-              f'Updated {date.today().strftime("%B %Y")}</div>')
+              f'Updated {month_label(last_date)}</div>')
 
     img = image_for(product)
     hero_img = (f'<img class="hero-img" src="{e(img)}" alt="{e(product["name"])} product image">'
@@ -439,7 +474,7 @@ def render_article(product, config, roundups, related):
         "review": {
             "@type": "Review", "author": org, "publisher": org,
             "reviewBody": product.get("summary", ""),
-            "datePublished": TODAY_ISO, "url": canonical,
+            "datePublished": iso_dt(first_date), "dateModified": iso_dt(last_date), "url": canonical,
         },
     }
     crumb_schema = {
@@ -533,11 +568,12 @@ def guide_body(guide):
 
 def render_guide(guide, config, roundups, by_id):
     gid = guide["id"]
+    last_date = max(content_dates(f"content/guides/{gid}.html")[1], guide.get("date", TODAY))
     canonical = f"{config['base_url'].rstrip('/')}/{gid}.html"
     crumb = (f'<div class="crumb"><a href="index.html">Home</a> › '
              f'<a href="guides.html">Guides</a> › {e(guide["title"])}</div>')
     byline = ('<div class="byline"><span class="av">HB</span> By the Honest Buy Reviews editorial team · '
-              f'Updated {date.today().strftime("%B %Y")}</div>')
+              f'Updated {month_label(last_date)}</div>')
     disclosure = f'<div class="disclosure">{e(config["affiliate_disclosure"])}</div>'
 
     # soft recommendation CTA to the related product
@@ -571,7 +607,7 @@ def render_guide(guide, config, roundups, by_id):
         "headline": guide["title"], "description": guide.get("summary", ""), "image": guide_img,
         "author": {"@type": "Organization", "name": config["site_name"], "url": config["base_url"]},
         "publisher": {"@type": "Organization", "name": config["site_name"], "url": config["base_url"]},
-        "datePublished": iso_dt(guide.get("date", TODAY)), "dateModified": TODAY_ISO, "url": canonical,
+        "datePublished": iso_dt(guide.get("date", TODAY)), "dateModified": iso_dt(last_date), "url": canonical,
     }
     crumb_schema = {
         "@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -696,6 +732,7 @@ def main():
     products = [p for p in products if "REPLACE-WITH-YOUR" not in p.get("affiliate_url", "")]
     by_id = {p["id"]: p for p in products}
     urls = [f"{config['base_url'].rstrip('/')}/"]
+    lastmods = {}  # url -> real last-changed date; pages not listed get no <lastmod>
 
     # product reviews (with related = up to 3 same-category others)
     # Some products have two catalog entries whose names slugify to the same URL. Only one page can exist
@@ -712,6 +749,7 @@ def main():
         slug, page = render_article(p, config, roundups, related)
         (PUBLIC / f"{slug}.html").write_text(page, encoding="utf-8")
         urls.append(f"{config['base_url'].rstrip('/')}/{slug}.html")
+        lastmods[urls[-1]] = content_dates(f"content/{p['id']}.html")[1]
         print(f"  + {slug}.html")
 
     # roundups
@@ -725,6 +763,7 @@ def main():
         gid, page = render_guide(g, config, roundups, by_id)
         (PUBLIC / f"{gid}.html").write_text(page, encoding="utf-8")
         urls.append(f"{config['base_url'].rstrip('/')}/{gid}.html")
+        lastmods[urls[-1]] = max(content_dates(f"content/guides/{gid}.html")[1], g.get("date", TODAY))
         print(f"  + {gid}.html (guide)")
 
     # static pages
@@ -740,8 +779,13 @@ def main():
     # sitemap + robots
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    newest = max(lastmods.values(), default=TODAY)  # hub pages change whenever a page they list does
+    base_url = config["base_url"].rstrip("/")
+    lastmods[f"{base_url}/"] = lastmods[f"{base_url}/guides.html"] = newest
+    lastmods[f"{base_url}/best-guides.html"] = newest
     for u in urls:
-        sm.append(f"  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod><changefreq>weekly</changefreq></url>")
+        lm = f"<lastmod>{lastmods[u]}</lastmod>" if u in lastmods else ""
+        sm.append(f"  <url><loc>{u}</loc>{lm}<changefreq>weekly</changefreq></url>")
     sm.append("</urlset>")
     (PUBLIC / "sitemap.xml").write_text("\n".join(sm), encoding="utf-8")
     base = config["base_url"].rstrip("/")

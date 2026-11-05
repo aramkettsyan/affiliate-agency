@@ -3298,5 +3298,37 @@
         "a": "Healthy hens kept under natural light usually pick back up as days lengthen after the winter solstice, with production building through late winter into spring. Older hens tend to lay fewer eggs each year, so they may not return to their earlier numbers."
       }
     ]
+  },
+  {
+    "id": "why-is-my-shed-wet-inside-condensation",
+    "title": "Why Is My Shed Wet Inside? How to Stop Condensation on the Roof and Walls",
+    "summary": "A wet shed often isn't leaking at all; here's how to tell condensation from a roof leak, find the moisture source, and fix it in the right order.",
+    "keywords": [
+      "why is my shed wet inside",
+      "how to stop condensation in a shed",
+      "metal shed roof condensation",
+      "shed roof dripping when it hasn't rained"
+    ],
+    "related_product_id": "my-shed-plans",
+    "also_link_from": [
+      "fitmyshed-plans",
+      "do-i-need-a-permit-to-build-a-shed",
+      "why-does-wood-warp-after-cutting-how-to-prevent"
+    ],
+    "date": "2026-11-05",
+    "faqs": [
+      {
+        "q": "Why is my shed roof dripping when it hasn't rained?",
+        "a": "That is almost always condensation. On cold, clear nights the roof cools quickly, and moist air inside the shed turns to water when it touches that cold surface. Reducing the moisture inside and adding ventilation usually helps more than sealing the roof."
+      },
+      {
+        "q": "Will vents stop condensation in a shed?",
+        "a": "Vents often help a lot, especially with one placed low and one placed high so that damp air can rise and leave. They work best when you also deal with moisture sources such as wet ground or damp items stored inside. Very humid weather can still limit how much they do."
+      },
+      {
+        "q": "Should I insulate a metal shed to stop condensation?",
+        "a": "It can help, but do it after fixing ventilation and ground moisture. Use rigid board with sealed joints so that damp air cannot get behind it and condense on the cold metal, where you cannot see the resulting rust or mold."
+      }
+    ]
   }
 ]
