@@ -1,25 +1,5 @@
 [
   {
-    "id": "financial-command-center",
-    "name": "Financial Command Center - Ultimate US Edition",
-    "vendor": "LUMENOR",
-    "category": "Business / Investing",
-    "niche": "all-in-one personal finance spreadsheet dashboard for US households",
-    "price": "low-ticket (official page)",
-    "summary": "Financial Command Center is a 19-sheet Excel dashboard that brings budgeting, net worth, debt payoff, investments, asset allocation, and a US-specific tax and retirement tracker (401(k), IRA, HSA, 529) into one place.",
-    "best_for": "US households who want a single spreadsheet to track their whole financial picture instead of juggling several apps",
-    "keywords": [
-      "personal finance spreadsheet",
-      "budget and net worth tracker",
-      "debt payoff spreadsheet",
-      "401k IRA tracker excel"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "faceless-media-engine",
     "name": "The Faceless Media Engine",
     "vendor": "FMENGINE",
