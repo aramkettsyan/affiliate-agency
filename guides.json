@@ -3330,5 +3330,37 @@
         "a": "It can help, but do it after fixing ventilation and ground moisture. Use rigid board with sealed joints so that damp air cannot get behind it and condense on the cold metal, where you cannot see the resulting rust or mold."
       }
     ]
+  },
+  {
+    "id": "how-to-keep-aquaponics-running-in-winter",
+    "title": "How to Keep an Aquaponics System Running in Winter Without Losing Fish or Plants",
+    "summary": "Cold slows your fish, plants, and bacteria at different rates; here's how to choose a winter plan, adjust feeding, protect the hardware, and keep the system balanced.",
+    "keywords": [
+      "how to keep aquaponics running in winter",
+      "aquaponics in cold weather",
+      "winterizing an aquaponics system",
+      "best aquaponics fish for cold climates"
+    ],
+    "related_product_id": "aquaponics-4-you",
+    "also_link_from": [
+      "aquaponics-cloudy-water-fix",
+      "how-much-land-self-sufficient",
+      "small-vegetable-garden-low-yield-fix"
+    ],
+    "date": "2026-11-06",
+    "faqs": [
+      {
+        "q": "Can you run an aquaponics system outside in winter?",
+        "a": "Yes, in some climates, if you use cold-tolerant fish and plants, insulate the tank, and keep the water from freezing solid. In places with hard winters, moving a small system indoors or shutting it down until spring is often more realistic."
+      },
+      {
+        "q": "Should you feed aquaponics fish in winter?",
+        "a": "Feed according to water temperature, not the date. Reduce portions as the water cools, remove anything left uneaten, and stop if the fish stop eating. Overfeeding cold fish is a common way to cause ammonia problems, because the bacteria that process waste slow down too."
+      },
+      {
+        "q": "What temperature is too cold for an aquaponics system?",
+        "a": "It depends on the fish. Tropical species such as tilapia need warm water and can die in cold conditions, while goldfish, koi, and trout tolerate far lower temperatures. Nitrifying bacteria also slow noticeably below about 50-55°F, so check ammonia and nitrite often as the water cools."
+      }
+    ]
   }
 ]
