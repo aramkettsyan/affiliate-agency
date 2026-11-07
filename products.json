@@ -9869,5 +9869,26 @@
       "chatgpt prompts for seniors",
       "plain english ai guide"
     ]
+  },
+  {
+    "id": "famous-artworks",
+    "name": "Famous Artworks",
+    "category": "Arts & Entertainment",
+    "niche": "curated digital collection of famous museum artwork reproductions",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=FAMOUSART",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "Famous Artworks is a curated digital collection of reproductions of well-known masterpieces held in museums and private collections around the world.",
+    "best_for": "art lovers who want a ready-made digital collection of famous paintings to view, study, or use for personal projects",
+    "keywords": [
+      "famous paintings digital collection",
+      "museum masterpieces download",
+      "classic art reproductions",
+      "digital art collection for art lovers"
+    ]
   }
 ]
