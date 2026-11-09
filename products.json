@@ -9995,5 +9995,26 @@
       "repurpose household items",
       "sustainable diy crafts"
     ]
+  },
+  {
+    "id": "music-scores",
+    "name": "Music Scores.com",
+    "category": "Arts & Entertainment",
+    "niche": "downloadable classical sheet music",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=musicscore",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    },
+    "summary": "A long-running digital library of classical sheet music and arrangements covering a wide range of instruments and skill levels.",
+    "best_for": "musicians, teachers, and students who need printable classical sheet music without hunting across scattered free sites",
+    "keywords": [
+      "classical sheet music download",
+      "printable sheet music library",
+      "sheet music for instruments",
+      "classical music arrangements"
+    ]
   }
 ]

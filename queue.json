@@ -1,45 +1,5 @@
 [
   {
-    "id": "killer-guitar-control-secrets",
-    "name": "Killer Guitar Control Secrets",
-    "vendor": "guitarist3",
-    "category": "Arts & Entertainment",
-    "niche": "guitar lead playing / technique course",
-    "price": "low-ticket (official page)",
-    "summary": "A guitar technique course focused on the three core components of soulful lead playing, aimed at guitarists stuck at an intermediate plateau.",
-    "best_for": "self-taught guitarists who can play rhythm but want to break through to confident, expressive soloing",
-    "keywords": [
-      "guitar lead technique course",
-      "how to solo on guitar",
-      "guitar control secrets review",
-      "improve guitar soloing"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.3,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "music-scores",
-    "name": "Music Scores.com",
-    "vendor": "musicscore",
-    "category": "Arts & Entertainment",
-    "niche": "downloadable classical sheet music",
-    "price": "low-ticket (official page)",
-    "summary": "A long-running digital library of classical sheet music and arrangements covering a wide range of instruments and skill levels.",
-    "best_for": "musicians, teachers, and students who need printable classical sheet music without hunting across scattered free sites",
-    "keywords": [
-      "classical sheet music download",
-      "printable sheet music library",
-      "sheet music for instruments",
-      "classical music arrangements"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.4,
-      "approval_required": false
-    }
-  },
-  {
     "id": "turn-any-story-into-a-custom-song",
     "name": "Turn Any Story Into a Custom Song (Perfect Gift)",
     "vendor": "songcustom",
