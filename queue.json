@@ -1,25 +1,5 @@
 [
   {
-    "id": "turn-any-story-into-a-custom-song",
-    "name": "Turn Any Story Into a Custom Song (Perfect Gift)",
-    "vendor": "songcustom",
-    "category": "Arts & Entertainment",
-    "niche": "personalized custom song / gift service",
-    "price": "low-ticket (official page)",
-    "summary": "A service that turns a customer's personal story into a custom-written and produced song, pitched as a personalized gift for birthdays, anniversaries, and weddings.",
-    "best_for": "gift shoppers looking for a sentimental, one-of-a-kind present instead of a generic store-bought item",
-    "keywords": [
-      "personalized custom song gift",
-      "turn story into a song",
-      "custom song for birthday",
-      "unique anniversary gift idea"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "tattoo-design-library-membership",
     "name": "Tattoo Design Library Membership",
     "vendor": "miamiink",
