@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "killer-guitar-control-secrets",
+    "name": "Killer Guitar Control Secrets",
+    "vendor": "guitarist3",
+    "category": "Arts & Entertainment",
+    "niche": "guitar lead playing / technique course",
+    "price": "low-ticket (official page)",
+    "summary": "A guitar technique course focused on the three core components of soulful lead playing, aimed at guitarists stuck at an intermediate plateau.",
+    "best_for": "self-taught guitarists who can play rhythm but want to break through to confident, expressive soloing",
+    "keywords": [
+      "guitar lead technique course",
+      "how to solo on guitar",
+      "guitar control secrets review",
+      "improve guitar soloing"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "music-scores",
+    "name": "Music Scores.com",
+    "vendor": "musicscore",
+    "category": "Arts & Entertainment",
+    "niche": "downloadable classical sheet music",
+    "price": "low-ticket (official page)",
+    "summary": "A long-running digital library of classical sheet music and arrangements covering a wide range of instruments and skill levels.",
+    "best_for": "musicians, teachers, and students who need printable classical sheet music without hunting across scattered free sites",
+    "keywords": [
+      "classical sheet music download",
+      "printable sheet music library",
+      "sheet music for instruments",
+      "classical music arrangements"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "turn-any-story-into-a-custom-song",
+    "name": "Turn Any Story Into a Custom Song (Perfect Gift)",
+    "vendor": "songcustom",
+    "category": "Arts & Entertainment",
+    "niche": "personalized custom song / gift service",
+    "price": "low-ticket (official page)",
+    "summary": "A service that turns a customer's personal story into a custom-written and produced song, pitched as a personalized gift for birthdays, anniversaries, and weddings.",
+    "best_for": "gift shoppers looking for a sentimental, one-of-a-kind present instead of a generic store-bought item",
+    "keywords": [
+      "personalized custom song gift",
+      "turn story into a song",
+      "custom song for birthday",
+      "unique anniversary gift idea"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tattoo-design-library-membership",
+    "name": "Tattoo Design Library Membership",
+    "vendor": "miamiink",
+    "category": "Arts & Entertainment",
+    "niche": "tattoo design reference library",
+    "price": "low-ticket (official page)",
+    "summary": "A membership library of over 30,000 tattoo designs built since 2009, aimed at people planning a tattoo or artists looking for reference art.",
+    "best_for": "people researching tattoo ideas before booking an appointment, and tattoo artists who want a large design reference library",
+    "keywords": [
+      "tattoo design ideas library",
+      "tattoo reference images",
+      "tattoo design membership site",
+      "find tattoo designs online"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "kua-number-astrology-reading",
+    "name": "Kua Number Astrology Reading",
+    "vendor": "twaura",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Feng Shui / Kua number personalized reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized reading based on a person's Kua number, a Feng Shui concept used to identify favorable directions and life areas.",
+    "best_for": "readers curious about Feng Shui and personalized numerology-style readings as light entertainment",
+    "keywords": [
+      "kua number reading",
+      "feng shui kua number",
+      "personalized feng shui reading",
+      "what is my kua number"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "numerology-forecast-reading",
+    "name": "Numerology Forecast: Decode Your Life's Path",
+    "vendor": "00numero",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "personalized numerology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized numerology reading that interprets the numbers unique to an individual to offer insight into life purpose, love, and abundance.",
+    "best_for": "readers interested in numerology who want a personalized, easy-to-digest reading rather than a generic horoscope",
+    "keywords": [
+      "numerology reading online",
+      "personalized numerology forecast",
+      "life path number reading",
+      "what does my numerology mean"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  }
+]
