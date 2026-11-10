@@ -1,25 +1,5 @@
 [
   {
-    "id": "kua-number-astrology-reading",
-    "name": "Kua Number Astrology Reading",
-    "vendor": "twaura",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "Feng Shui / Kua number personalized reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized reading based on a person's Kua number, a Feng Shui concept used to identify favorable directions and life areas.",
-    "best_for": "readers curious about Feng Shui and personalized numerology-style readings as light entertainment",
-    "keywords": [
-      "kua number reading",
-      "feng shui kua number",
-      "personalized feng shui reading",
-      "what is my kua number"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "numerology-forecast-reading",
     "name": "Numerology Forecast: Decode Your Life's Path",
     "vendor": "00numero",
