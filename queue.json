@@ -1,18 +1,118 @@
 [
   {
-    "id": "numerology-forecast-reading",
-    "name": "Numerology Forecast: Decode Your Life's Path",
-    "vendor": "00numero",
-    "category": "Spirituality, New Age & Alternative Beliefs",
-    "niche": "personalized numerology reading",
+    "id": "autoestima-para-adultos-espanol",
+    "name": "Elevación de la Autoestima para Adultos en Espanol",
+    "vendor": "ALTAESTIMA",
+    "category": "Self-Help",
+    "niche": "Spanish-language self-esteem program for adults",
     "price": "low-ticket (official page)",
-    "summary": "A personalized numerology reading that interprets the numbers unique to an individual to offer insight into life purpose, love, and abundance.",
-    "best_for": "readers interested in numerology who want a personalized, easy-to-digest reading rather than a generic horoscope",
+    "summary": "A Spanish-language self-esteem program for adults from a published self-help author, bundling a book, workbook, audiobook and video program.",
+    "best_for": "Spanish-speaking adults looking to build self-esteem and confidence in a market with little competing content",
     "keywords": [
-      "numerology reading online",
-      "personalized numerology forecast",
-      "life path number reading",
-      "what does my numerology mean"
+      "autoestima para adultos",
+      "programa de autoestima en espanol",
+      "como mejorar la autoestima",
+      "curso de autoestima"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "roll-on-relief",
+    "name": "Roll On Relief - Topical Pain Relief Roll-On",
+    "vendor": "ROLLONRELF",
+    "category": "Health & Fitness",
+    "niche": "topical roll-on pain relief",
+    "price": "low-ticket (official page)",
+    "summary": "A no-pills, no-mess roll-on applicator aimed at easing everyday joint and back discomfort.",
+    "best_for": "people dealing with everyday aches who would rather avoid pills and want a quick topical option",
+    "keywords": [
+      "roll on pain relief",
+      "topical joint pain relief",
+      "back pain roll on",
+      "knee pain relief without pills"
+    ],
+    "clickbank_stats": {
+      "gravity": 4.4,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "how-to-create-sell-digital-products-ai",
+    "name": "How to Create & Sell Digital Products with AI",
+    "vendor": "DAVBIZ26",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI-assisted digital product creation for beginners",
+    "price": "low-ticket (official page)",
+    "summary": "A beginner-friendly ebook that walks through using AI tools to create, package, price and promote digital products like ebooks, templates and prompts.",
+    "best_for": "complete beginners who want a simple, AI-assisted way to start selling their first digital product",
+    "keywords": [
+      "create digital products with ai",
+      "sell digital products online",
+      "ai ebook creation guide",
+      "how to make and sell ebooks"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "burtmentor-real-estate-investing",
+    "name": "BurtMentor Real Estate Investing & Deal Training",
+    "vendor": "BURTMENTOR",
+    "category": "Business / Investing",
+    "niche": "real estate investing education",
+    "price": "low-ticket (official page)",
+    "summary": "Real estate investing training from a veteran broker and investor, covering property acquisitions, apartment investing, creative financing and negotiating real deals.",
+    "best_for": "aspiring or early-stage real estate investors who want practical, experience-based strategies rather than generic theory",
+    "keywords": [
+      "real estate investing course",
+      "how to invest in real estate",
+      "real estate deal training",
+      "creative financing real estate"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "art-of-monty-dating-confidence",
+    "name": "The Art of Monty - Dating Confidence Course",
+    "vendor": "ZEUS0132",
+    "category": "Self-Help",
+    "niche": "dating confidence coaching for men",
+    "price": "low-ticket (official page)",
+    "summary": "A dating-confidence course built around a free introductory guide, aimed at helping men approach dating with more confidence and less anxiety.",
+    "best_for": "men who feel anxious or stuck in dating and want a structured, confidence-building approach",
+    "keywords": [
+      "dating confidence course",
+      "how to be more confident dating",
+      "overcome dating anxiety men",
+      "dating advice for men"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "selfplus-age-plus-supplement",
+    "name": "SelfPlus AGE+ – Healthy Aging Support Supplement",
+    "vendor": "SELFPLUS1",
+    "category": "Health & Fitness",
+    "niche": "once-daily healthy aging supplement",
+    "price": "low-ticket (official page)",
+    "summary": "A once-daily Japanese Knotweed Root supplement marketed for antioxidant support and everyday cellular wellness as part of a healthy-aging routine.",
+    "best_for": "adults looking for a simple daily supplement to add to a healthy-aging routine",
+    "keywords": [
+      "healthy aging supplement",
+      "japanese knotweed supplement",
+      "antioxidant supplement daily",
+      "cellular wellness supplement"
     ],
     "clickbank_stats": {
       "gravity": 0.0,
