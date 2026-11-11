@@ -3459,5 +3459,39 @@
       "why-is-my-stain-blotchy-on-pine",
       "why-does-wood-warp-after-cutting-how-to-prevent"
     ]
+  },
+  {
+    "id": "how-to-keep-one-room-warm-during-power-outage",
+    "title": "How to Keep One Room Warm During a Winter Power Outage (Safely)",
+    "summary": "How to pick, seal and safely heat a single warm room when the power goes out in winter, plus the carbon monoxide rules and pipe tips that matter most.",
+    "keywords": [
+      "how to keep one room warm during a power outage",
+      "how to stay warm without power in winter",
+      "how long will a house stay warm without power",
+      "safe ways to heat a room without electricity"
+    ],
+    "related_product_id": "dark-reset-survival-guide",
+    "date": "2026-11-11",
+    "faqs": [
+      {
+        "q": "How long will a house stay warm without power?",
+        "a": "It depends on insulation, outdoor temperature and wind. A well-insulated home may only lose a few degrees in the first several hours, while a drafty house in freezing wind can get cold within a few hours. Start conserving heat in the first hour by closing off unused rooms and covering windows."
+      },
+      {
+        "q": "What is the safest way to heat a room without electricity?",
+        "a": "Concentrate people in one small, sealed room and rely on insulation, layers and shared blankets first. If you use a fuel-burning heater, it must be rated for indoor use and used exactly as the manufacturer directs, with a battery-powered carbon monoxide alarm. A fireplace or wood stove is fine only if it has been inspected."
+      },
+      {
+        "q": "Can I use my gas oven or a camp stove to heat the house?",
+        "a": "No. Gas ovens, grills, camp stoves, charcoal and generators can produce deadly carbon monoxide indoors, even with windows open. Keep generators well away from the house (many agencies say at least 20 feet) and leave if anyone develops a headache, dizziness or nausea."
+      }
+    ],
+    "also_link_from": [
+      "how-long-does-food-last-in-fridge-during-power-outage",
+      "how-long-can-you-store-water-for-emergencies",
+      "keep-chicken-coop-warm-winter-without-electricity",
+      "emp-blackout-protocol",
+      "home-doctor"
+    ]
   }
 ]
