@@ -3493,5 +3493,38 @@
       "emp-blackout-protocol",
       "home-doctor"
     ]
+  },
+  {
+    "id": "why-is-my-furnace-blowing-cold-air",
+    "title": "Why Is My Furnace Blowing Cold Air? (Warm Then Cold, or Cold From the Start)",
+    "summary": "How to tell normal startup air from a real problem, and the filter, thermostat, flame sensor and drain-line checks that fix most furnaces blowing cold air.",
+    "keywords": [
+      "why is my furnace blowing cold air",
+      "furnace blows warm air then cold",
+      "furnace turns on but blows cold air",
+      "furnace blowing cold air with heat on"
+    ],
+    "related_product_id": "homeowners-hvac-guide",
+    "date": "2026-11-12",
+    "faqs": [
+      {
+        "q": "Why does my furnace blow warm air and then cold air?",
+        "a": "Usually the burners are lighting and then shutting off while the blower keeps running. The most common causes are a clogged air filter or blocked vents tripping the high-limit safety switch, or a dirty flame sensor that can't confirm the flame. Replace the filter and open all vents first; if it continues, have a technician check the flame sensor and airflow."
+      },
+      {
+        "q": "Is it normal for a furnace to blow cold air at first?",
+        "a": "Yes, a minute or two of cool air at startup is common, especially when ducts run through cold attics, crawlspaces or garages. If the air turns warm within a few minutes and stays warm, the furnace is working normally."
+      },
+      {
+        "q": "Can a dirty filter make a furnace blow cold air?",
+        "a": "Yes. A clogged filter restricts airflow so the heat exchanger overheats, and the high-limit switch shuts off the burners while the blower keeps running, pushing unheated air through the vents. Replacing the filter often fixes it."
+      }
+    ],
+    "also_link_from": [
+      "upstairs-hotter-than-downstairs-ac-on",
+      "electric-bill-high-when-no-one-home",
+      "how-to-keep-one-room-warm-during-power-outage",
+      "energy-revolution-system"
+    ]
   }
 ]
