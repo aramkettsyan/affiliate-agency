@@ -3526,5 +3526,38 @@
       "how-to-keep-one-room-warm-during-power-outage",
       "energy-revolution-system"
     ]
+  },
+  {
+    "id": "why-does-my-voice-shake-when-speaking-in-public",
+    "title": "Why Does My Voice Shake When Speaking in Public? (And How to Stop It)",
+    "summary": "Why your voice trembles when you present or give a speech, plus breathing, pacing and practice fixes that steady it, and when to see a doctor.",
+    "keywords": [
+      "why does my voice shake when speaking in public",
+      "how to stop voice shaking during presentation",
+      "shaky voice public speaking",
+      "voice trembles when nervous"
+    ],
+    "related_product_id": "speak-with-confidence-public-speaking",
+    "date": "2026-11-13",
+    "faqs": [
+      {
+        "q": "Can people actually hear my voice shaking?",
+        "a": "Usually far less than you think. You hear your own voice through bone conduction while actively listening for the shake, so it sounds worse to you. Most listeners hear, at most, a little nervousness, which they find relatable. Recording a practice run is a good way to check."
+      },
+      {
+        "q": "How do I stop my voice from shaking right before a presentation?",
+        "a": "Take two or three slow belly breaths with a longer exhale than inhale, loosen your jaw and shoulders, move briskly for a few minutes to burn off adrenaline, hum or do lip trills to warm up, and plan to say your first sentence slowly. Keep room-temperature water nearby for dry mouth."
+      },
+      {
+        "q": "When is a shaky voice a sign of a medical problem?",
+        "a": "If your voice also trembles in relaxed everyday conversation, keeps getting worse over months, or comes with hoarseness lasting more than a few weeks, pain, or trouble swallowing, see a doctor. They may refer you to an ENT specialist or speech-language pathologist to check for vocal tremor or vocal fold issues."
+      }
+    ],
+    "also_link_from": [
+      "why-does-my-voice-crack-singing-high-notes",
+      "tired-but-cant-sleep-hyperarousal",
+      "singorama-singing-guide",
+      "guide-to-self-hypnosis"
+    ]
   }
 ]
