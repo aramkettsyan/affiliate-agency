@@ -1,25 +1,5 @@
 [
   {
-    "id": "nowseenai-chatgpt-visibility-checker",
-    "name": "NowSeenAI",
-    "vendor": "nowseenai",
-    "category": "Software & Services",
-    "niche": "tool that checks whether ChatGPT and other AI assistants recommend your website",
-    "price": "low-ticket (official page)",
-    "summary": "A simple online tool that checks whether AI assistants like ChatGPT are recommending your website to users, or sending that traffic to competitors instead.",
-    "best_for": "small business owners, marketers, and bloggers who want to know how visible they are in AI-generated answers",
-    "keywords": [
-      "is my site in chatgpt",
-      "AI search visibility tool",
-      "chatgpt seo checker",
-      "AI recommendation checker for websites"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "eldt-cdl-training-truckers",
     "name": "ELDT CDL Training for Truckers",
     "vendor": "eldtiosell",

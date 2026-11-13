@@ -10247,5 +10247,26 @@
       "protect reputation online",
       "AI impersonation safety guide"
     ]
+  },
+  {
+    "id": "nowseenai-chatgpt-visibility-checker",
+    "name": "NowSeenAI",
+    "category": "Software & Services",
+    "niche": "tool that checks whether ChatGPT and other AI assistants recommend your website",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=nowseenai",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A simple online tool that checks whether AI assistants like ChatGPT are recommending your website to users, or sending that traffic to competitors instead.",
+    "best_for": "small business owners, marketers, and bloggers who want to know how visible they are in AI-generated answers",
+    "keywords": [
+      "is my site in chatgpt",
+      "AI search visibility tool",
+      "chatgpt seo checker",
+      "AI recommendation checker for websites"
+    ]
   }
 ]
