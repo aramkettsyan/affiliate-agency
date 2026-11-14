@@ -10289,5 +10289,47 @@
       "hazmat endorsement training",
       "class A CDL requirements course"
     ]
+  },
+  {
+    "id": "soul-reading-manifestation",
+    "name": "Soul Reading",
+    "category": "Spirituality",
+    "niche": "personalized soul / manifestation reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=00SMANIF",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 29.9,
+      "approval_required": false
+    },
+    "summary": "A personalized spiritual 'soul reading' offer aimed at manifestation and law-of-attraction audiences, delivered as a short, personalized reading funnel.",
+    "best_for": "readers interested in manifestation, law of attraction, and spiritual self-discovery content",
+    "keywords": [
+      "soul reading review",
+      "personalized soul reading online",
+      "manifestation reading",
+      "spiritual soul reading does it work"
+    ]
+  },
+  {
+    "id": "lucky-fortune-numbers",
+    "name": "Lucky Fortune Numbers",
+    "category": "Spirituality",
+    "niche": "personalized lucky numbers / numerology reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=00FORTUNEA",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 9.8,
+      "approval_required": false
+    },
+    "summary": "A personalized 'lucky numbers' reading that blends numerology-style insight with a fortune-telling angle, aimed at readers curious about their personal lucky numbers.",
+    "best_for": "numerology and fortune-reading fans who enjoy personalized, easy-to-digest spiritual content",
+    "keywords": [
+      "lucky fortune numbers review",
+      "personalized lucky numbers reading",
+      "numerology lucky numbers",
+      "fortune reading online"
+    ]
   }
 ]
