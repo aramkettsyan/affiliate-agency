@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "ai-video-studio",
+    "name": "AI Video Studio",
+    "vendor": "INGHOUSE",
+    "category": "E-Business & E-Marketing",
+    "niche": "AI-made video ads and content course for creators and small businesses",
+    "price": "low-ticket (official page)",
+    "summary": "A 38-lesson course teaching business owners, freelancers and creators how to produce ads, UGC-style clips and faceless videos using AI tools instead of a film crew.",
+    "best_for": "small business owners and creators who want to make AI video ads without hiring a production team",
+    "keywords": [
+      "ai video studio course review",
+      "make ai video ads for business",
+      "faceless video course with ai",
+      "ai ugc video tools for marketing"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-game-of-jesus",
+    "name": "The Game of Jesus - King James Bible Decoder",
+    "vendor": "TAPIN2ME",
+    "category": "Spirituality",
+    "niche": "King James Bible word-pattern study course",
+    "price": "low-ticket (official page)",
+    "summary": "A guided video course and printable template set for exploring word and verse patterns in the King James Bible, aimed at readers curious about Bible decoding as a study hobby.",
+    "best_for": "Bible study enthusiasts curious about word and verse pattern exploration",
+    "keywords": [
+      "game of jesus bible decoder review",
+      "king james bible decoder course",
+      "bible word pattern study guide",
+      "is the game of jesus legit"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "madame-sorel-tarot-reading",
+    "name": "Madame Sorel Tarot Reading",
+    "vendor": "MONEYORA",
+    "category": "Spirituality",
+    "niche": "personalized tarot card reading funnel",
+    "price": "low-ticket (official page)",
+    "summary": "An online tarot reading offer that walks visitors through a personalized card draw, aimed at readers curious about tarot without visiting an in-person reader.",
+    "best_for": "tarot-curious readers who want an easy, private online reading",
+    "keywords": [
+      "madame sorel tarot reading review",
+      "online tarot reading legit",
+      "personalized tarot card draw",
+      "free tarot reading offer"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.1,
+      "approval_required": false
+    }
+  }
+]
