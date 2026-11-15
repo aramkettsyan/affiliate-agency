@@ -3586,5 +3586,35 @@
         "a": "Give the cat a 10 to 15 minute play session that ends in a catch, feed its last meal right afterwards, add daytime enrichment, use a timed feeder for early breakfasts, and stay consistent about not responding to night meowing."
       }
     ]
+  },
+  {
+    "id": "why-does-my-model-train-stop-in-the-same-spot",
+    "title": "Why Does My Model Train Stop in the Same Spot? (6 Causes and Fixes)",
+    "summary": "Why a model train stalls or stutters at the same place on the layout, and how to find and fix dirty rails, loose joiners, voltage drop, dead turnout frogs and locomotive pickup problems.",
+    "keywords": [
+      "why does my model train stop in the same spot",
+      "model train stalls on certain sections of track",
+      "ho train stops on turnout",
+      "model train losing power at rail joints"
+    ],
+    "related_product_id": "model-railroading-guide",
+    "date": "2026-11-15",
+    "also_link_from": [
+      "model-train-derailing-on-curves-fix"
+    ],
+    "faqs": [
+      {
+        "q": "Why does my model train stop at the same place every time?",
+        "a": "A stall at the same spot usually means poor electrical contact there: dirty or oxidized rails, a loose rail joiner, voltage drop far from the power feed, or a dead section at a turnout frog. Test a second locomotive on that spot to tell a track problem from a locomotive problem."
+      },
+      {
+        "q": "How do I clean model train track without damaging it?",
+        "a": "Wipe the rail tops with a lint-free cloth dampened with isopropyl alcohol, or use a purpose-made track cleaning block with light pressure. Avoid sandpaper and steel wool, which scratch the rails so they collect dirt faster, and clean the locomotive wheels at the same time."
+      },
+      {
+        "q": "How many feeder wires does a model railroad need?",
+        "a": "There is no single rule, but many modelers add a pair of feeders every few feet or to each section of rail, connected to a heavier bus wire under the layout. Even adding a second feed point on the far side of a small loop often fixes slowdowns and stalls."
+      }
+    ]
   }
 ]
