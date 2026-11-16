@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "friends-with-benefits",
+    "name": "Friends With Benefits",
+    "vendor": "FBUDDY",
+    "category": "Self-Help",
+    "niche": "Dating Guides",
+    "price": "low-ticket (official page)",
+    "summary": "A dating guide for men that focuses on building casual, no-strings-attached relationships rather than traditional long-term dating.",
+    "best_for": "single men looking for guidance on casual dating and keeping things low-commitment",
+    "keywords": [
+      "Friends With Benefits guide review",
+      "casual dating guide for men",
+      "is Friends With Benefits legit",
+      "FWB dating course"
+    ],
+    "clickbank_stats": {
+      "gravity": 12.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "revolutionary-sex",
+    "name": "Revolutionary Sex",
+    "vendor": "REVSEX",
+    "category": "Self-Help",
+    "niche": "Marriage & Relationships",
+    "price": "low-ticket (official page)",
+    "summary": "A relationship and intimacy guide aimed at couples who want practical advice for improving connection and satisfaction in a long-term relationship.",
+    "best_for": "couples looking for straightforward, practical guidance on intimacy and relationship connection",
+    "keywords": [
+      "Revolutionary Sex guide review",
+      "intimacy guide for couples",
+      "relationship advice ebook review",
+      "is Revolutionary Sex legit"
+    ],
+    "clickbank_stats": {
+      "gravity": 6.6,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality",
+    "niche": "Astrology",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized astrology reading service that blends Eastern astrological traditions into a custom report delivered online.",
+    "best_for": "astrology enthusiasts curious about Eastern astrological traditions and personalized readings",
+    "keywords": [
+      "Eastern Astrology Language Reading review",
+      "personalized astrology reading review",
+      "Eastern astrology report",
+      "is Eastern Astrology Language Reading legit"
+    ],
+    "clickbank_stats": {
+      "gravity": 51.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality",
+    "niche": "Psychics",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized soulmate sketch service where an artist/psychic produces a custom drawing based on details you provide about your ideal partner.",
+    "best_for": "people curious about psychic-style soulmate sketch readings as a fun, personalized keepsake",
+    "keywords": [
+      "Tara Lunar Soulmate Sketch review",
+      "soulmate sketch review",
+      "is soulmate sketch legit",
+      "psychic soulmate drawing service"
+    ],
+    "clickbank_stats": {
+      "gravity": 36.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "silicon-valley-wealth",
+    "name": "Silicon Valley Wealth",
+    "vendor": "SILICONVW",
+    "category": "Spirituality",
+    "niche": "General",
+    "price": "low-ticket (official page)",
+    "summary": "A wealth-manifestation video guide that frames money mindset and abundance practices around a 'Silicon Valley insider' storyline.",
+    "best_for": "readers interested in manifestation and abundance content with a modern, tech-industry storytelling angle",
+    "keywords": [
+      "Silicon Valley Wealth review",
+      "is Silicon Valley Wealth legit",
+      "wealth manifestation guide review",
+      "Silicon Valley Wealth VSL"
+    ],
+    "clickbank_stats": {
+      "gravity": 15.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "madame-sorel-tarot-reading",
+    "name": "Madame Sorel #1 Tarot Offer",
+    "vendor": "MONEYORA",
+    "category": "Spirituality",
+    "niche": "Tarot",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized tarot reading service delivered online, aimed at people curious about what the cards say about their love life, finances, or future.",
+    "best_for": "people curious about tarot readings who want a personalized, online reading experience",
+    "keywords": [
+      "Madame Sorel tarot reading review",
+      "online tarot reading review",
+      "is Madame Sorel tarot legit",
+      "personalized tarot reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.3,
+      "approval_required": false
+    }
+  }
+]
