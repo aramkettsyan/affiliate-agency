@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "eastern-astrology-language-reading",
+    "name": "Eastern Astrology Language Reading",
+    "vendor": "ASTROLAN",
+    "category": "Spirituality & New Age",
+    "niche": "personalized Eastern astrology reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized Eastern-astrology-style reading aimed at readers looking for a fresh, high-converting take on the astrology niche heading into the new year.",
+    "best_for": "astrology and personal-development audiences who enjoy personalized readings",
+    "keywords": [
+      "eastern astrology reading",
+      "personalized astrology reading",
+      "chinese astrology reading online",
+      "astrology language reading review"
+    ],
+    "clickbank_stats": {
+      "gravity": 50.2,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunar-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality & New Age",
+    "niche": "soulmate sketch / psychic drawing reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized 'soulmate sketch' offer that generates a drawn depiction of a reader's described soulmate, aimed at the psychic and astrology audience.",
+    "best_for": "readers curious about psychic-style soulmate sketches and personalized astrology content",
+    "keywords": [
+      "soulmate sketch review",
+      "psychic soulmate drawing",
+      "tara lunar soulmate sketch",
+      "personalized soulmate reading"
+    ],
+    "clickbank_stats": {
+      "gravity": 35.3,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "madame-sorel-tarot-reading",
+    "name": "Madame Sorel Tarot Reading",
+    "vendor": "MONEYORA",
+    "category": "Spirituality & New Age",
+    "niche": "personalized tarot reading",
+    "price": "low-ticket (official page)",
+    "summary": "A personalized tarot reading offer from a ClickBank Platinum vendor, aimed at readers who enjoy tarot, psychic, and astrology content.",
+    "best_for": "tarot and psychic-reading enthusiasts looking for a personalized card reading",
+    "keywords": [
+      "madame sorel tarot review",
+      "personalized tarot reading online",
+      "online tarot card reading",
+      "best tarot reading site"
+    ],
+    "clickbank_stats": {
+      "gravity": 16.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "balinese-soulmate-sketch",
+    "name": "Balinese Soulmate Sketch",
+    "vendor": "TRUELOVEOR",
+    "category": "Spirituality & New Age",
+    "niche": "soulmate sketch / psychic drawing reading",
+    "price": "low-ticket (official page)",
+    "summary": "A soulmate-sketch reading with a Balinese channeling storyline, offering a drawn depiction of a reader's described soulmate for the psychic/astrology niche.",
+    "best_for": "readers interested in soulmate sketches and psychic-style relationship readings",
+    "keywords": [
+      "balinese soulmate sketch review",
+      "soulmate sketch reading",
+      "psychic drawing of soulmate",
+      "soulmate sketch online"
+    ],
+    "clickbank_stats": {
+      "gravity": 12.2,
+      "approval_required": false
+    }
+  }
+]
