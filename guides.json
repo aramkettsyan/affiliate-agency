@@ -3680,5 +3680,32 @@
       "small-vegetable-garden-low-yield-fix",
       "how-many-vegetables-4x4-raised-bed"
     ]
+  },
+  {
+    "id": "why-do-my-miter-joints-have-gaps",
+    "title": "Why Do My Miter Joints Have Gaps? 5 Causes and How to Fix Them",
+    "summary": "How to read the shape of a miter gap to find the cause, whether saw angle, blade bevel, creeping stock, unequal lengths, or wood movement, and how to fix gaps you already have.",
+    "keywords": [
+      "why do my miter joints have gaps",
+      "how to fix gaps in miter joints",
+      "miter joint not closing",
+      "picture frame corners not lining up"
+    ],
+    "related_product_id": "tedswoodworking",
+    "date": "2026-11-18",
+    "faqs": [
+      {
+        "q": "How do you fix a small gap in a miter joint?",
+        "a": "For a hairline gap, burnish the corner with the round shank of a screwdriver to roll the wood fibers over the gap, then sand lightly. On stained work, fill with fine sanding dust from the same board mixed with glue or a color-matched filler; on painted work, wood putty or paintable caulk works well."
+      },
+      {
+        "q": "Why is my miter open on the outside but tight on the inside?",
+        "a": "Your combined angle is more than 90 degrees, which usually means each cut is slightly under 45 degrees. Increase the saw angle a fraction of a degree, re-cut scrap, and test the corner with a reliable square before cutting your good stock."
+      },
+      {
+        "q": "Why do miter joints open up over time?",
+        "a": "Wood shrinks and swells across its width with changes in humidity but barely changes in length. Because the two pieces in a miter meet with their grain running in different directions, seasonal shrinkage pulls the joint open, often at the inside corner. Acclimating lumber before cutting and finishing all faces evenly helps reduce it."
+      }
+    ]
   }
 ]
