@@ -1,25 +1,5 @@
 [
   {
-    "id": "photography-ebooks-beginners",
-    "name": "Photography eBooks for Beginners",
-    "vendor": "nratko",
-    "category": "Hobbies & Crafts",
-    "niche": "Beginner photography education",
-    "price": "low-ticket (official page)",
-    "summary": "Two practical eBooks covering camera basics and shooting modes for people just starting out with photography.",
-    "best_for": "beginners who just got a camera and want to understand settings and modes without a full course",
-    "keywords": [
-      "photography ebook for beginners",
-      "learn camera basics",
-      "beginner photography guide",
-      "camera settings explained"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "studiodock-pro-booking-software",
     "name": "StudioDock Pro",
     "vendor": "studiodock",
@@ -76,26 +56,6 @@
     ],
     "clickbank_stats": {
       "gravity": 35.1,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "build-your-business-tonight",
-    "name": "Build Your Business Tonight",
-    "vendor": "vamphouse",
-    "category": "Business & Entrepreneurship",
-    "niche": "Business-building toolkit for new entrepreneurs",
-    "price": "low-ticket (official page)",
-    "summary": "A digital toolkit with idea validation, AI prompts, content planning tools, marketing checklists and templates to help you start a business.",
-    "best_for": "aspiring entrepreneurs who want a structured toolkit to go from business idea to launch",
-    "keywords": [
-      "business building toolkit",
-      "how to start a business guide",
-      "business idea validation tool",
-      "entrepreneur toolkit"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
       "approval_required": false
     }
   }
