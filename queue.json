@@ -1,25 +1,5 @@
 [
   {
-    "id": "cblinkapp-affiliate-network",
-    "name": "CBLinkApp",
-    "vendor": "cblinkapp",
-    "category": "Software & Business Tools",
-    "niche": "ClickBank affiliate/vendor networking platform",
-    "price": "low-ticket (official page)",
-    "summary": "A networking platform where ClickBank sellers and affiliates can find each other, build relationships, and track collaborations.",
-    "best_for": "ClickBank affiliates and vendors looking to find promotion partners more directly",
-    "keywords": [
-      "clickbank affiliate network",
-      "find clickbank vendors",
-      "affiliate marketing networking tool",
-      "clickbank partner platform"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "tara-lunar-soulmate-sketch",
     "name": "Tara Lunar's Soulmate Sketch",
     "vendor": "soulvoice",

@@ -10688,5 +10688,26 @@
       "online booking for studios",
       "studio space rental software"
     ]
+  },
+  {
+    "id": "cblinkapp-affiliate-network",
+    "name": "CBLinkApp",
+    "category": "Software & Business Tools",
+    "niche": "ClickBank affiliate/vendor networking platform",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=cblinkapp",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A networking platform where ClickBank sellers and affiliates can find each other, build relationships, and track collaborations.",
+    "best_for": "ClickBank affiliates and vendors looking to find promotion partners more directly",
+    "keywords": [
+      "clickbank affiliate network",
+      "find clickbank vendors",
+      "affiliate marketing networking tool",
+      "clickbank partner platform"
+    ]
   }
 ]
