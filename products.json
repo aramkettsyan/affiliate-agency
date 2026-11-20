@@ -10667,5 +10667,26 @@
       "beginner photography guide",
       "camera settings explained"
     ]
+  },
+  {
+    "id": "studiodock-pro-booking-software",
+    "name": "StudioDock Pro",
+    "category": "Software & Business Tools",
+    "niche": "Booking software for creative studios",
+    "price": "subscription (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=studiodock",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "Booking and scheduling software built for creative studios to manage spaces, payments, and client bookings online.",
+    "best_for": "studio owners (photography, podcast, rehearsal, art studios) who want to stop managing bookings by hand",
+    "keywords": [
+      "studio booking software",
+      "creative studio scheduling tool",
+      "online booking for studios",
+      "studio space rental software"
+    ]
   }
 ]

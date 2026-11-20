@@ -1,25 +1,5 @@
 [
   {
-    "id": "studiodock-pro-booking-software",
-    "name": "StudioDock Pro",
-    "vendor": "studiodock",
-    "category": "Software & Business Tools",
-    "niche": "Booking software for creative studios",
-    "price": "subscription (official page)",
-    "summary": "Booking and scheduling software built for creative studios to manage spaces, payments, and client bookings online.",
-    "best_for": "studio owners (photography, podcast, rehearsal, art studios) who want to stop managing bookings by hand",
-    "keywords": [
-      "studio booking software",
-      "creative studio scheduling tool",
-      "online booking for studios",
-      "studio space rental software"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "cblinkapp-affiliate-network",
     "name": "CBLinkApp",
     "vendor": "cblinkapp",
