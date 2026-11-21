@@ -1,21 +1,101 @@
 [
   {
-    "id": "tara-lunar-soulmate-sketch",
-    "name": "Tara Lunar's Soulmate Sketch",
-    "vendor": "soulvoice",
+    "id": "madame-sorel-tarot-offer",
+    "name": "Madame Sorel Tarot Offer",
+    "vendor": "MONEYORA",
     "category": "Spirituality & Astrology",
-    "niche": "Astrology-based soulmate sketch reading",
+    "niche": "Astrology-based tarot and fortune reading",
     "price": "low-ticket (official page)",
-    "summary": "A personalized soulmate sketch and reading based on your birth details, delivered as digital artwork with a written report, for entertainment and reflection.",
-    "best_for": "people curious about astrology and personalized soulmate readings as fun, reflective entertainment",
+    "summary": "A personalized tarot and astrology-style reading delivered as a digital report, aimed at entertainment and self-reflection.",
+    "best_for": "people who enjoy astrology and tarot readings for fun and personal insight",
     "keywords": [
-      "soulmate sketch reading",
-      "astrology soulmate drawing",
-      "personalized soulmate sketch",
-      "who is my soulmate astrology"
+      "madame sorel tarot",
+      "online tarot reading",
+      "personalized fortune reading",
+      "astrology tarot combo reading"
     ],
     "clickbank_stats": {
-      "gravity": 35.1,
+      "gravity": 14.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "living-healthy-with-chocolate",
+    "name": "Living Healthy With Chocolate",
+    "vendor": "LHWCDRI",
+    "category": "Cooking, Food & Wine",
+    "niche": "Paleo and primal dessert cookbook",
+    "price": "low-ticket (official page)",
+    "summary": "A dessert cookbook of over 100 Paleo and primal-friendly recipes free of gluten, grains, peanuts, refined sugar, and soy.",
+    "best_for": "home cooks following a Paleo or primal diet who still want dessert options",
+    "keywords": [
+      "paleo dessert recipes",
+      "primal dessert cookbook",
+      "gluten free dessert recipes",
+      "healthy chocolate recipes"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "hidden-survival-food-farm-for-preppers",
+    "name": "Hidden Survival Food Farm for Preppers",
+    "vendor": "SRVFARM",
+    "category": "Survival & Preparedness",
+    "niche": "Backyard food forest and permaculture guide for preppers",
+    "price": "low-ticket (official page)",
+    "summary": "A permaculture-based guide to building a low-maintenance backyard food forest for long-term food self-sufficiency.",
+    "best_for": "homesteaders and preppers wanting a sustainable backyard food source",
+    "keywords": [
+      "backyard food forest guide",
+      "permaculture for preppers",
+      "self sufficient food garden",
+      "survival food farm"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.9,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "food-stockpiling-guide",
+    "name": "Hottest Market Trend: Food Stockpiling",
+    "vendor": "SRV0000",
+    "category": "Survival & Preparedness",
+    "niche": "Food stockpiling guide for emergency preparedness",
+    "price": "low-ticket (official page)",
+    "summary": "A practical guide to stockpiling food safely and efficiently for emergencies, power outages, and supply disruptions.",
+    "best_for": "households wanting a straightforward plan for building an emergency food supply",
+    "keywords": [
+      "food stockpiling guide",
+      "emergency food storage tips",
+      "how to stockpile food",
+      "prepper food supply plan"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.8,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "homesteading-for-preppers",
+    "name": "Homesteading for Preppers",
+    "vendor": "SHTFHOMEST",
+    "category": "Survival & Preparedness",
+    "niche": "Homesteading guide combining prepping and self-sufficiency skills",
+    "price": "low-ticket (official page)",
+    "summary": "A guide blending homesteading and prepping skills, covering practical self-sufficiency projects for the backyard.",
+    "best_for": "preppers and homesteaders wanting practical self-sufficiency projects",
+    "keywords": [
+      "homesteading for preppers",
+      "backyard homesteading guide",
+      "self sufficiency skills",
+      "prepper homestead projects"
+    ],
+    "clickbank_stats": {
+      "gravity": 0.2,
       "approval_required": false
     }
   }

@@ -10709,5 +10709,47 @@
       "affiliate marketing networking tool",
       "clickbank partner platform"
     ]
+  },
+  {
+    "id": "seraphina-vale-tarot-reading",
+    "name": "Seraphina Vale Tarot Reading",
+    "category": "Spirituality & Astrology",
+    "niche": "Personalized tarot card reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SERAPHTARO",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 17.6,
+      "approval_required": false
+    },
+    "summary": "A personalized tarot reading experience that interprets a custom card spread into a written report for reflection and entertainment.",
+    "best_for": "people interested in tarot and personalized card readings as a fun, reflective practice",
+    "keywords": [
+      "tarot reading online",
+      "personalized tarot card reading",
+      "online tarot card spread",
+      "tarot reading for guidance"
+    ]
+  },
+  {
+    "id": "malbec-keep-it-simple-ebook",
+    "name": "Malbec. Keep It Simple. Ebook",
+    "category": "Cooking, Food & Wine",
+    "niche": "Beginner-friendly wine guide focused on Malbec",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=EOFTHEWBV",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A short, plain-language ebook that teaches readers how to choose, serve, and talk about Malbec wine without the pretension.",
+    "best_for": "casual wine drinkers who want straightforward tips for picking and serving a good Malbec",
+    "keywords": [
+      "how to choose malbec wine",
+      "malbec wine guide",
+      "beginner wine guide ebook",
+      "how to serve malbec"
+    ]
   }
 ]
