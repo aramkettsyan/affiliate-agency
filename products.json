@@ -10751,5 +10751,47 @@
       "beginner wine guide ebook",
       "how to serve malbec"
     ]
+  },
+  {
+    "id": "madame-sorel-tarot-offer",
+    "name": "Madame Sorel Tarot Offer",
+    "category": "Spirituality & Astrology",
+    "niche": "Astrology-based tarot and fortune reading",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MONEYORA",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 14.7,
+      "approval_required": false
+    },
+    "summary": "A personalized tarot and astrology-style reading delivered as a digital report, aimed at entertainment and self-reflection.",
+    "best_for": "people who enjoy astrology and tarot readings for fun and personal insight",
+    "keywords": [
+      "madame sorel tarot",
+      "online tarot reading",
+      "personalized fortune reading",
+      "astrology tarot combo reading"
+    ]
+  },
+  {
+    "id": "living-healthy-with-chocolate",
+    "name": "Living Healthy With Chocolate",
+    "category": "Cooking, Food & Wine",
+    "niche": "Paleo and primal dessert cookbook",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=LHWCDRI",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 0.0,
+      "approval_required": false
+    },
+    "summary": "A dessert cookbook of over 100 Paleo and primal-friendly recipes free of gluten, grains, peanuts, refined sugar, and soy.",
+    "best_for": "home cooks following a Paleo or primal diet who still want dessert options",
+    "keywords": [
+      "paleo dessert recipes",
+      "primal dessert cookbook",
+      "gluten free dessert recipes",
+      "healthy chocolate recipes"
+    ]
   }
 ]

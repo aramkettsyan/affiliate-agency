@@ -1,45 +1,5 @@
 [
   {
-    "id": "madame-sorel-tarot-offer",
-    "name": "Madame Sorel Tarot Offer",
-    "vendor": "MONEYORA",
-    "category": "Spirituality & Astrology",
-    "niche": "Astrology-based tarot and fortune reading",
-    "price": "low-ticket (official page)",
-    "summary": "A personalized tarot and astrology-style reading delivered as a digital report, aimed at entertainment and self-reflection.",
-    "best_for": "people who enjoy astrology and tarot readings for fun and personal insight",
-    "keywords": [
-      "madame sorel tarot",
-      "online tarot reading",
-      "personalized fortune reading",
-      "astrology tarot combo reading"
-    ],
-    "clickbank_stats": {
-      "gravity": 14.7,
-      "approval_required": false
-    }
-  },
-  {
-    "id": "living-healthy-with-chocolate",
-    "name": "Living Healthy With Chocolate",
-    "vendor": "LHWCDRI",
-    "category": "Cooking, Food & Wine",
-    "niche": "Paleo and primal dessert cookbook",
-    "price": "low-ticket (official page)",
-    "summary": "A dessert cookbook of over 100 Paleo and primal-friendly recipes free of gluten, grains, peanuts, refined sugar, and soy.",
-    "best_for": "home cooks following a Paleo or primal diet who still want dessert options",
-    "keywords": [
-      "paleo dessert recipes",
-      "primal dessert cookbook",
-      "gluten free dessert recipes",
-      "healthy chocolate recipes"
-    ],
-    "clickbank_stats": {
-      "gravity": 0.0,
-      "approval_required": false
-    }
-  },
-  {
     "id": "hidden-survival-food-farm-for-preppers",
     "name": "Hidden Survival Food Farm for Preppers",
     "vendor": "SRVFARM",
