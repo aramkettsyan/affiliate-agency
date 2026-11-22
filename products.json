@@ -10793,5 +10793,68 @@
       "gluten free dessert recipes",
       "healthy chocolate recipes"
     ]
+  },
+  {
+    "id": "saint-anthonys-miracle-prayer",
+    "name": "Saint Anthony's Miracle Prayer",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Christian prayer and devotional offer",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=SAMIRACLE",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 3.5,
+      "approval_required": false
+    },
+    "summary": "A Christian devotional offer built around a prayer attributed to Saint Anthony, aimed at readers seeking faith-based guidance.",
+    "best_for": "readers with a Christian faith background looking for devotional or prayer-based content",
+    "keywords": [
+      "saint anthony prayer guide",
+      "christian devotional prayer offer",
+      "miracle prayer for guidance",
+      "catholic prayer devotional"
+    ]
+  },
+  {
+    "id": "mystery-school-code-loa",
+    "name": "Mystery School Code",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Law of attraction program inspired by ancient Egyptian mystery schools",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=MYSTERYSCH",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 7.2,
+      "approval_required": false
+    },
+    "summary": "A law-of-attraction and manifestation program framed around teachings attributed to the ancient Egyptian mystery schools.",
+    "best_for": "personal-development readers drawn to manifestation and law-of-attraction material with a historical/mystical framing",
+    "keywords": [
+      "mystery school code program",
+      "ancient egyptian manifestation teachings",
+      "law of attraction program",
+      "egyptian mystery school law of attraction"
+    ]
+  },
+  {
+    "id": "celestial-intervention",
+    "name": "Celestial Intervention",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Faith-based personal development and spiritual guidance program",
+    "price": "low-ticket (official page)",
+    "affiliate_url": "https://hop.clickbank.net/?affiliate=aram094&vendor=001CONNECT",
+    "rating": "N/A",
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    },
+    "summary": "A faith-based personal development program framed around spiritual guidance and divine intervention themes.",
+    "best_for": "readers seeking faith-based personal development and spiritual guidance content",
+    "keywords": [
+      "faith based personal development",
+      "spiritual guidance program",
+      "christian personal development offer",
+      "divine intervention guide"
+    ]
   }
 ]
