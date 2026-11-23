@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "miracle-money-magnets",
+    "name": "Miracle Money Magnets",
+    "vendor": "MIRMONMAG",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Wealth manifestation audio program built around personal development and law-of-attraction themes",
+    "price": "low-ticket (official page)",
+    "summary": "An audio-based wealth manifestation program aimed at personal-development and law-of-attraction audiences, framed as a mindset tool for abundance.",
+    "best_for": "readers already into manifestation and law-of-attraction content who want an audio-based money-mindset routine",
+    "keywords": [
+      "miracle money magnets review",
+      "wealth manifestation audio program",
+      "money mindset law of attraction",
+      "abundance audio program"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "the-amazing-you-2020",
+    "name": "The Amazing You",
+    "vendor": "AMAZEYOU2",
+    "category": "Self-Help",
+    "niche": "Personal development and transformation program co-created with a psychologist",
+    "price": "low-ticket (official page)",
+    "summary": "A personal-development and transformation program positioned around psychology-backed exercises for building confidence and navigating change.",
+    "best_for": "readers looking for a structured, psychology-informed personal development program during a period of change",
+    "keywords": [
+      "the amazing you review",
+      "personal development transformation program",
+      "psychology based self help course",
+      "mindset and change program"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.0,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "tara-lunars-soulmate-sketch",
+    "name": "Tara Lunar's Soulmate Sketch",
+    "vendor": "SOULVOICE",
+    "category": "Spirituality, New Age & Alternative Beliefs",
+    "niche": "Astrology-based soulmate sketch and reading funnel",
+    "price": "low-ticket (official page)",
+    "summary": "A quiz-led soulmate sketch and reading service that pairs a personalized illustration with an astrology-flavored relationship reading, aimed at entertainment and self-reflection.",
+    "best_for": "people curious about soulmate sketch readings who enjoy astrology-themed relationship entertainment",
+    "keywords": [
+      "tara lunar soulmate sketch review",
+      "soulmate sketch reading",
+      "personalized astrology soulmate drawing",
+      "online soulmate sketch quiz"
+    ],
+    "clickbank_stats": {
+      "gravity": 34.5,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "emp-protocol-guide",
+    "name": "EMP Protocol",
+    "vendor": "EMPPROT",
+    "category": "Self-Help",
+    "niche": "Grid-down and EMP preparedness guide",
+    "price": "low-ticket (official page)",
+    "summary": "A digital preparedness guide focused on protecting household electronics and power sources from an EMP or extended grid-down event.",
+    "best_for": "preparedness-minded homeowners who want a focused reference on protecting electronics and power during a grid-down scenario",
+    "keywords": [
+      "emp protocol review",
+      "emp preparedness guide",
+      "grid down protection guide",
+      "protect electronics from emp"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.7,
+      "approval_required": false
+    }
+  },
+  {
+    "id": "my-survival-farm",
+    "name": "My Survival Farm",
+    "vendor": "SRVFARM",
+    "category": "Self-Help",
+    "niche": "Backyard food self-sufficiency and permaculture guide for preppers",
+    "price": "low-ticket (official page)",
+    "summary": "A backyard food self-sufficiency guide showing a compact permaculture-style setup for growing a sustainable food supply at home.",
+    "best_for": "homesteaders and preppers who want a compact, low-maintenance way to grow more of their own food",
+    "keywords": [
+      "my survival farm review",
+      "backyard food self sufficiency guide",
+      "permaculture prepper garden",
+      "grow your own food survival"
+    ],
+    "clickbank_stats": {
+      "gravity": 1.9,
+      "approval_required": false
+    }
+  }
+]
