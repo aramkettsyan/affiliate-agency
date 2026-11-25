@@ -3835,5 +3835,40 @@
         "a": "Small amounts of plain, dog-safe food can go in the dog's own bowl after the meal, never from the table. Avoid onions, garlic, grapes, raisins, chocolate, xylitol, macadamia nuts, alcohol, yeast dough, cooked bones and fatty scraps, and ask your vet if your dog is on a special diet."
       }
     ]
+  },
+  {
+    "id": "how-to-keep-pipes-from-freezing-during-power-outage",
+    "title": "How to Keep Pipes From Freezing During a Power Outage (No Heat)",
+    "summary": "What still works when the heat is off, why dripping faucets may not help on a well, and how to drain your pipes safely without electricity.",
+    "keywords": [
+      "how to keep pipes from freezing during power outage",
+      "how to drain pipes without power",
+      "do faucets need to drip if power is out",
+      "how long before pipes freeze without heat"
+    ],
+    "related_product_id": "the-resilient-home",
+    "also_link_from": [
+      "how-to-keep-one-room-warm-during-power-outage",
+      "why-is-my-furnace-blowing-cold-air",
+      "how-long-does-food-last-in-fridge-during-power-outage",
+      "how-long-can-you-store-water-for-emergencies",
+      "dark-reset-survival-guide",
+      "the-resilient-home-plan"
+    ],
+    "date": "2026-11-25",
+    "faqs": [
+      {
+        "q": "How long does it take pipes to freeze without power?",
+        "a": "It depends on outdoor temperature, wind, insulation and where the pipes run. Some published estimates are as short as six hours in below-freezing weather, but pipes in crawl spaces or outside walls can freeze sooner and interior pipes later. A thermometer near the coldest pipes is the best guide."
+      },
+      {
+        "q": "Should I drip my faucets if the power is out?",
+        "a": "On city water that still has pressure, a steady trickle from faucets served by exposed pipes can help, unless your utility asks you not to. On a private well the pump stops without electricity, so draining the pipes is usually the better choice."
+      },
+      {
+        "q": "Is it better to drain the pipes or let them drip?",
+        "a": "Dripping is reasonable for a short outage on city water. If the house is heading below freezing, you are leaving, or the outage may last through a very cold night, shutting off the main and draining the pipes is more reliable. Make the water heater safe first."
+      }
+    ]
   }
 ]
