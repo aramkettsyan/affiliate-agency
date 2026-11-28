@@ -3936,5 +3936,37 @@
         "a": "A sharp blade made for plywood or fine finish cuts with a high tooth count (often 40 to 60 or more teeth on a 7-1/4 inch saw). The stock 24-tooth framing blade takes big bites and tears thin veneer."
       }
     ]
+  },
+  {
+    "id": "why-does-my-car-battery-die-in-cold-weather",
+    "title": "Why Does My Car Battery Die in Cold Weather? (Causes and How to Prevent It)",
+    "summary": "Why cold mornings expose weak car batteries, how to tell a flat battery from a failing one, and simple habits that stop your battery dying in winter.",
+    "keywords": [
+      "why does my car battery die in cold weather",
+      "car battery dies in winter",
+      "how to keep car battery from dying in cold",
+      "car won't start in cold weather battery"
+    ],
+    "related_product_id": "ez-battery-reconditioning",
+    "also_link_from": [
+      "how-to-recondition-car-battery-wont-hold-charge",
+      "how-to-keep-one-room-warm-during-power-outage",
+      "how-to-keep-pipes-from-freezing-during-power-outage"
+    ],
+    "date": "2026-11-28",
+    "faqs": [
+      {
+        "q": "Why does my car battery die when it gets cold?",
+        "a": "Cold slows the chemical reaction inside a lead-acid battery so it delivers less current, while thickened engine oil makes the engine harder to crank. A battery that was already old, undercharged or corroded no longer has enough reserve to start the car."
+      },
+      {
+        "q": "Can a car battery freeze?",
+        "a": "Yes. A fully charged battery is very resistant to freezing, but a deeply discharged one can freeze in hard frost and the case can crack. Never charge or jump a battery that looks frozen, swollen or cracked."
+      },
+      {
+        "q": "How do I keep my car battery from dying in winter?",
+        "a": "Have it load-tested before winter, clean and tighten the terminals, switch off accessories before shutting down, take longer drives instead of many short ones, and use a smart battery maintainer if the car sits for days."
+      }
+    ]
   }
 ]
